@@ -4,6 +4,10 @@
 <dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>3D7C20C2-9735-4AE4-B4D3-DDFDA9BF3443</string>
+	<key>com.schriftgestaltung.glyphOrder</key>
+	<array>
+		<string>dotlessbeh-ar</string>
+	</array>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<integer>1</integer>
 	<key>com.schriftgestaltung.weightValue</key>
@@ -11,6 +15,7 @@
 	<key>public.glyphOrder</key>
 	<array>
 		<string>dotlessbeh-ar</string>
+		<string>noonghunna-ar</string>
 	</array>
 </dict>
 </plist>
