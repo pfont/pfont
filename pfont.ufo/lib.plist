@@ -6,6 +6,8 @@
 	<string>3D7C20C2-9735-4AE4-B4D3-DDFDA9BF3443</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<integer>1</integer>
+	<key>com.schriftgestaltung.weightValue</key>
+	<integer>300</integer>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>dotlessbeh-ar</string>

@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>800</integer>
+	<integer>776</integer>
 	<key>capHeight</key>
-	<integer>700</integer>
+	<integer>693</integer>
 	<key>copyright</key>
 	<string>OFL</string>
 	<key>descender</key>
-	<integer>-200</integer>
+	<integer>-185</integer>
 	<key>familyName</key>
 	<string>pfont</string>
 	<key>openTypeHeadCreated</key>
@@ -41,6 +41,6 @@
 	<key>versionMinor</key>
 	<integer>0</integer>
 	<key>xHeight</key>
-	<integer>500</integer>
+	<integer>517</integer>
 </dict>
 </plist>
