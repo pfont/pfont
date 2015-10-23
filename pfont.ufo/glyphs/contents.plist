@@ -22,6 +22,8 @@
 	<string>noonghunna-ar.glif</string>
 	<key>reh-ar</key>
 	<string>reh-ar.glif</string>
+	<key>seen-ar.init</key>
+	<string>seen-ar.init.glif</string>
 	<key>temp</key>
 	<string>temp.glif</string>
 </dict>
