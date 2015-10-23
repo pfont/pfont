@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>dotcenter-ar</key>
+	<string>dotcenter-ar.glif</string>
 	<key>dotlessbeh-ar</key>
 	<string>dotlessbeh-ar.glif</string>
 	<key>noonghunna-ar</key>
