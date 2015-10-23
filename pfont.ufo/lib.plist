@@ -8,6 +8,7 @@
 	<integer>1</integer>
 	<key>public.glyphOrder</key>
 	<array>
+		<string>dotlessbeh-ar</string>
 	</array>
 </dict>
 </plist>
