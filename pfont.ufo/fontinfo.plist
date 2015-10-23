@@ -6,14 +6,18 @@
 	<integer>800</integer>
 	<key>capHeight</key>
 	<integer>700</integer>
+	<key>copyright</key>
+	<string>OFL</string>
 	<key>descender</key>
 	<integer>-200</integer>
 	<key>familyName</key>
-	<string>new Font</string>
+	<string>pfont</string>
 	<key>openTypeHeadCreated</key>
 	<string>2015/10/23 09:49:02</string>
+	<key>openTypeNameDesigner</key>
+	<string>Damoon Khanjanzade</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>new Font</string>
+	<string>pfont</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeOS2WeightClass</key>
@@ -33,7 +37,7 @@
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>versionMinor</key>
 	<integer>0</integer>
 	<key>xHeight</key>
