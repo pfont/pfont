@@ -15,6 +15,7 @@
 	<key>public.glyphOrder</key>
 	<array>
 		<string>dotlessbeh-ar</string>
+		<string>alef-ar</string>
 		<string>dal-ar</string>
 		<string>reh-ar</string>
 		<string>seen-ar</string>

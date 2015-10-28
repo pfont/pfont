@@ -4,6 +4,8 @@
 <dict>
 	<key>ain-ar.init</key>
 	<string>ain-ar.init.glif</string>
+	<key>alef-ar</key>
+	<string>alef-ar.glif</string>
 	<key>dal-ar</key>
 	<string>dal-ar.glif</string>
 	<key>dotcenter-ar</key>
