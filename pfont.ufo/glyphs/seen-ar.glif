@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seen-ar" format="1">
-  <advance width="600"/>
+  <advance width="994"/>
   <unicode hex="0633"/>
   <outline>
     <contour>
-      <point x="512" y="65"/>
-      <point x="604" y="74"/>
-      <point x="657" y="87" type="curve"/>
-      <point x="678" y="245" type="line"/>
-      <point x="728" y="241" type="line"/>
-      <point x="716" y="83" type="line"/>
-      <point x="876" y="71" type="line"/>
-      <point x="803" y="280" type="line"/>
-      <point x="861" y="344" type="line"/>
-      <point x="861" y="344"/>
-      <point x="918" y="195"/>
-      <point x="918" y="123" type="curve" smooth="yes"/>
-      <point x="918" y="85"/>
-      <point x="901" y="31"/>
-      <point x="885" y="-2" type="curve"/>
-      <point x="804" y="-2"/>
-      <point x="733" y="-2"/>
-      <point x="673" y="27" type="curve"/>
-      <point x="603" y="-10"/>
-      <point x="475" y="-14"/>
-      <point x="414" y="39" type="curve"/>
-      <point x="440" y="91" type="line"/>
+      <point x="550" y="65"/>
+      <point x="642" y="74"/>
+      <point x="695" y="87" type="curve"/>
+      <point x="716" y="245" type="line"/>
+      <point x="766" y="241" type="line"/>
+      <point x="754" y="83" type="line"/>
+      <point x="914" y="71" type="line"/>
+      <point x="841" y="280" type="line"/>
+      <point x="899" y="344" type="line"/>
+      <point x="899" y="344"/>
+      <point x="956" y="195"/>
+      <point x="956" y="123" type="curve" smooth="yes"/>
+      <point x="956" y="85"/>
+      <point x="939" y="31"/>
+      <point x="923" y="-2" type="curve"/>
+      <point x="842" y="-2"/>
+      <point x="771" y="-2"/>
+      <point x="711" y="27" type="curve"/>
+      <point x="641" y="-10"/>
+      <point x="513" y="-14"/>
+      <point x="452" y="39" type="curve"/>
+      <point x="478" y="91" type="line"/>
     </contour>
-    <component base="noonghunna-ar"/>
+    <component base="noonghunna-ar" xOffset="38"/>
   </outline>
 </glyph>
