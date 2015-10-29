@@ -34,5 +34,7 @@
 	<string>seen-ar.init.glif</string>
 	<key>temp</key>
 	<string>temp.glif</string>
+	<key>yeh-farsi</key>
+	<string>yeh-farsi.glif</string>
 </dict>
 </plist>
