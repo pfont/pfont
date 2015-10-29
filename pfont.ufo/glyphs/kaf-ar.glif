@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaf-ar" format="1">
+  <advance width="600"/>
+  <unicode hex="0643"/>
+  <outline>
+    <contour>
+      <point x="319" y="-24"/>
+      <point x="159" y="-34"/>
+      <point x="3" y="-6" type="curve"/>
+      <point x="7" y="84" type="line"/>
+      <point x="145" y="52"/>
+      <point x="305" y="61"/>
+      <point x="443" y="87" type="curve"/>
+      <point x="417" y="473" type="line"/>
+      <point x="386" y="545" type="line"/>
+      <point x="484" y="627" type="line"/>
+      <point x="492" y="150" type="line" smooth="yes"/>
+      <point x="493" y="106"/>
+      <point x="476" y="54"/>
+      <point x="450" y="11" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
