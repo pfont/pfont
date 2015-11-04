@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotcenter-ar" format="1">
-  <advance width="600"/>
+  <advance width="1229"/>
   <outline>
     <contour>
-      <point x="186" y="198" type="line"/>
-      <point x="114" y="264" type="line"/>
-      <point x="184" y="337" type="line"/>
-      <point x="251" y="272" type="line"/>
+      <point x="381" y="406" type="line"/>
+      <point x="233" y="541" type="line"/>
+      <point x="377" y="690" type="line"/>
+      <point x="514" y="557" type="line"/>
     </contour>
   </outline>
 </glyph>

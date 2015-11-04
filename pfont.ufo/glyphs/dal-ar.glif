@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dal-ar" format="1">
-  <advance width="600"/>
+  <advance width="1229"/>
   <unicode hex="062F"/>
   <outline>
     <contour>
-      <point x="282" y="268" type="line" smooth="yes"/>
-      <point x="348" y="173"/>
-      <point x="350" y="108"/>
-      <point x="337" y="37" type="curve"/>
-      <point x="296" y="10"/>
-      <point x="204" y="-21"/>
-      <point x="114" y="-21" type="curve" smooth="yes"/>
-      <point x="-13" y="-21"/>
-      <point x="-4" y="50"/>
-      <point x="3" y="133" type="curve"/>
-      <point x="50" y="133" type="line"/>
-      <point x="50" y="71" type="line"/>
-      <point x="125" y="40"/>
-      <point x="229" y="64"/>
-      <point x="298" y="91" type="curve"/>
-      <point x="292" y="123"/>
-      <point x="277" y="152"/>
-      <point x="149" y="329" type="curve"/>
-      <point x="195" y="399" type="line"/>
+      <point x="578" y="549" type="line" smooth="yes"/>
+      <point x="713" y="354"/>
+      <point x="717" y="221"/>
+      <point x="690" y="76" type="curve"/>
+      <point x="606" y="20"/>
+      <point x="418" y="-43"/>
+      <point x="233" y="-43" type="curve" smooth="yes"/>
+      <point x="-27" y="-43"/>
+      <point x="-8" y="102"/>
+      <point x="6" y="272" type="curve"/>
+      <point x="102" y="272" type="line"/>
+      <point x="102" y="145" type="line"/>
+      <point x="256" y="82"/>
+      <point x="469" y="131"/>
+      <point x="610" y="186" type="curve"/>
+      <point x="598" y="252"/>
+      <point x="567" y="311"/>
+      <point x="305" y="674" type="curve"/>
+      <point x="399" y="817" type="line"/>
     </contour>
   </outline>
 </glyph>
