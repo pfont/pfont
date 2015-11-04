@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>1589</integer>
+	<integer>2189</integer>
 	<key>capHeight</key>
-	<integer>1419</integer>
+	<integer>0</integer>
 	<key>copyright</key>
 	<string>OFL</string>
 	<key>descender</key>
-	<integer>-379</integer>
+	<integer>-1298</integer>
 	<key>familyName</key>
 	<string>pfont</string>
 	<key>openTypeHeadCreated</key>
-	<string>2637/01/13 09:49:02</string>
+	<string>2015/10/23 10:56:41</string>
 	<key>openTypeNameDesigner</key>
 	<string>Damoon Khanjanzade</string>
 	<key>openTypeNamePreferredFamilyName</key>
@@ -41,6 +41,6 @@
 	<key>versionMinor</key>
 	<integer>0</integer>
 	<key>xHeight</key>
-	<integer>1059</integer>
+	<integer>0</integer>
 </dict>
 </plist>
