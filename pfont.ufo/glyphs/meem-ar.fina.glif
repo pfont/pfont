@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="meem-ar.fina" format="1">
+  <advance width="1088"/>
+  <unicode hex="FEE2"/>
+  <outline>
+    <contour>
+      <point x="282" y="-629" type="line"/>
+      <point x="145" y="-688" type="line"/>
+      <point x="101" y="95" type="line" smooth="yes"/>
+      <point x="87" y="341"/>
+      <point x="209" y="442"/>
+      <point x="378" y="488" type="curve" smooth="yes"/>
+      <point x="704" y="577" type="line"/>
+      <point x="811" y="366"/>
+      <point x="893" y="156"/>
+      <point x="1088" y="156" type="curve" smooth="yes"/>
+      <point x="1100" y="156"/>
+      <point x="1106" y="150"/>
+      <point x="1106" y="138" type="curve" smooth="yes"/>
+      <point x="1106" y="18" type="line" smooth="yes"/>
+      <point x="1106" y="6"/>
+      <point x="1100" y="0"/>
+      <point x="1088" y="0" type="curve" smooth="yes"/>
+      <point x="994" y="0"/>
+      <point x="918" y="22"/>
+      <point x="850" y="98" type="curve"/>
+      <point x="669" y="-164" type="line"/>
+      <point x="402" y="-164"/>
+      <point x="320" y="94"/>
+      <point x="333" y="310" type="curve"/>
+      <point x="201" y="266" type="line"/>
+    </contour>
+    <contour>
+      <point x="430" y="345" type="line"/>
+      <point x="408" y="90"/>
+      <point x="569" y="-1"/>
+      <point x="682" y="-1" type="curve"/>
+      <point x="774" y="182" type="line"/>
+      <point x="721" y="248"/>
+      <point x="687" y="310"/>
+      <point x="648" y="404" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
