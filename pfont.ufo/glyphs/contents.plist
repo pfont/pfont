@@ -70,6 +70,8 @@
 	<string>temp.glif</string>
 	<key>waw-ar</key>
 	<string>waw-ar.glif</string>
+	<key>waw-ar.fina</key>
+	<string>waw-ar.fina.glif</string>
 	<key>yeh-farsi</key>
 	<string>yeh-farsi.glif</string>
 </dict>
