@@ -38,6 +38,8 @@
 	<string>sad-ar.glif</string>
 	<key>seen-ar</key>
 	<string>seen-ar.glif</string>
+	<key>seen-ar.fina</key>
+	<string>seen-ar.fina.glif</string>
 	<key>seen-ar.init</key>
 	<string>seen-ar.init.glif</string>
 	<key>temp</key>
