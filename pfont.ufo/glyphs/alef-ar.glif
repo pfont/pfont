@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alef-ar" format="1">
-  <advance width="377"/>
+  <advance width="406"/>
   <unicode hex="0627"/>
   <outline>
     <contour>
-      <point x="184" y="-2" type="line"/>
-      <point x="139" y="965" type="line"/>
-      <point x="78" y="1112" type="line"/>
-      <point x="279" y="1280" type="line"/>
-      <point x="299" y="31" type="line"/>
+      <point x="153" y="-36" type="line"/>
+      <point x="100" y="1276" type="line"/>
+      <point x="241" y="1356" type="line"/>
+      <point x="306" y="1050" type="line"/>
+      <point x="244" y="1047" type="line"/>
+      <point x="258" y="-7" type="line"/>
     </contour>
   </outline>
 </glyph>
