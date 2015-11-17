@@ -4,10 +4,10 @@
   <unicode hex="FEAE"/>
   <outline>
     <contour>
-      <point x="930" y="0"/>
-      <point x="880" y="6"/>
-      <point x="822" y="52" type="curve"/>
-      <point x="787" y="-133"/>
+      <point x="929" y="0"/>
+      <point x="898" y="15"/>
+      <point x="840" y="61" type="curve"/>
+      <point x="785" y="-124"/>
       <point x="668" y="-308"/>
       <point x="516" y="-379" type="curve" smooth="yes"/>
       <point x="359" y="-452"/>
@@ -20,20 +20,16 @@
       <point x="671" y="551" type="line"/>
       <point x="812" y="626" type="line"/>
       <point x="853" y="198" type="line"/>
-      <point x="894" y="163"/>
-      <point x="999" y="156"/>
-      <point x="1061" y="156" type="curve" smooth="yes"/>
-      <point x="1109" y="156" type="line"/>
+      <point x="894" y="166"/>
+      <point x="1039" y="156"/>
+      <point x="1109" y="156" type="curve" smooth="yes"/>
       <point x="1121" y="156"/>
-      <point x="1127" y="149"/>
-      <point x="1127" y="138" type="curve"/>
-      <point x="1127" y="18" type="line"/>
+      <point x="1127" y="150"/>
+      <point x="1127" y="138" type="curve" smooth="yes"/>
+      <point x="1127" y="18" type="line" smooth="yes"/>
       <point x="1127" y="6"/>
       <point x="1121" y="0"/>
-      <point x="1109" y="0" type="curve"/>
-    </contour>
-    <contour>
-      <point x="930" y="-1" type="move"/>
+      <point x="1109" y="0" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>
