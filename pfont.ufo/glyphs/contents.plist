@@ -32,6 +32,8 @@
 	<string>dotlessfeh-ar.medi.glif</string>
 	<key>dotlessqaf-ar</key>
 	<string>dotlessqaf-ar.glif</string>
+	<key>dotlessqaf-ar.fina</key>
+	<string>dotlessqaf-ar.fina.glif</string>
 	<key>gaf-ar</key>
 	<string>gaf-ar.glif</string>
 	<key>gaf-ar.fina</key>
@@ -80,8 +82,6 @@
 	<string>noonghunna-ar.glif</string>
 	<key>noonghunna-ar.fina</key>
 	<string>noonghunna-ar.fina.glif</string>
-	<key>qaf-ar.fina</key>
-	<string>qaf-ar.fina.glif</string>
 	<key>reh-ar</key>
 	<string>reh-ar.glif</string>
 	<key>reh-ar.fina</key>

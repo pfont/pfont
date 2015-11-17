@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="qaf-ar.fina" format="1">
+<glyph name="dotlessqaf-ar.fina" format="1">
   <advance width="1355"/>
-  <unicode hex="FED6"/>
   <outline>
     <contour>
       <point x="483" y="-461" type="curve" smooth="yes"/>
