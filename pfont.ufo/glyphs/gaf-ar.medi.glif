@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gaf-ar.medi" format="1">
+  <advance width="832"/>
+  <unicode hex="FB95"/>
+  <outline>
+    <contour>
+      <point x="147" y="1081" type="line"/>
+      <point x="193" y="1187" type="line"/>
+      <point x="581" y="1268" type="line"/>
+      <point x="554" y="1169" type="line"/>
+    </contour>
+    <component base="kaf-ar.medi"/>
+  </outline>
+</glyph>
