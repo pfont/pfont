@@ -44,6 +44,8 @@
 	<string>kaf-ar.glif</string>
 	<key>kaf-ar.init</key>
 	<string>kaf-ar.init.glif</string>
+	<key>kaf-ar.medi</key>
+	<string>kaf-ar.medi.glif</string>
 	<key>keheh-ar</key>
 	<string>keheh-ar.glif</string>
 	<key>keheh-ar.fina</key>
