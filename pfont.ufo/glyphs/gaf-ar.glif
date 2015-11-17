@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gaf-ar" format="1">
+  <advance width="1509"/>
+  <unicode hex="06AF"/>
+  <outline>
+    <contour>
+      <point x="852" y="1114" type="line"/>
+      <point x="898" y="1220" type="line"/>
+      <point x="1286" y="1301" type="line"/>
+      <point x="1259" y="1202" type="line"/>
+    </contour>
+    <component base="keheh-ar"/>
+  </outline>
+</glyph>
