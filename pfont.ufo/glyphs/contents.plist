@@ -110,5 +110,7 @@
 	<string>waw-ar.fina.glif</string>
 	<key>yeh-farsi</key>
 	<string>yeh-farsi.glif</string>
+	<key>yeh-farsi.fina</key>
+	<string>yeh-farsi.fina.glif</string>
 </dict>
 </plist>
