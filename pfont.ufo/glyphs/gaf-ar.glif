@@ -10,9 +10,6 @@
       <point x="1299" y="1222" type="line"/>
     </contour>
     <contour>
-      <point x="1446" y="412" type="move"/>
-    </contour>
-    <contour>
       <point x="1317" y="272"/>
       <point x="1285" y="166"/>
       <point x="1253" y="98" type="curve"/>
