@@ -68,6 +68,8 @@
 	<string>lam-ar.glif</string>
 	<key>lam-ar.fina</key>
 	<string>lam-ar.fina.glif</string>
+	<key>lam-ar.init</key>
+	<string>lam-ar.init.glif</string>
 	<key>lam_alef-ar</key>
 	<string>lam_alef-ar.glif</string>
 	<key>lam_alef-ar.fina</key>
