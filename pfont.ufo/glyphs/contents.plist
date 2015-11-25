@@ -120,6 +120,8 @@
 	<string>seen-ar.medi.glif</string>
 	<key>tah-ar</key>
 	<string>tah-ar.glif</string>
+	<key>tah-ar.init</key>
+	<string>tah-ar.init.glif</string>
 	<key>temp</key>
 	<string>temp.glif</string>
 	<key>waw-ar</key>
