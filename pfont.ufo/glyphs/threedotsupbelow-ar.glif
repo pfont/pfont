@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threedotsupbelow-ar" format="1">
+  <advance width="713"/>
+  <unicode hex="FBB7"/>
+  <outline>
+    <contour>
+      <point x="100" y="-374" type="line"/>
+      <point x="219" y="-241" type="line"/>
+      <point x="355" y="-351" type="line"/>
+      <point x="465" y="-231" type="line"/>
+      <point x="613" y="-347" type="line"/>
+      <point x="497" y="-477" type="line"/>
+      <point x="352" y="-370" type="line"/>
+      <point x="244" y="-488" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="-181" type="line"/>
+      <point x="335" y="-49" type="line"/>
+      <point x="477" y="-159" type="line"/>
+      <point x="355" y="-290" type="line"/>
+    </contour>
+  </outline>
+</glyph>
