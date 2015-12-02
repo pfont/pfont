@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six-ar" format="1">
+  <advance width="916"/>
+  <unicode hex="0666"/>
+  <outline>
+    <contour>
+      <point x="707" y="983" type="line"/>
+      <point x="665" y="674"/>
+      <point x="686" y="384"/>
+      <point x="816" y="116" type="curve"/>
+      <point x="685" y="0" type="line"/>
+      <point x="562" y="312"/>
+      <point x="569" y="591"/>
+      <point x="611" y="954" type="curve"/>
+      <point x="474" y="936"/>
+      <point x="228" y="931"/>
+      <point x="100" y="971" type="curve"/>
+      <point x="106" y="1160" type="line"/>
+      <point x="258" y="1111"/>
+      <point x="511" y="1115"/>
+      <point x="668" y="1130" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
