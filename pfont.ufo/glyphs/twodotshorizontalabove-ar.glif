@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twodotshorizontalabove-ar" format="1">
+  <advance width="772"/>
+  <unicode hex="FBB4"/>
+  <outline>
+    <contour>
+      <point x="100" y="789" type="line"/>
+      <point x="237" y="941" type="line"/>
+      <point x="393" y="815" type="line"/>
+      <point x="520" y="953" type="line"/>
+      <point x="672" y="834" type="line"/>
+      <point x="533" y="684" type="line"/>
+      <point x="390" y="793" type="line"/>
+      <point x="264" y="657" type="line"/>
+    </contour>
+  </outline>
+</glyph>
