@@ -146,6 +146,8 @@
 	<string>six-ar.glif</string>
 	<key>six-persian</key>
 	<string>six-persian.glif</string>
+	<key>space</key>
+	<string>space.glif</string>
 	<key>tah-ar</key>
 	<string>tah-ar.glif</string>
 	<key>tah-ar.fina</key>
