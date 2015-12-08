@@ -60,5 +60,11 @@
       <point x="114" y="33" type="curve" smooth="yes"/>
       <point x="154" y="233" type="line"/>
     </contour>
+    <contour>
+      <point x="1596" y="798" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="491" y="-861" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>
