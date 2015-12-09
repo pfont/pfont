@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kaf-ar" format="1">
-  <advance width="1204"/>
+  <advance width="1161"/>
   <unicode hex="0643"/>
   <outline>
     <contour>
-      <point x="1018" y="24" type="curve"/>
-      <point x="749" y="-47"/>
-      <point x="421" y="-69"/>
-      <point x="100" y="-12" type="curve"/>
-      <point x="110" y="174" type="line"/>
-      <point x="391" y="107"/>
-      <point x="720" y="126"/>
-      <point x="1003" y="180" type="curve"/>
-      <point x="949" y="972" type="line"/>
-      <point x="886" y="1119" type="line"/>
-      <point x="1088" y="1286" type="line"/>
-      <point x="1104" y="308" type="line" smooth="yes"/>
-      <point x="1105" y="218"/>
-      <point x="1070" y="111"/>
+      <point x="953" y="24" type="curve"/>
+      <point x="684" y="-47"/>
+      <point x="356" y="-69"/>
+      <point x="35" y="-12" type="curve"/>
+      <point x="45" y="174" type="line"/>
+      <point x="326" y="107"/>
+      <point x="655" y="126"/>
+      <point x="938" y="180" type="curve"/>
+      <point x="884" y="972" type="line"/>
+      <point x="821" y="1119" type="line"/>
+      <point x="1023" y="1286" type="line"/>
+      <point x="1039" y="308" type="line" smooth="yes"/>
+      <point x="1040" y="218"/>
+      <point x="1005" y="111"/>
     </contour>
   </outline>
 </glyph>
