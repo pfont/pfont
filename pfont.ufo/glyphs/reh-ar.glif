@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="reh-ar" format="1">
-  <advance width="932"/>
+  <advance width="766"/>
   <unicode hex="0631"/>
   <outline>
     <contour>
-      <point x="129" y="-269" type="line"/>
-      <point x="480" y="-324"/>
-      <point x="602" y="-151"/>
-      <point x="751" y="100" type="curve"/>
-      <point x="546" y="566" type="line"/>
-      <point x="673" y="702" type="line"/>
-      <point x="740" y="549"/>
-      <point x="847" y="265"/>
-      <point x="830" y="110" type="curve"/>
-      <point x="811" y="-96"/>
-      <point x="684" y="-301"/>
-      <point x="516" y="-379" type="curve" smooth="yes"/>
-      <point x="359" y="-452"/>
-      <point x="100" y="-367"/>
-      <point x="100" y="-367" type="curve"/>
+      <point x="-41" y="-269" type="line"/>
+      <point x="310" y="-324"/>
+      <point x="432" y="-151"/>
+      <point x="581" y="100" type="curve"/>
+      <point x="376" y="566" type="line"/>
+      <point x="503" y="702" type="line"/>
+      <point x="570" y="549"/>
+      <point x="677" y="265"/>
+      <point x="660" y="110" type="curve"/>
+      <point x="641" y="-96"/>
+      <point x="514" y="-301"/>
+      <point x="346" y="-379" type="curve" smooth="yes"/>
+      <point x="189" y="-452"/>
+      <point x="-70" y="-367"/>
+      <point x="-70" y="-367" type="curve"/>
     </contour>
     <contour>
-      <point x="546" y="958" type="move" name="top"/>
+      <point x="376" y="958" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="478" y="-725" type="move" name="bottom"/>
+      <point x="308" y="-725" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>
