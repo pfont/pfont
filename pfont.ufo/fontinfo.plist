@@ -26,6 +26,16 @@
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
+		<integer>-37</integer>
+		<integer>-36</integer>
+		<integer>125</integer>
+		<integer>126</integer>
+		<integer>533</integer>
+		<integer>540</integer>
+		<integer>749</integer>
+		<integer>880</integer>
+		<integer>1256</integer>
+		<integer>1356</integer>
 	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
