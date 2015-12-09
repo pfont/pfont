@@ -98,6 +98,7 @@
 		<string>space</string>
 		<string>nbspace</string>
 		<string>zerowidthspace</string>
+		<string>lefttorightmark</string>
 		<string>zerowidthjoiner</string>
 		<string>zerowidthnonjoiner</string>
 		<string>CR</string>

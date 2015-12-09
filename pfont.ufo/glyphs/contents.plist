@@ -106,6 +106,8 @@
 	<string>lam_alef-ar.glif</string>
 	<key>lam_alef-ar.fina</key>
 	<string>lam_alef-ar.fina.glif</string>
+	<key>lefttorightmark</key>
+	<string>lefttorightmark.glif</string>
 	<key>meem-ar</key>
 	<string>meem-ar.glif</string>
 	<key>meem-ar.fina</key>
