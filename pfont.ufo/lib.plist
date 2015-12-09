@@ -97,6 +97,7 @@
 		<string>six-persian</string>
 		<string>space</string>
 		<string>nbspace</string>
+		<string>zerowidthspace</string>
 		<string>CR</string>
 		<string>.null</string>
 		<string>zeroWidthNoBreakSpace</string>

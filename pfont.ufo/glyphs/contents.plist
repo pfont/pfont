@@ -194,5 +194,7 @@
 	<string>zero-ar.glif</string>
 	<key>zeroWidthNoBreakSpace</key>
 	<string>zeroW_idthN_oB_reakS_pace.glif</string>
+	<key>zerowidthspace</key>
+	<string>zerowidthspace.glif</string>
 </dict>
 </plist>
