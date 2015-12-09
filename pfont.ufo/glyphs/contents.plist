@@ -194,6 +194,8 @@
 	<string>zero-ar.glif</string>
 	<key>zeroWidthNoBreakSpace</key>
 	<string>zeroW_idthN_oB_reakS_pace.glif</string>
+	<key>zerowidthjoiner</key>
+	<string>zerowidthjoiner.glif</string>
 	<key>zerowidthnonjoiner</key>
 	<string>zerowidthnonjoiner.glif</string>
 	<key>zerowidthspace</key>
