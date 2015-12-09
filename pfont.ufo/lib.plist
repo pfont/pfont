@@ -96,6 +96,7 @@
 		<string>five-persian</string>
 		<string>six-persian</string>
 		<string>space</string>
+		<string>nbspace</string>
 		<string>CR</string>
 		<string>.null</string>
 		<string>zeroWidthNoBreakSpace</string>
