@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one-ar" format="1">
-  <advance width="496"/>
+  <advance width="610"/>
   <unicode hex="0661"/>
   <outline>
     <contour>
-      <point x="220" y="1115" type="line"/>
-      <point x="379" y="811"/>
-      <point x="392" y="515"/>
-      <point x="396" y="0" type="curve"/>
-      <point x="300" y="-23" type="line"/>
-      <point x="296" y="218"/>
-      <point x="299" y="600"/>
-      <point x="100" y="950" type="curve"/>
+      <point x="277" y="1115" type="line"/>
+      <point x="436" y="811"/>
+      <point x="449" y="515"/>
+      <point x="453" y="0" type="curve"/>
+      <point x="357" y="-23" type="line"/>
+      <point x="353" y="218"/>
+      <point x="356" y="600"/>
+      <point x="157" y="950" type="curve"/>
     </contour>
   </outline>
 </glyph>
