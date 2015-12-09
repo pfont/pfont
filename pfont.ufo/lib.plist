@@ -99,6 +99,7 @@
 		<string>nbspace</string>
 		<string>zerowidthspace</string>
 		<string>lefttorightmark</string>
+		<string>righttoleftmark</string>
 		<string>zerowidthjoiner</string>
 		<string>zerowidthnonjoiner</string>
 		<string>CR</string>

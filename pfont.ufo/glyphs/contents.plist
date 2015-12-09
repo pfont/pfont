@@ -130,6 +130,8 @@
 	<string>reh-ar.glif</string>
 	<key>reh-ar.fina</key>
 	<string>reh-ar.fina.glif</string>
+	<key>righttoleftmark</key>
+	<string>righttoleftmark.glif</string>
 	<key>sad-ar</key>
 	<string>sad-ar.glif</string>
 	<key>sad-ar.fina</key>
