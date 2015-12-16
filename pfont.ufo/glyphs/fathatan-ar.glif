@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fathatan-ar" format="1">
-  <advance width="600"/>
+  <advance width="0"/>
   <unicode hex="064B"/>
   <outline>
     <contour>
-      <point x="90" y="914" type="line"/>
-      <point x="498" y="1054" type="line"/>
-      <point x="498" y="1139" type="line"/>
-      <point x="90" y="999" type="line"/>
+      <point x="0" y="914" type="line"/>
+      <point x="408" y="1054" type="line"/>
+      <point x="408" y="1139" type="line"/>
+      <point x="0" y="999" type="line"/>
     </contour>
     <contour>
-      <point x="90" y="1084" type="line"/>
-      <point x="498" y="1224" type="line"/>
-      <point x="498" y="1309" type="line"/>
-      <point x="90" y="1169" type="line"/>
+      <point x="0" y="1084" type="line"/>
+      <point x="408" y="1224" type="line"/>
+      <point x="408" y="1309" type="line"/>
+      <point x="0" y="1169" type="line"/>
     </contour>
     <contour>
-      <point x="294" y="1501" type="move" name="top"/>
+      <point x="204" y="1501" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="294" y="914" type="move" name="_top"/>
+      <point x="204" y="914" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>
