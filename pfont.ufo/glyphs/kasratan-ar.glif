@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kasratan-ar" format="1">
+  <advance width="600"/>
+  <unicode hex="064D"/>
+  <outline>
+    <contour>
+      <point x="93" y="-521" type="line"/>
+      <point x="501" y="-381" type="line"/>
+      <point x="501" y="-296" type="line"/>
+      <point x="93" y="-436" type="line"/>
+    </contour>
+    <contour>
+      <point x="93" y="-351" type="line"/>
+      <point x="501" y="-211" type="line"/>
+      <point x="501" y="-126" type="line"/>
+      <point x="93" y="-266" type="line"/>
+    </contour>
+    <contour>
+      <point x="297" y="-126" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="297" y="-774" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>
