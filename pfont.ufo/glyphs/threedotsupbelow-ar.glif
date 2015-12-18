@@ -3,27 +3,12 @@
   <advance width="713"/>
   <unicode hex="FBB7"/>
   <outline>
+    <component base="threedotsupabove-ar" yOffset="-1108"/>
     <contour>
-      <point x="100" y="-434" type="line"/>
-      <point x="219" y="-301" type="line"/>
-      <point x="355" y="-411" type="line"/>
-      <point x="465" y="-291" type="line"/>
-      <point x="613" y="-407" type="line"/>
-      <point x="497" y="-537" type="line"/>
-      <point x="352" y="-430" type="line"/>
-      <point x="244" y="-548" type="line"/>
+      <point x="360" y="-710" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="213" y="-241" type="line"/>
-      <point x="335" y="-109" type="line"/>
-      <point x="477" y="-219" type="line"/>
-      <point x="355" y="-350" type="line"/>
-    </contour>
-    <contour>
-      <point x="360" y="-700" type="move" name="_bottom"/>
-    </contour>
-    <contour>
-      <point x="354" y="-109" type="move" name="bottom"/>
+      <point x="354" y="-87" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>
