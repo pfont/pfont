@@ -20,6 +20,8 @@
 	<string>alef-ar.fina.glif</string>
 	<key>alefMadda-ar</key>
 	<string>alefM_adda-ar.glif</string>
+	<key>alefMadda-ar.fina</key>
+	<string>alefM_adda-ar.fina.glif</string>
 	<key>caron</key>
 	<string>caron.glif</string>
 	<key>dal-ar</key>
@@ -182,6 +184,10 @@
 	<string>tah-ar.init.glif</string>
 	<key>tah-ar.medi</key>
 	<string>tah-ar.medi.glif</string>
+	<key>tcheh-ar</key>
+	<string>tcheh-ar.glif</string>
+	<key>tcheh-ar.fina</key>
+	<string>tcheh-ar.fina.glif</string>
 	<key>temp</key>
 	<string>temp.glif</string>
 	<key>three-ar</key>
