@@ -3,18 +3,9 @@
   <advance width="772"/>
   <unicode hex="FBB5"/>
   <outline>
+    <component base="twodotshorizontalabove-ar" yOffset="-1090"/>
     <contour>
-      <point x="100" y="-297" type="line"/>
-      <point x="237" y="-145" type="line"/>
-      <point x="393" y="-271" type="line"/>
-      <point x="520" y="-133" type="line"/>
-      <point x="672" y="-252" type="line"/>
-      <point x="533" y="-402" type="line"/>
-      <point x="390" y="-293" type="line"/>
-      <point x="264" y="-429" type="line"/>
-    </contour>
-    <contour>
-      <point x="392" y="-133" type="move" name="_bottom"/>
+      <point x="392" y="-137" type="move" name="_bottom"/>
     </contour>
     <contour>
       <point x="386" y="-648" type="move" name="bottom"/>
