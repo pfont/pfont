@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peh-ar.medi" format="1">
+  <advance width="714"/>
+  <unicode hex="FB59"/>
+  <outline>
+    <component base="dotlessbeh-ar.medi"/>
+    <component base="threedotsdownbelow-ar" xOffset="-5" yOffset="-158"/>
+  </outline>
+</glyph>
