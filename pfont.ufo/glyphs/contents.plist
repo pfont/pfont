@@ -268,6 +268,8 @@
 	<string>teh-ar.init.glif</string>
 	<key>teh-ar.medi</key>
 	<string>teh-ar.medi.glif</string>
+	<key>tehMarbuta-ar</key>
+	<string>tehM_arbuta-ar.glif</string>
 	<key>temp</key>
 	<string>temp.glif</string>
 	<key>thal-ar</key>
