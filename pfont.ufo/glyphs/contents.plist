@@ -96,6 +96,8 @@
 	<string>gaf-ar.init.glif</string>
 	<key>gaf-ar.medi</key>
 	<string>gaf-ar.medi.glif</string>
+	<key>ghain-ar</key>
+	<string>ghain-ar.glif</string>
 	<key>hah-ar</key>
 	<string>hah-ar.glif</string>
 	<key>hah-ar.fina</key>
