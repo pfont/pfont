@@ -194,6 +194,8 @@
 	<string>qaf-ar.glif</string>
 	<key>qaf-ar.fina</key>
 	<string>qaf-ar.fina.glif</string>
+	<key>qaf-ar.init</key>
+	<string>qaf-ar.init.glif</string>
 	<key>qaf-ar.medi</key>
 	<string>qaf-ar.medi.glif</string>
 	<key>reh-ar</key>
