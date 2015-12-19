@@ -356,6 +356,8 @@
 	<string>yeh-farsi.glif</string>
 	<key>yeh-farsi.fina</key>
 	<string>yeh-farsi.fina.glif</string>
+	<key>yeh-farsi.init</key>
+	<string>yeh-farsi.init.glif</string>
 	<key>yeh-farsi.medi</key>
 	<string>yeh-farsi.medi.glif</string>
 	<key>zah-ar</key>
