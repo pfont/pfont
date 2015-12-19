@@ -136,6 +136,8 @@
 	<string>jeem-ar.init.glif</string>
 	<key>jeem-ar.medi</key>
 	<string>jeem-ar.medi.glif</string>
+	<key>jeh-ar</key>
+	<string>jeh-ar.glif</string>
 	<key>kaf-ar</key>
 	<string>kaf-ar.glif</string>
 	<key>kaf-ar.init</key>
