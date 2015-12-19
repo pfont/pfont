@@ -22,6 +22,8 @@
 	<string>alefM_adda-ar.glif</string>
 	<key>alefMadda-ar.fina</key>
 	<string>alefM_adda-ar.fina.glif</string>
+	<key>beh-ar</key>
+	<string>beh-ar.glif</string>
 	<key>caron</key>
 	<string>caron.glif</string>
 	<key>dal-ar</key>
