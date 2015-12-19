@@ -104,6 +104,8 @@
 	<string>heh-ar.init.glif</string>
 	<key>heh-ar.medi</key>
 	<string>heh-ar.medi.glif</string>
+	<key>jeem-ar</key>
+	<string>jeem-ar.glif</string>
 	<key>kaf-ar</key>
 	<string>kaf-ar.glif</string>
 	<key>kaf-ar.init</key>
