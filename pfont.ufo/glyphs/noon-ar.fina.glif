@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noon-ar.fina" format="1">
+  <advance width="1378"/>
+  <unicode hex="FEE6"/>
+  <outline>
+    <component base="noonghunna-ar.fina"/>
+    <component base="dotcenter-ar" xOffset="83" yOffset="-40"/>
+  </outline>
+</glyph>
