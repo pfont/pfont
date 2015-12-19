@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefMaksura-ar" format="1">
+  <advance width="1331"/>
+  <unicode hex="0649"/>
+  <outline>
+    <component base="yeh-farsi"/>
+  </outline>
+</glyph>
