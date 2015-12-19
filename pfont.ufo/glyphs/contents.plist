@@ -24,6 +24,8 @@
 	<string>alefM_adda-ar.fina.glif</string>
 	<key>alefMaksura-ar</key>
 	<string>alefM_aksura-ar.glif</string>
+	<key>alefMaksura-ar.fina</key>
+	<string>alefM_aksura-ar.fina.glif</string>
 	<key>beh-ar</key>
 	<string>beh-ar.glif</string>
 	<key>beh-ar.fina</key>
