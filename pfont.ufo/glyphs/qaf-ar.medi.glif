@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qaf-ar.medi" format="1">
+  <advance width="827"/>
+  <unicode hex="FED8"/>
+  <outline>
+    <component base="dotlessfeh-ar.medi"/>
+    <component base="twodotshorizontalabove-ar" xOffset="55" yOffset="480"/>
+  </outline>
+</glyph>
