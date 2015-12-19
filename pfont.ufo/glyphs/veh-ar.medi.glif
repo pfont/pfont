@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="veh-ar.medi" format="1">
+  <advance width="827"/>
+  <unicode hex="FB6D"/>
+  <outline>
+    <component base="dotlessfeh-ar.medi"/>
+    <component base="threedotsupabove-ar" xOffset="96" yOffset="575"/>
+  </outline>
+</glyph>
