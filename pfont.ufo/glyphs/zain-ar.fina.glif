@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zain-ar.fina" format="1">
+  <advance width="939"/>
+  <unicode hex="FEB0"/>
+  <outline>
+    <component base="reh-ar.fina"/>
+    <component base="dotabove-ar" xOffset="265" yOffset="241"/>
+  </outline>
+</glyph>

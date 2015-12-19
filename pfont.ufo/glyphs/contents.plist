@@ -264,6 +264,8 @@
 	<string>yeh-farsi.fina.glif</string>
 	<key>zain-ar</key>
 	<string>zain-ar.glif</string>
+	<key>zain-ar.fina</key>
+	<string>zain-ar.fina.glif</string>
 	<key>zero-ar</key>
 	<string>zero-ar.glif</string>
 	<key>zeroWidthNoBreakSpace</key>
