@@ -374,6 +374,8 @@
 	<string>zain-ar.fina.glif</string>
 	<key>zero-ar</key>
 	<string>zero-ar.glif</string>
+	<key>zero-persian</key>
+	<string>zero-persian.glif</string>
 	<key>zeroWidthNoBreakSpace</key>
 	<string>zeroW_idthN_oB_reakS_pace.glif</string>
 	<key>zerowidthjoiner</key>
