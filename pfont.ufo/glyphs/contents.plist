@@ -234,6 +234,8 @@
 	<string>shadda-ar.glif</string>
 	<key>shaddaFatha-ar</key>
 	<string>shaddaF_atha-ar.glif</string>
+	<key>shaddaFathatan-ar</key>
+	<string>shaddaF_athatan-ar.glif</string>
 	<key>sheen-ar</key>
 	<string>sheen-ar.glif</string>
 	<key>sheen-ar.fina</key>
