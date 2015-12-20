@@ -4,6 +4,6 @@
   <unicode hex="FEB7"/>
   <outline>
     <component base="seen-ar.init"/>
-    <component base="threedotsupabove-ar" xOffset="394" yOffset="231"/>
+    <component base="threedotsupabove-ar" xOffset="354" yOffset="202"/>
   </outline>
 </glyph>
