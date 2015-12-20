@@ -48,10 +48,10 @@
       <point x="447" y="165" type="curve"/>
     </contour>
     <contour>
-      <point x="750" y="948" type="move" name="top"/>
+      <point x="705" y="869" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="721" y="-457" type="move" name="bottom"/>
+      <point x="720" y="-230" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>
