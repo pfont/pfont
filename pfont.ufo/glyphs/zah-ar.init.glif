@@ -4,6 +4,6 @@
   <unicode hex="FEC7"/>
   <outline>
     <component base="tah-ar.init"/>
-    <component base="dotabove-ar" xOffset="610" yOffset="411"/>
+    <component base="dotabove-ar" xOffset="602" yOffset="270"/>
   </outline>
 </glyph>
