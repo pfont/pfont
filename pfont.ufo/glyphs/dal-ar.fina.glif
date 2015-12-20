@@ -34,10 +34,27 @@
       <point x="684" y="186" type="curve"/>
     </contour>
     <contour>
-      <point x="554" y="1149" type="move" name="top"/>
+      <point x="566" y="1053" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="442" y="-349" type="move" name="bottom"/>
+      <point x="392" y="-269" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>2391</integer>
+          <key>y</key>
+          <integer>-225</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>
