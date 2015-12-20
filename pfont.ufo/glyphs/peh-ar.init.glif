@@ -4,6 +4,6 @@
   <unicode hex="FB58"/>
   <outline>
     <component base="dotlessbeh-ar.init"/>
-    <component base="threedotsdownbelow-ar" xOffset="-92" yOffset="-158"/>
+    <component base="threedotsdownbelow-ar" xOffset="-93" yOffset="-21"/>
   </outline>
 </glyph>
