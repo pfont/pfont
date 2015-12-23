@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alef-ar.fina.short" format="1">
+  <advance width="527"/>
+  <outline>
+    <contour>
+      <point x="527" y="0" type="line"/>
+      <point x="569" y="52"/>
+      <point x="569" y="104"/>
+      <point x="527" y="156" type="curve"/>
+      <point x="477" y="156"/>
+      <point x="375" y="157"/>
+      <point x="314" y="197" type="curve"/>
+      <point x="297" y="1220" type="line"/>
+      <point x="156" y="1120" type="line"/>
+      <point x="202" y="322" type="line" smooth="yes"/>
+      <point x="216" y="87"/>
+      <point x="273" y="0"/>
+      <point x="485" y="0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
