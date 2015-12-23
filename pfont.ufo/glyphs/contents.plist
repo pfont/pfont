@@ -28,6 +28,8 @@
 	<string>alefH_amzaabove-ar.fina.glif</string>
 	<key>alefHamzabelow-ar</key>
 	<string>alefH_amzabelow-ar.glif</string>
+	<key>alefHamzabelow-ar.fina</key>
+	<string>alefH_amzabelow-ar.fina.glif</string>
 	<key>alefMadda-ar</key>
 	<string>alefM_adda-ar.glif</string>
 	<key>alefMadda-ar.fina</key>
