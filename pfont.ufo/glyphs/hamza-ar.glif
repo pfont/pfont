@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hamza-ar" format="1">
+  <advance width="757"/>
+  <unicode hex="0621"/>
+  <outline>
+    <contour>
+      <point x="717" y="271" type="line"/>
+      <point x="698" y="425" type="line"/>
+      <point x="395" y="236" type="line"/>
+      <point x="185" y="387" type="line"/>
+      <point x="248" y="492"/>
+      <point x="379" y="523"/>
+      <point x="485" y="518" type="curve"/>
+      <point x="485" y="634" type="line"/>
+      <point x="296" y="701"/>
+      <point x="110" y="548"/>
+      <point x="110" y="369" type="curve" smooth="yes"/>
+      <point x="110" y="278"/>
+      <point x="160" y="221"/>
+      <point x="276" y="159" type="curve"/>
+      <point x="145" y="89" type="line"/>
+      <point x="164" y="-40" type="line"/>
+    </contour>
+  </outline>
+</glyph>
