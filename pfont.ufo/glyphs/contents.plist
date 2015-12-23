@@ -142,6 +142,8 @@
 	<string>hah-ar.medi.glif</string>
 	<key>hamza-ar</key>
 	<string>hamza-ar.glif</string>
+	<key>hamzaabove-ar</key>
+	<string>hamzaabove-ar.glif</string>
 	<key>hamzacenter-ar</key>
 	<string>hamzacenter-ar.glif</string>
 	<key>heh-ar</key>
