@@ -202,6 +202,8 @@
 	<string>lam_alef-ar.fina.glif</string>
 	<key>lefttorightmark</key>
 	<string>lefttorightmark.glif</string>
+	<key>madda-ar</key>
+	<string>madda-ar.glif</string>
 	<key>meem-ar</key>
 	<string>meem-ar.glif</string>
 	<key>meem-ar.fina</key>
