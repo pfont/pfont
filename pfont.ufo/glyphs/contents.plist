@@ -394,6 +394,8 @@
 	<string>waw-ar.fina.glif</string>
 	<key>wawHamzaabove-ar</key>
 	<string>wawH_amzaabove-ar.glif</string>
+	<key>wawHamzaabove-ar.fina</key>
+	<string>wawH_amzaabove-ar.fina.glif</string>
 	<key>yeh-ar</key>
 	<string>yeh-ar.glif</string>
 	<key>yeh-ar.fina</key>
