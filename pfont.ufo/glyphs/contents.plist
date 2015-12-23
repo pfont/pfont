@@ -156,6 +156,8 @@
 	<string>heh-ar.init.glif</string>
 	<key>heh-ar.medi</key>
 	<string>heh-ar.medi.glif</string>
+	<key>highhamza-ar</key>
+	<string>highhamza-ar.glif</string>
 	<key>jeem-ar</key>
 	<string>jeem-ar.glif</string>
 	<key>jeem-ar.fina</key>
