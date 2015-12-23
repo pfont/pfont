@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hamzacenter-ar" format="1">
-  <advance width="494"/>
+  <advance width="0"/>
   <outline>
     <contour>
       <point x="464" y="760" type="line"/>
@@ -19,6 +19,9 @@
       <point x="149" y="680" type="curve"/>
       <point x="55" y="630" type="line"/>
       <point x="69" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="247" y="784" type="move" name="_center"/>
     </contour>
   </outline>
 </glyph>
