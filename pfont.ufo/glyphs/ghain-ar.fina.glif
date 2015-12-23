@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ghain-ar.fina" format="1">
-  <advance width="1039"/>
+  <advance width="1079"/>
   <unicode hex="FECE"/>
   <outline>
     <component base="ain-ar.fina"/>
