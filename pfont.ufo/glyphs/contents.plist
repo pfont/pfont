@@ -22,6 +22,8 @@
 	<string>alef-ar.fina.short.glif</string>
 	<key>alef-ar.short</key>
 	<string>alef-ar.short.glif</string>
+	<key>alefHamzaabove-ar</key>
+	<string>alefH_amzaabove-ar.glif</string>
 	<key>alefMadda-ar</key>
 	<string>alefM_adda-ar.glif</string>
 	<key>alefMadda-ar.fina</key>
