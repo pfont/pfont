@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kaf-ar.fina" format="1">
-  <advance width="1391"/>
+  <advance width="1269"/>
   <unicode hex="FEDA"/>
   <outline>
     <contour>
@@ -11,10 +11,12 @@
       <point x="976" y="71"/>
       <point x="985" y="93" type="curve"/>
       <point x="1034" y="53"/>
-      <point x="1127" y="-2"/>
-      <point x="1269" y="-2" type="curve"/>
-      <point x="1269" y="154" type="line"/>
-      <point x="1220" y="154"/>
+      <point x="1127" y="0"/>
+      <point x="1269" y="0" type="curve"/>
+      <point x="1311" y="52"/>
+      <point x="1311" y="104"/>
+      <point x="1269" y="156" type="curve"/>
+      <point x="1220" y="156"/>
       <point x="1080" y="174"/>
       <point x="1018" y="194" type="curve"/>
       <point x="1032" y="257"/>
