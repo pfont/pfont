@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="qaf-ar.fina" format="1">
-  <advance width="1394"/>
+  <advance width="1434"/>
   <unicode hex="FED6"/>
   <outline>
     <component base="dotlessqaf-ar.fina"/>
