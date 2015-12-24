@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero-ar" format="1">
-  <advance width="701"/>
+  <advance width="917"/>
   <unicode hex="0660"/>
   <outline>
     <contour>
-      <point x="627" y="458" type="line"/>
-      <point x="383" y="701" type="line"/>
-      <point x="139" y="458" type="line"/>
-      <point x="383" y="214" type="line"/>
+      <point x="777" y="453" type="line" smooth="yes"/>
+      <point x="459" y="770" type="line" smooth="yes"/>
+      <point x="140" y="453" type="line" smooth="yes"/>
+      <point x="459" y="134" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="257" y="458" type="line"/>
-      <point x="383" y="581" type="line"/>
-      <point x="507" y="458" type="line"/>
-      <point x="383" y="332" type="line"/>
+      <point x="294" y="453" type="line" smooth="yes"/>
+      <point x="459" y="613" type="line" smooth="yes"/>
+      <point x="620" y="453" type="line" smooth="yes"/>
+      <point x="459" y="288" type="line" smooth="yes"/>
     </contour>
   </outline>
 </glyph>
