@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heh-ar.fina" format="1">
-  <advance width="943"/>
+  <advance width="983"/>
   <unicode hex="FEEA"/>
   <outline>
     <contour>
-      <point x="955" y="0"/>
-      <point x="961" y="6"/>
-      <point x="961" y="18" type="curve" smooth="yes"/>
-      <point x="961" y="138" type="line" smooth="yes"/>
-      <point x="961" y="150"/>
-      <point x="955" y="156"/>
-      <point x="943" y="156" type="curve" smooth="yes"/>
+      <point x="983" y="0" type="line"/>
+      <point x="1025" y="52"/>
+      <point x="1025" y="104"/>
+      <point x="983" y="156" type="curve"/>
+      <point x="943" y="156" type="line" smooth="yes"/>
       <point x="807" y="156"/>
       <point x="737" y="209"/>
       <point x="723" y="360" type="curve" smooth="yes"/>
