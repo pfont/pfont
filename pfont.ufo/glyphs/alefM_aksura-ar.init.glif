@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alefMaksura-ar.init" format="1">
-  <advance width="540"/>
+  <advance width="580"/>
   <unicode hex="FBE8"/>
   <outline>
     <component base="dotlessbeh-ar.init"/>
