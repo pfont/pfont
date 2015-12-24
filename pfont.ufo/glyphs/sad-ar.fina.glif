@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sad-ar.fina" format="1">
-  <advance width="2388"/>
+  <advance width="2428"/>
   <unicode hex="FEBA"/>
   <outline>
     <contour>
@@ -18,14 +18,12 @@
       <point x="2032" y="85" type="curve"/>
       <point x="2091" y="11"/>
       <point x="2231" y="0"/>
-      <point x="2388" y="0" type="curve" smooth="yes"/>
-      <point x="2400" y="0"/>
-      <point x="2406" y="6"/>
-      <point x="2406" y="18" type="curve" smooth="yes"/>
-      <point x="2406" y="138" type="line" smooth="yes"/>
-      <point x="2406" y="150"/>
-      <point x="2400" y="156"/>
-      <point x="2388" y="156" type="curve" smooth="yes"/>
+      <point x="2388" y="0" type="curve"/>
+      <point x="2428" y="0" type="line"/>
+      <point x="2470" y="52"/>
+      <point x="2470" y="104"/>
+      <point x="2428" y="156" type="curve"/>
+      <point x="2388" y="156" type="line"/>
       <point x="2331" y="157"/>
       <point x="2214" y="160"/>
       <point x="2142" y="176" type="curve"/>

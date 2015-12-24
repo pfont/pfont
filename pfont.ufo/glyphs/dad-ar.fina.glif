@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dad-ar.fina" format="1">
-  <advance width="2388"/>
+  <advance width="2428"/>
   <unicode hex="FEBE"/>
   <outline>
     <component base="sad-ar.fina"/>
