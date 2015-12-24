@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zah-ar.medi" format="1">
-  <advance width="1396"/>
+  <advance width="1476"/>
   <unicode hex="FEC8"/>
   <outline>
     <component base="tah-ar.medi"/>
-    <component base="dotabove-ar" xOffset="601" yOffset="270"/>
+    <component base="dotabove-ar" xOffset="641" yOffset="270"/>
   </outline>
 </glyph>
