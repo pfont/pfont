@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="teh-ar.fina" format="1">
-  <advance width="1687"/>
+  <advance width="1727"/>
   <unicode hex="FE96"/>
   <outline>
     <component base="dotlessbeh-ar.fina"/>
