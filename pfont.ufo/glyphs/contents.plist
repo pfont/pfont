@@ -216,6 +216,8 @@
 	<string>lam_alef-ar.glif</string>
 	<key>lam_alef-ar.fina</key>
 	<string>lam_alef-ar.fina.glif</string>
+	<key>lam_alefHamzaabove-ar</key>
+	<string>lam_alefH_amzaabove-ar.glif</string>
 	<key>lefttorightmark</key>
 	<string>lefttorightmark.glif</string>
 	<key>madda-ar</key>
