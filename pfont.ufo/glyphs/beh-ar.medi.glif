@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="beh-ar.medi" format="1">
-  <advance width="714"/>
+  <advance width="794"/>
   <unicode hex="FE92"/>
   <outline>
     <component base="dotlessbeh-ar.medi"/>
-    <component base="dotbelow-ar" xOffset="58" yOffset="-59"/>
+    <component base="dotbelow-ar" xOffset="98" yOffset="-59"/>
   </outline>
 </glyph>
