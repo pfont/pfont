@@ -36,5 +36,20 @@
       <point x="857" y="442"/>
       <point x="942" y="305"/>
     </contour>
+    <contour>
+      <point x="718" y="1491" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="719" y="-164" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="420" y="1304" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="184" y="1336" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="274" y="-142" type="move" name="bottom_2"/>
+    </contour>
   </outline>
 </glyph>
