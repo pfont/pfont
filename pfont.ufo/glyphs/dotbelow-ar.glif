@@ -4,9 +4,9 @@
   <unicode hex="FBB3"/>
   <outline>
     <contour>
-      <point x="100" y="-268" type="line"/>
-      <point x="240" y="-116" type="line"/>
       <point x="403" y="-250" type="line"/>
+      <point x="240" y="-116" type="line"/>
+      <point x="100" y="-268" type="line"/>
       <point x="264" y="-400" type="line"/>
     </contour>
     <contour>
