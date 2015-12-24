@@ -39,6 +39,7 @@ feature init {
 sub dotlessbeh-ar by dotlessbeh-ar.init;
 sub beh-ar by beh-ar.init;
 sub peh-ar by peh-ar.init;
+sub alefMaksura-ar by alefMaksura-ar.init;
 sub teh-ar by teh-ar.init;
 sub theh-ar by theh-ar.init;
 sub jeem-ar by jeem-ar.init;
@@ -65,6 +66,7 @@ sub meem-ar by meem-ar.init;
 sub noon-ar by noon-ar.init;
 sub heh-ar by heh-ar.init;
 sub yeh-ar by yeh-ar.init;
+sub yehHamzaabove-ar by yehHamzaabove-ar.init;
 sub yeh-farsi by yeh-farsi.init;
 } init;
 
@@ -73,6 +75,7 @@ feature medi {
 sub dotlessbeh-ar by dotlessbeh-ar.medi;
 sub beh-ar by beh-ar.medi;
 sub peh-ar by peh-ar.medi;
+sub alefMaksura-ar by alefMaksura-ar.medi;
 sub teh-ar by teh-ar.medi;
 sub theh-ar by theh-ar.medi;
 sub jeem-ar by jeem-ar.medi;
@@ -99,12 +102,15 @@ sub meem-ar by meem-ar.medi;
 sub noon-ar by noon-ar.medi;
 sub heh-ar by heh-ar.medi;
 sub yeh-ar by yeh-ar.medi;
+sub yehHamzaabove-ar by yehHamzaabove-ar.medi;
 sub yeh-farsi by yeh-farsi.medi;
 } medi;
 
 feature fina {
 # automatic
 sub alef-ar by alef-ar.fina;
+sub alefHamzaabove-ar by alefHamzaabove-ar.fina;
+sub alefHamzabelow-ar by alefHamzabelow-ar.fina;
 sub alefMadda-ar by alefMadda-ar.fina;
 sub dotlessbeh-ar by dotlessbeh-ar.fina;
 sub beh-ar by beh-ar.fina;
@@ -133,6 +139,7 @@ sub veh-ar by veh-ar.fina;
 sub dotlessfeh-ar by dotlessfeh-ar.fina;
 sub dotlessqaf-ar by dotlessqaf-ar.fina;
 sub qaf-ar by qaf-ar.fina;
+sub kaf-ar by kaf-ar.fina;
 sub keheh-ar by keheh-ar.fina;
 sub gaf-ar by gaf-ar.fina;
 sub lam-ar by lam-ar.fina;
@@ -142,9 +149,14 @@ sub noonghunna-ar by noonghunna-ar.fina;
 sub heh-ar by heh-ar.fina;
 sub tehMarbuta-ar by tehMarbuta-ar.fina;
 sub waw-ar by waw-ar.fina;
+sub wawHamzaabove-ar by wawHamzaabove-ar.fina;
+sub alefMaksura-ar by alefMaksura-ar.fina;
 sub yeh-ar by yeh-ar.fina;
+sub yehHamzaabove-ar by yehHamzaabove-ar.fina;
 sub yeh-farsi by yeh-farsi.fina;
 sub lam_alef-ar by lam_alef-ar.fina;
+sub lam_alefHamzaabove-ar by lam_alefHamzaabove-ar.fina;
+sub lam_alefHamzabelow-ar by lam_alefHamzabelow-ar.fina;
 } fina;
 
 feature rlig {
@@ -152,5 +164,9 @@ feature rlig {
 lookupflag IgnoreMarks RightToLeft;
 	sub lam-ar.init alef-ar.fina by lam_alef-ar;
 	sub lam-ar.medi alef-ar.fina by lam_alef-ar.fina;
+	sub lam-ar.init alefHamzaabove-ar.fina by lam_alefHamzaabove-ar;
+	sub lam-ar.medi alefHamzaabove-ar.fina by lam_alefHamzaabove-ar.fina;
+	sub lam-ar.init alefHamzabelow-ar.fina by lam_alefHamzabelow-ar;
+	sub lam-ar.medi alefHamzabelow-ar.fina by lam_alefHamzabelow-ar.fina;
 } rlig;
 
