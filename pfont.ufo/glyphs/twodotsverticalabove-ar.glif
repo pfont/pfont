@@ -4,16 +4,16 @@
   <unicode hex="FBBD"/>
   <outline>
     <contour>
-      <point x="336" y="991" type="line" smooth="yes"/>
-      <point x="231" y="876" type="line" smooth="yes"/>
-      <point x="103" y="977" type="line" smooth="yes"/>
-      <point x="208" y="1095" type="line" smooth="yes"/>
+      <point x="342" y="729" type="line" smooth="yes"/>
+      <point x="211" y="832" type="line" smooth="yes"/>
+      <point x="103" y="715" type="line" smooth="yes"/>
+      <point x="239" y="614" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="103" y="715" type="line" smooth="yes"/>
-      <point x="211" y="832" type="line" smooth="yes"/>
-      <point x="342" y="729" type="line" smooth="yes"/>
-      <point x="239" y="614" type="line" smooth="yes"/>
+      <point x="336" y="991" type="line" smooth="yes"/>
+      <point x="208" y="1095" type="line" smooth="yes"/>
+      <point x="103" y="977" type="line" smooth="yes"/>
+      <point x="231" y="876" type="line" smooth="yes"/>
     </contour>
     <contour>
       <point x="228" y="1254" type="move" name="top"/>
