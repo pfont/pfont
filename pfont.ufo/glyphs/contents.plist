@@ -414,6 +414,8 @@
 	<string>yeh-farsi.init.glif</string>
 	<key>yeh-farsi.medi</key>
 	<string>yeh-farsi.medi.glif</string>
+	<key>yehHamzaabove-ar</key>
+	<string>yehH_amzaabove-ar.glif</string>
 	<key>zah-ar</key>
 	<string>zah-ar.glif</string>
 	<key>zah-ar.fina</key>
