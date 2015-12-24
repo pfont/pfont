@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hamza-ar" format="1">
-  <advance width="757"/>
+  <advance width="797"/>
   <unicode hex="0621"/>
   <outline>
     <contour>
@@ -20,6 +20,12 @@
       <point x="276" y="159" type="curve"/>
       <point x="145" y="89" type="line"/>
       <point x="164" y="-40" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="844" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="396" y="-28" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>
