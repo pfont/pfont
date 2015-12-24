@@ -4,16 +4,16 @@
   <unicode hex="FBB5"/>
   <outline>
     <contour>
-      <point x="369" y="-284" type="line"/>
-      <point x="231" y="-435" type="line"/>
-      <point x="64" y="-303" type="line"/>
-      <point x="202" y="-149" type="line"/>
+      <point x="728" y="-272" type="line"/>
+      <point x="557" y="-137" type="line"/>
+      <point x="415" y="-290" type="line"/>
+      <point x="594" y="-422" type="line"/>
     </contour>
     <contour>
-      <point x="415" y="-290" type="line"/>
-      <point x="557" y="-137" type="line"/>
-      <point x="728" y="-272" type="line"/>
-      <point x="594" y="-422" type="line"/>
+      <point x="369" y="-284" type="line"/>
+      <point x="202" y="-149" type="line"/>
+      <point x="64" y="-303" type="line"/>
+      <point x="231" y="-435" type="line"/>
     </contour>
     <contour>
       <point x="392" y="-137" type="move" name="_bottom"/>
