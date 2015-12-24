@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yeh-ar" format="1">
-  <advance width="1331"/>
+  <advance width="1380"/>
   <unicode hex="064A"/>
   <outline>
     <component base="yeh-farsi"/>
