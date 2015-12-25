@@ -150,6 +150,8 @@
 	<string>hamza-ar.glif</string>
 	<key>hamzaabove-ar</key>
 	<string>hamzaabove-ar.glif</string>
+	<key>hamzaaboveFatha-ar</key>
+	<string>hamzaaboveF_atha-ar.glif</string>
 	<key>hamzabelow-ar</key>
 	<string>hamzabelow-ar.glif</string>
 	<key>hamzacenter-ar</key>
