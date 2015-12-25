@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shaddaKasratan-ar" format="1">
+  <advance width="0"/>
+  <outline>
+    <component base="shadda-ar"/>
+    <component base="kasratan-ar" xOffset="100" yOffset="960"/>
+  </outline>
+</glyph>
