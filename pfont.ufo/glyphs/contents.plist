@@ -296,6 +296,8 @@
 	<string>reh-ar.glif</string>
 	<key>reh-ar.fina</key>
 	<string>reh-ar.fina.glif</string>
+	<key>rehVbelow-ar</key>
+	<string>rehV_below-ar.glif</string>
 	<key>righttoleftmark</key>
 	<string>righttoleftmark.glif</string>
 	<key>sad-ar</key>
