@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e-ar.medi" format="1">
+  <advance width="794"/>
+  <unicode hex="FBE7"/>
+  <outline>
+    <component base="dotlessbeh-ar.medi"/>
+    <component base="twodotsverticalbelow-ar" xOffset="135" yOffset="-133"/>
+  </outline>
+</glyph>
