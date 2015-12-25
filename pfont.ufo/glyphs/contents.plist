@@ -162,6 +162,8 @@
 	<string>hamzaaboveS_ukun-ar.glif</string>
 	<key>hamzabelow-ar</key>
 	<string>hamzabelow-ar.glif</string>
+	<key>hamzabelowKasra-ar</key>
+	<string>hamzabelowK_asra-ar.glif</string>
 	<key>hamzacenter-ar</key>
 	<string>hamzacenter-ar.glif</string>
 	<key>heh-ar</key>
