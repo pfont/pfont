@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alefMaksura-ar.fina" format="1">
-  <advance width="1356"/>
+  <advance width="1396"/>
   <unicode hex="FEF0"/>
   <outline>
     <component base="yeh-farsi.fina"/>
