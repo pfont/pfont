@@ -318,6 +318,8 @@
 	<string>reh-ar.glif</string>
 	<key>reh-ar.fina</key>
 	<string>reh-ar.fina.glif</string>
+	<key>rehDotbelowdotabove-ar</key>
+	<string>rehD_otbelowdotabove-ar.glif</string>
 	<key>rehVbelow-ar</key>
 	<string>rehV_below-ar.glif</string>
 	<key>righttoleftmark</key>
