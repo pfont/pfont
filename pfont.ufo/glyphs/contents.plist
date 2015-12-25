@@ -170,22 +170,8 @@
 	<string>hamza-ar.glif</string>
 	<key>hamzaabove-ar</key>
 	<string>hamzaabove-ar.glif</string>
-	<key>hamzaaboveDamma-ar</key>
-	<string>hamzaaboveD_amma-ar.glif</string>
-	<key>hamzaaboveDammatan-ar</key>
-	<string>hamzaaboveD_ammatan-ar.glif</string>
-	<key>hamzaaboveFatha-ar</key>
-	<string>hamzaaboveF_atha-ar.glif</string>
-	<key>hamzaaboveFathatan-ar</key>
-	<string>hamzaaboveF_athatan-ar.glif</string>
-	<key>hamzaaboveSukun-ar</key>
-	<string>hamzaaboveS_ukun-ar.glif</string>
 	<key>hamzabelow-ar</key>
 	<string>hamzabelow-ar.glif</string>
-	<key>hamzabelowKasra-ar</key>
-	<string>hamzabelowK_asra-ar.glif</string>
-	<key>hamzabelowKasratan-ar</key>
-	<string>hamzabelowK_asratan-ar.glif</string>
 	<key>hamzacenter-ar</key>
 	<string>hamzacenter-ar.glif</string>
 	<key>heh-ar</key>
@@ -348,18 +334,6 @@
 	<string>seven-persian.glif</string>
 	<key>shadda-ar</key>
 	<string>shadda-ar.glif</string>
-	<key>shaddaDamma-ar</key>
-	<string>shaddaD_amma-ar.glif</string>
-	<key>shaddaDammatan-ar</key>
-	<string>shaddaD_ammatan-ar.glif</string>
-	<key>shaddaFatha-ar</key>
-	<string>shaddaF_atha-ar.glif</string>
-	<key>shaddaFathatan-ar</key>
-	<string>shaddaF_athatan-ar.glif</string>
-	<key>shaddaKasra-ar</key>
-	<string>shaddaK_asra-ar.glif</string>
-	<key>shaddaKasratan-ar</key>
-	<string>shaddaK_asratan-ar.glif</string>
 	<key>sheen-ar</key>
 	<string>sheen-ar.glif</string>
 	<key>sheen-ar.fina</key>

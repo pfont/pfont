@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="shaddaDammatan-ar" format="1">
-  <advance width="0"/>
-  <outline>
-    <component base="shadda-ar"/>
-    <component base="dammatan-ar" xOffset="63" yOffset="599"/>
-  </outline>
-</glyph>
