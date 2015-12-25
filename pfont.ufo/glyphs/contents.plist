@@ -152,6 +152,8 @@
 	<string>hamzaabove-ar.glif</string>
 	<key>hamzaaboveDamma-ar</key>
 	<string>hamzaaboveD_amma-ar.glif</string>
+	<key>hamzaaboveDammatan-ar</key>
+	<string>hamzaaboveD_ammatan-ar.glif</string>
 	<key>hamzaaboveFatha-ar</key>
 	<string>hamzaaboveF_atha-ar.glif</string>
 	<key>hamzaaboveFathatan-ar</key>
