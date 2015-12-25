@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e-ar.init" format="1">
+  <advance width="580"/>
+  <unicode hex="FBE6"/>
+  <outline>
+    <component base="dotlessbeh-ar.init"/>
+    <component base="twodotsverticalbelow-ar" xOffset="84" yOffset="-94"/>
+  </outline>
+</glyph>
