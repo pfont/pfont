@@ -3,6 +3,6 @@
   <advance width="0"/>
   <outline>
     <component base="shadda-ar"/>
-    <component base="fathatan-ar" xOffset="-22" yOffset="479"/>
+    <component base="fathatan-ar" xOffset="-19" yOffset="485"/>
   </outline>
 </glyph>

@@ -3,6 +3,6 @@
   <advance width="600"/>
   <outline>
     <component base="hamzaabove-ar"/>
-    <component base="fathatan-ar" xOffset="43" yOffset="417"/>
+    <component base="fathatan-ar" xOffset="46" yOffset="423"/>
   </outline>
 </glyph>
