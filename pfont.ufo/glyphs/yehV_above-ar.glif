@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehVabove-ar" format="1">
+  <advance width="1380"/>
+  <unicode hex="06CE"/>
+  <outline>
+    <component base="yeh-farsi"/>
+    <component base="caron" xOffset="223" yOffset="-411"/>
+  </outline>
+</glyph>
