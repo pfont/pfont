@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fourdotsbelow-ar" format="1">
+  <advance width="560"/>
+  <unicode hex="FBBB"/>
+  <outline>
+    <component base="fourdotsabove-ar" yOffset="-1100"/>
+    <contour>
+      <point x="280" y="-84" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="280" y="-648" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>
