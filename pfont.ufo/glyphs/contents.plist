@@ -470,12 +470,12 @@
 	<string>yehH_amzaabove-ar.medi.glif</string>
 	<key>yehVabove-ar</key>
 	<string>yehV_above-ar.glif</string>
-	<key>yehVabove-ar-ar.init</key>
-	<string>yehV_above-ar-ar.init.glif</string>
-	<key>yehVabove-ar-ar.medi</key>
-	<string>yehV_above-ar-ar.medi.glif</string>
 	<key>yehVabove-ar.fina</key>
 	<string>yehV_above-ar.fina.glif</string>
+	<key>yehVabove-ar.init</key>
+	<string>yehV_above-ar.init.glif</string>
+	<key>yehVabove-ar.medi</key>
+	<string>yehV_above-ar.medi.glif</string>
 	<key>zah-ar</key>
 	<string>zah-ar.glif</string>
 	<key>zah-ar.fina</key>
