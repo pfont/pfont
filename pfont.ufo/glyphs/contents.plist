@@ -322,6 +322,8 @@
 	<string>reh-ar.fina.glif</string>
 	<key>rehDotbelowdotabove-ar</key>
 	<string>rehD_otbelowdotabove-ar.glif</string>
+	<key>rehDotbelowdotabove-ar.fina</key>
+	<string>rehD_otbelowdotabove-ar.fina.glif</string>
 	<key>rehVbelow-ar</key>
 	<string>rehV_below-ar.glif</string>
 	<key>rehVbelow-ar.fina</key>
