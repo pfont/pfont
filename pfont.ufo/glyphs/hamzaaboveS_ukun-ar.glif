@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hamzaaboveSukun-ar" format="1">
-  <advance width="600"/>
+  <advance width="0"/>
   <outline>
     <component base="hamzaabove-ar"/>
     <component base="sukun-ar" xOffset="84" yOffset="302"/>
