@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seenDotbelowDotabove-ar" format="1">
+  <advance width="2262"/>
+  <unicode hex="069A"/>
+  <outline>
+    <component base="seen-ar"/>
+    <component base="dotbelow-ar" xOffset="376" yOffset="-520"/>
+    <component base="dotabove-ar" xOffset="1298" yOffset="100"/>
+  </outline>
+</glyph>
