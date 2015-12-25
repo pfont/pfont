@@ -5,10 +5,10 @@
   <outline>
     <component base="hamzacenter-ar" yOffset="-8"/>
     <contour>
-      <point x="198" y="1331" type="move" name="top"/>
+      <point x="248" y="1201" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="198" y="535" type="move" name="_top"/>
+      <point x="248" y="470" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

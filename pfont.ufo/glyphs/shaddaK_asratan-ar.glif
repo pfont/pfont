@@ -3,6 +3,6 @@
   <advance width="0"/>
   <outline>
     <component base="shadda-ar"/>
-    <component base="kasratan-ar" xOffset="100" yOffset="960"/>
+    <component base="kasratan-ar" xOffset="50" yOffset="1090"/>
   </outline>
 </glyph>
