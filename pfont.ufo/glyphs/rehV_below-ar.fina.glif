@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rehVbelow-ar.fina" format="1">
+  <advance width="979"/>
+  <outline>
+    <component base="reh-ar.fina"/>
+    <component base="caron" xOffset="289" yOffset="-1788"/>
+  </outline>
+</glyph>

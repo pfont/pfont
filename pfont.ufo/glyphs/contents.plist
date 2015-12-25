@@ -324,6 +324,8 @@
 	<string>rehD_otbelowdotabove-ar.glif</string>
 	<key>rehVbelow-ar</key>
 	<string>rehV_below-ar.glif</string>
+	<key>rehVbelow-ar.fina</key>
+	<string>rehV_below-ar.fina.glif</string>
 	<key>righttoleftmark</key>
 	<string>righttoleftmark.glif</string>
 	<key>sad-ar</key>
