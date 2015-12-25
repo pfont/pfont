@@ -164,6 +164,8 @@
 	<string>hah-ar.medi.glif</string>
 	<key>hahHamzaabove-ar</key>
 	<string>hahH_amzaabove-ar.glif</string>
+	<key>hahHamzaabove-ar.fina</key>
+	<string>hahH_amzaabove-ar.fina.glif</string>
 	<key>hahThreedotsabove-ar</key>
 	<string>hahT_hreedotsabove-ar.glif</string>
 	<key>hamza-ar</key>
