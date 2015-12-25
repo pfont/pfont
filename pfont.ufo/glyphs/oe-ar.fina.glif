@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe-ar.fina" format="1">
+  <advance width="1027"/>
+  <unicode hex="FBDA"/>
+  <outline>
+    <component base="waw-ar.fina"/>
+    <component base="caron" xOffset="307"/>
+  </outline>
+</glyph>
