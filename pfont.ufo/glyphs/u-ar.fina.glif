@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u-ar.fina" format="1">
+  <advance width="1027"/>
+  <unicode hex="FBD8"/>
+  <outline>
+    <component base="waw-ar.fina"/>
+    <component base="damma-ar" xOffset="417" yOffset="54"/>
+  </outline>
+</glyph>
