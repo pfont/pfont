@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>.null</key>
-	<string>_null.glif</string>
 	<key>CR</key>
 	<string>C_R_.glif</string>
 	<key>ae-ar</key>
