@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe-ar" format="1">
+  <advance width="977"/>
+  <unicode hex="06C6"/>
+  <outline>
+    <component base="waw-ar"/>
+    <component base="caron" xOffset="314"/>
+  </outline>
+</glyph>
