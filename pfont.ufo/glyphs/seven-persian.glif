@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven-persian" format="1">
-  <advance width="893"/>
+  <advance width="1043"/>
   <unicode hex="06F7"/>
   <outline>
     <component base="seven-ar"/>

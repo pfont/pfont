@@ -8,7 +8,7 @@
       <point x="360" y="-710" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="354" y="-87" type="move" name="bottom"/>
+      <point x="354" y="-117" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>
