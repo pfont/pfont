@@ -13,9 +13,13 @@
 	<key>familyName</key>
 	<string>pfont</string>
 	<key>openTypeHeadCreated</key>
-	<string>2015/10/23 10:56:41</string>
+	<string>2015/12/26 23:07:35</string>
 	<key>openTypeNameDesigner</key>
 	<string>Damoon Khanjanzade</string>
+	<key>openTypeNameManufacturer</key>
+	<string>pfont</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://pfont.ir/</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>pfont</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
@@ -49,7 +53,7 @@
 	<key>versionMajor</key>
 	<integer>0</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>0</integer>
 </dict>
