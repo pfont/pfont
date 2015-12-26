@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefbelow-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="0656"/>
+  <outline>
+    <component base="alefabove-ar" yOffset="-1504"/>
+    <contour>
+      <point x="49" y="-98" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="47" y="-676" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>
