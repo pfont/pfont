@@ -46,10 +46,10 @@
       <point x="420" y="1304" type="move" name="caret_1"/>
     </contour>
     <contour>
-      <point x="184" y="1336" type="move" name="top_2"/>
+      <point x="254" y="1373" type="move" name="top_2"/>
     </contour>
     <contour>
-      <point x="274" y="-142" type="move" name="bottom_2"/>
+      <point x="274" y="-154" type="move" name="bottom_2"/>
     </contour>
   </outline>
 </glyph>

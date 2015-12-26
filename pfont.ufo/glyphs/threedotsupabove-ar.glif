@@ -4,22 +4,22 @@
   <unicode hex="FBB6"/>
   <outline>
     <contour>
-      <point x="643" y="701" type="line"/>
-      <point x="495" y="817" type="line"/>
-      <point x="373" y="685" type="line"/>
-      <point x="527" y="571" type="line"/>
+      <point x="623" y="700" type="line"/>
+      <point x="488" y="805" type="line"/>
+      <point x="378" y="685" type="line"/>
+      <point x="518" y="581" type="line"/>
     </contour>
     <contour>
-      <point x="333" y="690" type="line"/>
-      <point x="189" y="807" type="line"/>
-      <point x="70" y="674" type="line"/>
-      <point x="214" y="560" type="line"/>
+      <point x="467" y="900" type="line"/>
+      <point x="338" y="1000" type="line"/>
+      <point x="227" y="880" type="line"/>
+      <point x="356" y="781" type="line"/>
     </contour>
     <contour>
-      <point x="478" y="911" type="line"/>
-      <point x="336" y="1021" type="line"/>
-      <point x="214" y="889" type="line"/>
-      <point x="356" y="780" type="line"/>
+      <point x="341" y="690" type="line"/>
+      <point x="210" y="796" type="line"/>
+      <point x="102" y="675" type="line"/>
+      <point x="233" y="571" type="line"/>
     </contour>
     <contour>
       <point x="336" y="1180" type="move" name="top"/>

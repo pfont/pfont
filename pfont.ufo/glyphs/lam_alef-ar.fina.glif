@@ -40,7 +40,7 @@
       <point x="94" y="-122" type="line"/>
     </contour>
     <contour>
-      <point x="842" y="1429" type="move" name="top_1"/>
+      <point x="911" y="1418" type="move" name="top_1"/>
     </contour>
     <contour>
       <point x="967" y="-130" type="move" name="bottom_1"/>
@@ -49,7 +49,7 @@
       <point x="489" y="1362" type="move" name="caret_1"/>
     </contour>
     <contour>
-      <point x="187" y="1273" type="move" name="top_2"/>
+      <point x="187" y="1264" type="move" name="top_2"/>
     </contour>
     <contour>
       <point x="296" y="-234" type="move" name="bottom_2"/>

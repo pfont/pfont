@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehVabove-ar.init" format="1">
-  <advance width="580"/>
+  <advance width="620"/>
   <outline>
     <component base="yeh-farsi.init"/>
     <component base="caron" xOffset="57" yOffset="28"/>

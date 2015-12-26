@@ -4,7 +4,7 @@
   <unicode hex="FEFA"/>
   <outline>
     <component base="lam_alef-ar.fina"/>
-    <component base="hamzabelow-ar" xOffset="188" yOffset="-1230"/>
+    <component base="hamzabelow-ar" xOffset="188" yOffset="-1300"/>
   </outline>
   <lib>
     <dict>

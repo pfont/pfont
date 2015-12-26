@@ -12,16 +12,16 @@
       <point x="503" y="692" type="curve"/>
       <point x="376" y="556" type="line"/>
       <point x="581" y="90" type="line"/>
-      <point x="432" y="-161"/>
-      <point x="296" y="-314"/>
-      <point x="-55" y="-259" type="curve"/>
-      <point x="-86" y="-377" type="line"/>
-      <point x="-86" y="-377"/>
+      <point x="460" y="-161"/>
+      <point x="316" y="-314"/>
+      <point x="-35" y="-259" type="curve"/>
+      <point x="-66" y="-377" type="line"/>
+      <point x="-66" y="-377"/>
       <point x="189" y="-462"/>
       <point x="346" y="-389" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="388" y="835" type="move" name="top"/>
+      <point x="460" y="859" type="move" name="top"/>
     </contour>
     <contour>
       <point x="251" y="-630" type="move" name="bottom"/>
