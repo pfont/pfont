@@ -162,6 +162,8 @@
 	<string>ghain-ar.medi.glif</string>
 	<key>guillemetleft</key>
 	<string>guillemetleft.glif</string>
+	<key>guillemetright</key>
+	<string>guillemetright.glif</string>
 	<key>hah-ar</key>
 	<string>hah-ar.glif</string>
 	<key>hah-ar.fina</key>
