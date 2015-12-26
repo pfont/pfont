@@ -44,6 +44,8 @@
 	<string>alefM_aksura-ar.init.glif</string>
 	<key>alefMaksura-ar.medi</key>
 	<string>alefM_aksura-ar.medi.glif</string>
+	<key>alefabove-ar</key>
+	<string>alefabove-ar.glif</string>
 	<key>asterisk-ar</key>
 	<string>asterisk-ar.glif</string>
 	<key>beh-ar</key>
