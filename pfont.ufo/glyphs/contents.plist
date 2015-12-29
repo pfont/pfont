@@ -382,6 +382,8 @@
 	<string>sad-ar.init.glif</string>
 	<key>sad-ar.medi</key>
 	<string>sad-ar.medi.glif</string>
+	<key>sadLamAlefMaksuraabove-ar</key>
+	<string>sadL_amA_lefM_aksuraabove-ar.glif</string>
 	<key>seen-ar</key>
 	<string>seen-ar.glif</string>
 	<key>seen-ar.fina</key>
