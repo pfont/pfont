@@ -432,6 +432,8 @@
 	<string>six-ar.glif</string>
 	<key>six-persian</key>
 	<string>six-persian.glif</string>
+	<key>six-persian.urdu</key>
+	<string>six-persian.urdu.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>sukun-ar</key>
