@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hehgoal-ar.fina" format="1">
+  <advance width="1012"/>
+  <unicode hex="FBA7"/>
+  <outline>
+    <contour>
+      <point x="395" y="204"/>
+      <point x="439" y="222"/>
+      <point x="455" y="222" type="curve" smooth="yes"/>
+      <point x="531" y="222"/>
+      <point x="718" y="0"/>
+      <point x="924" y="0" type="curve" smooth="yes"/>
+      <point x="1012" y="0" type="line"/>
+      <point x="1054" y="52"/>
+      <point x="1054" y="104"/>
+      <point x="1012" y="156" type="curve"/>
+      <point x="972" y="156" type="line"/>
+      <point x="865" y="156"/>
+      <point x="787" y="200"/>
+      <point x="717" y="246" type="curve" smooth="yes"/>
+      <point x="638" y="298"/>
+      <point x="568" y="354"/>
+      <point x="511" y="356" type="curve" smooth="yes"/>
+      <point x="421" y="359"/>
+      <point x="315" y="239"/>
+      <point x="80" y="-36" type="curve"/>
+      <point x="136" y="-83" type="line"/>
+    </contour>
+    <contour>
+      <point x="513" y="614" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="424" y="-187" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>
