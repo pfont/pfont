@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefLamYehabove-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="0616"/>
+  <outline>
+    <contour>
+      <point x="200" y="923"/>
+      <point x="392" y="919"/>
+      <point x="735" y="956" type="curve"/>
+      <point x="761" y="1016" type="line"/>
+      <point x="538" y="999"/>
+      <point x="260" y="965"/>
+      <point x="33" y="1011" type="curve"/>
+      <point x="62" y="1126"/>
+      <point x="199" y="1153"/>
+      <point x="305" y="1179" type="curve"/>
+      <point x="325" y="1205"/>
+      <point x="355" y="1259"/>
+      <point x="349" y="1346" type="curve" smooth="yes"/>
+      <point x="326" y="1687" type="line"/>
+      <point x="362" y="1655"/>
+      <point x="390" y="1621"/>
+      <point x="399" y="1470" type="curve" smooth="yes"/>
+      <point x="409" y="1111" type="line"/>
+      <point x="452" y="1123" type="line"/>
+      <point x="454" y="1468" type="line" smooth="yes"/>
+      <point x="449" y="1654"/>
+      <point x="412" y="1689"/>
+      <point x="355" y="1749" type="curve"/>
+      <point x="266" y="1676" type="line"/>
+      <point x="316" y="1246" type="line"/>
+      <point x="195" y="1216"/>
+      <point x="75" y="1189"/>
+      <point x="22" y="1069" type="curve" smooth="yes"/>
+      <point x="-18" y="979"/>
+      <point x="-10" y="943"/>
+      <point x="101" y="932" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="380" y="1899" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="380" y="916" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>
