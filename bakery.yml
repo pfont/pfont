@@ -1,0 +1,9 @@
+commit: HEAD
+compiler: fontforge
+downstream: true
+license_file: OFL.txt
+optimize: true
+process_files: [pfont.ufo]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
