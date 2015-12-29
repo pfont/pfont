@@ -3,12 +3,12 @@
   <advance width="0"/>
   <unicode hex="0656"/>
   <outline>
-    <component base="alefabove-ar" yOffset="-1504"/>
+    <component base="alefabove-ar" yOffset="-1439"/>
     <contour>
-      <point x="49" y="-98" type="move" name="_bottom"/>
+      <point x="50" y="-98" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="47" y="-676" type="move" name="bottom"/>
+      <point x="50" y="-606" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>
