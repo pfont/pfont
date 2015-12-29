@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ng-ar.medi" format="1">
+  <advance width="911"/>
+  <unicode hex="FBD6"/>
+  <outline>
+    <component base="kaf-ar.medi"/>
+    <component base="threedotsupabove-ar" xOffset="152" yOffset="764"/>
+  </outline>
+</glyph>
