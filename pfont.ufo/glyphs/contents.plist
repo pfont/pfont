@@ -64,6 +64,8 @@
 	<string>beh-ar.medi.glif</string>
 	<key>caron</key>
 	<string>caron.glif</string>
+	<key>colon</key>
+	<string>colon.glif</string>
 	<key>comma-ar</key>
 	<string>comma-ar.glif</string>
 	<key>dad-ar</key>
