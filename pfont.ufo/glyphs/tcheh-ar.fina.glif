@@ -10,16 +10,16 @@
       <point x="770" y="-209" type="line"/>
     </contour>
     <contour>
-      <point x="737" y="-285" type="line"/>
-      <point x="609" y="-187" type="line"/>
-      <point x="500" y="-305" type="line"/>
-      <point x="628" y="-403" type="line"/>
-    </contour>
-    <contour>
       <point x="580" y="-102" type="line"/>
       <point x="452" y="2" type="line"/>
       <point x="345" y="-117" type="line"/>
       <point x="474" y="-219" type="line"/>
+    </contour>
+    <contour>
+      <point x="737" y="-285" type="line"/>
+      <point x="609" y="-187" type="line"/>
+      <point x="500" y="-305" type="line"/>
+      <point x="628" y="-403" type="line"/>
     </contour>
     <component base="hah-ar.fina"/>
   </outline>

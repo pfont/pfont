@@ -33,7 +33,6 @@
       <point x="279" y="1296" type="line"/>
       <point x="332" y="341" type="line"/>
       <point x="194" y="156" type="line"/>
-      <point x="40" y="156" type="line" smooth="yes"/>
       <point x="0" y="156" type="line" smooth="yes"/>
       <point x="-103" y="156"/>
       <point x="-103" y="0"/>
