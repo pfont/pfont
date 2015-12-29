@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hehgoal-ar.init" format="1">
+  <advance width="620"/>
+  <unicode hex="FBA8"/>
+  <outline>
+    <component base="dotlessbeh-ar.init"/>
+    <component base="comma-ar" xOffset="164" yOffset="-545"/>
+  </outline>
+</glyph>
