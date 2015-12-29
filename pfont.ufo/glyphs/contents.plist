@@ -358,6 +358,8 @@
 	<string>qaf-ar.init.glif</string>
 	<key>qaf-ar.medi</key>
 	<string>qaf-ar.medi.glif</string>
+	<key>qafLamAlefMaksuraabove-ar</key>
+	<string>qafL_amA_lefM_aksuraabove-ar.glif</string>
 	<key>question-ar</key>
 	<string>question-ar.glif</string>
 	<key>reh-ar</key>
