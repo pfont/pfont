@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ve-ar" format="1">
+  <advance width="977"/>
+  <unicode hex="06CB"/>
+  <outline>
+    <component base="waw-ar"/>
+    <component base="threedotsupabove-ar" xOffset="152" yOffset="358"/>
+  </outline>
+</glyph>
