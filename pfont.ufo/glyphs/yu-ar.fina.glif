@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="u-ar.fina" format="1">
+<glyph name="yu-ar.fina" format="1">
   <advance width="1027"/>
-  <unicode hex="FBD8"/>
+  <unicode hex="FBDC"/>
   <outline>
     <component base="waw-ar.fina"/>
-    <component base="damma-ar" xOffset="358" yOffset="122"/>
+    <component base="alefabove-ar" xOffset="466" yOffset="15"/>
   </outline>
 </glyph>
