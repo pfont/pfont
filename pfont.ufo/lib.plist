@@ -180,13 +180,18 @@
 		<string>heh-ar.fina</string>
 		<string>heh-ar.medi</string>
 		<string>heh-ar.init</string>
+		<string>hehgoal-ar</string>
 		<string>hehgoal-ar.fina</string>
 		<string>hehgoal-ar.init</string>
+		<string>hehgoalHamzaabove-ar</string>
+		<string>hehgoalHamzaabove-ar.fina</string>
 		<string>hehDoachashmee-ar</string>
 		<string>hehDoachashmee-ar.medi</string>
 		<string>hehDoachashmee-ar.init</string>
 		<string>tehMarbuta-ar</string>
 		<string>tehMarbuta-ar.fina</string>
+		<string>tehMarbutagoal-ar</string>
+		<string>tehMarbutagoal-ar.fina</string>
 		<string>waw-ar</string>
 		<string>waw-ar.fina</string>
 		<string>wawTwodots-ar</string>

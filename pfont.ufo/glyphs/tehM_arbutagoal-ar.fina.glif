@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tehMarbutagoal-ar.fina" format="1">
+  <advance width="1012"/>
+  <outline>
+    <component base="hehgoal-ar.fina"/>
+    <component base="twodotshorizontalabove-ar" xOffset="118" yOffset="-137"/>
+  </outline>
+</glyph>

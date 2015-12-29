@@ -220,10 +220,16 @@
 	<string>hehD_oachashmee-ar.init.glif</string>
 	<key>hehDoachashmee-ar.medi</key>
 	<string>hehD_oachashmee-ar.medi.glif</string>
+	<key>hehgoal-ar</key>
+	<string>hehgoal-ar.glif</string>
 	<key>hehgoal-ar.fina</key>
 	<string>hehgoal-ar.fina.glif</string>
 	<key>hehgoal-ar.init</key>
 	<string>hehgoal-ar.init.glif</string>
+	<key>hehgoalHamzaabove-ar</key>
+	<string>hehgoalH_amzaabove-ar.glif</string>
+	<key>hehgoalHamzaabove-ar.fina</key>
+	<string>hehgoalH_amzaabove-ar.fina.glif</string>
 	<key>highhamza-ar</key>
 	<string>highhamza-ar.glif</string>
 	<key>jeem-ar</key>
@@ -468,6 +474,10 @@
 	<string>tehM_arbuta-ar.glif</string>
 	<key>tehMarbuta-ar.fina</key>
 	<string>tehM_arbuta-ar.fina.glif</string>
+	<key>tehMarbutagoal-ar</key>
+	<string>tehM_arbutagoal-ar.glif</string>
+	<key>tehMarbutagoal-ar.fina</key>
+	<string>tehM_arbutagoal-ar.fina.glif</string>
 	<key>temp</key>
 	<string>temp.glif</string>
 	<key>thal-ar</key>
