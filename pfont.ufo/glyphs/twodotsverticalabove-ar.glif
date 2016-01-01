@@ -4,10 +4,6 @@
   <unicode hex="FBBD"/>
   <outline>
     <contour>
-      <point x="116" y="971"/>
-      <point x="116" y="967"/>
-      <point x="119" y="965" type="curve" smooth="yes"/>
-      <point x="227" y="878" type="line" smooth="yes"/>
       <point x="228" y="877"/>
       <point x="231" y="877"/>
       <point x="232" y="878" type="curve" smooth="yes"/>
@@ -20,12 +16,12 @@
       <point x="213" y="1091"/>
       <point x="210" y="1089" type="curve"/>
       <point x="119" y="973" type="line" smooth="yes"/>
+      <point x="116" y="971"/>
+      <point x="116" y="967"/>
+      <point x="119" y="965" type="curve" smooth="yes"/>
+      <point x="227" y="878" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="113" y="710"/>
-      <point x="113" y="706"/>
-      <point x="116" y="704" type="curve" smooth="yes"/>
-      <point x="224" y="617" type="line" smooth="yes"/>
       <point x="225" y="616"/>
       <point x="228" y="616"/>
       <point x="229" y="617" type="curve" smooth="yes"/>
@@ -38,6 +34,10 @@
       <point x="210" y="830"/>
       <point x="207" y="828" type="curve"/>
       <point x="116" y="712" type="line" smooth="yes"/>
+      <point x="113" y="710"/>
+      <point x="113" y="706"/>
+      <point x="116" y="704" type="curve" smooth="yes"/>
+      <point x="224" y="617" type="line" smooth="yes"/>
     </contour>
     <contour>
       <point x="228" y="1254" type="move" name="top"/>
