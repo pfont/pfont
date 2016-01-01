@@ -4,6 +4,12 @@
   <unicode hex="FB93"/>
   <outline>
     <contour>
+      <point x="1434" y="1368" type="line"/>
+      <point x="1461" y="1467" type="line"/>
+      <point x="983" y="1316" type="line"/>
+      <point x="937" y="1210" type="line"/>
+    </contour>
+    <contour>
       <point x="840" y="-33"/>
       <point x="1123" y="18"/>
       <point x="1263" y="76" type="curve" smooth="yes"/>
@@ -43,12 +49,6 @@
       <point x="111" y="102"/>
       <point x="251" y="-17"/>
       <point x="568" y="-26" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="1434" y="1368" type="line"/>
-      <point x="1461" y="1467" type="line"/>
-      <point x="983" y="1316" type="line"/>
-      <point x="937" y="1210" type="line"/>
     </contour>
     <contour>
       <point x="1136" y="1539" type="move" name="top"/>

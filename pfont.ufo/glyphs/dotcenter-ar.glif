@@ -5,20 +5,20 @@
     <contour>
       <point x="513" y="415"/>
       <point x="517" y="415"/>
-      <point x="519" y="417" type="curve" smooth="yes"/>
+      <point x="519" y="417" type="curve"/>
       <point x="628" y="552" type="line" smooth="yes"/>
       <point x="635" y="561"/>
       <point x="637" y="578"/>
-      <point x="628" y="586" type="curve" smooth="yes"/>
-      <point x="500" y="691" type="line" smooth="yes"/>
+      <point x="628" y="586" type="curve"/>
+      <point x="500" y="691" type="line"/>
       <point x="498" y="693"/>
       <point x="493" y="695"/>
-      <point x="490" y="691" type="curve"/>
+      <point x="490" y="691" type="curve" smooth="yes"/>
       <point x="370" y="541" type="line" smooth="yes"/>
       <point x="367" y="537"/>
       <point x="367" y="533"/>
-      <point x="370" y="530" type="curve" smooth="yes"/>
-      <point x="511" y="417" type="line" smooth="yes"/>
+      <point x="370" y="530" type="curve"/>
+      <point x="511" y="417" type="line"/>
     </contour>
     <contour>
       <point x="521" y="408" type="move" name="_center"/>
