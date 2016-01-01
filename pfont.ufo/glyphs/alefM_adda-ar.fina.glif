@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alefMadda-ar.fina" format="1">
-  <advance width="567"/>
+  <advance width="585"/>
   <unicode hex="FE82"/>
   <outline>
     <component base="alef-ar.fina.short"/>

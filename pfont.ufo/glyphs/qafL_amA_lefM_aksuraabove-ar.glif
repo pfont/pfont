@@ -4,12 +4,9 @@
   <unicode hex="06D7"/>
   <outline>
     <contour>
-      <point x="431" y="1342"/>
-      <point x="616" y="1349"/>
-      <point x="796" y="1359" type="curve"/>
-      <point x="822" y="1419" type="line"/>
-      <point x="696" y="1409"/>
-      <point x="491" y="1399"/>
+      <point x="808" y="1418" type="line"/>
+      <point x="681" y="1408"/>
+      <point x="486" y="1399"/>
       <point x="349" y="1396" type="curve" smooth="yes"/>
       <point x="240" y="1394"/>
       <point x="125" y="1389"/>
@@ -35,8 +32,9 @@
       <point x="415" y="1585"/>
       <point x="372" y="1685" type="curve" smooth="yes"/>
       <point x="359" y="1715"/>
-      <point x="353" y="1754"/>
-      <point x="336" y="2107" type="curve"/>
+      <point x="353" y="1753"/>
+      <point x="337" y="2094" type="curve"/>
+      <point x="329" y="2101" type="line"/>
       <point x="282" y="2063" type="line"/>
       <point x="308" y="1625" type="line"/>
       <point x="184" y="1598"/>
@@ -48,6 +46,10 @@
       <point x="158" y="1330"/>
       <point x="261" y="1335"/>
       <point x="341" y="1338" type="curve" smooth="yes"/>
+      <point x="431" y="1342"/>
+      <point x="616" y="1349"/>
+      <point x="796" y="1359" type="curve"/>
+      <point x="817" y="1407" type="line"/>
     </contour>
     <contour>
       <point x="628" y="1715"/>
