@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seenDotbelowDotabove-ar.medi" format="1">
-  <advance width="1620"/>
+  <advance width="1666"/>
   <outline>
     <component base="seen-ar.medi"/>
-    <component base="dotabove-ar" xOffset="598" yOffset="111"/>
-    <component base="dotbelow-ar" xOffset="506" yOffset="-114"/>
+    <component base="dotabove-ar" xOffset="644" yOffset="111"/>
+    <component base="dotbelow-ar" xOffset="552" yOffset="-114"/>
   </outline>
 </glyph>
