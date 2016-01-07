@@ -4,6 +4,6 @@
   <unicode hex="0691"/>
   <outline>
     <component base="reh-ar"/>
-    <component base="tahabove-ar" xOffset="272" yOffset="-664"/>
+    <component base="tahabove-ar" xOffset="297" yOffset="-683"/>
   </outline>
 </glyph>
