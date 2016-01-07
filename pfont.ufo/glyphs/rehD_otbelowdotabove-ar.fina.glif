@@ -2,8 +2,8 @@
 <glyph name="rehDotbelowdotabove-ar.fina" format="1">
   <advance width="766"/>
   <outline>
-    <component base="dotcenter-ar" xOffset="-268" yOffset="-406"/>
+    <component base="dotcenter-ar" xOffset="110" yOffset="-410"/>
     <component base="reh-ar.fina"/>
-    <component base="dotcenter-ar" xOffset="168" yOffset="-1018"/>
+    <component base="dotcenter-ar" xOffset="600" yOffset="-1000"/>
   </outline>
 </glyph>
