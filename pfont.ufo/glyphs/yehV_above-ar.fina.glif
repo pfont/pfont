@@ -2,7 +2,7 @@
 <glyph name="yehVabove-ar.fina" format="1">
   <advance width="1396"/>
   <outline>
-    <component base="yeh-farsi.fina"/>
-    <component base="caron" xOffset="298" yOffset="-556"/>
+    <component base="alefMaksura-ar.fina"/>
+    <component base="vabove-ar" xOffset="267" yOffset="-470"/>
   </outline>
 </glyph>

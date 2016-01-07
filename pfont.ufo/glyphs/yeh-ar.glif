@@ -3,7 +3,7 @@
   <advance width="1380"/>
   <unicode hex="064A"/>
   <outline>
-    <component base="yeh-farsi"/>
+    <component base="alefMaksura-ar"/>
     <component base="twodotshorizontalbelow-ar" xOffset="218" yOffset="-549"/>
   </outline>
 </glyph>
