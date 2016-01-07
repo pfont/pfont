@@ -4,6 +4,6 @@
   <unicode hex="FB68"/>
   <outline>
     <component base="dotlessbeh-ar.init"/>
-    <component base="tahabove-ar" xOffset="213" yOffset="-523"/>
+    <component base="tahabove-ar" xOffset="173" yOffset="-542"/>
   </outline>
 </glyph>

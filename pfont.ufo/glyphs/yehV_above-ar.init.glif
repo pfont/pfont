@@ -3,6 +3,6 @@
   <advance width="620"/>
   <outline>
     <component base="yeh-ar.init"/>
-    <component base="vabove-ar" xOffset="198" yOffset="100"/>
+    <component base="vabove-ar" xOffset="158" yOffset="81"/>
   </outline>
 </glyph>
