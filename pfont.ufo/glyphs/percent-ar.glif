@@ -4,36 +4,16 @@
   <unicode hex="066A"/>
   <outline>
     <contour>
-      <point x="736" y="1037" type="line"/>
-      <point x="733" y="1097"/>
-      <point x="716" y="1142"/>
-      <point x="686" y="1178" type="curve"/>
-      <point x="114" y="100" type="line"/>
-      <point x="131" y="59"/>
-      <point x="156" y="25"/>
-      <point x="187" y="0" type="curve"/>
+      <point x="736" y="997" type="line"/>
+      <point x="733" y="1057"/>
+      <point x="716" y="1102"/>
+      <point x="686" y="1138" type="curve"/>
+      <point x="114" y="60" type="line"/>
+      <point x="131" y="19"/>
+      <point x="156" y="-15"/>
+      <point x="187" y="-40" type="curve"/>
     </contour>
-    <contour>
-      <point x="761" y="188" type="line"/>
-      <point x="789" y="230"/>
-      <point x="798" y="237"/>
-      <point x="753" y="268" type="curve" smooth="yes"/>
-      <point x="707" y="300"/>
-      <point x="631" y="342"/>
-      <point x="631" y="342" type="curve"/>
-      <point x="519" y="178" type="line"/>
-      <point x="680" y="76" type="line"/>
-    </contour>
-    <contour>
-      <point x="323" y="883" type="line"/>
-      <point x="351" y="925"/>
-      <point x="360" y="932"/>
-      <point x="315" y="963" type="curve" smooth="yes"/>
-      <point x="269" y="995"/>
-      <point x="193" y="1037"/>
-      <point x="193" y="1037" type="curve"/>
-      <point x="81" y="873" type="line"/>
-      <point x="242" y="771" type="line"/>
-    </contour>
+    <component base="period" xOffset="455" yOffset="93" xScale="0.803" yScale="0.803"/>
+    <component base="period" xOffset="17" yOffset="788" xScale="0.803" yScale="0.803"/>
   </outline>
 </glyph>

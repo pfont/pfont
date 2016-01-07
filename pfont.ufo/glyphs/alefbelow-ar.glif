@@ -5,10 +5,10 @@
   <outline>
     <component base="alefabove-ar" yOffset="-1439"/>
     <contour>
-      <point x="50" y="-98" type="move" name="_bottom"/>
+      <point x="50" y="-111" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="50" y="-606" type="move" name="bottom"/>
+      <point x="50" y="-666" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

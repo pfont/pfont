@@ -1,81 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fourdotsabove-ar" format="1">
-  <advance width="560"/>
+  <advance width="0"/>
   <unicode hex="FBBA"/>
   <outline>
+    <component base="dotcenter-ar" yOffset="274" xScale="0.772" yScale="0.772"/>
+    <component base="dotcenter-ar" yOffset="495" xScale="0.772" yScale="0.772"/>
+    <component base="dotcenter-ar" xOffset="203" yOffset="286" xScale="0.772" yScale="0.772"/>
+    <component base="dotcenter-ar" xOffset="203" yOffset="507" xScale="0.772" yScale="0.772"/>
     <contour>
-      <point x="193" y="825" type="line"/>
-      <point x="271" y="921" type="line" smooth="yes"/>
-      <point x="277" y="928"/>
-      <point x="278" y="939"/>
-      <point x="271" y="945" type="curve" smooth="yes"/>
-      <point x="181" y="1018" type="line"/>
-      <point x="180" y="1020"/>
-      <point x="176" y="1021"/>
-      <point x="173" y="1018" type="curve"/>
-      <point x="90" y="913" type="line"/>
-      <point x="86" y="910"/>
-      <point x="86" y="907"/>
-      <point x="90" y="905" type="curve"/>
-      <point x="189" y="825" type="line"/>
+      <point x="197" y="1183" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="193" y="605" type="line"/>
-      <point x="271" y="701" type="line"/>
-      <point x="277" y="707"/>
-      <point x="278" y="718"/>
-      <point x="271" y="724" type="curve" smooth="yes"/>
-      <point x="181" y="798" type="line"/>
-      <point x="180" y="799"/>
-      <point x="176" y="800"/>
-      <point x="173" y="798" type="curve"/>
-      <point x="90" y="692" type="line"/>
-      <point x="86" y="690"/>
-      <point x="86" y="687"/>
-      <point x="90" y="684" type="curve" smooth="yes"/>
-      <point x="189" y="605" type="line"/>
-    </contour>
-    <contour>
-      <point x="393" y="616"/>
-      <point x="396" y="616"/>
-      <point x="397" y="617" type="curve"/>
-      <point x="474" y="713" type="line"/>
-      <point x="480" y="719"/>
-      <point x="481" y="731"/>
-      <point x="474" y="737" type="curve" smooth="yes"/>
-      <point x="384" y="810" type="line"/>
-      <point x="383" y="812"/>
-      <point x="379" y="812"/>
-      <point x="376" y="810" type="curve"/>
-      <point x="293" y="704" type="line"/>
-      <point x="290" y="702"/>
-      <point x="290" y="700"/>
-      <point x="293" y="697" type="curve"/>
-      <point x="392" y="617" type="line"/>
-    </contour>
-    <contour>
-      <point x="393" y="837"/>
-      <point x="396" y="837"/>
-      <point x="397" y="838" type="curve"/>
-      <point x="474" y="934" type="line"/>
-      <point x="480" y="939"/>
-      <point x="481" y="951"/>
-      <point x="474" y="958" type="curve"/>
-      <point x="384" y="1031" type="line"/>
-      <point x="383" y="1033"/>
-      <point x="379" y="1033"/>
-      <point x="376" y="1031" type="curve"/>
-      <point x="293" y="925" type="line"/>
-      <point x="290" y="923"/>
-      <point x="290" y="920"/>
-      <point x="293" y="917" type="curve"/>
-      <point x="392" y="838" type="line"/>
-    </contour>
-    <contour>
-      <point x="280" y="1186" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="280" y="622" type="move" name="_top"/>
+      <point x="195" y="604" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

@@ -9,16 +9,6 @@
       <point x="125" y="1184" type="line"/>
       <point x="161" y="336" type="line"/>
     </contour>
-    <contour>
-      <point x="322" y="32" type="line"/>
-      <point x="350" y="74"/>
-      <point x="359" y="81"/>
-      <point x="314" y="112" type="curve" smooth="yes"/>
-      <point x="268" y="144"/>
-      <point x="192" y="186"/>
-      <point x="192" y="186" type="curve"/>
-      <point x="80" y="22" type="line"/>
-      <point x="241" y="-80" type="line"/>
-    </contour>
+    <component base="period" xOffset="16" yOffset="-23" xScale="0.803" yScale="0.803"/>
   </outline>
 </glyph>

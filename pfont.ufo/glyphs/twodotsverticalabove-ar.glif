@@ -1,49 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twodotsverticalabove-ar" format="1">
-  <advance width="462"/>
+  <advance width="0"/>
   <unicode hex="FBBD"/>
   <outline>
+    <component base="dotcenter-ar" yOffset="255" xScale="0.844" yScale="0.844"/>
+    <component base="dotcenter-ar" xOffset="3" yOffset="516" xScale="0.844" yScale="0.844"/>
     <contour>
-      <point x="228" y="877"/>
-      <point x="231" y="877"/>
-      <point x="232" y="878" type="curve"/>
-      <point x="317" y="982" type="line" smooth="yes"/>
-      <point x="323" y="989"/>
-      <point x="324" y="1002"/>
-      <point x="317" y="1008" type="curve" smooth="yes"/>
-      <point x="218" y="1089" type="line"/>
-      <point x="217" y="1090"/>
-      <point x="213" y="1091"/>
-      <point x="210" y="1089" type="curve"/>
-      <point x="119" y="973" type="line"/>
-      <point x="116" y="971"/>
-      <point x="116" y="967"/>
-      <point x="119" y="965" type="curve"/>
-      <point x="227" y="878" type="line"/>
+      <point x="102" y="1242" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="225" y="616"/>
-      <point x="228" y="616"/>
-      <point x="229" y="617" type="curve"/>
-      <point x="314" y="721" type="line" smooth="yes"/>
-      <point x="320" y="728"/>
-      <point x="321" y="741"/>
-      <point x="314" y="747" type="curve" smooth="yes"/>
-      <point x="215" y="828" type="line"/>
-      <point x="214" y="829"/>
-      <point x="210" y="830"/>
-      <point x="207" y="828" type="curve"/>
-      <point x="116" y="712" type="line"/>
-      <point x="113" y="710"/>
-      <point x="113" y="706"/>
-      <point x="116" y="704" type="curve"/>
-      <point x="224" y="617" type="line"/>
-    </contour>
-    <contour>
-      <point x="228" y="1254" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="237" y="615" type="move" name="_top"/>
+      <point x="115" y="616" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

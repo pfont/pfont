@@ -5,7 +5,7 @@
   <outline>
     <component base="hamzacenter-ar" yOffset="-8"/>
     <contour>
-      <point x="248" y="1201" type="move" name="top"/>
+      <point x="248" y="1181" type="move" name="top"/>
     </contour>
     <contour>
       <point x="248" y="470" type="move" name="_top"/>

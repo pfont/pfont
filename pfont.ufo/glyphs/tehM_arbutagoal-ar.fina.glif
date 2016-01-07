@@ -3,6 +3,6 @@
   <advance width="1012"/>
   <outline>
     <component base="hehgoal-ar.fina"/>
-    <component base="twodotshorizontalabove-ar" xOffset="118" yOffset="-137"/>
+    <component base="twodotshorizontalabove-ar" xOffset="277" yOffset="-146"/>
   </outline>
 </glyph>

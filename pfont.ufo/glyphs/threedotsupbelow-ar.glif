@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threedotsupbelow-ar" format="1">
-  <advance width="713"/>
+  <advance width="0"/>
   <unicode hex="FBB7"/>
   <outline>
     <component base="threedotsupabove-ar" yOffset="-1108"/>
     <contour>
-      <point x="360" y="-710" type="move" name="_bottom"/>
+      <point x="230" y="-685" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="349" y="-98" type="move" name="bottom"/>
+      <point x="218" y="-116" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

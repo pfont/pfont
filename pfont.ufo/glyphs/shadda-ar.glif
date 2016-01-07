@@ -35,7 +35,7 @@
       <point x="75" y="948" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="285" y="1423" type="move" name="top"/>
+      <point x="285" y="1403" type="move" name="top"/>
     </contour>
     <contour>
       <point x="285" y="943" type="move" name="_top"/>

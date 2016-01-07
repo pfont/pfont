@@ -3,17 +3,7 @@
   <advance width="1264"/>
   <unicode hex="0609"/>
   <outline>
-    <contour>
-      <point x="1160" y="188" type="line"/>
-      <point x="1188" y="230"/>
-      <point x="1197" y="237"/>
-      <point x="1152" y="268" type="curve" smooth="yes"/>
-      <point x="1106" y="300"/>
-      <point x="1030" y="342"/>
-      <point x="1030" y="342" type="curve"/>
-      <point x="918" y="178" type="line"/>
-      <point x="1079" y="76" type="line"/>
-    </contour>
     <component base="percent-ar"/>
+    <component base="period" xOffset="854" yOffset="113" xScale="0.803" yScale="0.803"/>
   </outline>
 </glyph>

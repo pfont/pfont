@@ -3,6 +3,6 @@
   <advance width="1396"/>
   <outline>
     <component base="alefMaksura-ar.fina"/>
-    <component base="vabove-ar" xOffset="267" yOffset="-470"/>
+    <component base="vabove-ar" xOffset="267" yOffset="-490"/>
   </outline>
 </glyph>

@@ -3,7 +3,7 @@
   <advance width="1496"/>
   <outline>
     <component base="seen-ar.init"/>
-    <component base="dotabove-ar" xOffset="645" yOffset="97"/>
-    <component base="dotbelow-ar" xOffset="557" yOffset="-114"/>
+    <component base="dotabove-ar" xOffset="751" yOffset="77"/>
+    <component base="dotbelow-ar" xOffset="694" yOffset="-91"/>
   </outline>
 </glyph>

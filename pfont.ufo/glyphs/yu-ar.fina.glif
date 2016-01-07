@@ -4,6 +4,6 @@
   <unicode hex="FBDC"/>
   <outline>
     <component base="waw-ar.fina"/>
-    <component base="alefabove-ar" xOffset="466" yOffset="15"/>
+    <component base="alefabove-ar" xOffset="466" yOffset="8"/>
   </outline>
 </glyph>
