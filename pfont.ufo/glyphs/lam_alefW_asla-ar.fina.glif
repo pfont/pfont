@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lam_alefWasla-ar.fina" format="1">
-  <advance width="1071"/>
+  <advance width="1245"/>
   <outline>
-    <component base="lam-ar.init" xOffset="600"/>
-    <component base="alefWasla-ar.fina"/>
+    <component base="lam_alef-ar.fina"/>
+    <component base="wasla-ar"/>
   </outline>
   <lib>
     <dict>

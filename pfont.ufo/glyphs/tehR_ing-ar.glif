@@ -72,41 +72,6 @@
       <point x="486" y="-177"/>
       <point x="484" y="-149" type="curve"/>
     </contour>
-    <contour>
-      <point x="839" y="680"/>
-      <point x="843" y="680"/>
-      <point x="844" y="681" type="curve"/>
-      <point x="937" y="795" type="line" smooth="yes"/>
-      <point x="944" y="802"/>
-      <point x="945" y="816"/>
-      <point x="937" y="823" type="curve"/>
-      <point x="828" y="911" type="line"/>
-      <point x="828" y="913"/>
-      <point x="823" y="914"/>
-      <point x="820" y="911" type="curve"/>
-      <point x="721" y="785" type="line"/>
-      <point x="717" y="782"/>
-      <point x="717" y="779"/>
-      <point x="721" y="776" type="curve"/>
-      <point x="839" y="681" type="line"/>
-    </contour>
-    <contour>
-      <point x="590" y="655"/>
-      <point x="593" y="655"/>
-      <point x="594" y="656" type="curve"/>
-      <point x="688" y="770" type="line" smooth="yes"/>
-      <point x="694" y="778"/>
-      <point x="695" y="791"/>
-      <point x="688" y="799" type="curve"/>
-      <point x="579" y="886" type="line"/>
-      <point x="578" y="888"/>
-      <point x="573" y="889"/>
-      <point x="570" y="886" type="curve"/>
-      <point x="471" y="760" type="line"/>
-      <point x="467" y="757"/>
-      <point x="467" y="754"/>
-      <point x="471" y="751" type="curve"/>
-      <point x="589" y="656" type="line"/>
-    </contour>
+    <component base="twodotshorizontalabove-ar" xOffset="314" yOffset="-104"/>
   </outline>
 </glyph>
