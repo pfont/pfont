@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rehRing-ar" format="1">
-  <advance width="600"/>
+  <advance width="766"/>
   <unicode hex="0693"/>
   <outline>
+    <component base="reh-ar"/>
+    <component base="ringcenter-ar" xOffset="355" yOffset="-1199"/>
   </outline>
 </glyph>
