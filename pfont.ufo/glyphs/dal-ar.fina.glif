@@ -36,10 +36,10 @@
       <point x="300" y="-49" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="566" y="1053" type="move" name="top"/>
+      <point x="676" y="1042" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="392" y="-269" type="move" name="bottom"/>
+      <point x="358" y="-200" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
