@@ -391,6 +391,7 @@
 		<string>twodotshorizontalbelow-ar</string>
 		<string>threedotsdownabove-ar</string>
 		<string>threedotsdownbelow-ar</string>
+		<string>threedotsdowncenter-ar</string>
 		<string>threedotsupabove-ar</string>
 		<string>threedotsupbelow-ar</string>
 		<string>fourdotsabove-ar</string>
@@ -419,8 +420,8 @@
 		<string>vinvertedbelow-ar</string>
 		<string>sadLamAlefMaksuraabove-ar</string>
 		<string>qafLamAlefMaksuraabove-ar</string>
-		<string>vcenter-ar</string>
 		<string>temp</string>
+		<string>vcenter-ar</string>
 	</array>
 </dict>
 </plist>
