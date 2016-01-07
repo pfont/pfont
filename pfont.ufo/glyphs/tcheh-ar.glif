@@ -3,24 +3,7 @@
   <advance width="1218"/>
   <unicode hex="0686"/>
   <outline>
-    <contour>
-      <point x="1007" y="-9" type="line"/>
-      <point x="875" y="95" type="line"/>
-      <point x="765" y="-24" type="line"/>
-      <point x="904" y="-125" type="line"/>
-    </contour>
-    <contour>
-      <point x="871" y="-201" type="line"/>
-      <point x="743" y="-103" type="line"/>
-      <point x="634" y="-221" type="line"/>
-      <point x="762" y="-319" type="line"/>
-    </contour>
-    <contour>
-      <point x="714" y="-18" type="line"/>
-      <point x="586" y="86" type="line"/>
-      <point x="479" y="-33" type="line"/>
-      <point x="608" y="-135" type="line"/>
-    </contour>
     <component base="hah-ar"/>
+    <component base="threedotsdowncenter-ar" xOffset="441" yOffset="-632" xScale="1.094" yScale="1.094"/>
   </outline>
 </glyph>
