@@ -6,7 +6,7 @@
     <component base="dotcenter-ar" xOffset="249" yOffset="102" xScale="0.844" yScale="0.844"/>
     <component base="dotcenter-ar" xOffset="126" yOffset="-86" xScale="0.844" yScale="0.844"/>
     <contour>
-      <point x="253" y="406" type="move" name="_center"/>
+      <point x="241" y="522" type="move" name="_center"/>
     </contour>
   </outline>
 </glyph>
