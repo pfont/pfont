@@ -33,12 +33,9 @@
       <point x="501" y="79"/>
       <point x="526" y="182" type="curve"/>
     </contour>
-    <component base="threedotsdownbelow-ar" xOffset="2" yOffset="-21"/>
+    <component base="threedotsdownbelow-ar" xOffset="42" yOffset="-21"/>
     <contour>
-      <point x="377" y="981" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="224" y="-157" type="move" name="bottom"/>
+      <point x="453" y="1008" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>
