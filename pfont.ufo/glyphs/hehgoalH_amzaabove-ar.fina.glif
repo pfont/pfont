@@ -3,6 +3,6 @@
   <advance width="1012"/>
   <outline>
     <component base="hehgoal-ar.fina"/>
-    <component base="hamzaabove-ar" xOffset="265" yOffset="144"/>
+    <component base="hamzaabove-ar" xOffset="263" yOffset="36"/>
   </outline>
 </glyph>
