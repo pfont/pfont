@@ -3,6 +3,6 @@
   <advance width="1397"/>
   <outline>
     <component base="hah-ar.medi"/>
-    <component base="hamzaabove-ar" xOffset="260" yOffset="448"/>
+    <component base="hamzaabove-ar" xOffset="325" yOffset="362"/>
   </outline>
 </glyph>
