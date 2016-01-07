@@ -29,6 +29,8 @@
 		<string>alefHamzabelow-ar.fina</string>
 		<string>alefMadda-ar</string>
 		<string>alefMadda-ar.fina</string>
+		<string>alefWasla-ar</string>
+		<string>alefWasla-ar.fina</string>
 		<string>dotlessbeh-ar.fina</string>
 		<string>dotlessbeh-ar.medi</string>
 		<string>dotlessbeh-ar.init</string>
@@ -46,10 +48,15 @@
 		<string>teh-ar.fina</string>
 		<string>teh-ar.medi</string>
 		<string>teh-ar.init</string>
+		<string>tehRing-ar</string>
 		<string>theh-ar</string>
 		<string>theh-ar.fina</string>
 		<string>theh-ar.medi</string>
 		<string>theh-ar.init</string>
+		<string>tteh-ar</string>
+		<string>tteh-ar.fina</string>
+		<string>tteh-ar.medi</string>
+		<string>tteh-ar.init</string>
 		<string>jeem-ar</string>
 		<string>jeem-ar.fina</string>
 		<string>jeem-ar.medi</string>
@@ -78,10 +85,16 @@
 		<string>dal-ar.fina</string>
 		<string>thal-ar</string>
 		<string>thal-ar.fina</string>
+		<string>ddal-ar</string>
+		<string>ddal-ar.fina</string>
+		<string>dalVinvertedabove-ar</string>
 		<string>reh-ar</string>
 		<string>reh-ar.fina</string>
 		<string>zain-ar</string>
 		<string>zain-ar.fina</string>
+		<string>rreh-ar</string>
+		<string>rreh-ar.fina</string>
+		<string>rehRing-ar</string>
 		<string>rehVbelow-ar</string>
 		<string>rehVbelow-ar.fina</string>
 		<string>rehDotbelowdotabove-ar</string>
@@ -182,10 +195,12 @@
 		<string>heh-ar.init</string>
 		<string>hehgoal-ar</string>
 		<string>hehgoal-ar.fina</string>
+		<string>hehgoal-ar.medi</string>
 		<string>hehgoal-ar.init</string>
 		<string>hehgoalHamzaabove-ar</string>
 		<string>hehgoalHamzaabove-ar.fina</string>
 		<string>hehDoachashmee-ar</string>
+		<string>hehDoachashmee-ar.fina</string>
 		<string>hehDoachashmee-ar.medi</string>
 		<string>hehDoachashmee-ar.init</string>
 		<string>tehMarbuta-ar</string>
@@ -224,12 +239,19 @@
 		<string>yeh-farsi.fina</string>
 		<string>yeh-farsi.medi</string>
 		<string>yeh-farsi.init</string>
+		<string>yehTail-ar</string>
 		<string>e-ar</string>
 		<string>e-ar.fina</string>
 		<string>e-ar.medi</string>
 		<string>e-ar.init</string>
+		<string>yehbarree-ar</string>
+		<string>yehbarree-ar.fina</string>
+		<string>yehbarree-ar.fina.001</string>
+		<string>yehbarreeHamzaabove-ar</string>
+		<string>yehbarreeHamzaabove-ar.fina</string>
 		<string>ae-ar</string>
 		<string>ae-ar.fina</string>
+		<string>kashida-ar</string>
 		<string>lam_alef-ar</string>
 		<string>lam_alef-ar.fina</string>
 		<string>lam_alefHamzaabove-ar</string>
@@ -238,7 +260,11 @@
 		<string>lam_alefHamzabelow-ar.fina</string>
 		<string>lam_alefMadda-ar</string>
 		<string>lam_alefMadda-ar.fina</string>
+		<string>lam_alefWasla-ar</string>
+		<string>lam_alefWasla-ar.fina</string>
 		<string>allah-ar</string>
+		<string>decimalseparator-ar</string>
+		<string>thousandseparator-ar</string>
 		<string>zero-ar</string>
 		<string>one-ar</string>
 		<string>two-ar</string>
@@ -268,11 +294,14 @@
 		<string>period</string>
 		<string>guillemetleft</string>
 		<string>guillemetright</string>
+		<string>fullstop-ar</string>
 		<string>comma-ar</string>
 		<string>semicolon-ar</string>
 		<string>question-ar</string>
 		<string>asterisk-ar</string>
 		<string>endofayah-ar</string>
+		<string>parenleft-ar</string>
+		<string>parenright-ar</string>
 		<string>space</string>
 		<string>nbspace</string>
 		<string>zerowidthspace</string>
@@ -286,6 +315,7 @@
 		<string>perthousand-ar</string>
 		<string>pertenthousand-ar</string>
 		<string>caron</string>
+		<string>tahabove-ar</string>
 		<string>alefLamYehabove-ar</string>
 		<string>dotabove-ar</string>
 		<string>dotbelow-ar</string>
@@ -300,6 +330,7 @@
 		<string>threedotsupbelow-ar</string>
 		<string>fourdotsabove-ar</string>
 		<string>fourdotsbelow-ar</string>
+		<string>wasla-ar</string>
 		<string>alefabove-ar</string>
 		<string>alefbelow-ar</string>
 		<string>hamzaabove-ar</string>
@@ -314,6 +345,7 @@
 		<string>shadda-ar</string>
 		<string>sukun-ar</string>
 		<string>madda-ar</string>
+		<string>noonghunnaabove-ar</string>
 		<string>sadLamAlefMaksuraabove-ar</string>
 		<string>qafLamAlefMaksuraabove-ar</string>
 		<string>temp</string>

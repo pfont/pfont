@@ -3,17 +3,22 @@
   <advance width="437"/>
   <outline>
     <contour>
-      <point x="248" y="-18" type="line" smooth="yes"/>
-      <point x="294" y="-4"/>
-      <point x="315" y="16"/>
-      <point x="315" y="71" type="curve"/>
-      <point x="308" y="1182" type="line"/>
-      <point x="300" y="1187" type="line"/>
-      <point x="226" y="1131" type="line" smooth="yes"/>
-      <point x="169" y="1088"/>
-      <point x="162" y="1037"/>
-      <point x="163" y="956" type="curve"/>
-      <point x="210" y="-29" type="line"/>
+      <point x="306" y="-3" type="line" smooth="yes"/>
+      <point x="311" y="-1"/>
+      <point x="315" y="3"/>
+      <point x="315" y="10" type="curve" smooth="yes"/>
+      <point x="308" y="1171" type="line" smooth="yes"/>
+      <point x="308" y="1187"/>
+      <point x="294" y="1194"/>
+      <point x="281" y="1187" type="curve" smooth="yes"/>
+      <point x="164" y="1124" type="line" smooth="yes"/>
+      <point x="160" y="1122"/>
+      <point x="157" y="1118"/>
+      <point x="157" y="1112" type="curve" smooth="yes"/>
+      <point x="209" y="-13" type="line" smooth="yes"/>
+      <point x="210" y="-25"/>
+      <point x="221" y="-33"/>
+      <point x="232" y="-29" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="255" y="1293" type="move" name="top"/>
@@ -22,4 +27,21 @@
       <point x="231" y="-190" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>300</integer>
+          <key>y</key>
+          <integer>1187</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

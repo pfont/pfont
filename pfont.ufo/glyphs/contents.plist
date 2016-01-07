@@ -46,6 +46,10 @@
 	<string>alefM_aksura-ar.init.glif</string>
 	<key>alefMaksura-ar.medi</key>
 	<string>alefM_aksura-ar.medi.glif</string>
+	<key>alefWasla-ar</key>
+	<string>alefW_asla-ar.glif</string>
+	<key>alefWasla-ar.fina</key>
+	<string>alefW_asla-ar.fina.glif</string>
 	<key>alefabove-ar</key>
 	<string>alefabove-ar.glif</string>
 	<key>alefbelow-ar</key>
@@ -80,10 +84,18 @@
 	<string>dal-ar.glif</string>
 	<key>dal-ar.fina</key>
 	<string>dal-ar.fina.glif</string>
+	<key>dalVinvertedabove-ar</key>
+	<string>dalV_invertedabove-ar.glif</string>
 	<key>damma-ar</key>
 	<string>damma-ar.glif</string>
 	<key>dammatan-ar</key>
 	<string>dammatan-ar.glif</string>
+	<key>ddal-ar</key>
+	<string>ddal-ar.glif</string>
+	<key>ddal-ar.fina</key>
+	<string>ddal-ar.fina.glif</string>
+	<key>decimalseparator-ar</key>
+	<string>decimalseparator-ar.glif</string>
 	<key>dotabove-ar</key>
 	<string>dotabove-ar.glif</string>
 	<key>dotbelow-ar</key>
@@ -154,6 +166,8 @@
 	<string>fourdotsabove-ar.glif</string>
 	<key>fourdotsbelow-ar</key>
 	<string>fourdotsbelow-ar.glif</string>
+	<key>fullstop-ar</key>
+	<string>fullstop-ar.glif</string>
 	<key>gaf-ar</key>
 	<string>gaf-ar.glif</string>
 	<key>gaf-ar.fina</key>
@@ -216,6 +230,8 @@
 	<string>heh-ar.medi.glif</string>
 	<key>hehDoachashmee-ar</key>
 	<string>hehD_oachashmee-ar.glif</string>
+	<key>hehDoachashmee-ar.fina</key>
+	<string>hehD_oachashmee-ar.fina.glif</string>
 	<key>hehDoachashmee-ar.init</key>
 	<string>hehD_oachashmee-ar.init.glif</string>
 	<key>hehDoachashmee-ar.medi</key>
@@ -226,6 +242,8 @@
 	<string>hehgoal-ar.fina.glif</string>
 	<key>hehgoal-ar.init</key>
 	<string>hehgoal-ar.init.glif</string>
+	<key>hehgoal-ar.medi</key>
+	<string>hehgoal-ar.medi.glif</string>
 	<key>hehgoalHamzaabove-ar</key>
 	<string>hehgoalH_amzaabove-ar.glif</string>
 	<key>hehgoalHamzaabove-ar.fina</key>
@@ -252,6 +270,8 @@
 	<string>kaf-ar.init.glif</string>
 	<key>kaf-ar.medi</key>
 	<string>kaf-ar.medi.glif</string>
+	<key>kashida-ar</key>
+	<string>kashida-ar.glif</string>
 	<key>kasra-ar</key>
 	<string>kasra-ar.glif</string>
 	<key>kasratan-ar</key>
@@ -304,6 +324,10 @@
 	<string>lam_alefM_adda-ar.glif</string>
 	<key>lam_alefMadda-ar.fina</key>
 	<string>lam_alefM_adda-ar.fina.glif</string>
+	<key>lam_alefWasla-ar</key>
+	<string>lam_alefW_asla-ar.glif</string>
+	<key>lam_alefWasla-ar.fina</key>
+	<string>lam_alefW_asla-ar.fina.glif</string>
 	<key>lefttorightmark</key>
 	<string>lefttorightmark.glif</string>
 	<key>madda-ar</key>
@@ -342,6 +366,8 @@
 	<string>noonghunna-ar.glif</string>
 	<key>noonghunna-ar.fina</key>
 	<string>noonghunna-ar.fina.glif</string>
+	<key>noonghunnaabove-ar</key>
+	<string>noonghunnaabove-ar.glif</string>
 	<key>oe-ar</key>
 	<string>oe-ar.glif</string>
 	<key>oe-ar.fina</key>
@@ -350,6 +376,10 @@
 	<string>one-ar.glif</string>
 	<key>one-persian</key>
 	<string>one-persian.glif</string>
+	<key>parenleft-ar</key>
+	<string>parenleft-ar.glif</string>
+	<key>parenright-ar</key>
+	<string>parenright-ar.glif</string>
 	<key>peh-ar</key>
 	<string>peh-ar.glif</string>
 	<key>peh-ar.fina</key>
@@ -386,12 +416,18 @@
 	<string>rehD_otbelowdotabove-ar.glif</string>
 	<key>rehDotbelowdotabove-ar.fina</key>
 	<string>rehD_otbelowdotabove-ar.fina.glif</string>
+	<key>rehRing-ar</key>
+	<string>rehR_ing-ar.glif</string>
 	<key>rehVbelow-ar</key>
 	<string>rehV_below-ar.glif</string>
 	<key>rehVbelow-ar.fina</key>
 	<string>rehV_below-ar.fina.glif</string>
 	<key>righttoleftmark</key>
 	<string>righttoleftmark.glif</string>
+	<key>rreh-ar</key>
+	<string>rreh-ar.glif</string>
+	<key>rreh-ar.fina</key>
+	<string>rreh-ar.fina.glif</string>
 	<key>sad-ar</key>
 	<string>sad-ar.glif</string>
 	<key>sad-ar.fina</key>
@@ -454,6 +490,8 @@
 	<string>tah-ar.init.glif</string>
 	<key>tah-ar.medi</key>
 	<string>tah-ar.medi.glif</string>
+	<key>tahabove-ar</key>
+	<string>tahabove-ar.glif</string>
 	<key>tcheh-ar</key>
 	<string>tcheh-ar.glif</string>
 	<key>tcheh-ar.fina</key>
@@ -478,6 +516,8 @@
 	<string>tehM_arbutagoal-ar.glif</string>
 	<key>tehMarbutagoal-ar.fina</key>
 	<string>tehM_arbutagoal-ar.fina.glif</string>
+	<key>tehRing-ar</key>
+	<string>tehR_ing-ar.glif</string>
 	<key>temp</key>
 	<string>temp.glif</string>
 	<key>thal-ar</key>
@@ -492,6 +532,8 @@
 	<string>theh-ar.init.glif</string>
 	<key>theh-ar.medi</key>
 	<string>theh-ar.medi.glif</string>
+	<key>thousandseparator-ar</key>
+	<string>thousandseparator-ar.glif</string>
 	<key>three-ar</key>
 	<string>three-ar.glif</string>
 	<key>three-persian</key>
@@ -504,6 +546,14 @@
 	<string>threedotsupabove-ar.glif</string>
 	<key>threedotsupbelow-ar</key>
 	<string>threedotsupbelow-ar.glif</string>
+	<key>tteh-ar</key>
+	<string>tteh-ar.glif</string>
+	<key>tteh-ar.fina</key>
+	<string>tteh-ar.fina.glif</string>
+	<key>tteh-ar.init</key>
+	<string>tteh-ar.init.glif</string>
+	<key>tteh-ar.medi</key>
+	<string>tteh-ar.medi.glif</string>
 	<key>two-ar</key>
 	<string>two-ar.glif</string>
 	<key>two-persian</key>
@@ -532,6 +582,8 @@
 	<string>veh-ar.init.glif</string>
 	<key>veh-ar.medi</key>
 	<string>veh-ar.medi.glif</string>
+	<key>wasla-ar</key>
+	<string>wasla-ar.glif</string>
 	<key>waw-ar</key>
 	<string>waw-ar.glif</string>
 	<key>waw-ar.fina</key>
@@ -568,6 +620,8 @@
 	<string>yehH_amzaabove-ar.init.glif</string>
 	<key>yehHamzaabove-ar.medi</key>
 	<string>yehH_amzaabove-ar.medi.glif</string>
+	<key>yehTail-ar</key>
+	<string>yehT_ail-ar.glif</string>
 	<key>yehVabove-ar</key>
 	<string>yehV_above-ar.glif</string>
 	<key>yehVabove-ar.fina</key>
@@ -576,6 +630,16 @@
 	<string>yehV_above-ar.init.glif</string>
 	<key>yehVabove-ar.medi</key>
 	<string>yehV_above-ar.medi.glif</string>
+	<key>yehbarree-ar</key>
+	<string>yehbarree-ar.glif</string>
+	<key>yehbarree-ar.fina</key>
+	<string>yehbarree-ar.fina.glif</string>
+	<key>yehbarree-ar.fina.001</key>
+	<string>yehbarree-ar.fina.001.glif</string>
+	<key>yehbarreeHamzaabove-ar</key>
+	<string>yehbarreeH_amzaabove-ar.glif</string>
+	<key>yehbarreeHamzaabove-ar.fina</key>
+	<string>yehbarreeH_amzaabove-ar.fina.glif</string>
 	<key>yu-ar</key>
 	<string>yu-ar.glif</string>
 	<key>yu-ar.fina</key>

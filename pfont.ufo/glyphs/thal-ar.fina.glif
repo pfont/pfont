@@ -4,6 +4,6 @@
   <unicode hex="FEAC"/>
   <outline>
     <component base="dal-ar.fina"/>
-    <component base="dotabove-ar" xOffset="312" yOffset="402"/>
+    <component base="dotabove-ar" xOffset="324" yOffset="388"/>
   </outline>
 </glyph>

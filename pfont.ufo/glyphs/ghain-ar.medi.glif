@@ -4,6 +4,6 @@
   <unicode hex="FED0"/>
   <outline>
     <component base="ain-ar.medi"/>
-    <component base="dotabove-ar" xOffset="283" yOffset="276"/>
+    <component base="dotabove-ar" xOffset="295" yOffset="262"/>
   </outline>
 </glyph>

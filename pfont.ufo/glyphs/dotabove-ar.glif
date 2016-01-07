@@ -4,28 +4,28 @@
   <unicode hex="FBB2"/>
   <outline>
     <contour>
-      <point x="260" y="673"/>
-      <point x="264" y="673"/>
-      <point x="266" y="675" type="curve"/>
-      <point x="375" y="810" type="line" smooth="yes"/>
-      <point x="382" y="819"/>
-      <point x="384" y="836"/>
-      <point x="375" y="844" type="curve"/>
-      <point x="247" y="949" type="line"/>
-      <point x="245" y="951"/>
-      <point x="240" y="953"/>
-      <point x="237" y="949" type="curve" smooth="yes"/>
-      <point x="117" y="799" type="line" smooth="yes"/>
-      <point x="114" y="795"/>
-      <point x="114" y="791"/>
-      <point x="117" y="788" type="curve"/>
-      <point x="258" y="675" type="line"/>
+      <point x="248" y="685"/>
+      <point x="251" y="685"/>
+      <point x="253" y="687" type="curve"/>
+      <point x="353" y="810" type="line" smooth="yes"/>
+      <point x="359" y="818"/>
+      <point x="361" y="834"/>
+      <point x="353" y="841" type="curve"/>
+      <point x="236" y="937" type="line"/>
+      <point x="234" y="939"/>
+      <point x="229" y="941"/>
+      <point x="227" y="937" type="curve" smooth="yes"/>
+      <point x="117" y="800" type="line" smooth="yes"/>
+      <point x="114" y="796"/>
+      <point x="114" y="793"/>
+      <point x="117" y="790" type="curve"/>
+      <point x="246" y="687" type="line"/>
     </contour>
     <contour>
-      <point x="252" y="1105" type="move" name="top"/>
+      <point x="240" y="1080" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="254" y="651" type="move" name="_top"/>
+      <point x="242" y="665" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

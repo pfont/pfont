@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lam_alefWasla-ar" format="1">
+  <advance width="1000"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lam-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>alefWasla-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

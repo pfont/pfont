@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rreh-ar.fina" format="1">
+  <advance width="979"/>
+  <unicode hex="FB8D"/>
+  <outline>
+    <component base="reh-ar.fina"/>
+    <component base="tahabove-ar" xOffset="417" yOffset="-688"/>
+  </outline>
+</glyph>
