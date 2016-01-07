@@ -3,6 +3,6 @@
   <advance width="471"/>
   <outline>
     <component base="lam-ar.init"/>
-    <component base="caron" xOffset="-118" yOffset="502"/>
+    <component base="vabove-ar" xOffset="7" yOffset="602"/>
   </outline>
 </glyph>
