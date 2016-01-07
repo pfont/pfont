@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wawring-ar" format="1">
-  <advance width="600"/>
+  <advance width="977"/>
   <unicode hex="06C4"/>
   <outline>
+    <component base="waw-ar"/>
+    <component base="ringcenter-ar" xOffset="240" yOffset="-980"/>
   </outline>
 </glyph>
