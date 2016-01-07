@@ -4,6 +4,6 @@
   <unicode hex="FBD8"/>
   <outline>
     <component base="waw-ar.fina"/>
-    <component base="damma-ar" xOffset="358" yOffset="162"/>
+    <component base="damma-ar" xOffset="393" yOffset="140"/>
   </outline>
 </glyph>
