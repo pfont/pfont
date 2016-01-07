@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kafRing-ar.medi" format="1">
-  <advance width="600"/>
+  <advance width="911"/>
   <outline>
+    <component base="kaf-ar.medi"/>
+    <component base="ringcenter-ar" xOffset="527" yOffset="206"/>
   </outline>
 </glyph>
