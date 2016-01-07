@@ -702,6 +702,8 @@
 	<string>vabove-ar.glif</string>
 	<key>vbelow-ar</key>
 	<string>vbelow-ar.glif</string>
+	<key>vcenter-ar</key>
+	<string>vcenter-ar.glif</string>
 	<key>ve-ar</key>
 	<string>ve-ar.glif</string>
 	<key>ve-ar.fina</key>
