@@ -164,6 +164,8 @@
 		<string>qaf-ar.fina</string>
 		<string>qaf-ar.medi</string>
 		<string>qaf-ar.init</string>
+		<string>dotlesskaf-ar</string>
+		<string>dotlesskaf-ar.fina</string>
 		<string>kaf-ar</string>
 		<string>kaf-ar.fina</string>
 		<string>kaf-ar.medi</string>
@@ -356,11 +358,6 @@
 		<string>righttoleftembedding</string>
 		<string>righttoleftoverride</string>
 		<string>zeroWidthNoBreakSpace</string>
-		<string>whiteStar.circled</string>
-		<string>bar</string>
-		<string>at</string>
-		<string>degree</string>
-		<string>asciicircum</string>
 		<string>afghani-ar</string>
 		<string>rial</string>
 		<string>asciitilde</string>
@@ -372,6 +369,11 @@
 		<string>multiply</string>
 		<string>plus</string>
 		<string>dottedCircle</string>
+		<string>whiteStar.circled</string>
+		<string>bar</string>
+		<string>at</string>
+		<string>degree</string>
+		<string>asciicircum</string>
 		<string>lowringmod</string>
 		<string>sajdah-ar</string>
 		<string>percent-ar</string>

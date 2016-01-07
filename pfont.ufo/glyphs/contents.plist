@@ -156,6 +156,10 @@
 	<string>dotlessfeh-ar.init.glif</string>
 	<key>dotlessfeh-ar.medi</key>
 	<string>dotlessfeh-ar.medi.glif</string>
+	<key>dotlesskaf-ar</key>
+	<string>dotlesskaf-ar.glif</string>
+	<key>dotlesskaf-ar.fina</key>
+	<string>dotlesskaf-ar.fina.glif</string>
 	<key>dotlessqaf-ar</key>
 	<string>dotlessqaf-ar.glif</string>
 	<key>dotlessqaf-ar.fina</key>
