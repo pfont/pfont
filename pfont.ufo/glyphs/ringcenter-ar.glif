@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ringcenter-ar" format="1">
-  <advance width="600"/>
+  <advance width="0"/>
   <outline>
+    <contour>
+      <point x="176" y="912"/>
+      <point x="108" y="912" type="curve" smooth="yes"/>
+      <point x="46" y="912"/>
+      <point x="5" y="812"/>
+      <point x="1" y="752" type="curve" smooth="yes"/>
+      <point x="-7" y="659"/>
+      <point x="31" y="623"/>
+      <point x="77" y="620" type="curve" smooth="yes"/>
+      <point x="147" y="618"/>
+      <point x="206" y="694"/>
+      <point x="210" y="767" type="curve" smooth="yes"/>
+      <point x="214" y="835"/>
+    </contour>
+    <contour>
+      <point x="36" y="777"/>
+      <point x="63" y="834"/>
+      <point x="96" y="834" type="curve" smooth="yes"/>
+      <point x="132" y="834"/>
+      <point x="170" y="775"/>
+      <point x="170" y="756" type="curve" smooth="yes"/>
+      <point x="170" y="730"/>
+      <point x="122" y="698"/>
+      <point x="91" y="698" type="curve" smooth="yes"/>
+      <point x="58" y="698"/>
+      <point x="38" y="723"/>
+      <point x="36" y="751" type="curve"/>
+    </contour>
+    <contour>
+      <point x="105" y="762" type="move" name="_center"/>
+    </contour>
   </outline>
 </glyph>

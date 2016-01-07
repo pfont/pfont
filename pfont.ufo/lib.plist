@@ -357,11 +357,6 @@
 		<string>righttoleftoverride</string>
 		<string>zeroWidthNoBreakSpace</string>
 		<string>afghani-ar</string>
-		<string>whiteStar.circled</string>
-		<string>bar</string>
-		<string>at</string>
-		<string>degree</string>
-		<string>asciicircum</string>
 		<string>rial</string>
 		<string>asciitilde</string>
 		<string>divide</string>
@@ -372,6 +367,11 @@
 		<string>multiply</string>
 		<string>plus</string>
 		<string>dottedCircle</string>
+		<string>whiteStar.circled</string>
+		<string>bar</string>
+		<string>at</string>
+		<string>degree</string>
+		<string>asciicircum</string>
 		<string>lowringmod</string>
 		<string>sajdah-ar</string>
 		<string>percent-ar</string>
