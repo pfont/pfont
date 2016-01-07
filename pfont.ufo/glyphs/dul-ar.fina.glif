@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dul-ar.fina" format="1">
+  <advance width="1052"/>
+  <unicode hex="FB87"/>
+  <outline>
+    <component base="dal-ar.fina"/>
+    <component base="threedotsupabove-ar" xOffset="212" yOffset="493"/>
+  </outline>
+</glyph>

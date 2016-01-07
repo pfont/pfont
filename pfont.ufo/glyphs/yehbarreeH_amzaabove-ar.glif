@@ -3,7 +3,5 @@
   <advance width="600"/>
   <unicode hex="06D3"/>
   <outline>
-    <component base="yehbarree-ar"/>
-    <component base="hamzaabove-ar"/>
   </outline>
 </glyph>
