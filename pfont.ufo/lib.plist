@@ -373,8 +373,6 @@
 		<string>minus</string>
 		<string>multiply</string>
 		<string>plus</string>
-		<string>divide.001</string>
-		<string>equal.001</string>
 		<string>dottedCircle</string>
 		<string>whiteStar.circled</string>
 		<string>bar</string>
@@ -427,6 +425,7 @@
 		<string>vinvertedbelow-ar</string>
 		<string>sadLamAlefMaksuraabove-ar</string>
 		<string>qafLamAlefMaksuraabove-ar</string>
+		<string>kafche-ar</string>
 		<string>temp</string>
 		<string>vcenter-ar</string>
 	</array>

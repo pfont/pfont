@@ -4,5 +4,6 @@
   <unicode hex="FEDA"/>
   <outline>
     <component base="dotlesskaf-ar.fina"/>
+    <component base="kafche-ar" xOffset="410"/>
   </outline>
 </glyph>

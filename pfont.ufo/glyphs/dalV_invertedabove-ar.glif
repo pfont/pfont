@@ -1,78 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dalVinvertedabove-ar" format="1">
-  <advance width="600"/>
+  <advance width="871"/>
   <unicode hex="06EE"/>
   <outline>
-    <contour>
-      <point x="420" y="-49"/>
-      <point x="654" y="-8"/>
-      <point x="729" y="46" type="curve" smooth="yes"/>
-      <point x="775" y="79"/>
-      <point x="794" y="134"/>
-      <point x="794" y="199" type="curve" smooth="yes"/>
-      <point x="793" y="374"/>
-      <point x="730" y="481"/>
-      <point x="492" y="848" type="curve" smooth="yes"/>
-      <point x="487" y="856"/>
-      <point x="477" y="856"/>
-      <point x="474" y="852" type="curve" smooth="yes"/>
-      <point x="474" y="851"/>
-      <point x="473" y="851"/>
-      <point x="473" y="850" type="curve" smooth="yes"/>
-      <point x="393" y="727" type="line" smooth="yes"/>
-      <point x="389" y="720"/>
-      <point x="389" y="713"/>
-      <point x="394" y="705" type="curve" smooth="yes"/>
-      <point x="649" y="351"/>
-      <point x="680" y="253"/>
-      <point x="692" y="187" type="curve"/>
-      <point x="563" y="142"/>
-      <point x="395" y="108"/>
-      <point x="243" y="126" type="curve" smooth="yes"/>
-      <point x="176" y="134"/>
-      <point x="169" y="159"/>
-      <point x="164" y="268" type="curve" smooth="yes"/>
-      <point x="163" y="278"/>
-      <point x="157" y="283"/>
-      <point x="148" y="283" type="curve" smooth="yes"/>
-      <point x="81" y="283" type="line" smooth="yes"/>
-      <point x="72" y="283"/>
-      <point x="67" y="278"/>
-      <point x="66" y="269" type="curve" smooth="yes"/>
-      <point x="52" y="104"/>
-      <point x="47" y="-49"/>
-      <point x="300" y="-49" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="369" y="1451"/>
-      <point x="363" y="1447"/>
-      <point x="361" y="1438" type="curve" smooth="yes"/>
-      <point x="323" y="1302"/>
-      <point x="290" y="1205"/>
-      <point x="246" y="1072" type="curve" smooth="yes"/>
-      <point x="243" y="1062"/>
-      <point x="245" y="1055"/>
-      <point x="255" y="1052" type="curve" smooth="yes"/>
-      <point x="339" y="1030"/>
-      <point x="331" y="1026"/>
-      <point x="360" y="1112" type="curve"/>
-      <point x="415" y="1299" type="line"/>
-      <point x="423" y="1333"/>
-      <point x="433" y="1338"/>
-      <point x="453" y="1304" type="curve" smooth="yes"/>
-      <point x="596" y="1061" type="line" smooth="yes"/>
-      <point x="602" y="1050"/>
-      <point x="611" y="1051"/>
-      <point x="618" y="1059" type="curve" smooth="yes"/>
-      <point x="643" y="1090" type="line" smooth="yes"/>
-      <point x="648" y="1096"/>
-      <point x="649" y="1102"/>
-      <point x="644" y="1111" type="curve" smooth="yes"/>
-      <point x="453" y="1433" type="line" smooth="yes"/>
-      <point x="449" y="1440"/>
-      <point x="444" y="1442"/>
-      <point x="436" y="1443" type="curve" smooth="yes"/>
-      <point x="378" y="1450" type="line" smooth="yes"/>
-    </contour>
+    <component base="dal-ar"/>
+    <component base="vinvertedabove-ar" xOffset="251" yOffset="-12"/>
   </outline>
 </glyph>
