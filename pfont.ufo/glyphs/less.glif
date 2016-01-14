@@ -3,5 +3,14 @@
   <advance width="600"/>
   <unicode hex="003C"/>
   <outline>
+    <contour>
+      <point x="802" y="135" type="line"/>
+      <point x="116" y="480" type="line"/>
+      <point x="802" y="824" type="line"/>
+      <point x="802" y="935" type="line"/>
+      <point x="6" y="535" type="line"/>
+      <point x="6" y="424" type="line"/>
+      <point x="802" y="24" type="line"/>
+    </contour>
   </outline>
 </glyph>

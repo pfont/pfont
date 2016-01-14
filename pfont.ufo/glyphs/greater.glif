@@ -3,5 +3,41 @@
   <advance width="600"/>
   <unicode hex="003E"/>
   <outline>
+    <contour>
+      <point x="598" y="424" type="line"/>
+      <point x="598" y="535" type="line"/>
+      <point x="-198" y="935" type="line"/>
+      <point x="-198" y="824" type="line"/>
+      <point x="488" y="480" type="line"/>
+      <point x="-198" y="135" type="line"/>
+      <point x="-198" y="24" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>-212</integer>
+          <key>y</key>
+          <integer>1070</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>-216</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

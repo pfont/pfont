@@ -134,6 +134,8 @@
 	<string>degree.glif</string>
 	<key>divide</key>
 	<string>divide.glif</string>
+	<key>divide.001</key>
+	<string>divide.001.glif</string>
 	<key>dotabove-ar</key>
 	<string>dotabove-ar.glif</string>
 	<key>dotbelow-ar</key>
@@ -188,6 +190,8 @@
 	<string>endofayah-ar.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
+	<key>equal.001</key>
+	<string>equal.001.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
 	<key>fatha-ar</key>
