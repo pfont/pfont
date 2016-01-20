@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe-ar.isol" format="1">
+  <advance width="977"/>
+  <unicode hex="FBD9"/>
+  <outline>
+    <component base="oe-ar"/>
+  </outline>
+</glyph>

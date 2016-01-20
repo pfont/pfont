@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qaf-ar.isol" format="1">
+  <advance width="1391"/>
+  <unicode hex="FED5"/>
+  <outline>
+    <component base="qaf-ar"/>
+  </outline>
+</glyph>

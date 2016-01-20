@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zain-ar.isol" format="1">
+  <advance width="766"/>
+  <unicode hex="FEAF"/>
+  <outline>
+    <component base="zain-ar"/>
+  </outline>
+</glyph>

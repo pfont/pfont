@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dad-ar.isol" format="1">
+  <advance width="2355"/>
+  <unicode hex="FEBD"/>
+  <outline>
+    <component base="dad-ar"/>
+  </outline>
+</glyph>

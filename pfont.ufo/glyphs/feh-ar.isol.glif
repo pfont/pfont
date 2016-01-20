@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="feh-ar.isol" format="1">
+  <advance width="1580"/>
+  <unicode hex="FED1"/>
+  <outline>
+    <component base="feh-ar"/>
+  </outline>
+</glyph>

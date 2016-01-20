@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yu-ar.isol" format="1">
+  <advance width="977"/>
+  <unicode hex="FBDB"/>
+  <outline>
+    <component base="yu-ar"/>
+  </outline>
+</glyph>

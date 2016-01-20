@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="khah-ar.isol" format="1">
+  <advance width="1218"/>
+  <unicode hex="FEA5"/>
+  <outline>
+    <component base="khah-ar"/>
+  </outline>
+</glyph>

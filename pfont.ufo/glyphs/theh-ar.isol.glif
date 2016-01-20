@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="theh-ar.isol" format="1">
+  <advance width="1570"/>
+  <unicode hex="FE99"/>
+  <outline>
+    <component base="theh-ar"/>
+  </outline>
+</glyph>

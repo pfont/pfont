@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jeh-ar.isol" format="1">
+  <advance width="766"/>
+  <unicode hex="FB8A"/>
+  <outline>
+    <component base="jeh-ar"/>
+  </outline>
+</glyph>

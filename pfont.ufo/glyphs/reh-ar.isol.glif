@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reh-ar.isol" format="1">
+  <advance width="766"/>
+  <unicode hex="FEAD"/>
+  <outline>
+    <component base="reh-ar"/>
+  </outline>
+</glyph>
