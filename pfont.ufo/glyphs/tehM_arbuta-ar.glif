@@ -4,6 +4,6 @@
   <unicode hex="0629"/>
   <outline>
     <component base="heh-ar"/>
-    <component base="twodotshorizontalabove-ar" xOffset="184" yOffset="100"/>
+    <component base="twodotshorizontalabove-ar" xOffset="84" yOffset="80"/>
   </outline>
 </glyph>

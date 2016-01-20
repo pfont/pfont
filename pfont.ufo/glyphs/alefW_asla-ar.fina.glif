@@ -3,7 +3,7 @@
   <advance width="585"/>
   <unicode hex="FB51"/>
   <outline>
+    <component base="wasla-ar" xOffset="6" yOffset="62"/>
     <component base="alef-ar.fina.short"/>
-    <component base="wasla-ar" xOffset="-70" yOffset="62"/>
   </outline>
 </glyph>

@@ -28,7 +28,7 @@
       <point x="485" y="0" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="226" y="1324" type="move" name="top"/>
+      <point x="301" y="1324" type="move" name="top"/>
     </contour>
     <contour>
       <point x="414" y="-150" type="move" name="bottom"/>
@@ -44,7 +44,7 @@
           <key>angle</key>
           <integer>0</integer>
           <key>isGlobal</key>
-          <false/>
+          <integer>0</integer>
           <key>x</key>
           <integer>291</integer>
           <key>y</key>

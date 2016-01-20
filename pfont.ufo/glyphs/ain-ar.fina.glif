@@ -88,7 +88,7 @@
       <point x="578" y="495" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="610" y="1121" type="move" name="top"/>
+      <point x="612" y="1121" type="move" name="top"/>
     </contour>
     <contour>
       <point x="681" y="-785" type="move" name="bottom"/>

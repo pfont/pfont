@@ -4,6 +4,6 @@
   <unicode hex="FECF"/>
   <outline>
     <component base="ain-ar.init"/>
-    <component base="dotabove-ar" xOffset="342" yOffset="305"/>
+    <component base="dotabove-ar" xOffset="382" yOffset="319"/>
   </outline>
 </glyph>

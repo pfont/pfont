@@ -68,7 +68,7 @@
           <key>angle</key>
           <integer>0</integer>
           <key>isGlobal</key>
-          <false/>
+          <integer>0</integer>
           <key>x</key>
           <integer>2391</integer>
           <key>y</key>
