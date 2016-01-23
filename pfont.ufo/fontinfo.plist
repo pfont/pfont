@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>2100</integer>
+	<integer>1600</integer>
 	<key>capHeight</key>
 	<integer>0</integer>
 	<key>copyright</key>
 	<string>OFL</string>
 	<key>descender</key>
-	<integer>-1100</integer>
+	<integer>-900</integer>
 	<key>familyName</key>
 	<string>pfont</string>
 	<key>openTypeHeadCreated</key>
@@ -30,16 +30,6 @@
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-37</integer>
-		<integer>-36</integer>
-		<integer>125</integer>
-		<integer>126</integer>
-		<integer>533</integer>
-		<integer>540</integer>
-		<integer>749</integer>
-		<integer>880</integer>
-		<integer>1256</integer>
-		<integer>1356</integer>
 	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
