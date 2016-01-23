@@ -64,6 +64,7 @@
 		<string>tehRing-ar</string>
 		<string>tehRing-ar.fina</string>
 		<string>tehRing-ar.init</string>
+		<string>tehRing-ar.isol</string>
 		<string>tehRing-ar.medi</string>
 		<string>theh-ar</string>
 		<string>theh-ar.isol</string>
@@ -93,10 +94,12 @@
 		<string>hahHamzaabove-ar</string>
 		<string>hahHamzaabove-ar.fina</string>
 		<string>hahHamzaabove-ar.init</string>
+		<string>hahHamzaabove-ar.isol</string>
 		<string>hahHamzaabove-ar.medi</string>
 		<string>hahThreedotsabove-ar</string>
 		<string>hahThreedotsabove-ar.fina</string>
 		<string>hahThreedotsabove-ar.init</string>
+		<string>hahThreedotsabove-ar.isol</string>
 		<string>hahThreedotsabove-ar.medi</string>
 		<string>khah-ar</string>
 		<string>khah-ar.isol</string>
@@ -114,11 +117,13 @@
 		<string>ddal-ar.fina</string>
 		<string>dalRing-ar</string>
 		<string>dalRing-ar.fina</string>
+		<string>dalRing-ar.isol</string>
 		<string>dul-ar</string>
 		<string>dul-ar.isol</string>
 		<string>dul-ar.fina</string>
 		<string>dalVinvertedabove-ar</string>
 		<string>dalVinvertedabove-ar.fina</string>
+		<string>dalVinvertedabove-ar.isol</string>
 		<string>reh-ar</string>
 		<string>reh-ar.isol</string>
 		<string>reh-ar.fina</string>
@@ -130,10 +135,13 @@
 		<string>rreh-ar.fina</string>
 		<string>rehRing-ar</string>
 		<string>rehRing-ar.fina</string>
+		<string>rehRing-ar.isol</string>
 		<string>rehVbelow-ar</string>
 		<string>rehVbelow-ar.fina</string>
+		<string>rehVbelow-ar.isol</string>
 		<string>rehDotbelowdotabove-ar</string>
 		<string>rehDotbelowdotabove-ar.fina</string>
+		<string>rehDotbelowdotabove-ar.isol</string>
 		<string>jeh-ar</string>
 		<string>jeh-ar.isol</string>
 		<string>jeh-ar.fina</string>
@@ -145,6 +153,7 @@
 		<string>seenDotbelowDotabove-ar</string>
 		<string>seenDotbelowDotabove-ar.fina</string>
 		<string>seenDotbelowDotabove-ar.init</string>
+		<string>seenDotbelowDotabove-ar.isol</string>
 		<string>seenDotbelowDotabove-ar.medi</string>
 		<string>sheen-ar</string>
 		<string>sheen-ar.isol</string>
@@ -222,6 +231,7 @@
 		<string>kafRing-ar</string>
 		<string>kafRing-ar.fina</string>
 		<string>kafRing-ar.init</string>
+		<string>kafRing-ar.isol</string>
 		<string>kafRing-ar.medi</string>
 		<string>ng-ar</string>
 		<string>ng-ar.isol</string>
@@ -236,6 +246,7 @@
 		<string>lamVabove-ar</string>
 		<string>lamVabove-ar.fina</string>
 		<string>lamVabove-ar.init</string>
+		<string>lamVabove-ar.isol</string>
 		<string>lamVabove-ar.medi</string>
 		<string>meem-ar</string>
 		<string>meem-ar.isol</string>
@@ -252,6 +263,7 @@
 		<string>noonRing-ar</string>
 		<string>noonRing-ar.fina</string>
 		<string>noonRing-ar.init</string>
+		<string>noonRing-ar.isol</string>
 		<string>noonRing-ar.medi</string>
 		<string>heh-ar</string>
 		<string>heh-ar.isol</string>
@@ -259,14 +271,17 @@
 		<string>heh-ar.medi</string>
 		<string>heh-ar.init</string>
 		<string>hehgoal-ar</string>
+		<string>hehgoal-ar.isol</string>
 		<string>hehgoal-ar.fina</string>
 		<string>hehgoal-ar.medi</string>
 		<string>hehgoal-ar.init</string>
 		<string>hehgoalHamzaabove-ar</string>
 		<string>hehgoalHamzaabove-ar.fina</string>
 		<string>hehgoalHamzaabove-ar.init</string>
+		<string>hehgoalHamzaabove-ar.isol</string>
 		<string>hehgoalHamzaabove-ar.medi</string>
 		<string>hehDoachashmee-ar</string>
+		<string>hehDoachashmee-ar.isol</string>
 		<string>hehDoachashmee-ar.fina</string>
 		<string>hehDoachashmee-ar.medi</string>
 		<string>hehDoachashmee-ar.init</string>
@@ -274,14 +289,17 @@
 		<string>tehMarbuta-ar.isol</string>
 		<string>tehMarbuta-ar.fina</string>
 		<string>tehMarbutagoal-ar</string>
+		<string>tehMarbutagoal-ar.isol</string>
 		<string>tehMarbutagoal-ar.fina</string>
 		<string>waw-ar</string>
 		<string>waw-ar.isol</string>
 		<string>waw-ar.fina</string>
 		<string>wawring-ar</string>
 		<string>wawring-ar.fina</string>
+		<string>wawring-ar.isol</string>
 		<string>wawTwodots-ar</string>
 		<string>wawTwodots-ar.fina</string>
+		<string>wawTwodots-ar.isol</string>
 		<string>wawHamzaabove-ar</string>
 		<string>wawHamzaabove-ar.isol</string>
 		<string>wawHamzaabove-ar.fina</string>
@@ -313,6 +331,7 @@
 		<string>yehVabove-ar</string>
 		<string>yehVabove-ar.fina</string>
 		<string>yehVabove-ar.init</string>
+		<string>yehVabove-ar.isol</string>
 		<string>yehVabove-ar.medi</string>
 		<string>yeh-farsi</string>
 		<string>yeh-farsi.isol</string>
@@ -321,16 +340,20 @@
 		<string>yeh-farsi.init</string>
 		<string>yehTail-ar</string>
 		<string>yehTail-ar.fina</string>
+		<string>yehTail-ar.isol</string>
 		<string>e-ar</string>
 		<string>e-ar.isol</string>
 		<string>e-ar.fina</string>
 		<string>e-ar.medi</string>
 		<string>e-ar.init</string>
 		<string>yehbarree-ar</string>
+		<string>yehbarree-ar.isol</string>
 		<string>yehbarree-ar.fina</string>
 		<string>yehbarreeHamzaabove-ar</string>
+		<string>yehbarreeHamzaabove-ar.isol</string>
 		<string>yehbarreeHamzaabove-ar.fina</string>
 		<string>ae-ar</string>
+		<string>ae-ar.isol</string>
 		<string>ae-ar.fina</string>
 		<string>kashida-ar</string>
 		<string>lam_alef-ar</string>
