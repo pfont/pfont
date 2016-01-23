@@ -2,7 +2,7 @@
 <glyph name="tehRing-ar.fina" format="1">
   <advance width="1727"/>
   <outline>
-    <component base="ringcenter-ar" xOffset="456" yOffset="-900"/>
     <component base="teh-ar.fina"/>
+    <component base="ringbelow-ar" xOffset="456" yOffset="-900"/>
   </outline>
 </glyph>

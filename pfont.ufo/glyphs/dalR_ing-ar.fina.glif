@@ -3,6 +3,6 @@
   <advance width="1052"/>
   <outline>
     <component base="dal-ar.fina"/>
-    <component base="ringcenter-ar" xOffset="500" yOffset="-871"/>
+    <component base="ringbelow-ar" xOffset="500" yOffset="-871"/>
   </outline>
 </glyph>

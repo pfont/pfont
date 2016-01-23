@@ -389,7 +389,6 @@
 		<string>bracketright</string>
 		<string>parenleft</string>
 		<string>parenright</string>
-		<string>braceright.001</string>
 		<string>hyphen</string>
 		<string>hyphentwo</string>
 		<string>guillemetleft</string>
@@ -476,11 +475,9 @@
 		<string>vabove-ar</string>
 		<string>vbelow-ar</string>
 		<string>vinvertedabove-ar</string>
-		<string>vinvertedbelow-ar</string>
 		<string>sadLamAlefMaksuraabove-ar</string>
 		<string>qafLamAlefMaksuraabove-ar</string>
 		<string>kafche-ar</string>
-		<string>vcenter-ar</string>
 	</array>
 </dict>
 </plist>

@@ -3,5 +3,7 @@
   <advance width="818"/>
   <unicode hex="06C3"/>
   <outline>
+    <component base="heh-ar"/>
+    <component base="twodotshorizontalabove-ar" xOffset="84" yOffset="80"/>
   </outline>
 </glyph>

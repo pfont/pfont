@@ -3,6 +3,6 @@
   <advance width="1418"/>
   <outline>
     <component base="noon-ar.fina"/>
-    <component base="ringcenter-ar" xOffset="372" yOffset="-1320"/>
+    <component base="ringbelow-ar" xOffset="372" yOffset="-1320"/>
   </outline>
 </glyph>

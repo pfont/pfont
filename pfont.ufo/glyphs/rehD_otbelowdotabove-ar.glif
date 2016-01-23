@@ -4,7 +4,7 @@
   <unicode hex="0696"/>
   <outline>
     <component base="reh-ar"/>
-    <component base="dotcenter-ar" xOffset="110" yOffset="-410"/>
-    <component base="dotcenter-ar" xOffset="600" yOffset="-1000"/>
+    <component base="dotbelow-ar" xOffset="590" yOffset="-160"/>
+    <component base="dotabove-ar" xOffset="160" yOffset="-777"/>
   </outline>
 </glyph>

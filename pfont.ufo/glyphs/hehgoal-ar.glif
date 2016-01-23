@@ -3,5 +3,6 @@
   <advance width="818"/>
   <unicode hex="06C1"/>
   <outline>
+    <component base="heh-ar"/>
   </outline>
 </glyph>
