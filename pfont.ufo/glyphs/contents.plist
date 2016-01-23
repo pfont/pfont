@@ -102,6 +102,8 @@
 	<string>braceleft.glif</string>
 	<key>braceright</key>
 	<string>braceright.glif</string>
+	<key>braceright.001</key>
+	<string>braceright.001.glif</string>
 	<key>bracketleft</key>
 	<string>bracketleft.glif</string>
 	<key>bracketright</key>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceright.001" format="1">
+  <advance width="600"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>360</integer>
+          <key>y</key>
+          <integer>609</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
