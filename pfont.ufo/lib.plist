@@ -485,6 +485,13 @@
 		<string>hamzaabove-ar</string>
 		<string>hamzabelow-ar</string>
 		<string>hamzacenter-ar</string>
+		<string>hamzaaboveDamma-ar</string>
+		<string>hamzaaboveDammatan-ar</string>
+		<string>hamzaaboveFatha-ar</string>
+		<string>hamzaaboveFathatan-ar</string>
+		<string>hamzaaboveSukun-ar</string>
+		<string>hamzabelowKasra-ar</string>
+		<string>hamzabelowKasratan-ar</string>
 		<string>fathatan-ar</string>
 		<string>dammatan-ar</string>
 		<string>kasratan-ar</string>
@@ -494,6 +501,13 @@
 		<string>shadda-ar</string>
 		<string>sukun-ar</string>
 		<string>madda-ar</string>
+		<string>shaddaAlefabove-ar</string>
+		<string>shaddaDamma-ar</string>
+		<string>shaddaDammatan-ar</string>
+		<string>shaddaFatha-ar</string>
+		<string>shaddaFathatan-ar</string>
+		<string>shaddaKasra-ar</string>
+		<string>shaddaKasratan-ar</string>
 		<string>noonghunnaabove-ar</string>
 		<string>vabove-ar</string>
 		<string>vbelow-ar</string>
