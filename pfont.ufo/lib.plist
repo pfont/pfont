@@ -439,6 +439,7 @@
 		<string>righttoleftembedding</string>
 		<string>righttoleftoverride</string>
 		<string>zeroWidthNoBreakSpace</string>
+		<string>afghani-ar</string>
 		<string>rial</string>
 		<string>asciitilde</string>
 		<string>divide</string>
@@ -454,7 +455,6 @@
 		<string>at</string>
 		<string>degree</string>
 		<string>asciicircum</string>
-		<string>afghani-ar</string>
 		<string>lowringmod</string>
 		<string>sajdah-ar</string>
 		<string>percent-ar</string>

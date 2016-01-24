@@ -4,20 +4,20 @@
   <unicode hex="066D"/>
   <outline>
     <contour>
-      <point x="345" y="221" type="line"/>
-      <point x="384" y="376" type="line"/>
-      <point x="551" y="371" type="line"/>
-      <point x="558" y="390" type="line"/>
-      <point x="416" y="477" type="line"/>
-      <point x="470" y="629" type="line"/>
-      <point x="455" y="641" type="line"/>
-      <point x="332" y="539" type="line"/>
-      <point x="206" y="635" type="line"/>
-      <point x="190" y="621" type="line"/>
-      <point x="247" y="476" type="line"/>
-      <point x="112" y="390" type="line"/>
-      <point x="118" y="369" type="line"/>
       <point x="278" y="376" type="line"/>
+      <point x="118" y="369" type="line"/>
+      <point x="112" y="390" type="line"/>
+      <point x="247" y="476" type="line"/>
+      <point x="190" y="621" type="line"/>
+      <point x="206" y="635" type="line"/>
+      <point x="332" y="539" type="line"/>
+      <point x="455" y="641" type="line"/>
+      <point x="470" y="629" type="line"/>
+      <point x="416" y="477" type="line"/>
+      <point x="558" y="390" type="line"/>
+      <point x="551" y="371" type="line"/>
+      <point x="384" y="376" type="line"/>
+      <point x="345" y="221" type="line"/>
       <point x="325" y="221" type="line"/>
     </contour>
   </outline>
