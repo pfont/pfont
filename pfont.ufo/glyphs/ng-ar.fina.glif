@@ -4,6 +4,6 @@
   <unicode hex="FBD4"/>
   <outline>
     <component base="kaf-ar.fina"/>
-    <component base="threedotsupabove-ar" xOffset="376" yOffset="200"/>
+    <component base="threedotsupabove-ar" xOffset="391" yOffset="232"/>
   </outline>
 </glyph>
