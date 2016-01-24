@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hehDoachashmee-ar.medi" format="1">
-  <advance width="1292"/>
+  <advance width="1321"/>
   <unicode hex="FBAD"/>
   <outline>
     <contour>
@@ -8,16 +8,16 @@
       <point x="199" y="0"/>
       <point x="369" y="83"/>
       <point x="474" y="163" type="curve"/>
-      <point x="965" y="23"/>
-      <point x="1069" y="0"/>
-      <point x="1292" y="0" type="curve"/>
-      <point x="1334" y="52"/>
-      <point x="1334" y="104"/>
-      <point x="1292" y="156" type="curve"/>
-      <point x="1200" y="156"/>
-      <point x="976" y="164"/>
-      <point x="937" y="165" type="curve"/>
-      <point x="1002" y="400"/>
+      <point x="995" y="23"/>
+      <point x="1099" y="0"/>
+      <point x="1322" y="0" type="curve"/>
+      <point x="1364" y="52"/>
+      <point x="1364" y="104"/>
+      <point x="1322" y="156" type="curve"/>
+      <point x="1230" y="156"/>
+      <point x="1006" y="164"/>
+      <point x="967" y="165" type="curve"/>
+      <point x="1032" y="440"/>
       <point x="978" y="598"/>
       <point x="566" y="956" type="curve"/>
       <point x="480" y="817" type="line"/>
@@ -48,8 +48,8 @@
       <point x="586" y="290" type="line"/>
       <point x="700" y="625" type="line"/>
       <point x="800" y="530"/>
-      <point x="883" y="320"/>
-      <point x="874" y="199" type="curve"/>
+      <point x="913" y="360"/>
+      <point x="904" y="199" type="curve"/>
     </contour>
     <contour>
       <point x="596" y="1099" type="move" name="top"/>
