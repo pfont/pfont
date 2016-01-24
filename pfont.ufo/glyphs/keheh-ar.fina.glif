@@ -69,7 +69,7 @@
       <point x="568" y="-26" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="1224" y="1435" type="move" name="top"/>
+      <point x="532" y="1045" type="move" name="top"/>
     </contour>
     <contour>
       <point x="672" y="-176" type="move" name="bottom"/>
