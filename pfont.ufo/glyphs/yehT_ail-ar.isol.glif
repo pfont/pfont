@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehTail-ar.isol" format="1">
-  <advance width="600"/>
+  <advance width="1756"/>
   <outline>
+    <component base="yehTail-ar"/>
   </outline>
 </glyph>
