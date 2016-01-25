@@ -4,9 +4,9 @@
   <unicode hex="FEF6"/>
   <outline>
     <component base="lam_alef-ar.fina"/>
-    <component base="madda-ar" xOffset="-6" yOffset="-80"/>
+    <component base="madda-ar" xOffset="-6" yOffset="-150"/>
     <contour>
-      <point x="315" y="1510" type="move" name="top_1"/>
+      <point x="315" y="1460" type="move" name="top_1"/>
     </contour>
     <contour>
       <point x="919" y="1486" type="move" name="top_2"/>
