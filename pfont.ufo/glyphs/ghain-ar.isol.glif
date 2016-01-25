@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ghain-ar.isol" format="1">
-  <advance width="1257"/>
+  <advance width="1121"/>
   <unicode hex="FECD"/>
   <outline>
     <component base="ghain-ar"/>

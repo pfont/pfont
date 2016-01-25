@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rehRing-ar" format="1">
-  <advance width="766"/>
+  <advance width="794"/>
   <unicode hex="0693"/>
   <outline>
     <component base="reh-ar"/>

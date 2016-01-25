@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sad-ar.isol" format="1">
-  <advance width="2355"/>
+  <advance width="2356"/>
   <unicode hex="FEB9"/>
   <outline>
     <component base="sad-ar"/>

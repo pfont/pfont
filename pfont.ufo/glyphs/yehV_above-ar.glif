@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehVabove-ar" format="1">
-  <advance width="1380"/>
+  <advance width="1417"/>
   <unicode hex="06CE"/>
   <outline>
     <component base="alefMaksura-ar"/>
-    <component base="vabove-ar" xOffset="267" yOffset="-383"/>
+    <component base="vabove-ar" xOffset="284" yOffset="-383"/>
   </outline>
 </glyph>

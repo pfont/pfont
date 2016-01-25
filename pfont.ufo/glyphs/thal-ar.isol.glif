@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thal-ar.isol" format="1">
-  <advance width="871"/>
+  <advance width="1003"/>
   <unicode hex="FEAB"/>
   <outline>
     <component base="thal-ar"/>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="teh-ar" format="1">
-  <advance width="1570"/>
+  <advance width="1586"/>
   <unicode hex="062A"/>
   <outline>
     <component base="dotlessbeh-ar"/>
-    <component base="twodotshorizontalabove-ar" xOffset="484" yOffset="-11"/>
+    <component base="twodotshorizontalabove-ar" xOffset="491" yOffset="-11"/>
   </outline>
 </glyph>

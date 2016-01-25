@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rreh-ar" format="1">
-  <advance width="766"/>
+  <advance width="794"/>
   <unicode hex="0691"/>
   <outline>
     <component base="reh-ar"/>
-    <component base="tahabove-ar" xOffset="297" yOffset="-683"/>
+    <component base="tahabove-ar" xOffset="298" yOffset="-683"/>
   </outline>
 </glyph>

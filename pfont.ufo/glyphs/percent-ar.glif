@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="percent-ar" format="1">
-  <advance width="864"/>
+  <advance width="890"/>
   <unicode hex="066A"/>
   <outline>
     <contour>
-      <point x="736" y="997" type="line"/>
-      <point x="733" y="1057"/>
-      <point x="716" y="1102"/>
-      <point x="686" y="1138" type="curve"/>
-      <point x="114" y="60" type="line"/>
-      <point x="131" y="19"/>
-      <point x="156" y="-15"/>
-      <point x="187" y="-40" type="curve"/>
+      <point x="746" y="997" type="line"/>
+      <point x="743" y="1057"/>
+      <point x="726" y="1102"/>
+      <point x="696" y="1138" type="curve"/>
+      <point x="124" y="60" type="line"/>
+      <point x="141" y="19"/>
+      <point x="166" y="-15"/>
+      <point x="197" y="-40" type="curve"/>
     </contour>
-    <component base="period" xOffset="455" yOffset="93" xScale="0.803" yScale="0.803"/>
-    <component base="period" xOffset="17" yOffset="788" xScale="0.803" yScale="0.803"/>
+    <component base="period" xOffset="465" yOffset="93" xScale="0.803" yScale="0.803"/>
+    <component base="period" xOffset="27" yOffset="788" xScale="0.803" yScale="0.803"/>
   </outline>
 </glyph>

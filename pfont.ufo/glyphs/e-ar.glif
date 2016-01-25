@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e-ar" format="1">
-  <advance width="1380"/>
+  <advance width="1417"/>
   <unicode hex="06D0"/>
   <outline>
     <component base="alefMaksura-ar"/>
-    <component base="twodotsverticalbelow-ar" xOffset="508" yOffset="-642"/>
+    <component base="twodotsverticalbelow-ar" xOffset="525" yOffset="-642"/>
   </outline>
 </glyph>

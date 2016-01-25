@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="six-persian.urdu" format="1">
-  <advance width="928"/>
+  <advance width="912"/>
   <outline>
     <component base="six-ar"/>
   </outline>

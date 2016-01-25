@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ve-ar.isol" format="1">
-  <advance width="977"/>
+  <advance width="904"/>
   <unicode hex="FBDE"/>
   <outline>
     <component base="ve-ar"/>

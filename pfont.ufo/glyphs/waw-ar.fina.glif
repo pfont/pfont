@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="waw-ar.fina" format="1">
-  <advance width="1027"/>
+  <advance width="953"/>
   <unicode hex="FEEE"/>
   <outline>
     <contour>
-      <point x="707" y="-343"/>
-      <point x="801" y="-183"/>
-      <point x="836" y="0" type="curve"/>
-      <point x="1027" y="0" type="line"/>
-      <point x="1069" y="52"/>
-      <point x="1069" y="104"/>
-      <point x="1027" y="156" type="curve"/>
-      <point x="858" y="156" type="line"/>
-      <point x="864" y="370"/>
-      <point x="774" y="716"/>
-      <point x="554" y="716" type="curve" smooth="yes"/>
-      <point x="352" y="716"/>
-      <point x="224" y="445"/>
-      <point x="224" y="239" type="curve" smooth="yes"/>
-      <point x="224" y="-21"/>
-      <point x="394" y="-33"/>
-      <point x="739" y="1" type="curve"/>
-      <point x="632" y="-285"/>
-      <point x="399" y="-370"/>
-      <point x="62" y="-296" type="curve" smooth="yes"/>
-      <point x="53" y="-294"/>
-      <point x="47" y="-300"/>
-      <point x="44" y="-309" type="curve" smooth="yes"/>
-      <point x="24" y="-377" type="line"/>
-      <point x="22" y="-385"/>
-      <point x="26" y="-391"/>
-      <point x="35" y="-394" type="curve" smooth="yes"/>
-      <point x="241" y="-463"/>
-      <point x="423" y="-491"/>
-      <point x="547" y="-426" type="curve" smooth="yes"/>
+      <point x="633" y="-343"/>
+      <point x="727" y="-183"/>
+      <point x="762" y="0" type="curve"/>
+      <point x="953" y="0" type="line"/>
+      <point x="995" y="52"/>
+      <point x="995" y="104"/>
+      <point x="953" y="156" type="curve"/>
+      <point x="784" y="156" type="line"/>
+      <point x="790" y="370"/>
+      <point x="700" y="716"/>
+      <point x="480" y="716" type="curve" smooth="yes"/>
+      <point x="278" y="716"/>
+      <point x="150" y="445"/>
+      <point x="150" y="239" type="curve" smooth="yes"/>
+      <point x="150" y="-21"/>
+      <point x="320" y="-33"/>
+      <point x="665" y="1" type="curve"/>
+      <point x="558" y="-285"/>
+      <point x="325" y="-370"/>
+      <point x="-12" y="-296" type="curve" smooth="yes"/>
+      <point x="-21" y="-294"/>
+      <point x="-27" y="-300"/>
+      <point x="-30" y="-309" type="curve" smooth="yes"/>
+      <point x="-50" y="-377" type="line"/>
+      <point x="-52" y="-385"/>
+      <point x="-48" y="-391"/>
+      <point x="-39" y="-394" type="curve" smooth="yes"/>
+      <point x="167" y="-463"/>
+      <point x="349" y="-491"/>
+      <point x="473" y="-426" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="557" y="156"/>
-      <point x="419" y="150"/>
-      <point x="323" y="190" type="curve" smooth="yes"/>
-      <point x="315" y="193"/>
-      <point x="312" y="199"/>
-      <point x="311" y="207" type="curve" smooth="yes"/>
-      <point x="305" y="357"/>
-      <point x="408" y="540"/>
-      <point x="519" y="540" type="curve" smooth="yes"/>
-      <point x="646" y="540"/>
-      <point x="743" y="327"/>
-      <point x="744" y="159" type="curve"/>
+      <point x="483" y="156"/>
+      <point x="345" y="150"/>
+      <point x="249" y="190" type="curve" smooth="yes"/>
+      <point x="241" y="193"/>
+      <point x="238" y="199"/>
+      <point x="237" y="207" type="curve" smooth="yes"/>
+      <point x="231" y="357"/>
+      <point x="334" y="540"/>
+      <point x="445" y="540" type="curve" smooth="yes"/>
+      <point x="572" y="540"/>
+      <point x="669" y="327"/>
+      <point x="670" y="159" type="curve"/>
     </contour>
     <contour>
-      <point x="551" y="896" type="move" name="top"/>
+      <point x="477" y="896" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="462" y="-621" type="move" name="bottom"/>
+      <point x="388" y="-621" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -66,7 +66,7 @@
           <key>isGlobal</key>
           <false/>
           <key>x</key>
-          <integer>1087</integer>
+          <integer>1013</integer>
           <key>y</key>
           <integer>156</integer>
         </dict>

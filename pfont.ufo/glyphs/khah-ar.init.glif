@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="khah-ar.init" format="1">
-  <advance width="1405"/>
+  <advance width="1444"/>
   <unicode hex="FEA7"/>
   <outline>
     <component base="hah-ar.init"/>

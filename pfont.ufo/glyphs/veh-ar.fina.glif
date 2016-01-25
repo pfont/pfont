@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="veh-ar.fina" format="1">
-  <advance width="1795"/>
+  <advance width="1806"/>
   <unicode hex="FB6B"/>
   <outline>
     <component base="dotlessfeh-ar.fina"/>
-    <component base="threedotsupabove-ar" xOffset="1182" yOffset="446"/>
+    <component base="threedotsupabove-ar" xOffset="1193" yOffset="446"/>
   </outline>
 </glyph>

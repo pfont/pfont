@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oe-ar" format="1">
-  <advance width="977"/>
+  <advance width="904"/>
   <unicode hex="06C6"/>
   <outline>
     <component base="waw-ar"/>
-    <component base="vabove-ar" xOffset="348" yOffset="-4"/>
+    <component base="vabove-ar" xOffset="254" yOffset="-4"/>
   </outline>
 </glyph>

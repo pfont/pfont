@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lam_alefHamzaabove-ar" format="1">
-  <advance width="1000"/>
+  <advance width="1087"/>
   <unicode hex="FEF7"/>
   <outline>
     <component base="lam_alef-ar"/>

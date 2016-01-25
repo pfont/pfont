@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alefWasla-ar.fina" format="1">
-  <advance width="585"/>
+  <advance width="579"/>
   <unicode hex="FB51"/>
   <outline>
     <component base="wasla-ar" xOffset="6" yOffset="62"/>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wawring-ar.fina" format="1">
-  <advance width="1027"/>
+  <advance width="953"/>
   <outline>
     <component base="waw-ar.fina"/>
-    <component base="ringcenter-ar" xOffset="52" yOffset="-931"/>
+    <component base="ringcenter-ar" xOffset="-22" yOffset="-931"/>
   </outline>
 </glyph>

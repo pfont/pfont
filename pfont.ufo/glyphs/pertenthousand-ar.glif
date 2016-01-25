@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pertenthousand-ar" format="1">
-  <advance width="1664"/>
+  <advance width="1680"/>
   <unicode hex="060A"/>
   <outline>
     <component base="perthousand-ar"/>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wawHamzaabove-ar" format="1">
-  <advance width="977"/>
+  <advance width="904"/>
   <unicode hex="0624"/>
   <outline>
     <component base="waw-ar"/>
-    <component base="hamzaabove-ar" xOffset="303" yOffset="426"/>
+    <component base="hamzaabove-ar" xOffset="212" yOffset="426"/>
   </outline>
 </glyph>

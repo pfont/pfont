@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="veh-ar.init" format="1">
-  <advance width="849"/>
+  <advance width="865"/>
   <unicode hex="FB6C"/>
   <outline>
     <component base="dotlessfeh-ar.init"/>

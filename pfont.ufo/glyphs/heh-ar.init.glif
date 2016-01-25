@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heh-ar.init" format="1">
-  <advance width="1253"/>
+  <advance width="1258"/>
   <unicode hex="FEEB"/>
   <outline>
     <contour>
@@ -39,7 +39,7 @@
       <point x="40" y="156" type="curve" smooth="yes"/>
       <point x="0" y="156" type="line" smooth="yes"/>
       <point x="-103" y="156"/>
-      <point x="-102" y="0"/>
+      <point x="-103" y="0"/>
       <point x="0" y="0" type="curve" smooth="yes"/>
     </contour>
     <contour>

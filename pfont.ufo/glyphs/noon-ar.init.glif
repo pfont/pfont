@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="noon-ar.init" format="1">
-  <advance width="620"/>
+  <advance width="649"/>
   <unicode hex="FEE7"/>
   <outline>
     <component base="dotlessbeh-ar.init"/>

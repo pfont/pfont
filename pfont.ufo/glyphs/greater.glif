@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="1">
-  <advance width="956"/>
+  <advance width="996"/>
   <unicode hex="003E"/>
   <outline>
     <contour>
-      <point x="876" y="379" type="line"/>
-      <point x="876" y="490" type="line"/>
-      <point x="80" y="890" type="line"/>
-      <point x="80" y="779" type="line"/>
-      <point x="766" y="435" type="line"/>
-      <point x="80" y="90" type="line"/>
-      <point x="80" y="-21" type="line"/>
+      <point x="896" y="379" type="line"/>
+      <point x="896" y="490" type="line"/>
+      <point x="100" y="890" type="line"/>
+      <point x="100" y="779" type="line"/>
+      <point x="786" y="435" type="line"/>
+      <point x="100" y="90" type="line"/>
+      <point x="100" y="-21" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@
           <key>isGlobal</key>
           <false/>
           <key>x</key>
-          <integer>-212</integer>
+          <integer>-192</integer>
           <key>y</key>
           <integer>1070</integer>
         </dict>
@@ -33,7 +33,7 @@
           <key>isGlobal</key>
           <false/>
           <key>x</key>
-          <integer>-216</integer>
+          <integer>-196</integer>
           <key>y</key>
           <integer>0</integer>
         </dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sheen-ar.medi" format="1">
-  <advance width="1762"/>
+  <advance width="1770"/>
   <unicode hex="FEB8"/>
   <outline>
     <component base="seen-ar.medi"/>
-    <component base="threedotsupabove-ar" xOffset="641" yOffset="185"/>
+    <component base="threedotsupabove-ar" xOffset="645" yOffset="185"/>
   </outline>
 </glyph>

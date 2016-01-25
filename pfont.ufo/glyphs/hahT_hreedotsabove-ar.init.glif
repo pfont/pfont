@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hahThreedotsabove-ar.init" format="1">
-  <advance width="1405"/>
+  <advance width="1444"/>
   <outline>
     <component base="hah-ar.init"/>
     <component base="threedotsupabove-ar" xOffset="215" yOffset="271"/>

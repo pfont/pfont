@@ -3,12 +3,12 @@
   <advance width="0"/>
   <unicode hex="0654"/>
   <outline>
-    <component base="hamzacenter-ar" yOffset="-8"/>
+    <component base="hamzacenter-ar" xOffset="-3" yOffset="-8"/>
     <contour>
-      <point x="248" y="1181" type="move" name="top"/>
+      <point x="245" y="1181" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="248" y="470" type="move" name="_top"/>
+      <point x="245" y="470" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

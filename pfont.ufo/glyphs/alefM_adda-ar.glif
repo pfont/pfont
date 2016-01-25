@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alefMadda-ar" format="1">
-  <advance width="437"/>
+  <advance width="428"/>
   <unicode hex="0622"/>
   <outline>
     <component base="alef-ar.short"/>
-    <component base="madda-ar" xOffset="-83" yOffset="25"/>
+    <component base="madda-ar" xOffset="-86" yOffset="25"/>
   </outline>
 </glyph>

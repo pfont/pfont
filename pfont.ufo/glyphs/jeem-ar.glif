@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jeem-ar" format="1">
-  <advance width="1218"/>
+  <advance width="1250"/>
   <unicode hex="062C"/>
   <outline>
     <component base="hah-ar"/>
-    <component base="dotcenter-ar" xOffset="582" yOffset="-616"/>
+    <component base="dotcenter-ar" xOffset="587" yOffset="-616"/>
   </outline>
 </glyph>

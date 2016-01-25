@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wawTwodots-ar" format="1">
-  <advance width="977"/>
+  <advance width="904"/>
   <unicode hex="06CA"/>
   <outline>
     <component base="waw-ar"/>
-    <component base="twodotshorizontalabove-ar" xOffset="315" yOffset="136"/>
+    <component base="twodotshorizontalabove-ar" xOffset="221" yOffset="136"/>
   </outline>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nine-persian" format="1">
-  <advance width="891"/>
+  <advance width="871"/>
   <unicode hex="06F9"/>
   <outline>
     <component base="nine-ar"/>

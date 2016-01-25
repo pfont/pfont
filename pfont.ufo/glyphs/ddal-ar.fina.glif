@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ddal-ar.fina" format="1">
-  <advance width="1052"/>
+  <advance width="1141"/>
   <unicode hex="FB89"/>
   <outline>
     <component base="dal-ar.fina"/>
-    <component base="tahabove-ar" xOffset="488" yOffset="-481"/>
+    <component base="tahabove-ar" xOffset="578" yOffset="-481"/>
   </outline>
 </glyph>

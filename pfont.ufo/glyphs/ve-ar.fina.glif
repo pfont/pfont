@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ve-ar.fina" format="1">
-  <advance width="1027"/>
+  <advance width="953"/>
   <unicode hex="FBDF"/>
   <outline>
     <component base="waw-ar.fina"/>
-    <component base="threedotsupabove-ar" xOffset="324" yOffset="321"/>
+    <component base="threedotsupabove-ar" xOffset="250" yOffset="321"/>
   </outline>
 </glyph>

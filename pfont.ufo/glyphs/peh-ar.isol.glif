@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="peh-ar.isol" format="1">
-  <advance width="1570"/>
+  <advance width="1586"/>
   <unicode hex="FB56"/>
   <outline>
     <component base="peh-ar"/>

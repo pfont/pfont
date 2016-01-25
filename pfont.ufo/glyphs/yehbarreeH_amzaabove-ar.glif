@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehbarreeHamzaabove-ar" format="1">
-  <advance width="1572"/>
+  <advance width="1609"/>
   <unicode hex="06D3"/>
   <outline>
     <component base="yehbarree-ar"/>
-    <component base="hamzaabove-ar" xOffset="468" yOffset="411"/>
+    <component base="hamzaabove-ar" xOffset="488" yOffset="411"/>
   </outline>
 </glyph>

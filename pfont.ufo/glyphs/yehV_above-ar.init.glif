@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehVabove-ar.init" format="1">
-  <advance width="620"/>
+  <advance width="649"/>
   <outline>
     <component base="yeh-ar.init"/>
     <component base="vabove-ar" xOffset="158" yOffset="81"/>

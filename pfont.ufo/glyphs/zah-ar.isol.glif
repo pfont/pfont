@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zah-ar.isol" format="1">
-  <advance width="1511"/>
+  <advance width="1568"/>
   <unicode hex="FEC5"/>
   <outline>
     <component base="zah-ar"/>

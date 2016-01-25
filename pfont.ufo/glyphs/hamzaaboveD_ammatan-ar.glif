@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hamzaaboveDammatan-ar" format="1">
-  <advance width="600"/>
+  <advance width="603"/>
   <outline>
-    <component base="hamzaabove-ar"/>
-    <component base="dammatan-ar" xOffset="11" yOffset="397"/>
+    <component base="hamzaabove-ar" xOffset="3"/>
+    <component base="dammatan-ar" xOffset="10" yOffset="397"/>
   </outline>
 </glyph>

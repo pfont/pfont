@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="feh-ar.fina" format="1">
-  <advance width="1795"/>
+  <advance width="1806"/>
   <unicode hex="FED2"/>
   <outline>
     <component base="dotlessfeh-ar.fina"/>
-    <component base="dotabove-ar" xOffset="1277" yOffset="334"/>
+    <component base="dotabove-ar" xOffset="1288" yOffset="334"/>
   </outline>
 </glyph>

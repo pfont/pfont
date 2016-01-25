@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="three-persian" format="1">
-  <advance width="1071"/>
+  <advance width="1089"/>
   <unicode hex="06F3"/>
   <outline>
     <component base="three-ar"/>

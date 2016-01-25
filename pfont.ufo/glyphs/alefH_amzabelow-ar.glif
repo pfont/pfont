@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alefHamzabelow-ar" format="1">
-  <advance width="437"/>
+  <advance width="428"/>
   <unicode hex="0625"/>
   <outline>
     <component base="alef-ar"/>
-    <component base="hamzabelow-ar" xOffset="14" yOffset="-1215"/>
+    <component base="hamzabelow-ar" xOffset="10" yOffset="-1215"/>
   </outline>
 </glyph>

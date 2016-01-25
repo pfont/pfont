@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gaf-ar.isol" format="1">
-  <advance width="1511"/>
+  <advance width="1481"/>
   <unicode hex="FB92"/>
   <outline>
     <component base="gaf-ar"/>

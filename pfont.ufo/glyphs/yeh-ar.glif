@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yeh-ar" format="1">
-  <advance width="1380"/>
+  <advance width="1417"/>
   <unicode hex="064A"/>
   <outline>
     <component base="alefMaksura-ar"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="374" yOffset="-537"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="391" yOffset="-537"/>
   </outline>
 </glyph>
