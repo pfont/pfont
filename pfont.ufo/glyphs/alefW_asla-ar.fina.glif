@@ -5,5 +5,8 @@
   <outline>
     <component base="wasla-ar" xOffset="6" yOffset="62"/>
     <component base="alef-ar.fina.short"/>
+    <contour>
+      <point x="360" y="1690" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

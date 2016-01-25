@@ -4,5 +4,8 @@
   <outline>
     <component base="hehgoal-ar.fina"/>
     <component base="twodotshorizontalabove-ar" xOffset="340" yOffset="-254"/>
+    <contour>
+      <point x="529" y="-154" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

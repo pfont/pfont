@@ -5,5 +5,8 @@
   <outline>
     <component base="dal-ar.fina"/>
     <component base="threedotsupabove-ar" xOffset="538" yOffset="467"/>
+    <contour>
+      <point x="447" y="-200" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

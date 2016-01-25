@@ -5,5 +5,8 @@
   <outline>
     <component base="hah-ar.init"/>
     <component base="threedotsdownbelow-ar" xOffset="395" yOffset="-9"/>
+    <contour>
+      <point x="442" y="846" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

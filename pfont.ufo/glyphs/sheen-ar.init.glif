@@ -5,5 +5,8 @@
   <outline>
     <component base="seen-ar.init"/>
     <component base="threedotsupabove-ar" xOffset="650" yOffset="185"/>
+    <contour>
+      <point x="995" y="-170" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

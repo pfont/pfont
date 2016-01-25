@@ -5,6 +5,12 @@
   <outline>
     <component base="lam_alef-ar"/>
     <component base="madda-ar" xOffset="-44" yOffset="18"/>
+    <contour>
+      <point x="936" y="1488" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="262" y="1653" type="move" name="top_2"/>
+    </contour>
   </outline>
   <lib>
     <dict>

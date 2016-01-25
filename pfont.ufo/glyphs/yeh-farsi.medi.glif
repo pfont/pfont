@@ -4,5 +4,8 @@
   <unicode hex="FBFF"/>
   <outline>
     <component base="yeh-ar.medi"/>
+    <contour>
+      <point x="460" y="687" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

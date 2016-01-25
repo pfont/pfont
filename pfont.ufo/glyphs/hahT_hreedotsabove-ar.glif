@@ -5,5 +5,8 @@
   <outline>
     <component base="hah-ar"/>
     <component base="threedotsupabove-ar" xOffset="162" yOffset="351"/>
+    <contour>
+      <point x="700" y="-822" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

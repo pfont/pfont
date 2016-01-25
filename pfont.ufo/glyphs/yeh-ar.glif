@@ -5,5 +5,8 @@
   <outline>
     <component base="alefMaksura-ar"/>
     <component base="twodotshorizontalbelow-ar" xOffset="391" yOffset="-537"/>
+    <contour>
+      <point x="487" y="512" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

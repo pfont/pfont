@@ -5,5 +5,8 @@
   <outline>
     <component base="kaf-ar.init"/>
     <component base="threedotsupabove-ar" xOffset="168" yOffset="698"/>
+    <contour>
+      <point x="337" y="-149" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

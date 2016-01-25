@@ -5,5 +5,8 @@
   <outline>
     <component base="madda-ar" xOffset="-46" yOffset="16"/>
     <component base="alef-ar.fina.short"/>
+    <contour>
+      <point x="290" y="1670" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

@@ -3,6 +3,9 @@
   <advance width="794"/>
   <outline>
     <component base="teh-ar.medi"/>
-    <component base="ringbelow-ar" xOffset="99" yOffset="-853"/>
+    <component base="ringbelow-ar" xOffset="179" yOffset="-863"/>
+    <contour>
+      <point x="314" y="-316" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

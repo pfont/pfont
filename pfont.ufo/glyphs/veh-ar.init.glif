@@ -5,5 +5,8 @@
   <outline>
     <component base="dotlessfeh-ar.init"/>
     <component base="threedotsupabove-ar" xOffset="208" yOffset="557"/>
+    <contour>
+      <point x="347" y="-150" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

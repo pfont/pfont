@@ -4,5 +4,8 @@
   <outline>
     <component base="waw-ar.fina"/>
     <component base="twodotshorizontalabove-ar" xOffset="241" yOffset="136"/>
+    <contour>
+      <point x="388" y="-621" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

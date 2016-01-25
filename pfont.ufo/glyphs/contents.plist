@@ -310,6 +310,8 @@
 	<string>hahT_hreedotsabove-ar.medi.glif</string>
 	<key>hamza-ar</key>
 	<string>hamza-ar.glif</string>
+	<key>hamza-ar.isol</key>
+	<string>hamza-ar.isol.glif</string>
 	<key>hamzaabove-ar</key>
 	<string>hamzaabove-ar.glif</string>
 	<key>hamzaaboveDamma-ar</key>

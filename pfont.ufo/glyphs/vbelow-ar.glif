@@ -2,9 +2,12 @@
 <glyph name="vbelow-ar" format="1">
   <advance width="0"/>
   <outline>
-    <component base="vabove-ar"/>
+    <component base="vabove-ar" yOffset="-1000"/>
     <contour>
-      <point x="204" y="1337" type="move" name="_bottom"/>
+      <point x="204" y="337" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="230" y="-241" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

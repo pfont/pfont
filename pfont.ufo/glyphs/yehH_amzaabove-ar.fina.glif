@@ -4,6 +4,6 @@
   <unicode hex="FE8A"/>
   <outline>
     <component base="alefMaksura-ar.fina"/>
-    <component base="hamzaabove-ar" xOffset="240" yOffset="-60"/>
+    <component base="hamzaabove-ar" xOffset="340" yOffset="-60"/>
   </outline>
 </glyph>

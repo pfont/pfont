@@ -3,6 +3,6 @@
   <advance width="1009"/>
   <outline>
     <component base="reh-ar.fina"/>
-    <component base="vbelow-ar" xOffset="86" yOffset="-1902"/>
+    <component base="vbelow-ar" xOffset="86" yOffset="-902"/>
   </outline>
 </glyph>

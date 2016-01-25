@@ -5,5 +5,8 @@
   <outline>
     <component base="waw-ar"/>
     <component base="threedotsupabove-ar" xOffset="230" yOffset="321"/>
+    <contour>
+      <point x="367" y="-626" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>
