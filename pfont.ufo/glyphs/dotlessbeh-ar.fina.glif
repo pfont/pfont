@@ -5,7 +5,7 @@
     <contour>
       <point x="843" y="-52"/>
       <point x="1306" y="14"/>
-      <point x="1412" y="140" type="curve"/>
+      <point x="1412" y="140" type="curve" smooth="yes"/>
       <point x="1420" y="149"/>
       <point x="1427" y="148"/>
       <point x="1432" y="138" type="curve"/>
@@ -20,15 +20,15 @@
       <point x="1558" y="156"/>
       <point x="1469" y="208"/>
       <point x="1449" y="360" type="curve" smooth="yes"/>
-      <point x="1413" y="627" type="line" smooth="yes"/>
+      <point x="1413" y="627" type="line"/>
       <point x="1412" y="638"/>
       <point x="1401" y="643"/>
-      <point x="1393" y="634" type="curve" smooth="yes"/>
-      <point x="1313" y="551" type="line" smooth="yes"/>
+      <point x="1393" y="634" type="curve"/>
+      <point x="1313" y="551" type="line"/>
       <point x="1308" y="545"/>
       <point x="1306" y="539"/>
       <point x="1307" y="531" type="curve" smooth="yes"/>
-      <point x="1355" y="232" type="line" smooth="yes"/>
+      <point x="1355" y="232" type="line"/>
       <point x="1356" y="223"/>
       <point x="1354" y="217"/>
       <point x="1345" y="214" type="curve" smooth="yes"/>
