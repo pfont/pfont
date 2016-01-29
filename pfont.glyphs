@@ -12,7 +12,7 @@ DisplayStrings = (
 classes = (
 {
 automatic = 1;
-code = "dotlessbeh-ar hamza-ar highhamza-ar alef-ar alefHamzaabove-ar alefHamzabelow-ar alefMadda-ar alefWasla-ar beh-ar peh-ar teh-ar tehRing-ar theh-ar tteh-ar jeem-ar tcheh-ar hah-ar hahHamzaabove-ar hahThreedotsabove-ar khah-ar dal-ar thal-ar ddal-ar dalRing-ar dul-ar dalVinvertedabove-ar reh-ar zain-ar rreh-ar rehRing-ar rehVbelow-ar rehDotbelowdotabove-ar jeh-ar seen-ar seenDotbelowDotabove-ar sheen-ar sad-ar dad-ar tah-ar zah-ar ain-ar ghain-ar feh-ar veh-ar dotlessfeh-ar dotlessqaf-ar qaf-ar kaf-ar keheh-ar gaf-ar kafRing-ar ng-ar lam-ar lamVabove-ar meem-ar noon-ar noonghunna-ar noonRing-ar heh-ar hehgoal-ar hehgoalHamzaabove-ar hehDoachashmee-ar tehMarbuta-ar tehMarbutagoal-ar waw-ar wawring-ar wawTwodots-ar wawHamzaabove-ar oe-ar u-ar yu-ar ve-ar alefMaksura-ar yeh-ar yehHamzaabove-ar yehVabove-ar yeh-farsi yehTail-ar e-ar yehbarree-ar yehbarreeHamzaabove-ar ae-ar kashida-ar lam_alef-ar lam_alefHamzaabove-ar lam_alefHamzabelow-ar lam_alefMadda-ar allah-ar";
+code = "alef-ar alef-ar.fina alefHamzaabove-ar alefHamzaabove-ar.fina alefHamzabelow-ar alefHamzabelow-ar.fina alefMadda-ar alefMadda-ar.fina alefMaksura-ar alefWasla-ar alefWasla-ar.fina dal-ar dal-ar.fina ddal-ar hehgoalHamzaabove-ar jeh-ar lam_alef-ar lam_alef-ar.fina lam_alefHamzaabove-ar lam_alefHamzaabove-ar.fina lam_alefHamzabelow-ar lam_alefHamzabelow-ar.fina lam_alefMadda-ar lam_alefMadda-ar.fina lam_alefWasla-ar lam_alefWasla-ar.fina noonghunna-ar noonghunna-ar.fina reh-ar reh-ar.fina rreh-ar tehMarbuta-ar tehMarbutagoal-ar thal-ar thal-ar.fina waw-ar waw-ar.fina wawHamzaabove-ar wawHamzaabove-ar.fina zain-ar zain-ar.fina";
 name = ArabicLetters;
 },
 {
