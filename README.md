@@ -1,7 +1,10 @@
-# pfont
+# Pfont
 This is a free font under [OFL license](http://scripts.sil.org/OFL).
 "pfont" is just a codename for this font and is subject of change when we
 reach to a consensus about the final name.
+
+# About
+Please read [this link](https://github.com/itmard/pfont/blob/master/ABOUT.md).
 
 # Build
 We used to use open .ufo standard for the font repo to be able to keep track of
