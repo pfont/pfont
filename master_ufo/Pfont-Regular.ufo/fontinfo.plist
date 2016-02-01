@@ -7,27 +7,29 @@
 	<key>capHeight</key>
 	<integer>0</integer>
 	<key>copyright</key>
-	<string>OFL</string>
+	<string>This font is released under OFL 1.1 license.</string>
 	<key>descender</key>
 	<integer>-748</integer>
 	<key>familyName</key>
-	<string>pfont</string>
+	<string>Pfont</string>
 	<key>openTypeHeadCreated</key>
-	<string>2015/12/26 19:37:35</string>
+	<string>2016/02/01 14:57:28</string>
 	<key>openTypeNameDesigner</key>
 	<string>Damoon Khanjanzadeh</string>
+	<key>openTypeNameLicense</key>
+	<string>OFL V1.1</string>
 	<key>openTypeNameManufacturer</key>
 	<string>pfont</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://pfont.ir/</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>pfont</string>
+	<string>Pfont</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeNameUniqueID</key>
-	<string>0.2;pfont-Regular</string>
+	<string>0.101;Pfont-Regular</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 0.2</string>
+	<string>Version 0.101</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -36,14 +38,14 @@
 	<array>
 	</array>
 	<key>postscriptFontName</key>
-	<string>pfont-Regular</string>
+	<string>Pfont-Regular</string>
 	<key>postscriptFullName</key>
-	<string>pfont-Regular</string>
+	<string>Pfont-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
 	<key>styleMapFamilyName</key>
-	<string>pfont</string>
+	<string>Pfont</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
@@ -53,7 +55,7 @@
 	<key>versionMajor</key>
 	<integer>0</integer>
 	<key>versionMinor</key>
-	<integer>2</integer>
+	<integer>101</integer>
 	<key>xHeight</key>
 	<integer>0</integer>
 </dict>
