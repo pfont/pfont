@@ -16,6 +16,7 @@ code = "dotlessbeh-ar hamza-ar highhamza-ar hamza-ar.isol alef-ar alef-ar.isol a
 name = All;
 }
 );
+copyright = "This font is released under OFL 1.1 license.";
 customParameters = (
 {
 name = glyphOrder;
@@ -30,7 +31,7 @@ value = "OFL V1.1";
 );
 date = "2016-02-01 14:57:28 +0000";
 designer = "Damoon Khanjanzadeh";
-familyName = "pfont Beta1";
+familyName = "Pfont";
 featurePrefixes = (
 {
 automatic = 1;
@@ -20455,5 +20456,5 @@ manufacturer = pfont;
 manufacturerURL = "http://pfont.ir/";
 unitsPerEm = 2048;
 versionMajor = 0;
-versionMinor = 1;
+versionMinor = 101;
 }
