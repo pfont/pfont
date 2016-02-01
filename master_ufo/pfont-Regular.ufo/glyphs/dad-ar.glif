@@ -3,7 +3,24 @@
   <advance width="2356"/>
   <unicode hex="0636"/>
   <outline>
+    <contour>
+      <point x="615" y="-612" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="645" y="620" type="move" name="top"/>
+    </contour>
     <component base="sad-ar"/>
-    <component base="dotabove-ar" xOffset="1686" yOffset="152"/>
+    <component base="dotabove-ar" xOffset="1645" yOffset="142"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+      <key>com.schriftgestaltung.componentsDisableAlignment</key>
+      <array>
+        <false/>
+        <true/>
+      </array>
+    </dict>
+  </lib>
 </glyph>

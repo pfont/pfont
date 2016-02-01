@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yehbarreeHamzaabove-ar.fina" format="1">
-  <advance width="1196"/>
-  <unicode hex="FBB1"/>
-  <outline>
-    <component base="yehbarree-ar.fina"/>
-    <component base="hamzaabove-ar" xOffset="492"/>
-  </outline>
-</glyph>

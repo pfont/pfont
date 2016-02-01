@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asterisk-ar" format="1">
-  <advance width="646"/>
+  <advance width="730"/>
   <unicode hex="066D"/>
   <outline>
     <contour>
-      <point x="333" y="224" type="line"/>
-      <point x="372" y="379" type="line"/>
-      <point x="539" y="374" type="line"/>
-      <point x="546" y="393" type="line"/>
-      <point x="404" y="480" type="line"/>
-      <point x="458" y="632" type="line"/>
-      <point x="443" y="644" type="line"/>
-      <point x="320" y="542" type="line"/>
-      <point x="194" y="638" type="line"/>
-      <point x="178" y="624" type="line"/>
-      <point x="235" y="479" type="line"/>
-      <point x="100" y="393" type="line"/>
-      <point x="106" y="372" type="line"/>
-      <point x="266" y="379" type="line"/>
-      <point x="313" y="224" type="line"/>
+      <point x="369" y="305" type="line"/>
+      <point x="519" y="191" type="line"/>
+      <point x="538" y="208" type="line"/>
+      <point x="470" y="380" type="line"/>
+      <point x="630" y="483" type="line"/>
+      <point x="623" y="508" type="line"/>
+      <point x="433" y="499" type="line"/>
+      <point x="377" y="684" type="line"/>
+      <point x="353" y="684" type="line"/>
+      <point x="307" y="499" type="line"/>
+      <point x="108" y="505" type="line"/>
+      <point x="100" y="483" type="line"/>
+      <point x="269" y="379" type="line"/>
+      <point x="204" y="198" type="line"/>
+      <point x="222" y="184" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
 </glyph>

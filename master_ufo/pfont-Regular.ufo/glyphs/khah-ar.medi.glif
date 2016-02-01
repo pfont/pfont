@@ -6,4 +6,10 @@
     <component base="hah-ar.medi"/>
     <component base="dotabove-ar" xOffset="317" yOffset="155"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
 </glyph>

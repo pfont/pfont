@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="percent-ar" format="1">
-  <advance width="890"/>
+  <advance width="891"/>
   <unicode hex="066A"/>
   <outline>
     <contour>
-      <point x="746" y="997" type="line"/>
-      <point x="743" y="1057"/>
-      <point x="726" y="1102"/>
-      <point x="696" y="1138" type="curve"/>
-      <point x="124" y="60" type="line"/>
-      <point x="141" y="19"/>
-      <point x="166" y="-15"/>
-      <point x="197" y="-40" type="curve"/>
+      <point x="739" y="997" type="line"/>
+      <point x="736" y="1057"/>
+      <point x="719" y="1102"/>
+      <point x="689" y="1138" type="curve"/>
+      <point x="117" y="60" type="line"/>
+      <point x="134" y="19"/>
+      <point x="159" y="-15"/>
+      <point x="190" y="-40" type="curve"/>
     </contour>
-    <component base="period" xOffset="465" yOffset="93" xScale="0.803" yScale="0.803"/>
-    <component base="period" xOffset="27" yOffset="788" xScale="0.803" yScale="0.803"/>
+    <component base="period" xScale="0.803" yScale="0.803" xOffset="458" yOffset="93"/>
+    <component base="period" xScale="0.803" yScale="0.803" xOffset="20" yOffset="788"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="perthousand-ar" format="1">
-  <advance width="1279"/>
+  <advance width="1287"/>
   <unicode hex="0609"/>
   <outline>
     <component base="percent-ar"/>
-    <component base="period" xOffset="854" yOffset="113" xScale="0.803" yScale="0.803"/>
+    <component base="period" xScale="0.803" yScale="0.803" xOffset="854" yOffset="113"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
 </glyph>

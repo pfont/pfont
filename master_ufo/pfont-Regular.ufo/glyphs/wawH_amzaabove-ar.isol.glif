@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="wawHamzaabove-ar.isol" format="1">
-  <advance width="904"/>
-  <unicode hex="FE85"/>
-  <outline>
-    <component base="wawHamzaabove-ar"/>
-  </outline>
-</glyph>

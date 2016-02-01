@@ -3,8 +3,6 @@
   <advance width="1019"/>
   <outline>
     <contour>
-      <point x="449" y="-39"/>
-      <point x="459" y="-39"/>
       <point x="464" y="-27" type="curve" smooth="yes"/>
       <point x="532" y="125" type="line"/>
       <point x="535" y="133"/>
@@ -44,6 +42,14 @@
       <point x="104" y="745"/>
       <point x="175" y="584" type="curve" smooth="yes"/>
       <point x="444" y="-27" type="line" smooth="yes"/>
+      <point x="449" y="-39"/>
+      <point x="459" y="-39"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
 </glyph>

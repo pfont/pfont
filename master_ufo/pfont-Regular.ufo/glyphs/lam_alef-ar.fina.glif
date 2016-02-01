@@ -4,8 +4,21 @@
   <unicode hex="FEFC"/>
   <outline>
     <contour>
-      <point x="696" y="-72"/>
-      <point x="805" y="34"/>
+      <point x="1022" y="-151" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="253" y="-284" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="570" y="1332" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="992" y="1425" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="291" y="1214" type="move" name="top_2"/>
+    </contour>
+    <contour>
       <point x="839" y="496" type="curve"/>
       <point x="861" y="116"/>
       <point x="911" y="0"/>
@@ -62,21 +75,14 @@
       <point x="217" y="-126"/>
       <point x="223" y="-131"/>
       <point x="232" y="-129" type="curve"/>
-    </contour>
-    <contour>
-      <point x="570" y="1332" type="move" name="caret_1"/>
-    </contour>
-    <contour>
-      <point x="1022" y="-151" type="move" name="bottom_1"/>
-    </contour>
-    <contour>
-      <point x="869" y="1446" type="move" name="top_1"/>
-    </contour>
-    <contour>
-      <point x="223" y="1214" type="move" name="top_2"/>
-    </contour>
-    <contour>
-      <point x="253" y="-284" type="move" name="bottom_2"/>
+      <point x="696" y="-72"/>
+      <point x="805" y="34"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
 </glyph>

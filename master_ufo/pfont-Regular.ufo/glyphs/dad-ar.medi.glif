@@ -6,4 +6,10 @@
     <component base="sad-ar.medi"/>
     <component base="dotabove-ar" xOffset="866" yOffset="152"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
 </glyph>

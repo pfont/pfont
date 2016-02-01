@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hamzaaboveFatha-ar" format="1">
-  <advance width="603"/>
-  <outline>
-    <component base="hamzaabove-ar" xOffset="3"/>
-    <component base="fatha-ar" xOffset="23" yOffset="51"/>
-  </outline>
-</glyph>

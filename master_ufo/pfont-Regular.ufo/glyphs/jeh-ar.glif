@@ -3,10 +3,16 @@
   <advance width="794"/>
   <unicode hex="0698"/>
   <outline>
-    <component base="reh-ar"/>
-    <component base="threedotsupabove-ar" xOffset="258" yOffset="265"/>
     <contour>
       <point x="260" y="-565" type="move" name="bottom"/>
     </contour>
+    <component base="reh-ar"/>
+    <component base="threedotsupabove-ar" xOffset="258" yOffset="265"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
 </glyph>

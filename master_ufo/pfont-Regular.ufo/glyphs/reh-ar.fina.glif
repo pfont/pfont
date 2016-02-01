@@ -4,8 +4,12 @@
   <unicode hex="FEAE"/>
   <outline>
     <contour>
-      <point x="539" y="-349"/>
-      <point x="687" y="-126"/>
+      <point x="290" y="-565" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="560" y="745" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="710" y="90" type="curve"/>
       <point x="763" y="25"/>
       <point x="828" y="0"/>
@@ -43,29 +47,14 @@
       <point x="144" y="-463"/>
       <point x="286" y="-481"/>
       <point x="410" y="-416" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="560" y="745" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="290" y="-565" type="move" name="bottom"/>
+      <point x="539" y="-349"/>
+      <point x="687" y="-126"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>x</key>
-          <integer>618</integer>
-          <key>y</key>
-          <integer>606</integer>
-        </dict>
-      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
     </dict>
   </lib>
 </glyph>

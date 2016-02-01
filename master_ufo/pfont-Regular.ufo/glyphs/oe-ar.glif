@@ -4,6 +4,12 @@
   <unicode hex="06C6"/>
   <outline>
     <component base="waw-ar"/>
-    <component base="vabove-ar" xOffset="254" yOffset="-4"/>
+    <component base="vabove-ar" xOffset="259" yOffset="-8"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
 </glyph>

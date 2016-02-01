@@ -3,10 +3,16 @@
   <advance width="1417"/>
   <unicode hex="06D0"/>
   <outline>
-    <component base="alefMaksura-ar"/>
-    <component base="twodotsverticalbelow-ar" xOffset="525" yOffset="-642"/>
     <contour>
       <point x="487" y="517" type="move" name="top"/>
     </contour>
+    <component base="alefMaksura-ar"/>
+    <component base="twodotsverticalbelow-ar" xOffset="525" yOffset="-642"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
 </glyph>

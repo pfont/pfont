@@ -4,6 +4,12 @@
   <unicode hex="FB68"/>
   <outline>
     <component base="dotlessbeh-ar.init"/>
-    <component base="tahabove-ar" xOffset="174" yOffset="-542"/>
+    <component base="tahabove-ar" xOffset="159" yOffset="-542"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
 </glyph>

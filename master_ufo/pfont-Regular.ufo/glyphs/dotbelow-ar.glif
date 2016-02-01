@@ -3,12 +3,18 @@
   <advance width="0"/>
   <unicode hex="FBB3"/>
   <outline>
-    <component base="dotcenter-ar" yOffset="-821"/>
     <contour>
       <point x="117" y="-139" type="move" name="_bottom"/>
     </contour>
     <contour>
       <point x="135" y="-544" type="move" name="bottom"/>
     </contour>
+    <component base="dotcenter-ar" yOffset="-821"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
 </glyph>

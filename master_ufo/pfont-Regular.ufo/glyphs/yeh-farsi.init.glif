@@ -3,9 +3,15 @@
   <advance width="649"/>
   <unicode hex="FBFE"/>
   <outline>
-    <component base="yeh-ar.init"/>
     <contour>
       <point x="361" y="981" type="move" name="top"/>
     </contour>
+    <component base="yeh-ar.init"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
 </glyph>

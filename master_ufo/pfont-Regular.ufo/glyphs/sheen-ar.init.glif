@@ -3,10 +3,16 @@
   <advance width="1599"/>
   <unicode hex="FEB7"/>
   <outline>
-    <component base="seen-ar.init"/>
-    <component base="threedotsupabove-ar" xOffset="650" yOffset="185"/>
     <contour>
       <point x="995" y="-170" type="move" name="bottom"/>
     </contour>
+    <component base="seen-ar.init"/>
+    <component base="threedotsupabove-ar" xOffset="650" yOffset="185"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
 </glyph>

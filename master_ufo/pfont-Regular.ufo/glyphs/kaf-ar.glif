@@ -6,4 +6,10 @@
     <component base="dotlesskaf-ar"/>
     <component base="kafche-ar" xOffset="553"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
 </glyph>

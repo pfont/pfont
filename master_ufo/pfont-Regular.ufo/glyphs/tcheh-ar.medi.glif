@@ -3,10 +3,16 @@
   <advance width="1397"/>
   <unicode hex="FB7D"/>
   <outline>
-    <component base="hah-ar.medi"/>
-    <component base="threedotsdownbelow-ar" xOffset="440" yOffset="7"/>
     <contour>
       <point x="449" y="842" type="move" name="top"/>
     </contour>
+    <component base="hah-ar.medi"/>
+    <component base="threedotsdownbelow-ar" xOffset="440" yOffset="7"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
 </glyph>

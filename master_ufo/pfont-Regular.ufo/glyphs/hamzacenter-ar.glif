@@ -3,8 +3,9 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="150" y="535"/>
-      <point x="309" y="641"/>
+      <point x="244" y="776" type="move" name="_center"/>
+    </contour>
+    <contour>
       <point x="459" y="721" type="curve"/>
       <point x="465" y="723"/>
       <point x="468" y="728"/>
@@ -48,9 +49,14 @@
       <point x="0" y="455"/>
       <point x="6" y="451"/>
       <point x="13" y="455" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="244" y="776" type="move" name="_center"/>
+      <point x="150" y="535"/>
+      <point x="309" y="641"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
 </glyph>

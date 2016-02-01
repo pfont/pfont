@@ -3,15 +3,21 @@
   <advance width="0"/>
   <unicode hex="FBBA"/>
   <outline>
-    <component base="dotcenter-ar" yOffset="274" xScale="0.772" yScale="0.772"/>
-    <component base="dotcenter-ar" yOffset="495" xScale="0.772" yScale="0.772"/>
-    <component base="dotcenter-ar" xOffset="203" yOffset="286" xScale="0.772" yScale="0.772"/>
-    <component base="dotcenter-ar" xOffset="203" yOffset="507" xScale="0.772" yScale="0.772"/>
-    <contour>
-      <point x="197" y="1183" type="move" name="top"/>
-    </contour>
     <contour>
       <point x="195" y="604" type="move" name="_top"/>
     </contour>
+    <contour>
+      <point x="197" y="1183" type="move" name="top"/>
+    </contour>
+    <component base="dotcenter-ar" xScale="0.772" yScale="0.772" yOffset="274"/>
+    <component base="dotcenter-ar" xScale="0.772" yScale="0.772" yOffset="495"/>
+    <component base="dotcenter-ar" xScale="0.772" yScale="0.772" xOffset="203" yOffset="286"/>
+    <component base="dotcenter-ar" xScale="0.772" yScale="0.772" xOffset="203" yOffset="507"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lamVabove-ar.init" format="1">
-  <advance width="471"/>
-  <outline>
-    <component base="lam-ar.init"/>
-    <component base="vabove-ar" xOffset="7" yOffset="602"/>
-  </outline>
-</glyph>

@@ -3,6 +3,12 @@
   <advance width="428"/>
   <outline>
     <contour>
+      <point x="255" y="-179" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="225" y="1333" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="299" y="-3" type="line"/>
       <point x="304" y="-1"/>
       <point x="308" y="3"/>
@@ -20,28 +26,11 @@
       <point x="214" y="-33"/>
       <point x="225" y="-29" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="225" y="1333" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="255" y="-179" type="move" name="bottom"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>x</key>
-          <integer>293</integer>
-          <key>y</key>
-          <integer>1187</integer>
-        </dict>
-      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
     </dict>
   </lib>
 </glyph>

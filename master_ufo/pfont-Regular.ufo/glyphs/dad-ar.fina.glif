@@ -3,7 +3,24 @@
   <advance width="2460"/>
   <unicode hex="FEBE"/>
   <outline>
+    <contour>
+      <point x="615" y="-612" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="645" y="620" type="move" name="top"/>
+    </contour>
     <component base="sad-ar.fina"/>
-    <component base="dotabove-ar" xOffset="1680" yOffset="152"/>
+    <component base="dotabove-ar" xOffset="1720" yOffset="164"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+      <key>com.schriftgestaltung.componentsDisableAlignment</key>
+      <array>
+        <false/>
+        <true/>
+      </array>
+    </dict>
+  </lib>
 </glyph>

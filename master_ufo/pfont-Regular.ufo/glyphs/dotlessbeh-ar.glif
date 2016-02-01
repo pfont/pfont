@@ -4,8 +4,12 @@
   <unicode hex="066E"/>
   <outline>
     <contour>
-      <point x="694" y="-49"/>
-      <point x="841" y="-33"/>
+      <point x="773" y="-197" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="727" y="749" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="992" y="-6" type="curve" smooth="yes"/>
       <point x="1255" y="36"/>
       <point x="1466" y="110"/>
@@ -42,29 +46,14 @@
       <point x="120" y="82"/>
       <point x="262" y="-37"/>
       <point x="579" y="-46" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="727" y="749" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="773" y="-197" type="move" name="bottom"/>
+      <point x="694" y="-49"/>
+      <point x="841" y="-33"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>x</key>
-          <integer>383</integer>
-          <key>y</key>
-          <integer>1092</integer>
-        </dict>
-      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 06:45:56</string>
     </dict>
   </lib>
 </glyph>
