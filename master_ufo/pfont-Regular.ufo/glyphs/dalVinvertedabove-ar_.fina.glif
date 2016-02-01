@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dalVinvertedabove-ar.fina" format="1">
+  <advance width="1141"/>
+  <outline>
+    <component base="dal-ar.fina"/>
+    <component base="vinvertedabove-ar" xOffset="564" yOffset="23"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
+</glyph>

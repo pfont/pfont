@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehVabove-ar" format="1">
+  <advance width="1417"/>
+  <unicode hex="06CE"/>
+  <outline>
+    <component base="alefMaksura-ar"/>
+    <component base="vabove-ar" xOffset="289" yOffset="-387"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tehMarbuta-ar.fina" format="1">
+  <advance width="983"/>
+  <unicode hex="FE94"/>
+  <outline>
+    <contour>
+      <point x="439" y="-143" type="move" name="bottom"/>
+    </contour>
+    <component base="heh-ar.fina"/>
+    <component base="twodotshorizontalabove-ar" xOffset="369" yOffset="345"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
+</glyph>

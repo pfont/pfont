@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefWasla-ar.fina" format="1">
+  <advance width="579"/>
+  <unicode hex="FB51"/>
+  <outline>
+    <contour>
+      <point x="360" y="1690" type="move" name="top"/>
+    </contour>
+    <component base="wasla-ar" xOffset="6" yOffset="62"/>
+    <component base="alef-ar.fina.short"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
+</glyph>

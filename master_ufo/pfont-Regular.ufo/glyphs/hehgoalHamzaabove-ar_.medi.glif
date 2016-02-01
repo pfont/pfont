@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hehgoalHamzaabove-ar.medi" format="1">
+  <advance width="1080"/>
+  <outline>
+    <component base="hehgoal-ar.medi"/>
+    <component base="hamzaabove-ar" xOffset="292" yOffset="180"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
+</glyph>

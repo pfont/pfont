@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seenDotbelowDotabove-ar" format="1">
+  <advance width="2303"/>
+  <unicode hex="069A"/>
+  <outline>
+    <contour>
+      <point x="613" y="-578" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="645" y="620" type="move" name="top"/>
+    </contour>
+    <component base="seen-ar"/>
+    <component base="dotabove-ar" xOffset="1504" yOffset="-7"/>
+    <component base="dotcenter-ar" xOffset="1578" yOffset="-818"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+      <key>com.schriftgestaltung.componentsDisableAlignment</key>
+      <array>
+        <false/>
+        <true/>
+        <false/>
+      </array>
+    </dict>
+  </lib>
+</glyph>

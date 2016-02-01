@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rehRing-ar" format="1">
+  <advance width="794"/>
+  <unicode hex="0693"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="ringbelow-ar" xOffset="456" yOffset="-1189"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
+</glyph>

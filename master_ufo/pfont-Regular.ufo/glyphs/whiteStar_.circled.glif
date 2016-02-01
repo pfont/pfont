@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="whiteStar.circled" format="1">
+  <advance width="853"/>
+  <unicode hex="272A"/>
+  <outline>
+    <contour>
+      <point x="753" y="421" type="curve" smooth="yes"/>
+      <point x="753" y="596"/>
+      <point x="607" y="741"/>
+      <point x="426" y="741" type="curve" smooth="yes"/>
+      <point x="245" y="741"/>
+      <point x="100" y="596"/>
+      <point x="100" y="421" type="curve" smooth="yes"/>
+      <point x="100" y="246"/>
+      <point x="245" y="103"/>
+      <point x="426" y="103" type="curve" smooth="yes"/>
+      <point x="607" y="103"/>
+      <point x="753" y="246"/>
+    </contour>
+    <contour>
+      <point x="268" y="199" type="line"/>
+      <point x="333" y="380" type="line"/>
+      <point x="164" y="484" type="line"/>
+      <point x="172" y="506" type="line"/>
+      <point x="371" y="500" type="line"/>
+      <point x="417" y="685" type="line"/>
+      <point x="441" y="685" type="line"/>
+      <point x="497" y="500" type="line"/>
+      <point x="687" y="509" type="line"/>
+      <point x="694" y="484" type="line"/>
+      <point x="534" y="381" type="line"/>
+      <point x="602" y="209" type="line"/>
+      <point x="583" y="192" type="line"/>
+      <point x="433" y="306" type="line"/>
+      <point x="286" y="185" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noonRing-ar.fina" format="1">
+  <advance width="1431"/>
+  <outline>
+    <component base="noon-ar.fina"/>
+    <component base="ringbelow-ar" xOffset="156" yOffset="-1306"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/02/01 08:54:15</string>
+    </dict>
+  </lib>
+</glyph>
