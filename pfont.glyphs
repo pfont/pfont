@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"/hah-ar",
+"/ain-ar"
+);
 classes = (
 {
 automatic = 1;
@@ -88,7 +92,7 @@ name = dlig;
 );
 fontMaster = (
 {
-ascender = 1400;
+ascender = 1318;
 capHeight = 0;
 customParameters = (
 {
@@ -116,7 +120,7 @@ name = hheaDescender;
 value = "-1300";
 }
 );
-descender = -648;
+descender = -730;
 id = "93A312F7-B931-4485-B08E-C367313EB5E7";
 userData = {
 GSCornerRadius = 10;
@@ -1965,7 +1969,7 @@ unicode = FB7C;
 },
 {
 glyphname = "hah-ar";
-lastChange = "2016-03-07 08:20:51 +0000";
+lastChange = "2016-03-08 18:28:18 +0000";
 layers = (
 {
 anchors = (
@@ -5366,7 +5370,7 @@ unicode = FEC7;
 },
 {
 glyphname = "ain-ar";
-lastChange = "2016-03-07 08:25:10 +0000";
+lastChange = "2016-03-08 18:29:11 +0000";
 layers = (
 {
 anchors = (
