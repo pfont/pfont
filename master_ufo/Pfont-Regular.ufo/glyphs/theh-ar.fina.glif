@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="theh-ar.fina" format="1">
-  <advance width="1734"/>
+  <advance width="2013"/>
   <unicode hex="FE9A"/>
   <outline>
     <contour>
-      <point x="773" y="-197" type="move" name="bottom"/>
+      <point x="907" y="-247" type="move" name="bottom"/>
     </contour>
     <component base="dotlessbeh-ar.fina"/>
-    <component base="threedotsupabove-ar" xOffset="500" yOffset="174"/>
+    <component base="threedotsupabove-ar" xOffset="543" yOffset="241"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 22:06:45</string>
     </dict>
   </lib>
 </glyph>

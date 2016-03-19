@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ae-ar" format="1">
-  <advance width="793"/>
+  <advance width="1068"/>
   <unicode hex="06D5"/>
   <outline>
     <component base="heh-ar"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/15 22:49:05</string>
     </dict>
   </lib>
 </glyph>

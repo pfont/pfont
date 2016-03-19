@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="beh-ar.medi" format="1">
+  <advance width="913"/>
+  <unicode hex="FE92"/>
+  <outline>
+    <component base="dotlessbeh-ar.medi"/>
+    <component base="dotbelow-ar" xOffset="235" yOffset="-18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/12 19:57:10</string>
+    </dict>
+  </lib>
+</glyph>

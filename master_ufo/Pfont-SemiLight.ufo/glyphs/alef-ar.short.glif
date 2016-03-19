@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alef-ar.short" format="1">
+  <advance width="492"/>
+  <outline>
+    <contour>
+      <point x="293" y="-206" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="259" y="1533" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="344" y="-3" type="line" smooth="yes"/>
+      <point x="350" y="-1"/>
+      <point x="354" y="3"/>
+      <point x="354" y="12" type="curve" smooth="yes"/>
+      <point x="346" y="1347" type="line" smooth="yes"/>
+      <point x="346" y="1365"/>
+      <point x="330" y="1373"/>
+      <point x="315" y="1365" type="curve" smooth="yes"/>
+      <point x="181" y="1293" type="line" smooth="yes"/>
+      <point x="176" y="1290"/>
+      <point x="173" y="1286"/>
+      <point x="173" y="1279" type="curve" smooth="yes"/>
+      <point x="232" y="-15" type="line" smooth="yes"/>
+      <point x="233" y="-29"/>
+      <point x="246" y="-38"/>
+      <point x="259" y="-33" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/19 21:25:56</string>
+    </dict>
+  </lib>
+</glyph>

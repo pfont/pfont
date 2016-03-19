@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thal-ar.fina" format="1">
-  <advance width="1141"/>
+  <advance width="1330"/>
   <unicode hex="FEAC"/>
   <outline>
     <component base="dal-ar.fina"/>
-    <component base="dotabove-ar" xOffset="633" yOffset="355"/>
+    <component base="dotabove-ar" xOffset="700" yOffset="498"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 20:16:41</string>
     </dict>
   </lib>
 </glyph>

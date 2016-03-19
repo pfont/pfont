@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gaf-ar.isol" format="1">
-  <advance width="1481"/>
+  <advance width="1733"/>
   <unicode hex="FB92"/>
   <outline>
     <component base="gaf-ar"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/19 21:17:45</string>
     </dict>
   </lib>
 </glyph>

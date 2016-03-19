@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dad-ar.fina" format="1">
-  <advance width="2460"/>
+  <advance width="2848"/>
   <unicode hex="FEBE"/>
   <outline>
-    <contour>
-      <point x="615" y="-612" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="645" y="620" type="move" name="top"/>
-    </contour>
     <component base="sad-ar.fina"/>
-    <component base="dotabove-ar" xOffset="1720" yOffset="164"/>
+    <component base="dotabove-ar" xOffset="1978" yOffset="189"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 20:20:48</string>
       <key>com.schriftgestaltung.componentsDisableAlignment</key>
       <array>
         <false/>

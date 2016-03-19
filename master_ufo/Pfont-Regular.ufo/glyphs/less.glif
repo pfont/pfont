@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="less" format="1">
-  <advance width="996"/>
+  <advance width="1175"/>
   <unicode hex="003C"/>
   <outline>
     <contour>
-      <point x="896" y="90" type="line"/>
-      <point x="210" y="435" type="line"/>
-      <point x="896" y="779" type="line"/>
-      <point x="896" y="890" type="line"/>
-      <point x="100" y="490" type="line"/>
-      <point x="100" y="379" type="line"/>
-      <point x="896" y="-21" type="line"/>
+      <point x="1055" y="119" type="line"/>
+      <point x="278" y="510" type="line"/>
+      <point x="1055" y="900" type="line"/>
+      <point x="1055" y="1049" type="line"/>
+      <point x="120" y="580" type="line"/>
+      <point x="120" y="440" type="line"/>
+      <point x="1055" y="-30" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 21:27:20</string>
     </dict>
   </lib>
 </glyph>

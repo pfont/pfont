@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kasra-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="0650"/>
+  <outline>
+    <contour>
+      <point x="259" y="-434" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="259" y="-842" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="518" y="-529" type="line"/>
+      <point x="518" y="-422" type="line"/>
+      <point x="0" y="-599" type="line"/>
+      <point x="0" y="-707" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/12 19:19:50</string>
+    </dict>
+  </lib>
+</glyph>

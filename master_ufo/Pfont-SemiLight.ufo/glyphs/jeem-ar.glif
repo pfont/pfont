@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jeem-ar" format="1">
+  <advance width="1438"/>
+  <unicode hex="062C"/>
+  <outline>
+    <component base="hah-ar"/>
+    <component base="dotcenter-ar" xOffset="729" yOffset="-638"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/15 22:41:33</string>
+    </dict>
+  </lib>
+</glyph>

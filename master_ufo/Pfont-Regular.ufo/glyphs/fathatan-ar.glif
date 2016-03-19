@@ -4,28 +4,23 @@
   <unicode hex="064B"/>
   <outline>
     <contour>
-      <point x="224" y="928" type="move" name="_top"/>
+      <point x="258" y="767" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="224" y="1464" type="move" name="top"/>
+      <point x="258" y="1454" type="move" name="top"/>
     </contour>
-    <contour>
-      <point x="449" y="1243" type="line"/>
-      <point x="449" y="1337" type="line"/>
-      <point x="0" y="1183" type="line"/>
-      <point x="0" y="1088" type="line"/>
-    </contour>
-    <contour>
-      <point x="449" y="1056" type="line"/>
-      <point x="449" y="1149" type="line"/>
-      <point x="0" y="995" type="line"/>
-      <point x="0" y="902" type="line"/>
-    </contour>
+    <component base="fatha-ar" yOffset="16"/>
+    <component base="fatha-ar" yOffset="-239"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 19:27:12</string>
+      <key>com.schriftgestaltung.componentsDisableAlignment</key>
+      <array>
+        <true/>
+        <true/>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e-ar.init" format="1">
-  <advance width="649"/>
+  <advance width="758"/>
   <unicode hex="FBE6"/>
   <outline>
     <contour>
-      <point x="361" y="981" type="move" name="top"/>
+      <point x="415" y="1148" type="move" name="top"/>
     </contour>
     <component base="dotlessbeh-ar.init"/>
-    <component base="twodotsverticalbelow-ar" xOffset="152" yOffset="-112"/>
+    <component base="twodotsverticalbelow-ar" xOffset="145" yOffset="-198"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 23:00:15</string>
     </dict>
   </lib>
 </glyph>

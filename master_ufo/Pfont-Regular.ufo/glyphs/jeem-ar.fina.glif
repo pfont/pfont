@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jeem-ar.fina" format="1">
-  <advance width="1114"/>
+  <advance width="1299"/>
   <unicode hex="FE9E"/>
   <outline>
     <component base="hah-ar.fina"/>
-    <component base="dotcenter-ar" xOffset="467" yOffset="-659"/>
+    <component base="dotcenter-ar" xOffset="518" yOffset="-747"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 20:48:04</string>
     </dict>
   </lib>
 </glyph>

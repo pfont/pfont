@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae-ar.isol" format="1">
+  <advance width="1037"/>
+  <outline>
+    <component base="ae-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/15 22:49:08</string>
+    </dict>
+  </lib>
+</glyph>

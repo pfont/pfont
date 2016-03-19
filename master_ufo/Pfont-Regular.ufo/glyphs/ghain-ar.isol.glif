@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ghain-ar.isol" format="1">
-  <advance width="1121"/>
+  <advance width="1312"/>
   <unicode hex="FECD"/>
   <outline>
     <component base="ghain-ar"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/19 21:31:27</string>
     </dict>
   </lib>
 </glyph>

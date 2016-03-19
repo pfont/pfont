@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehHamzaabove-ar.isol" format="1">
+  <advance width="1630"/>
+  <unicode hex="FE89"/>
+  <outline>
+    <component base="yehHamzaabove-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/12 21:03:42</string>
+    </dict>
+  </lib>
+</glyph>

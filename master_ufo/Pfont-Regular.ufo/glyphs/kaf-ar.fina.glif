@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kaf-ar.fina" format="1">
-  <advance width="1460"/>
+  <advance width="1698"/>
   <unicode hex="FEDA"/>
   <outline>
     <component base="dotlesskaf-ar.fina"/>
-    <component base="kafche-ar" xOffset="553"/>
+    <component base="kafche-ar" xOffset="606" yOffset="-10"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 20:47:31</string>
     </dict>
   </lib>
 </glyph>

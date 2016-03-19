@@ -3,17 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>1600</integer>
+	<integer>1318</integer>
 	<key>capHeight</key>
 	<integer>0</integer>
 	<key>copyright</key>
 	<string>This font is released under OFL 1.1 license.</string>
 	<key>descender</key>
-	<integer>-748</integer>
+	<integer>-730</integer>
 	<key>familyName</key>
 	<string>Pfont</string>
 	<key>openTypeHeadCreated</key>
 	<string>2016/02/01 14:57:28</string>
+	<key>openTypeHheaAscender</key>
+	<integer>2200</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-1300</integer>
 	<key>openTypeNameDesigner</key>
 	<string>Damoon Khanjanzadeh</string>
 	<key>openTypeNameLicense</key>
@@ -30,10 +34,18 @@
 	<string>0.101;Pfont-Regular</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 0.101</string>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>2200</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-1300</integer>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>3000</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>2200</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>

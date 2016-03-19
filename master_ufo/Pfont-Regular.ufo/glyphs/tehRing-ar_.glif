@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tehRing-ar" format="1">
-  <advance width="1586"/>
+  <advance width="1854"/>
   <unicode hex="067C"/>
   <outline>
     <component base="teh-ar"/>
-    <component base="ringbelow-ar" xOffset="245" yOffset="-913"/>
+    <component base="ringbelow-ar" xOffset="234" yOffset="327"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/15 22:40:19</string>
+      <key>com.schriftgestaltung.componentsDisableAlignment</key>
+      <array>
+        <false/>
+        <true/>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wawHamzaabove-ar" format="1">
+  <advance width="1040"/>
+  <unicode hex="0624"/>
+  <outline>
+    <component base="waw-ar"/>
+    <component base="hamzaabove-ar" xOffset="241" yOffset="489"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/19 21:35:26</string>
+    </dict>
+  </lib>
+</glyph>

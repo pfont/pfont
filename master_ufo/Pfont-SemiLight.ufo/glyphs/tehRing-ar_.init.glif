@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tehRing-ar.init" format="1">
+  <advance width="746"/>
+  <outline>
+    <contour>
+      <point x="177" y="-278" type="move" name="bottom"/>
+    </contour>
+    <component base="teh-ar.init"/>
+    <component base="ringbelow-ar" xOffset="355" yOffset="-945"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/12 23:09:19</string>
+    </dict>
+  </lib>
+</glyph>

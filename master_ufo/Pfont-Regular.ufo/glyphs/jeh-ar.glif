@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jeh-ar" format="1">
-  <advance width="794"/>
+  <advance width="925"/>
   <unicode hex="0698"/>
   <outline>
     <contour>
-      <point x="260" y="-565" type="move" name="bottom"/>
+      <point x="299" y="-640" type="move" name="bottom"/>
     </contour>
     <component base="reh-ar"/>
-    <component base="threedotsupabove-ar" xOffset="258" yOffset="265"/>
+    <component base="threedotsupabove-ar" xOffset="297" yOffset="356"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/15 22:54:00</string>
     </dict>
   </lib>
 </glyph>

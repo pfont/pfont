@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yeh-farsi.init" format="1">
-  <advance width="649"/>
+  <advance width="850"/>
   <unicode hex="FBFE"/>
   <outline>
-    <contour>
-      <point x="361" y="981" type="move" name="top"/>
-    </contour>
     <component base="yeh-ar.init"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 22:54:28</string>
     </dict>
   </lib>
 </glyph>

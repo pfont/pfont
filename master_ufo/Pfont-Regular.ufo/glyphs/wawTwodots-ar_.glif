@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wawTwodots-ar" format="1">
-  <advance width="904"/>
+  <advance width="1069"/>
   <unicode hex="06CA"/>
   <outline>
     <contour>
-      <point x="367" y="-626" type="move" name="bottom"/>
+      <point x="439" y="-694" type="move" name="bottom"/>
     </contour>
     <component base="waw-ar"/>
-    <component base="twodotshorizontalabove-ar" xOffset="221" yOffset="136"/>
+    <component base="twodotshorizontalabove-ar" xOffset="232" yOffset="244"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/19 21:35:15</string>
     </dict>
   </lib>
 </glyph>

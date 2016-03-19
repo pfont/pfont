@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oe-ar" format="1">
-  <advance width="904"/>
+  <advance width="1069"/>
   <unicode hex="06C6"/>
   <outline>
     <component base="waw-ar"/>
-    <component base="vabove-ar" xOffset="259" yOffset="-8"/>
+    <component base="vabove-ar" xOffset="327" yOffset="257"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/19 21:35:36</string>
     </dict>
   </lib>
 </glyph>

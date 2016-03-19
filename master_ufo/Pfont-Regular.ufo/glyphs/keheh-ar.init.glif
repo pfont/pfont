@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="keheh-ar.init" format="1">
-  <advance width="736"/>
+  <advance width="860"/>
   <unicode hex="FB90"/>
   <outline>
     <component base="kaf-ar.init"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/19 21:18:06</string>
     </dict>
   </lib>
 </glyph>

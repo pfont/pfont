@@ -3,16 +3,16 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="241" y="522" type="move" name="_center"/>
+      <point x="328" y="591" type="move" name="_center"/>
     </contour>
-    <component base="dotcenter-ar" xScale="0.844" yScale="0.844" yOffset="84"/>
-    <component base="dotcenter-ar" xScale="0.844" yScale="0.844" xOffset="249" yOffset="102"/>
-    <component base="dotcenter-ar" xScale="0.844" yScale="0.844" xOffset="126" yOffset="-86"/>
+    <component base="dotcenter-ar" xScale="0.844" yScale="0.844" yOffset="97"/>
+    <component base="dotcenter-ar" xScale="0.844" yScale="0.844" xOffset="346" yOffset="117"/>
+    <component base="dotcenter-ar" xScale="0.844" yScale="0.844" xOffset="175" yOffset="-139"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 19:04:17</string>
     </dict>
   </lib>
 </glyph>

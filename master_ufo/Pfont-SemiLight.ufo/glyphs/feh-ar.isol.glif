@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="feh-ar.isol" format="1">
+  <advance width="1846"/>
+  <unicode hex="FED1"/>
+  <outline>
+    <component base="feh-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/15 22:45:48</string>
+    </dict>
+  </lib>
+</glyph>

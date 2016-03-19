@@ -5,7 +5,7 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>
-		<string>15</string>
+		<string>10</string>
 		<key>GSOffsetHorizontal</key>
 		<integer>10</integer>
 		<key>GSOffsetProportional</key>
@@ -14,7 +14,7 @@
 		<integer>8</integer>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>93A312F7-B931-4485-B08E-C367313EB5E7</string>
+	<string>00FED3EE-B3F5-49E6-B91A-35FC52169726</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
 	<array>
 		<string>dotlessbeh-ar</string>
@@ -77,6 +77,8 @@
 		<string>beh-ar.init</string>
 		<string>beh-ar.isol</string>
 		<string>beh-ar.medi</string>
+		<string>beh_alef-ar</string>
+		<string>beh_alef-ar.isol</string>
 		<string>braceleft</string>
 		<string>braceright</string>
 		<string>bracketleft</string>
@@ -114,6 +116,7 @@
 		<string>dotlessbeh-ar.fina</string>
 		<string>dotlessbeh-ar.init</string>
 		<string>dotlessbeh-ar.medi</string>
+		<string>dotlessbeh2-ar.init</string>
 		<string>dotlessfeh-ar</string>
 		<string>dotlessfeh-ar.fina</string>
 		<string>dotlessfeh-ar.init</string>
@@ -202,6 +205,9 @@
 		<string>hehDoachashmee-ar.init</string>
 		<string>hehDoachashmee-ar.isol</string>
 		<string>hehDoachashmee-ar.medi</string>
+		<string>hehHamzaabove-ar</string>
+		<string>hehHamzaabove-ar.fina</string>
+		<string>hehHamzaabove-ar.isol</string>
 		<string>hehgoal-ar</string>
 		<string>hehgoal-ar.fina</string>
 		<string>hehgoal-ar.init</string>
@@ -316,6 +322,8 @@
 		<string>peh-ar.init</string>
 		<string>peh-ar.isol</string>
 		<string>peh-ar.medi</string>
+		<string>peh_alef-ar</string>
+		<string>peh_alef-ar.isol</string>
 		<string>percent-ar</string>
 		<string>period</string>
 		<string>pertenthousand-ar</string>
@@ -486,6 +494,8 @@
 		<string>yeh-farsi.init</string>
 		<string>yeh-farsi.isol</string>
 		<string>yeh-farsi.medi</string>
+		<string>yeh-farsi_alef-ar</string>
+		<string>yeh-farsi_alef-ar.isol</string>
 		<string>yehHamzaabove-ar</string>
 		<string>yehHamzaabove-ar.fina</string>
 		<string>yehHamzaabove-ar.init</string>
@@ -499,6 +509,8 @@
 		<string>yehVabove-ar.init</string>
 		<string>yehVabove-ar.isol</string>
 		<string>yehVabove-ar.medi</string>
+		<string>yeh_alef-ar</string>
+		<string>yeh_alef-ar.isol</string>
 		<string>yehbarree-ar</string>
 		<string>yehbarree-ar.fina</string>
 		<string>yehbarree-ar.fina.001</string>

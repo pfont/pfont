@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kafRing-ar.medi" format="1">
-  <advance width="911"/>
+  <advance width="1049"/>
   <outline>
     <component base="kaf-ar.medi"/>
-    <component base="ringcenter-ar" xOffset="527" yOffset="206"/>
+    <component base="ringcenter-ar" xOffset="596" yOffset="778"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 20:45:28</string>
     </dict>
   </lib>
 </glyph>

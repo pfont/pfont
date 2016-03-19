@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alef-ar" format="1">
-  <advance width="428"/>
+  <advance width="521"/>
   <unicode hex="0627"/>
   <outline>
     <contour>
-      <point x="255" y="-180" type="move" name="bottom"/>
+      <point x="310" y="-237" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="225" y="1484" type="move" name="top"/>
+      <point x="276" y="1757" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="299" y="-3" type="line"/>
-      <point x="304" y="-1"/>
-      <point x="308" y="3"/>
-      <point x="308" y="10" type="curve"/>
-      <point x="301" y="1321" type="line"/>
-      <point x="301" y="1337"/>
-      <point x="287" y="1344"/>
-      <point x="274" y="1337" type="curve" smooth="yes"/>
-      <point x="157" y="1274" type="line" smooth="yes"/>
-      <point x="153" y="1272"/>
-      <point x="150" y="1268"/>
-      <point x="150" y="1262" type="curve"/>
-      <point x="202" y="-13" type="line"/>
-      <point x="202" y="-25"/>
-      <point x="214" y="-33"/>
-      <point x="225" y="-29" type="curve" smooth="yes"/>
+      <point x="364" y="-2" type="line" smooth="yes"/>
+      <point x="375" y="1"/>
+      <point x="381" y="10"/>
+      <point x="381" y="22" type="curve" smooth="yes"/>
+      <point x="373" y="1529" type="line" smooth="yes"/>
+      <point x="373" y="1555"/>
+      <point x="350" y="1568"/>
+      <point x="327" y="1557" type="curve" smooth="yes"/>
+      <point x="190" y="1482" type="line" smooth="yes"/>
+      <point x="183" y="1478"/>
+      <point x="180" y="1470"/>
+      <point x="180" y="1461" type="curve" smooth="yes"/>
+      <point x="239" y="-5" type="line" smooth="yes"/>
+      <point x="240" y="-23"/>
+      <point x="254" y="-39"/>
+      <point x="280" y="-32" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/19 21:25:43</string>
     </dict>
   </lib>
 </glyph>

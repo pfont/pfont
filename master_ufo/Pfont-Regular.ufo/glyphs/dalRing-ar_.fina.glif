@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dalRing-ar.fina" format="1">
-  <advance width="1141"/>
+  <advance width="1330"/>
   <outline>
+    <contour>
+      <point x="531" y="-480" type="move" name="bottom"/>
+    </contour>
     <component base="dal-ar.fina"/>
-    <component base="ringbelow-ar" xOffset="661" yOffset="-868"/>
+    <component base="ringbelow-ar" xOffset="682" yOffset="346"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 23:12:39</string>
+      <key>com.schriftgestaltung.componentsDisableAlignment</key>
+      <array>
+        <false/>
+        <true/>
+      </array>
     </dict>
   </lib>
 </glyph>

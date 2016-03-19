@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peh-ar.isol" format="1">
+  <advance width="1824"/>
+  <unicode hex="FB56"/>
+  <outline>
+    <component base="peh-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/15 22:39:58</string>
+    </dict>
+  </lib>
+</glyph>

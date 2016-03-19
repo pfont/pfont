@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="three-persian" format="1">
-  <advance width="1089"/>
+  <advance width="1282"/>
   <unicode hex="06F3"/>
   <outline>
     <component base="three-ar"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 21:21:32</string>
     </dict>
   </lib>
 </glyph>

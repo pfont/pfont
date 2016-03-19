@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hahThreedotsabove-ar.medi" format="1">
+  <advance width="1607"/>
+  <outline>
+    <contour>
+      <point x="770" y="-132" type="move" name="bottom"/>
+    </contour>
+    <component base="hah-ar.medi"/>
+    <component base="threedotsupabove-ar" xOffset="255" yOffset="327"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/12 22:13:21</string>
+    </dict>
+  </lib>
+</glyph>

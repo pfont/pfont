@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peh_alef-ar" format="1">
+  <advance width="1441"/>
+  <outline>
+    <component base="dotlessbeh-ar.init" xOffset="683"/>
+    <component base="threedotsdownbelow-ar" xOffset="530" yOffset="-92"/>
+    <component base="alef-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/15 22:17:50</string>
+      <key>com.schriftgestaltung.componentsDisableAlignment</key>
+      <array>
+        <false/>
+        <true/>
+        <false/>
+      </array>
+    </dict>
+  </lib>
+</glyph>

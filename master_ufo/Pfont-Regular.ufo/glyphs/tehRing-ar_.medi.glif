@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tehRing-ar.medi" format="1">
-  <advance width="794"/>
+  <advance width="914"/>
   <outline>
     <contour>
-      <point x="314" y="-316" type="move" name="bottom"/>
+      <point x="340" y="-428" type="move" name="bottom"/>
     </contour>
     <component base="teh-ar.medi"/>
-    <component base="ringbelow-ar" xOffset="179" yOffset="-863"/>
+    <component base="ringbelow-ar" xOffset="218" yOffset="398"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 23:10:06</string>
+      <key>com.schriftgestaltung.componentsDisableAlignment</key>
+      <array>
+        <false/>
+        <true/>
+      </array>
     </dict>
   </lib>
 </glyph>

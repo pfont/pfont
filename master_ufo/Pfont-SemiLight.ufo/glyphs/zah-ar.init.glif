@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zah-ar.init" format="1">
+  <advance width="1674"/>
+  <unicode hex="FEC7"/>
+  <outline>
+    <component base="tah-ar.init"/>
+    <component base="dotabove-ar" xOffset="945" yOffset="227"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/15 22:45:31</string>
+    </dict>
+  </lib>
+</glyph>

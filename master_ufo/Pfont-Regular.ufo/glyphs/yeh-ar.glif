@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yeh-ar" format="1">
-  <advance width="1417"/>
+  <advance width="1659"/>
   <unicode hex="064A"/>
   <outline>
     <contour>
-      <point x="487" y="512" type="move" name="top"/>
+      <point x="577" y="615" type="move" name="top"/>
     </contour>
     <component base="alefMaksura-ar"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="391" yOffset="-537"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="343" yOffset="-652"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 22:57:54</string>
     </dict>
   </lib>
 </glyph>

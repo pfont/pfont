@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="u-ar.fina" format="1">
-  <advance width="953"/>
+  <advance width="1114"/>
   <unicode hex="FBD8"/>
   <outline>
     <component base="waw-ar.fina"/>
-    <component base="damma-ar" xOffset="320" yOffset="140"/>
+    <component base="damma-ar" xOffset="364" yOffset="381"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/19 21:36:00</string>
     </dict>
   </lib>
 </glyph>

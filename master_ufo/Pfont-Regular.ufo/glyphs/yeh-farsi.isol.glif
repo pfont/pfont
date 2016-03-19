@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yeh-farsi.isol" format="1">
-  <advance width="1417"/>
+  <advance width="1659"/>
   <unicode hex="FBFC"/>
   <outline>
     <component base="yeh-farsi"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 21:03:44</string>
     </dict>
   </lib>
 </glyph>

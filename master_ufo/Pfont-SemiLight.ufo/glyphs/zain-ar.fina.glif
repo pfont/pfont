@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zain-ar.fina" format="1">
+  <advance width="1160"/>
+  <unicode hex="FEB0"/>
+  <outline>
+    <component base="reh-ar.fina"/>
+    <component base="dotabove-ar" xOffset="492" yOffset="67"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/15 22:54:44</string>
+    </dict>
+  </lib>
+</glyph>

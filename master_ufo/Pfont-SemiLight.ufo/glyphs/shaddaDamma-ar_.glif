@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shaddaDamma-ar" format="1">
+  <advance width="0"/>
+  <outline>
+    <component base="shadda-ar"/>
+    <component base="damma-ar" xOffset="147" yOffset="744"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/12 19:27:42</string>
+    </dict>
+  </lib>
+</glyph>

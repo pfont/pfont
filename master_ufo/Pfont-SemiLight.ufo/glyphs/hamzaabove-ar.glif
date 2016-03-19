@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hamzaabove-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="0654"/>
+  <outline>
+    <contour>
+      <point x="285" y="541" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="285" y="1358" type="move" name="top"/>
+    </contour>
+    <component base="hamzacenter-ar" yOffset="-9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/12 19:30:37</string>
+    </dict>
+  </lib>
+</glyph>

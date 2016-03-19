@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threedotsdowncenter-ar" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="277" y="600" type="move" name="_center"/>
+    </contour>
+    <component base="dotcenter-ar" xScale="0.844" yScale="0.844" xOffset="-20" yOffset="97"/>
+    <component base="dotcenter-ar" xScale="0.844" yScale="0.844" xOffset="306" yOffset="117"/>
+    <component base="dotcenter-ar" xScale="0.844" yScale="0.844" xOffset="145" yOffset="-119"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/12 19:04:17</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kafche-ar" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="246" y="585" type="curve" smooth="yes"/>
+      <point x="246" y="615"/>
+      <point x="231" y="643"/>
+      <point x="190" y="656" type="curve" smooth="yes"/>
+      <point x="41" y="707" type="line" smooth="yes"/>
+      <point x="34" y="711"/>
+      <point x="36" y="717"/>
+      <point x="40" y="722" type="curve" smooth="yes"/>
+      <point x="80" y="766"/>
+      <point x="153" y="790"/>
+      <point x="213" y="786" type="curve" smooth="yes"/>
+      <point x="222" y="786"/>
+      <point x="225" y="791"/>
+      <point x="222" y="798" type="curve" smooth="yes"/>
+      <point x="192" y="865" type="line" smooth="yes"/>
+      <point x="189" y="873"/>
+      <point x="186" y="873"/>
+      <point x="179" y="874" type="curve" smooth="yes"/>
+      <point x="79" y="883"/>
+      <point x="-21" y="803"/>
+      <point x="-21" y="702" type="curve" smooth="yes"/>
+      <point x="-21" y="601"/>
+      <point x="38" y="597"/>
+      <point x="171" y="562" type="curve"/>
+      <point x="-3" y="480" type="line" smooth="yes"/>
+      <point x="-14" y="476"/>
+      <point x="-17" y="471"/>
+      <point x="-18" y="460" type="curve" smooth="yes"/>
+      <point x="-25" y="402" type="line" smooth="yes"/>
+      <point x="-26" y="386"/>
+      <point x="-16" y="381"/>
+      <point x="-1" y="387" type="curve" smooth="yes"/>
+      <point x="176" y="461"/>
+      <point x="246" y="500"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/15 18:42:23</string>
+    </dict>
+  </lib>
+</glyph>

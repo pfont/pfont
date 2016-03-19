@@ -2,13 +2,13 @@
 <glyph name="hamzaaboveFathatan-ar" format="1">
   <advance width="0"/>
   <outline>
-    <component base="hamzaabove-ar" xOffset="3"/>
-    <component base="fathatan-ar" xOffset="27" yOffset="253"/>
+    <component base="hamzaabove-ar" xScale="0.985" yScale="0.985" xOffset="-115" yOffset="-614"/>
+    <component base="fathatan-ar" xOffset="30" yOffset="11"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 19:33:40</string>
     </dict>
   </lib>
 </glyph>

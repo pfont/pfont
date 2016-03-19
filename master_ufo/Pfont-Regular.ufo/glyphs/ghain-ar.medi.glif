@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ghain-ar.medi" format="1">
-  <advance width="1060"/>
+  <advance width="1220"/>
   <unicode hex="FED0"/>
   <outline>
     <component base="ain-ar.medi"/>
-    <component base="dotabove-ar" xOffset="440" yOffset="210"/>
+    <component base="dotabove-ar" xOffset="461" yOffset="322"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 20:25:04</string>
     </dict>
   </lib>
 </glyph>

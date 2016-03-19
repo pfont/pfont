@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kasratan-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="064D"/>
+  <outline>
+    <contour>
+      <point x="259" y="-305" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="259" y="-970" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="518" y="-390" type="line"/>
+      <point x="518" y="-282" type="line"/>
+      <point x="0" y="-460" type="line"/>
+      <point x="0" y="-567" type="line"/>
+    </contour>
+    <contour>
+      <point x="518" y="-645" type="line"/>
+      <point x="518" y="-538" type="line"/>
+      <point x="0" y="-715" type="line"/>
+      <point x="0" y="-823" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/12 19:28:16</string>
+    </dict>
+  </lib>
+</glyph>

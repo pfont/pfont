@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zain-ar.isol" format="1">
+  <advance width="913"/>
+  <unicode hex="FEAF"/>
+  <outline>
+    <component base="zain-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/15 22:53:27</string>
+    </dict>
+  </lib>
+</glyph>

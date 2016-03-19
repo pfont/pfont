@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rehRing-ar.isol" format="1">
+  <advance width="913"/>
+  <outline>
+    <component base="rehRing-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/15 22:53:45</string>
+    </dict>
+  </lib>
+</glyph>

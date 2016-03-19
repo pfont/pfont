@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="1">
+  <advance width="840"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="707" y="437" type="line" smooth="yes"/>
+      <point x="718" y="437"/>
+      <point x="725" y="444"/>
+      <point x="725" y="454" type="curve" smooth="yes"/>
+      <point x="725" y="544" type="line" smooth="yes"/>
+      <point x="725" y="554"/>
+      <point x="718" y="561"/>
+      <point x="707" y="561" type="curve" smooth="yes"/>
+      <point x="132" y="561" type="line" smooth="yes"/>
+      <point x="122" y="561"/>
+      <point x="115" y="554"/>
+      <point x="115" y="544" type="curve" smooth="yes"/>
+      <point x="115" y="454" type="line" smooth="yes"/>
+      <point x="115" y="444"/>
+      <point x="122" y="437"/>
+      <point x="132" y="437" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/12 21:25:18</string>
+    </dict>
+  </lib>
+</glyph>

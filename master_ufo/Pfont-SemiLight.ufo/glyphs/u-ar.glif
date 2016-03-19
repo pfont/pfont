@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u-ar" format="1">
+  <advance width="1040"/>
+  <unicode hex="06C7"/>
+  <outline>
+    <component base="waw-ar"/>
+    <component base="damma-ar" xOffset="345" yOffset="161"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/19 21:35:51</string>
+    </dict>
+  </lib>
+</glyph>

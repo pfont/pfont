@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seenDotbelowDotabove-ar.fina" format="1">
-  <advance width="2496"/>
+  <advance width="2889"/>
   <outline>
-    <contour>
-      <point x="629" y="-594" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="645" y="620" type="move" name="top"/>
-    </contour>
     <component base="seen-ar.fina"/>
-    <component base="dotabove-ar" xOffset="1504" yOffset="-7"/>
-    <component base="dotcenter-ar" xOffset="1578" yOffset="-818"/>
+    <component base="dotabove-ar" xOffset="1660" yOffset="162"/>
+    <component base="dotcenter-ar" xOffset="1825" yOffset="-1011"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 20:17:30</string>
       <key>com.schriftgestaltung.componentsDisableAlignment</key>
       <array>
         <false/>

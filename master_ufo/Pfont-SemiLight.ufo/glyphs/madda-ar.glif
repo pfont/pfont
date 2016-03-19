@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="madda-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="0653"/>
+  <outline>
+    <contour>
+      <point x="358" y="1504" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="358" y="1918" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="86" y="1503" type="curve" smooth="yes"/>
+      <point x="136" y="1600" type="line"/>
+      <point x="304" y="1546"/>
+      <point x="545" y="1549"/>
+      <point x="676" y="1605" type="curve" smooth="yes"/>
+      <point x="683" y="1608"/>
+      <point x="687" y="1613"/>
+      <point x="690" y="1623" type="curve" smooth="yes"/>
+      <point x="728" y="1745" type="line" smooth="yes"/>
+      <point x="731" y="1755"/>
+      <point x="727" y="1765"/>
+      <point x="708" y="1758" type="curve" smooth="yes"/>
+      <point x="557" y="1699"/>
+      <point x="335" y="1716"/>
+      <point x="200" y="1757" type="curve" smooth="yes"/>
+      <point x="153" y="1772"/>
+      <point x="95" y="1778"/>
+      <point x="3" y="1593" type="curve" smooth="yes"/>
+      <point x="-3" y="1581"/>
+      <point x="-1" y="1569"/>
+      <point x="6" y="1562" type="curve" smooth="yes"/>
+      <point x="67" y="1498" type="line" smooth="yes"/>
+      <point x="73" y="1491"/>
+      <point x="81" y="1493"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/15 17:49:31</string>
+    </dict>
+  </lib>
+</glyph>

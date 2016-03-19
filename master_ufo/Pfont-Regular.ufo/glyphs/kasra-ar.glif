@@ -4,22 +4,21 @@
   <unicode hex="0650"/>
   <outline>
     <contour>
-      <point x="225" y="-377" type="move" name="_bottom"/>
+      <point x="259" y="-434" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="225" y="-732" type="move" name="bottom"/>
+      <point x="259" y="-882" type="move" name="bottom"/>
     </contour>
-    <contour>
-      <point x="450" y="-460" type="line"/>
-      <point x="450" y="-367" type="line"/>
-      <point x="0" y="-521" type="line"/>
-      <point x="0" y="-615" type="line"/>
-    </contour>
+    <component base="fatha-ar" yOffset="-1683"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 19:19:50</string>
+      <key>com.schriftgestaltung.componentsDisableAlignment</key>
+      <array>
+        <true/>
+      </array>
     </dict>
   </lib>
 </glyph>

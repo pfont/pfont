@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zah-ar.isol" format="1">
+  <advance width="1803"/>
+  <unicode hex="FEC5"/>
+  <outline>
+    <component base="zah-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/15 22:45:20</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ng-ar" format="1">
-  <advance width="1304"/>
+  <advance width="1530"/>
   <unicode hex="06AD"/>
   <outline>
     <contour>
-      <point x="674" y="-187" type="move" name="bottom"/>
+      <point x="693" y="-225" type="move" name="bottom"/>
     </contour>
     <component base="kaf-ar"/>
-    <component base="threedotsupabove-ar" xOffset="401" yOffset="232"/>
+    <component base="threedotsupabove-ar" xOffset="439" yOffset="308"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/15 23:58:25</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alefMaksura-ar.init" format="1">
-  <advance width="649"/>
+  <advance width="758"/>
   <unicode hex="FBE8"/>
   <outline>
     <component base="dotlessbeh-ar.init"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/15 22:40:05</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twodotshorizontalabove-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="FBB4"/>
+  <outline>
+    <contour>
+      <point x="271" y="874" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="271" y="1342" type="move" name="top"/>
+    </contour>
+    <component base="twodotshorizontalbelow-ar" yOffset="1341"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/12 19:03:14</string>
+    </dict>
+  </lib>
+</glyph>

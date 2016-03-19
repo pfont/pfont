@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehbarree-ar.isol" format="1">
+  <advance width="1850"/>
+  <unicode hex="FBAE"/>
+  <outline>
+    <component base="yehbarree-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/12 21:09:04</string>
+    </dict>
+  </lib>
+</glyph>

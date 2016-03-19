@@ -4,19 +4,19 @@
   <unicode hex="FBB6"/>
   <outline>
     <contour>
-      <point x="227" y="575" type="move" name="_top"/>
+      <point x="311" y="630" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="218" y="1142" type="move" name="top"/>
+      <point x="300" y="1390" type="move" name="top"/>
     </contour>
-    <component base="dotcenter-ar" xScale="0.844" yScale="0.844" xOffset="119" yOffset="415"/>
-    <component base="dotcenter-ar" xScale="0.844" yScale="0.844" yOffset="213"/>
-    <component base="dotcenter-ar" xScale="0.844" yScale="0.844" xOffset="249" yOffset="231"/>
+    <component base="dotcenter-ar" xScale="0.844" yScale="0.844" xOffset="157" yOffset="497"/>
+    <component base="dotcenter-ar" xScale="0.844" yScale="0.844" yOffset="245"/>
+    <component base="dotcenter-ar" xScale="0.844" yScale="0.844" xOffset="326" yOffset="266"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 19:07:53</string>
     </dict>
   </lib>
 </glyph>

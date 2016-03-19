@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tehMarbutagoal-ar" format="1">
-  <advance width="793"/>
+  <advance width="1068"/>
   <unicode hex="06C3"/>
   <outline>
     <contour>
-      <point x="407" y="-172" type="move" name="bottom"/>
+      <point x="481" y="-258" type="move" name="bottom"/>
     </contour>
     <component base="heh-ar"/>
-    <component base="twodotshorizontalabove-ar" xOffset="89" yOffset="80"/>
+    <component base="twodotshorizontalabove-ar" xOffset="97" yOffset="275"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/15 22:48:22</string>
     </dict>
   </lib>
 </glyph>

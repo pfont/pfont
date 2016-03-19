@@ -1,59 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessbeh-ar" format="1">
-  <advance width="1586"/>
+  <advance width="1854"/>
   <unicode hex="066E"/>
   <outline>
     <contour>
-      <point x="773" y="-197" type="move" name="bottom"/>
+      <point x="907" y="-247" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="727" y="749" type="move" name="top"/>
+      <point x="854" y="871" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="992" y="-6" type="curve" smooth="yes"/>
-      <point x="1255" y="36"/>
-      <point x="1466" y="110"/>
-      <point x="1466" y="358" type="curve" smooth="yes"/>
-      <point x="1466" y="438"/>
-      <point x="1405" y="685"/>
-      <point x="1369" y="838" type="curve"/>
-      <point x="1366" y="849"/>
-      <point x="1357" y="850"/>
-      <point x="1349" y="842" type="curve" smooth="yes"/>
-      <point x="1259" y="751" type="line"/>
-      <point x="1254" y="745"/>
-      <point x="1252" y="739"/>
-      <point x="1254" y="731" type="curve" smooth="yes"/>
-      <point x="1365" y="254" type="line" smooth="yes"/>
-      <point x="1367" y="245"/>
-      <point x="1365" y="239"/>
-      <point x="1356" y="235" type="curve" smooth="yes"/>
-      <point x="1233" y="181"/>
-      <point x="929" y="110"/>
-      <point x="652" y="115" type="curve" smooth="yes"/>
-      <point x="417" y="119"/>
-      <point x="223" y="184"/>
-      <point x="243" y="385" type="curve" smooth="yes"/>
-      <point x="255" y="510" type="line" smooth="yes"/>
-      <point x="256" y="519"/>
-      <point x="251" y="525"/>
-      <point x="242" y="526" type="curve" smooth="yes"/>
-      <point x="187" y="531" type="line" smooth="yes"/>
-      <point x="178" y="532"/>
-      <point x="171" y="526"/>
-      <point x="170" y="517" type="curve" smooth="yes"/>
-      <point x="155" y="385" type="line" smooth="yes"/>
-      <point x="120" y="82"/>
-      <point x="262" y="-37"/>
-      <point x="579" y="-46" type="curve" smooth="yes"/>
-      <point x="694" y="-49"/>
-      <point x="841" y="-33"/>
+      <point x="724" y="-54" type="curve" smooth="yes"/>
+      <point x="849" y="-54"/>
+      <point x="1003" y="-37"/>
+      <point x="1161" y="-13" type="curve" smooth="yes"/>
+      <point x="1464" y="35"/>
+      <point x="1714" y="129"/>
+      <point x="1714" y="422" type="curve" smooth="yes"/>
+      <point x="1714" y="515"/>
+      <point x="1644" y="800"/>
+      <point x="1602" y="976" type="curve" smooth="yes"/>
+      <point x="1599" y="988"/>
+      <point x="1591" y="994"/>
+      <point x="1581" y="994" type="curve" smooth="yes"/>
+      <point x="1575" y="994"/>
+      <point x="1568" y="991"/>
+      <point x="1562" y="985" type="curve" smooth="yes"/>
+      <point x="1458" y="881" type="line" smooth="yes"/>
+      <point x="1452" y="875"/>
+      <point x="1449" y="867"/>
+      <point x="1449" y="859" type="curve"/>
+      <point x="1578" y="300" type="line"/>
+      <point x="1580" y="293"/>
+      <point x="1579" y="292"/>
+      <point x="1573" y="289" type="curve" smooth="yes"/>
+      <point x="1438" y="230"/>
+      <point x="1109" y="152"/>
+      <point x="801" y="152" type="curve" smooth="yes"/>
+      <point x="538" y="152"/>
+      <point x="305" y="211"/>
+      <point x="305" y="422" type="curve" smooth="yes"/>
+      <point x="305" y="441"/>
+      <point x="306" y="456"/>
+      <point x="321" y="596" type="curve" smooth="yes"/>
+      <point x="323" y="612"/>
+      <point x="313" y="623"/>
+      <point x="297" y="625" type="curve" smooth="yes"/>
+      <point x="234" y="631" type="line" smooth="yes"/>
+      <point x="219" y="632"/>
+      <point x="205" y="622"/>
+      <point x="203" y="607" type="curve" smooth="yes"/>
+      <point x="184" y="442"/>
+      <point x="180" y="401"/>
+      <point x="180" y="357" type="curve" smooth="yes"/>
+      <point x="180" y="52"/>
+      <point x="381" y="-54"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 06:45:56</string>
+      <string>2016/03/16 00:06:57</string>
     </dict>
   </lib>
 </glyph>

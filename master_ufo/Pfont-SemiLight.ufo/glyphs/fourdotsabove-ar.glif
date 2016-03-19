@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fourdotsabove-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="FBBA"/>
+  <outline>
+    <contour>
+      <point x="224" y="675" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="227" y="1380" type="move" name="top"/>
+    </contour>
+    <component base="dotcenter-ar" xScale="0.772" yScale="0.772" xOffset="-20" yOffset="295"/>
+    <component base="dotcenter-ar" xScale="0.772" yScale="0.772" xOffset="-20" yOffset="589"/>
+    <component base="dotcenter-ar" xScale="0.772" yScale="0.772" xOffset="253" yOffset="309"/>
+    <component base="dotcenter-ar" xScale="0.772" yScale="0.772" xOffset="253" yOffset="603"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/12 19:10:33</string>
+    </dict>
+  </lib>
+</glyph>

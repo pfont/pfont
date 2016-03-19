@@ -2,13 +2,13 @@
 <glyph name="shaddaFatha-ar" format="1">
   <advance width="0"/>
   <outline>
-    <component base="shadda-ar"/>
-    <component base="fatha-ar" xOffset="60" yOffset="273"/>
+    <component base="shadda-ar" yOffset="-400"/>
+    <component base="fatha-ar" xOffset="59" yOffset="73"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 19:27:36</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringbelow-ar" format="1">
+  <advance width="0"/>
+  <outline>
+    <component base="ringcenter-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/12 22:44:03</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="veh-ar" format="1">
+  <advance width="1846"/>
+  <unicode hex="06A4"/>
+  <outline>
+    <contour>
+      <point x="848" y="-216" type="move" name="bottom"/>
+    </contour>
+    <component base="dotlessfeh-ar"/>
+    <component base="threedotsupabove-ar" xOffset="1089" yOffset="652"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/15 22:45:57</string>
+    </dict>
+  </lib>
+</glyph>

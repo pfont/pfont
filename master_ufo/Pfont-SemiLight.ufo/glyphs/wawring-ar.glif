@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wawring-ar" format="1">
+  <advance width="1040"/>
+  <unicode hex="06C4"/>
+  <outline>
+    <component base="waw-ar"/>
+    <component base="ringcenter-ar" xOffset="-10" yOffset="-1071"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/19 21:35:03</string>
+    </dict>
+  </lib>
+</glyph>

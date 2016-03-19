@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tteh-ar.init" format="1">
+  <advance width="746"/>
+  <unicode hex="FB68"/>
+  <outline>
+    <component base="dotlessbeh-ar.init"/>
+    <component base="tahabove-ar" xOffset="183" yOffset="-615"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/15 22:40:46</string>
+    </dict>
+  </lib>
+</glyph>

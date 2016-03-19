@@ -4,17 +4,17 @@
   <unicode hex="0656"/>
   <outline>
     <contour>
-      <point x="50" y="-111" type="move" name="_bottom"/>
+      <point x="67" y="-221" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="50" y="-666" type="move" name="bottom"/>
+      <point x="67" y="-896" type="move" name="bottom"/>
     </contour>
-    <component base="alefabove-ar" yOffset="-1439"/>
+    <component base="alefabove-ar" yOffset="-1505"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 19:15:44</string>
     </dict>
   </lib>
 </glyph>

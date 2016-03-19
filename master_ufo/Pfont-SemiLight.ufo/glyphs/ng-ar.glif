@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ng-ar" format="1">
+  <advance width="1500"/>
+  <unicode hex="06AD"/>
+  <outline>
+    <contour>
+      <point x="775" y="-215" type="move" name="bottom"/>
+    </contour>
+    <component base="kaf-ar"/>
+    <component base="threedotsupabove-ar" xOffset="461" yOffset="287"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/15 23:58:25</string>
+    </dict>
+  </lib>
+</glyph>

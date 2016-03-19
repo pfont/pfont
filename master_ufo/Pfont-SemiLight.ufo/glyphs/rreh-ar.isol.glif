@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rreh-ar.isol" format="1">
+  <advance width="913"/>
+  <unicode hex="FB8C"/>
+  <outline>
+    <component base="rreh-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/15 22:53:37</string>
+    </dict>
+  </lib>
+</glyph>

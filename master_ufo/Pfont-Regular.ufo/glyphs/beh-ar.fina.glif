@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="beh-ar.fina" format="1">
-  <advance width="1734"/>
+  <advance width="2013"/>
   <unicode hex="FE90"/>
   <outline>
     <component base="dotlessbeh-ar.fina"/>
-    <component base="dotbelow-ar" xOffset="656" yOffset="-58"/>
+    <component base="dotbelow-ar" xOffset="739" yOffset="-127"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 19:57:10</string>
     </dict>
   </lib>
 </glyph>

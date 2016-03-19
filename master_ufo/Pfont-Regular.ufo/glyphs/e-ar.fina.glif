@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e-ar.fina" format="1">
-  <advance width="1411"/>
+  <advance width="1642"/>
   <unicode hex="FBE5"/>
   <outline>
     <contour>
-      <point x="585" y="410" type="move" name="top"/>
+      <point x="691" y="481" type="move" name="top"/>
     </contour>
     <component base="alefMaksura-ar.fina"/>
-    <component base="twodotsverticalbelow-ar" xOffset="523" yOffset="-662"/>
+    <component base="twodotsverticalbelow-ar" xOffset="540" yOffset="-841"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 23:20:18</string>
     </dict>
   </lib>
 </glyph>

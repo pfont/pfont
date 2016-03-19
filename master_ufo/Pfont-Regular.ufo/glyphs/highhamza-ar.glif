@@ -4,17 +4,17 @@
   <unicode hex="0674"/>
   <outline>
     <contour>
-      <point x="246" y="315" type="move" name="bottom"/>
+      <point x="286" y="362" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="246" y="1183" type="move" name="top"/>
+      <point x="286" y="1220" type="move" name="top"/>
     </contour>
-    <component base="hamzacenter-ar" xOffset="-3"/>
+    <component base="hamzacenter-ar" yOffset="311"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/02/01 08:54:15</string>
+      <string>2016/03/12 19:53:06</string>
     </dict>
   </lib>
 </glyph>
