@@ -3,14 +3,8 @@
   <advance width="1145"/>
   <unicode hex="2026"/>
   <outline>
-    <component base="period" xScale="0.652" yScale="0.652" xOffset="47" yOffset="18"/>
-    <component base="period" xScale="0.652" yScale="0.652" xOffset="394" yOffset="18"/>
-    <component base="period" xScale="0.652" yScale="0.652" xOffset="727" yOffset="18"/>
+    <component base="period" xOffset="47" yOffset="18" xScale="0.652" yScale="0.652"/>
+    <component base="period" xOffset="394" yOffset="18" xScale="0.652" yScale="0.652"/>
+    <component base="period" xOffset="727" yOffset="18" xScale="0.652" yScale="0.652"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 21:23:11</string>
-    </dict>
-  </lib>
 </glyph>

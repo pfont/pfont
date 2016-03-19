@@ -3,16 +3,10 @@
   <advance width="1069"/>
   <unicode hex="06CB"/>
   <outline>
+    <component base="waw-ar"/>
+    <component base="threedotsupabove-ar" xOffset="258" yOffset="455"/>
     <contour>
       <point x="439" y="-694" type="move" name="bottom"/>
     </contour>
-    <component base="waw-ar"/>
-    <component base="threedotsupabove-ar" xOffset="258" yOffset="455"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/19 21:36:14</string>
-    </dict>
-  </lib>
 </glyph>

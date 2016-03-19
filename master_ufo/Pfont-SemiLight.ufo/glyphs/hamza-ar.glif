@@ -4,12 +4,8 @@
   <unicode hex="0621"/>
   <outline>
     <contour>
-      <point x="521" y="-199" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="521" y="925" type="move" name="top"/>
-    </contour>
-    <contour>
+      <point x="436" y="81"/>
+      <point x="631" y="195"/>
       <point x="857" y="315" type="curve" smooth="yes"/>
       <point x="866" y="320"/>
       <point x="871" y="327"/>
@@ -53,14 +49,12 @@
       <point x="212" y="-40"/>
       <point x="221" y="-46"/>
       <point x="232" y="-39" type="curve" smooth="yes"/>
-      <point x="436" y="81"/>
-      <point x="631" y="195"/>
+    </contour>
+    <contour>
+      <point x="521" y="925" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="521" y="-199" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/15 23:51:03</string>
-    </dict>
-  </lib>
 </glyph>

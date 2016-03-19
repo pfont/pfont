@@ -5,10 +5,4 @@
   <outline>
     <component base="qaf-ar"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 20:29:50</string>
-    </dict>
-  </lib>
 </glyph>

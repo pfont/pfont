@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noonRing-ar.init" format="1">
+  <advance width="746"/>
+  <outline>
+    <component base="noon-ar.init"/>
+    <component base="ringbelow-ar" xOffset="406" yOffset="-907"/>
+    <contour>
+      <point x="258" y="-248" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

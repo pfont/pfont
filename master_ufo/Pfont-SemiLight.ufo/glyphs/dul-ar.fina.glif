@@ -3,16 +3,10 @@
   <advance width="1312"/>
   <unicode hex="FB87"/>
   <outline>
+    <component base="dal-ar.fina"/>
+    <component base="threedotsupabove-ar" xOffset="619" yOffset="557"/>
     <contour>
       <point x="514" y="-230" type="move" name="bottom"/>
     </contour>
-    <component base="dal-ar.fina"/>
-    <component base="threedotsupabove-ar" xOffset="619" yOffset="557"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 22:16:38</string>
-    </dict>
-  </lib>
 </glyph>

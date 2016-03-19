@@ -6,16 +6,4 @@
     <component base="twodotshorizontalbelow-ar" xOffset="508" yOffset="-59"/>
     <component base="alef-ar.fina"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/15 22:18:41</string>
-      <key>com.schriftgestaltung.componentsDisableAlignment</key>
-      <array>
-        <false/>
-        <true/>
-        <false/>
-      </array>
-    </dict>
-  </lib>
 </glyph>

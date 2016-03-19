@@ -6,10 +6,4 @@
     <component base="waw-ar.fina"/>
     <component base="alefabove-ar" xOffset="492" yOffset="-17"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/19 21:36:10</string>
-    </dict>
-  </lib>
 </glyph>

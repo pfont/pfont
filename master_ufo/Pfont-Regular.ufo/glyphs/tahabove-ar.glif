@@ -4,12 +4,6 @@
   <unicode hex="0615"/>
   <outline>
     <contour>
-      <point x="276" y="833" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="276" y="1517" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="196" y="1294" type="line"/>
       <point x="195" y="1310"/>
       <point x="182" y="1320"/>
@@ -46,6 +40,8 @@
       <point x="202" y="1073" type="curve"/>
     </contour>
     <contour>
+      <point x="366" y="951"/>
+      <point x="271" y="933"/>
       <point x="159" y="934" type="curve"/>
       <point x="253" y="1029"/>
       <point x="288" y="1051"/>
@@ -53,14 +49,29 @@
       <point x="391" y="1051"/>
       <point x="425" y="1011"/>
       <point x="439" y="984" type="curve"/>
-      <point x="366" y="951"/>
-      <point x="271" y="933"/>
+    </contour>
+    <contour>
+      <point x="276" y="1517" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="276" y="833" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/15 17:17:43</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>x</key>
+          <integer>376</integer>
+          <key>y</key>
+          <integer>1523</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

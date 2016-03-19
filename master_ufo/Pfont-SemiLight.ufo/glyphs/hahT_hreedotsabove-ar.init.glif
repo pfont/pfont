@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hahThreedotsabove-ar.init" format="1">
+  <advance width="1661"/>
+  <outline>
+    <component base="hah-ar.init"/>
+    <component base="threedotsupabove-ar" xOffset="247" yOffset="332"/>
+    <contour>
+      <point x="719" y="-151" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

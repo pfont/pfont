@@ -6,10 +6,4 @@
     <component base="waw-ar"/>
     <component base="damma-ar" xOffset="367" yOffset="426"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/19 21:35:51</string>
-    </dict>
-  </lib>
 </glyph>

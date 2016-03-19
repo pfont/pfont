@@ -6,10 +6,4 @@
     <component base="dotlessbeh-ar"/>
     <component base="threedotsdownbelow-ar" xOffset="624" yOffset="-87"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/15 22:39:31</string>
-    </dict>
-  </lib>
 </glyph>

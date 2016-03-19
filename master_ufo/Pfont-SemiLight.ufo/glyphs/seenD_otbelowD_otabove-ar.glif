@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seenDotbelowDotabove-ar" format="1">
+  <advance width="2648"/>
+  <unicode hex="069A"/>
+  <outline>
+    <component base="seen-ar"/>
+    <component base="dotabove-ar" xOffset="1730" yOffset="-8"/>
+    <component base="dotcenter-ar" xOffset="1815" yOffset="-941"/>
+    <contour>
+      <point x="742" y="713" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="705" y="-665" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

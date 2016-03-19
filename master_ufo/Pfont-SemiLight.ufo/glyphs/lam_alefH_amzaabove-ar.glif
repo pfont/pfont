@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lam_alefHamzaabove-ar" format="1">
+  <advance width="1250"/>
+  <unicode hex="FEF7"/>
+  <outline>
+    <component base="lam_alef-ar"/>
+    <component base="hamzaabove-ar" xOffset="162" yOffset="964"/>
+    <contour>
+      <point x="331" y="2188" type="move" name="top_2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lam_alef-ar</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>lam_alef-ar</string>
+    </dict>
+  </lib>
+</glyph>

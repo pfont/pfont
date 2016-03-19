@@ -2,17 +2,11 @@
 <glyph name="threedotsdowncenter-ar" format="1">
   <advance width="0"/>
   <outline>
+    <component base="dotcenter-ar" yOffset="97" xScale="0.844" yScale="0.844"/>
+    <component base="dotcenter-ar" xOffset="346" yOffset="117" xScale="0.844" yScale="0.844"/>
+    <component base="dotcenter-ar" xOffset="175" yOffset="-139" xScale="0.844" yScale="0.844"/>
     <contour>
       <point x="328" y="591" type="move" name="_center"/>
     </contour>
-    <component base="dotcenter-ar" xScale="0.844" yScale="0.844" yOffset="97"/>
-    <component base="dotcenter-ar" xScale="0.844" yScale="0.844" xOffset="346" yOffset="117"/>
-    <component base="dotcenter-ar" xScale="0.844" yScale="0.844" xOffset="175" yOffset="-139"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 19:04:17</string>
-    </dict>
-  </lib>
 </glyph>

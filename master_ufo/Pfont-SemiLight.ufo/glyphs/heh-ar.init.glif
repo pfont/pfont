@@ -4,12 +4,6 @@
   <unicode hex="FEEB"/>
   <outline>
     <contour>
-      <point x="651" y="-97" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="711" y="1264" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="46" y="0" type="line" smooth="yes"/>
       <point x="224" y="0"/>
       <point x="490" y="79"/>
@@ -49,6 +43,8 @@
       <point x="-20" y="0" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="369" y="357"/>
+      <point x="327" y="499"/>
       <point x="420" y="660" type="curve" smooth="yes"/>
       <point x="529" y="851"/>
       <point x="735" y="828"/>
@@ -60,8 +56,6 @@
       <point x="630" y="323"/>
       <point x="622" y="320"/>
       <point x="612" y="321" type="curve" smooth="yes"/>
-      <point x="369" y="357"/>
-      <point x="327" y="499"/>
     </contour>
     <contour>
       <point x="800" y="325" type="line" smooth="yes"/>
@@ -79,11 +73,11 @@
       <point x="1194" y="211"/>
       <point x="1183" y="214" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="711" y="1264" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="651" y="-97" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/15 22:47:42</string>
-    </dict>
-  </lib>
 </glyph>

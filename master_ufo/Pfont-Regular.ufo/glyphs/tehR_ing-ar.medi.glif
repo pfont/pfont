@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tehRing-ar.medi" format="1">
+  <advance width="914"/>
+  <outline>
+    <component base="teh-ar.medi"/>
+    <component base="ringbelow-ar" xOffset="218" yOffset="398"/>
+    <contour>
+      <point x="340" y="-428" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

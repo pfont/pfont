@@ -4,10 +4,4 @@
   <outline>
     <component base="yeh_alef-ar"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/15 22:20:06</string>
-    </dict>
-  </lib>
 </glyph>

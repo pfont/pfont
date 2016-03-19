@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rehVbelow-ar" format="1">
+  <advance width="913"/>
+  <unicode hex="0695"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="vbelow-ar" xOffset="64" yOffset="-1038"/>
+  </outline>
+</glyph>

@@ -5,10 +5,4 @@
     <component base="waw-ar.fina"/>
     <component base="ringcenter-ar" xOffset="-25" yOffset="-1071"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/19 21:35:07</string>
-    </dict>
-  </lib>
 </glyph>

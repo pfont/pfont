@@ -5,10 +5,4 @@
   <outline>
     <component base="ghain-ar"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/19 21:31:27</string>
-    </dict>
-  </lib>
 </glyph>

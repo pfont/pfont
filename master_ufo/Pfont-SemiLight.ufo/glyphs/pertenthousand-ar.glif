@@ -4,12 +4,6 @@
   <unicode hex="060A"/>
   <outline>
     <component base="perthousand-ar"/>
-    <component base="period" xScale="0.803" yScale="0.803" xOffset="1443" yOffset="153"/>
+    <component base="period" xOffset="1443" yOffset="153" xScale="0.803" yScale="0.803"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 21:28:39</string>
-    </dict>
-  </lib>
 </glyph>

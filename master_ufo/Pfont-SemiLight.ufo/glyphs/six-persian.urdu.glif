@@ -4,10 +4,4 @@
   <outline>
     <component base="six-ar"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 21:22:16</string>
-    </dict>
-  </lib>
 </glyph>

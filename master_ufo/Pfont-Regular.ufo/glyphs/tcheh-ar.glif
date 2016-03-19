@@ -4,12 +4,6 @@
   <unicode hex="0686"/>
   <outline>
     <component base="hah-ar"/>
-    <component base="threedotsdowncenter-ar" xScale="0.945" yScale="0.945" xOffset="577" yOffset="-548"/>
+    <component base="threedotsdowncenter-ar" xOffset="577" yOffset="-548" xScale="0.945" yScale="0.945"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 20:48:04</string>
-    </dict>
-  </lib>
 </glyph>

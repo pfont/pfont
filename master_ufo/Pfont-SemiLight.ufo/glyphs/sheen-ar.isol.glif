@@ -5,10 +5,4 @@
   <outline>
     <component base="sheen-ar"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/15 22:43:38</string>
-    </dict>
-  </lib>
 </glyph>

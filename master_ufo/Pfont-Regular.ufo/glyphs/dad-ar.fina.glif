@@ -6,15 +6,4 @@
     <component base="sad-ar.fina"/>
     <component base="dotabove-ar" xOffset="1978" yOffset="189"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 20:20:48</string>
-      <key>com.schriftgestaltung.componentsDisableAlignment</key>
-      <array>
-        <false/>
-        <true/>
-      </array>
-    </dict>
-  </lib>
 </glyph>

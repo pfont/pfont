@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dalRing-ar" format="1">
+  <advance width="1182"/>
+  <unicode hex="0689"/>
+  <outline>
+    <component base="dal-ar"/>
+    <component base="ringbelow-ar" xOffset="712" yOffset="346"/>
+    <contour>
+      <point x="551" y="-478" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

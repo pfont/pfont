@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehVabove-ar" format="1">
+  <advance width="1630"/>
+  <unicode hex="06CE"/>
+  <outline>
+    <component base="alefMaksura-ar"/>
+    <component base="vabove-ar" xOffset="332" yOffset="-425"/>
+  </outline>
+</glyph>

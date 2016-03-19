@@ -3,18 +3,12 @@
   <advance width="0"/>
   <unicode hex="0656"/>
   <outline>
+    <component base="alefabove-ar" yOffset="-1655"/>
     <contour>
       <point x="57" y="-128" type="move" name="_bottom"/>
     </contour>
     <contour>
       <point x="57" y="-766" type="move" name="bottom"/>
     </contour>
-    <component base="alefabove-ar" yOffset="-1655"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 19:15:44</string>
-    </dict>
-  </lib>
 </glyph>

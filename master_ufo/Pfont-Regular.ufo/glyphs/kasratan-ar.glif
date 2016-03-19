@@ -3,22 +3,12 @@
   <advance width="0"/>
   <unicode hex="064D"/>
   <outline>
+    <component base="fathatan-ar" xOffset="1" yOffset="-1450"/>
     <contour>
       <point x="259" y="-185" type="move" name="_bottom"/>
     </contour>
     <contour>
       <point x="259" y="-890" type="move" name="bottom"/>
     </contour>
-    <component base="fathatan-ar" xOffset="1" yOffset="-1450"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 19:28:16</string>
-      <key>com.schriftgestaltung.componentsDisableAlignment</key>
-      <array>
-        <true/>
-      </array>
-    </dict>
-  </lib>
 </glyph>

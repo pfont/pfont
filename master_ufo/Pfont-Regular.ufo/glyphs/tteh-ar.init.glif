@@ -6,10 +6,4 @@
     <component base="dotlessbeh-ar.init"/>
     <component base="tahabove-ar" xOffset="139" yOffset="315"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/15 22:40:46</string>
-    </dict>
-  </lib>
 </glyph>

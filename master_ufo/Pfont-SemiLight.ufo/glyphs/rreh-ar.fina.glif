@@ -6,10 +6,4 @@
     <component base="reh-ar.fina"/>
     <component base="tahabove-ar" xOffset="412" yOffset="-886"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/15 22:54:51</string>
-    </dict>
-  </lib>
 </glyph>

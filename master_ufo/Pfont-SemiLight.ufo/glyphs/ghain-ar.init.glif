@@ -6,10 +6,4 @@
     <component base="ain-ar.init"/>
     <component base="dotabove-ar" xOffset="439" yOffset="367"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/15 22:45:42</string>
-    </dict>
-  </lib>
 </glyph>

@@ -4,6 +4,8 @@
   <unicode hex="FDF2"/>
   <outline>
     <contour>
+      <point x="1963" y="-37"/>
+      <point x="2105" y="121"/>
       <point x="2105" y="350" type="curve" smooth="yes"/>
       <point x="2105" y="407"/>
       <point x="2097" y="481"/>
@@ -82,10 +84,10 @@
       <point x="1519" y="13"/>
       <point x="1619" y="-37"/>
       <point x="1733" y="-37" type="curve" smooth="yes"/>
-      <point x="1963" y="-37"/>
-      <point x="2105" y="121"/>
     </contour>
     <contour>
+      <point x="705" y="192"/>
+      <point x="630" y="180"/>
       <point x="557" y="180" type="curve" smooth="yes"/>
       <point x="441" y="180"/>
       <point x="329" y="210"/>
@@ -103,10 +105,10 @@
       <point x="773" y="223"/>
       <point x="771" y="220"/>
       <point x="765" y="217" type="curve" smooth="yes"/>
-      <point x="705" y="192"/>
-      <point x="630" y="180"/>
     </contour>
     <contour>
+      <point x="1141" y="1122"/>
+      <point x="1189" y="1080"/>
       <point x="1280" y="1080" type="curve" smooth="yes"/>
       <point x="1332" y="1080"/>
       <point x="1385" y="1095"/>
@@ -161,8 +163,6 @@
       <point x="1156" y="1408"/>
       <point x="1155" y="1393" type="curve"/>
       <point x="1141" y="1215" type="line"/>
-      <point x="1141" y="1122"/>
-      <point x="1189" y="1080"/>
     </contour>
     <contour>
       <point x="1438" y="1453" type="line" smooth="yes"/>
@@ -186,6 +186,8 @@
       <point x="1410" y="1437" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="2418" y="-15"/>
+      <point x="2440" y="19"/>
       <point x="2439" y="125" type="curve" smooth="yes"/>
       <point x="2431" y="1529" type="line" smooth="yes"/>
       <point x="2431" y="1549"/>
@@ -202,14 +204,6 @@
       <point x="2298" y="-26"/>
       <point x="2314" y="-36"/>
       <point x="2335" y="-33" type="curve"/>
-      <point x="2418" y="-15"/>
-      <point x="2440" y="19"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/15 23:16:45</string>
-    </dict>
-  </lib>
 </glyph>

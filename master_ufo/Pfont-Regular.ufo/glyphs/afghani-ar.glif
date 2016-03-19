@@ -6,15 +6,4 @@
     <component base="feh-ar.init" xOffset="299"/>
     <component base="alefbelow-ar" xOffset="631" yOffset="28"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 21:26:49</string>
-      <key>com.schriftgestaltung.componentsDisableAlignment</key>
-      <array>
-        <true/>
-        <false/>
-      </array>
-    </dict>
-  </lib>
 </glyph>

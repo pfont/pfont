@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hehgoalHamzaabove-ar" format="1">
+  <advance width="1068"/>
+  <unicode hex="06C2"/>
+  <outline>
+    <component base="heh-ar"/>
+    <component base="hamzaabove-ar" xOffset="152" yOffset="435"/>
+  </outline>
+</glyph>

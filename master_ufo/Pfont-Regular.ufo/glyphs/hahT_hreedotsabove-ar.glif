@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hahThreedotsabove-ar" format="1">
+  <advance width="1472"/>
+  <unicode hex="0685"/>
+  <outline>
+    <component base="hah-ar"/>
+    <component base="threedotsupabove-ar" xOffset="153" yOffset="462"/>
+    <contour>
+      <point x="822" y="-928" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

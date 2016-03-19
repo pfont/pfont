@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lamVabove-ar" format="1">
+  <advance width="1471"/>
+  <unicode hex="06B5"/>
+  <outline>
+    <component base="lam-ar"/>
+    <component base="vabove-ar" xOffset="426" yOffset="-161"/>
+  </outline>
+</glyph>

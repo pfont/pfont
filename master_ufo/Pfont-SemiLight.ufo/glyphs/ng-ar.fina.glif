@@ -3,16 +3,10 @@
   <advance width="1679"/>
   <unicode hex="FBD4"/>
   <outline>
+    <component base="kaf-ar.fina"/>
+    <component base="threedotsupabove-ar" xOffset="460" yOffset="287"/>
     <contour>
       <point x="775" y="-215" type="move" name="bottom"/>
     </contour>
-    <component base="kaf-ar.fina"/>
-    <component base="threedotsupabove-ar" xOffset="460" yOffset="287"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 22:41:01</string>
-    </dict>
-  </lib>
 </glyph>

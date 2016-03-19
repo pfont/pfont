@@ -3,12 +3,8 @@
   <advance width="746"/>
   <outline>
     <contour>
-      <point x="292" y="-179" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="415" y="1128" type="move" name="top"/>
-    </contour>
-    <contour>
+      <point x="393" y="0"/>
+      <point x="608" y="105"/>
       <point x="608" y="389" type="curve" smooth="yes"/>
       <point x="608" y="481"/>
       <point x="538" y="765"/>
@@ -32,14 +28,12 @@
       <point x="-138" y="0"/>
       <point x="-20" y="0" type="curve" smooth="yes"/>
       <point x="0" y="0" type="line" smooth="yes"/>
-      <point x="393" y="0"/>
-      <point x="608" y="105"/>
+    </contour>
+    <contour>
+      <point x="415" y="1128" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="292" y="-179" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/15 22:38:23</string>
-    </dict>
-  </lib>
 </glyph>

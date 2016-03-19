@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehbarreeHamzaabove-ar.isol" format="1">
+  <advance width="1850"/>
+  <unicode hex="FBB0"/>
+  <outline>
+    <component base="yehbarreeHamzaabove-ar"/>
+  </outline>
+</glyph>

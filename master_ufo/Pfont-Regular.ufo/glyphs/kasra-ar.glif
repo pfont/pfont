@@ -3,22 +3,12 @@
   <advance width="0"/>
   <unicode hex="0650"/>
   <outline>
+    <component base="fatha-ar" yOffset="-1683"/>
     <contour>
       <point x="259" y="-434" type="move" name="_bottom"/>
     </contour>
     <contour>
       <point x="259" y="-882" type="move" name="bottom"/>
     </contour>
-    <component base="fatha-ar" yOffset="-1683"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 19:19:50</string>
-      <key>com.schriftgestaltung.componentsDisableAlignment</key>
-      <array>
-        <true/>
-      </array>
-    </dict>
-  </lib>
 </glyph>

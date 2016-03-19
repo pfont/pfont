@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rehRing-ar" format="1">
+  <advance width="925"/>
+  <unicode hex="0693"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="ringbelow-ar" xOffset="478" yOffset="56"/>
+    <contour>
+      <point x="299" y="-740" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

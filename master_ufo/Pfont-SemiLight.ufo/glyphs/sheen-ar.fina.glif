@@ -3,24 +3,13 @@
   <advance width="2870"/>
   <unicode hex="FEB6"/>
   <outline>
-    <contour>
-      <point x="707" y="-704" type="move" name="bottom"/>
-    </contour>
+    <component base="seen-ar.fina"/>
+    <component base="threedotsupabove-ar" xOffset="1650" yOffset="164"/>
     <contour>
       <point x="742" y="713" type="move" name="top"/>
     </contour>
-    <component base="seen-ar.fina"/>
-    <component base="threedotsupabove-ar" xOffset="1650" yOffset="164"/>
+    <contour>
+      <point x="707" y="-704" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 22:20:59</string>
-      <key>com.schriftgestaltung.componentsDisableAlignment</key>
-      <array>
-        <false/>
-        <true/>
-      </array>
-    </dict>
-  </lib>
 </glyph>

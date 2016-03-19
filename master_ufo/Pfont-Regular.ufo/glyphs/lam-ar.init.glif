@@ -4,12 +4,6 @@
   <unicode hex="FEDF"/>
   <outline>
     <contour>
-      <point x="178" y="-193" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="241" y="1737" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="46" y="0" type="line" smooth="yes"/>
       <point x="303" y="0"/>
       <point x="413" y="95"/>
@@ -40,11 +34,11 @@
       <point x="-86" y="0"/>
       <point x="-20" y="0" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="241" y="1737" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="178" y="-193" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/15 23:58:45</string>
-    </dict>
-  </lib>
 </glyph>

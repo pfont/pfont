@@ -12,16 +12,16 @@
 	<integer>-730</integer>
 	<key>familyName</key>
 	<string>Pfont</string>
+	<key>license</key>
+	<string>OFL V1.1</string>
 	<key>openTypeHeadCreated</key>
-	<string>2016/02/01 14:57:28</string>
+	<string>2016/03/19 23:04:19</string>
 	<key>openTypeHheaAscender</key>
 	<integer>2200</integer>
 	<key>openTypeHheaDescender</key>
 	<integer>-1300</integer>
 	<key>openTypeNameDesigner</key>
 	<string>Damoon Khanjanzadeh</string>
-	<key>openTypeNameLicense</key>
-	<string>OFL V1.1</string>
 	<key>openTypeNameManufacturer</key>
 	<string>pfont</string>
 	<key>openTypeNameManufacturerURL</key>
@@ -29,11 +29,7 @@
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Pfont</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular</string>
-	<key>openTypeNameUniqueID</key>
-	<string>0.101;Pfont-Regular</string>
-	<key>openTypeNameVersion</key>
-	<string>Version 0.101</string>
+	<string>SemiLight</string>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>2200</integer>
 	<key>openTypeOS2TypoDescender</key>
@@ -45,29 +41,25 @@
 	<key>openTypeOS2WinAscent</key>
 	<integer>3000</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>2200</integer>
+	<integer>-2200</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
-	<key>postscriptFontName</key>
-	<string>Pfont-Regular</string>
-	<key>postscriptFullName</key>
-	<string>Pfont-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
 	<key>styleMapFamilyName</key>
-	<string>Pfont</string>
+	<string>Pfont SemiLight</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>SemiLight</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>versionMajor</key>
 	<integer>0</integer>
 	<key>versionMinor</key>
-	<integer>101</integer>
+	<integer>200</integer>
 	<key>xHeight</key>
 	<integer>0</integer>
 </dict>

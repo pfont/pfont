@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wawTwodots-ar" format="1">
+  <advance width="1040"/>
+  <unicode hex="06CA"/>
+  <outline>
+    <component base="waw-ar"/>
+    <component base="twodotshorizontalabove-ar" xOffset="255" yOffset="156"/>
+    <contour>
+      <point x="422" y="-720" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

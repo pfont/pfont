@@ -5,10 +5,4 @@
   <outline>
     <component base="yeh-ar.init"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 22:54:28</string>
-    </dict>
-  </lib>
 </glyph>

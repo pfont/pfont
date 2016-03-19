@@ -6,10 +6,4 @@
     <component base="dotlessbeh-ar.medi"/>
     <component base="dotabove-ar" xOffset="377"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 20:51:57</string>
-    </dict>
-  </lib>
 </glyph>

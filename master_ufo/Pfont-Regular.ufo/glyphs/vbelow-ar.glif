@@ -2,18 +2,12 @@
 <glyph name="vbelow-ar" format="1">
   <advance width="0"/>
   <outline>
+    <component base="vabove-ar" yOffset="-1550"/>
     <contour>
       <point x="235" y="-252" type="move" name="_bottom"/>
     </contour>
     <contour>
       <point x="265" y="-917" type="move" name="bottom"/>
     </contour>
-    <component base="vabove-ar" yOffset="-1550"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 19:24:04</string>
-    </dict>
-  </lib>
 </glyph>

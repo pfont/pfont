@@ -3,18 +3,12 @@
   <advance width="0"/>
   <unicode hex="FBBB"/>
   <outline>
+    <component base="fourdotsabove-ar" yOffset="-1265"/>
     <contour>
       <point x="225" y="-56" type="move" name="_bottom"/>
     </contour>
     <contour>
       <point x="225" y="-763" type="move" name="bottom"/>
     </contour>
-    <component base="fourdotsabove-ar" yOffset="-1265"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 19:11:32</string>
-    </dict>
-  </lib>
 </glyph>

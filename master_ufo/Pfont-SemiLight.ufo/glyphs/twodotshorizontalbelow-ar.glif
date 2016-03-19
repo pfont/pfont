@@ -3,19 +3,13 @@
   <advance width="0"/>
   <unicode hex="FBB5"/>
   <outline>
+    <component base="dotcenter-ar" xOffset="306" yOffset="-888" xScale="0.914" yScale="0.914"/>
+    <component base="dotcenter-ar" xOffset="-20" yOffset="-917" xScale="0.914" yScale="0.914"/>
     <contour>
       <point x="271" y="-171" type="move" name="_bottom"/>
     </contour>
     <contour>
       <point x="271" y="-639" type="move" name="bottom"/>
     </contour>
-    <component base="dotcenter-ar" xScale="0.914" yScale="0.914" xOffset="306" yOffset="-888"/>
-    <component base="dotcenter-ar" xScale="0.914" yScale="0.914" xOffset="-20" yOffset="-917"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 19:02:33</string>
-    </dict>
-  </lib>
 </glyph>

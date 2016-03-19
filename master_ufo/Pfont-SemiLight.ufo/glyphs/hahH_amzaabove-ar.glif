@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hahHamzaabove-ar" format="1">
+  <advance width="1438"/>
+  <unicode hex="0681"/>
+  <outline>
+    <component base="hah-ar"/>
+    <component base="hamzaabove-ar" xOffset="162" yOffset="501"/>
+  </outline>
+</glyph>

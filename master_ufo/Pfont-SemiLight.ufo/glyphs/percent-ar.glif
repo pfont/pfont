@@ -13,13 +13,7 @@
       <point x="183" y="-17"/>
       <point x="218" y="-46" type="curve"/>
     </contour>
-    <component base="period" xScale="0.803" yScale="0.803" xOffset="527" yOffset="107"/>
-    <component base="period" xScale="0.803" yScale="0.803" xOffset="23" yOffset="906"/>
+    <component base="period" xOffset="527" yOffset="107" xScale="0.803" yScale="0.803"/>
+    <component base="period" xOffset="23" yOffset="906" xScale="0.803" yScale="0.803"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 21:28:30</string>
-    </dict>
-  </lib>
 </glyph>

@@ -4,10 +4,4 @@
   <outline>
     <component base="ringcenter-ar" xOffset="10" yOffset="-800"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 22:44:03</string>
-    </dict>
-  </lib>
 </glyph>

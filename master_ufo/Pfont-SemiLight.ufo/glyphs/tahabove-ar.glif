@@ -4,45 +4,41 @@
   <unicode hex="0615"/>
   <outline>
     <contour>
-      <point x="232" y="1743" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="232" y="2316" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="171.996" y="2029.278" type="curve" smooth="yes"/>
-      <point x="165.993" y="2193.366" type="line" smooth="yes"/>
+      <point x="173" y="1971"/>
+      <point x="173" y="1997"/>
+      <point x="172" y="2029" type="curve" smooth="yes"/>
+      <point x="166" y="2193" type="line" smooth="yes"/>
       <point x="165" y="2207"/>
       <point x="150" y="2215"/>
-      <point x="139.168" y="2207.123" type="curve" smooth="yes"/>
+      <point x="139" y="2207" type="curve" smooth="yes"/>
       <point x="103" y="2181" type="line" smooth="yes"/>
       <point x="96" y="2176"/>
       <point x="93" y="2171"/>
       <point x="93" y="2165" type="curve" smooth="yes"/>
-      <point x="102.021" y="2028.354" type="line" smooth="yes"/>
+      <point x="102" y="2028" type="line" smooth="yes"/>
       <point x="109" y="1917"/>
       <point x="108" y="1882"/>
       <point x="64" y="1834" type="curve"/>
-      <point x="7.676" y="1837.977" type="line" smooth="yes"/>
+      <point x="8" y="1838" type="line" smooth="yes"/>
       <point x="-5" y="1839"/>
       <point x="-12" y="1828"/>
-      <point x="-9.806" y="1818.039" type="curve" smooth="yes"/>
+      <point x="-10" y="1818" type="curve" smooth="yes"/>
       <point x="5" y="1762"/>
       <point x="8" y="1755"/>
-      <point x="62.942" y="1749.056" type="curve" smooth="yes"/>
-      <point x="172.716" y="1740.994"/>
-      <point x="359.077" y="1744.066"/>
-      <point x="450.907" y="1831.768" type="curve" smooth="yes"/>
-      <point x="521.763" y="1900.509"/>
-      <point x="444.635" y="2039"/>
+      <point x="63" y="1749" type="curve" smooth="yes"/>
+      <point x="173" y="1741"/>
+      <point x="359" y="1744"/>
+      <point x="451" y="1832" type="curve" smooth="yes"/>
+      <point x="522" y="1901"/>
+      <point x="445" y="2039"/>
       <point x="338" y="2039" type="curve" smooth="yes"/>
       <point x="289" y="2040"/>
       <point x="234" y="2010"/>
       <point x="170" y="1948" type="curve"/>
-      <point x="173" y="1971"/>
-      <point x="173" y="1997"/>
     </contour>
     <contour>
+      <point x="344" y="1843"/>
+      <point x="244" y="1827"/>
       <point x="129" y="1830" type="curve"/>
       <point x="229" y="1933"/>
       <point x="263" y="1956"/>
@@ -50,14 +46,29 @@
       <point x="374" y="1956"/>
       <point x="409" y="1905"/>
       <point x="419" y="1880" type="curve"/>
-      <point x="344" y="1843"/>
-      <point x="244" y="1827"/>
+    </contour>
+    <contour>
+      <point x="232" y="2316" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="232" y="1743" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/15 17:17:43</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>x</key>
+          <integer>376</integer>
+          <key>y</key>
+          <integer>1523</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -4,6 +4,8 @@
   <unicode hex="FDF2"/>
   <outline>
     <contour>
+      <point x="1839" y="-36"/>
+      <point x="1966" y="13"/>
       <point x="2016" y="114" type="curve" smooth="yes"/>
       <point x="2084" y="251"/>
       <point x="2094" y="292"/>
@@ -76,10 +78,10 @@
       <point x="1495" y="26"/>
       <point x="1589" y="-38"/>
       <point x="1719" y="-37" type="curve" smooth="yes"/>
-      <point x="1839" y="-36"/>
-      <point x="1966" y="13"/>
     </contour>
     <contour>
+      <point x="583" y="126"/>
+      <point x="331" y="161"/>
       <point x="260" y="248" type="curve" smooth="yes"/>
       <point x="256" y="253"/>
       <point x="256" y="259"/>
@@ -94,10 +96,10 @@
       <point x="766" y="209"/>
       <point x="761" y="202"/>
       <point x="752" y="198" type="curve" smooth="yes"/>
-      <point x="583" y="126"/>
-      <point x="331" y="161"/>
     </contour>
     <contour>
+      <point x="1279" y="1071"/>
+      <point x="1358" y="1087"/>
       <point x="1404" y="1124" type="curve"/>
       <point x="1442" y="1094"/>
       <point x="1509" y="1089"/>
@@ -141,8 +143,6 @@
       <point x="1130" y="1159"/>
       <point x="1151" y="1098"/>
       <point x="1211" y="1086" type="curve" smooth="yes"/>
-      <point x="1279" y="1071"/>
-      <point x="1358" y="1087"/>
     </contour>
     <contour>
       <point x="1416" y="1452" type="line" smooth="yes"/>
@@ -163,6 +163,8 @@
       <point x="1388" y="1436" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="2400" y="-15"/>
+      <point x="2413" y="20"/>
       <point x="2412" y="115" type="curve" smooth="yes"/>
       <point x="2404" y="1519" type="line" smooth="yes"/>
       <point x="2404" y="1538"/>
@@ -176,14 +178,6 @@
       <point x="2291" y="-29"/>
       <point x="2302" y="-36"/>
       <point x="2316" y="-33" type="curve" smooth="yes"/>
-      <point x="2400" y="-15"/>
-      <point x="2413" y="20"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/15 23:16:45</string>
-    </dict>
-  </lib>
 </glyph>

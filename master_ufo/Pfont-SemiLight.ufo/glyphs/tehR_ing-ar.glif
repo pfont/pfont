@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tehRing-ar" format="1">
+  <advance width="1824"/>
+  <unicode hex="067C"/>
+  <outline>
+    <component base="teh-ar"/>
+    <component base="ringbelow-ar" xOffset="282" yOffset="-1050"/>
+  </outline>
+</glyph>

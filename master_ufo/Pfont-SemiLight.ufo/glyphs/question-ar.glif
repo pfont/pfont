@@ -39,12 +39,6 @@
       <point x="464" y="403"/>
       <point x="476" y="407" type="curve" smooth="yes"/>
     </contour>
-    <component base="period" xScale="0.876" yScale="0.876" xOffset="262" yOffset="-21"/>
+    <component base="period" xOffset="262" yOffset="-21" xScale="0.876" yScale="0.876"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/15 16:49:14</string>
-    </dict>
-  </lib>
 </glyph>

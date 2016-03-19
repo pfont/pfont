@@ -5,10 +5,4 @@
   <outline>
     <component base="kaf-ar.init"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/19 21:18:06</string>
-    </dict>
-  </lib>
 </glyph>

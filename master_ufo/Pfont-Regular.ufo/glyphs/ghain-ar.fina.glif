@@ -6,10 +6,4 @@
     <component base="ain-ar.fina"/>
     <component base="dotabove-ar" xOffset="539" yOffset="588"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/12 20:25:04</string>
-    </dict>
-  </lib>
 </glyph>
