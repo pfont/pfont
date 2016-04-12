@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"",
-"/alefHamzabelow-ar/noon-ar  /alef-ar/lam-ar/thal-ar/yeh-ar/noon-ar  /kaf-ar/feh-ar/reh-ar/waw-ar/alef-ar  /seen-ar/waw-ar/alef-ar/hamza-ar  /ain-ar/lam-ar/yeh-ar/heh-ar/meem-ar  /alefHamzaabove-ar/alefHamzaabove-ar/noon-ar/thal-ar/reh-ar/teh-ar/heh-ar/meem-ar  /alefHamzaabove-ar/meem-ar  /lam-ar/meem-ar  /teh-ar/noon-ar/thal-ar/reh-ar/heh-ar/meem-ar  /lam-ar/alef-ar  /yeh-ar/wawHamzaabove-ar/meem-ar/noon-ar/waw-ar/noon-ar  /parenright-ar/six-ar/parenleft-ar  /khah-ar/teh-ar/meem-ar  /alef-ar/lam-ar/lam-ar/heh-ar  /ain-ar/lam-ar/alefMaksura-ar  /qaf-ar/lam-ar/waw-ar/beh-ar/heh-ar/meem-ar  /waw-ar/ain-ar/lam-ar/alefMaksura-ar  /seen-ar/meem-ar/ain-ar/heh-ar/meem-ar  /sadLamAlefMaksuraabove-ar  /waw-ar/ain-ar/lam-ar/alefMaksura-ar  /alefHamzaabove-ar/beh-ar/sad-ar/alef-ar/reh-ar/heh-ar/meem-ar  /ghain-ar/sheen-ar/alef-ar/waw-ar/tehMarbuta-ar  /sadLamAlefMaksuraabove-ar  /waw-ar/lam-ar/heh-ar/meem-ar  /ain-ar/thal-ar/alef-ar/beh-ar  /ain-ar/zah-ar/yeh-ar/meem-ar  /parenright-ar/seven-ar/parenleft-ar  /waw-ar/meem-ar/noon-ar  /alef-ar/lam-ar/noon-ar/alef-ar/seen-ar  /meem-ar/noon-ar  /yeh-ar/qaf-ar/waw-ar/lam-ar  /alefMadda-ar/meem-ar/noon-ar/alef-ar  /beh-ar/alef-ar/lam-ar/lam-ar/heh-ar  /waw-ar/beh-ar/alef-ar/lam-ar/yeh-ar/waw-ar/meem-ar  /alef-ar/lam-ar/alefMadda-ar/khah-ar/reh-ar  /waw-ar/meem-ar/alef-ar  /heh-ar/meem-ar  /beh-ar/meem-ar/wawHamzaabove-ar/meem-ar/noon-ar/yeh-ar/noon-ar  /parenright-ar/eight-ar/parenleft-ar  /yeh-ar/khah-ar/alef-ar/dal-ar/ain-ar/waw-ar/noon-ar  /alef-ar/lam-ar/lam-ar/heh-ar  /waw-ar/alef-ar/lam-ar/thal-ar/yeh-ar/noon-ar  /alefMadda-ar/meem-ar/noon-ar/waw-ar/alef-ar  /waw-ar/meem-ar/alef-ar  /yeh-ar/khah-ar/dal-ar/ain-ar/waw-ar/noon-ar  /alefHamzabelow-ar/lam-ar/alef-ar  /alefHamzaabove-ar/noon-ar/feh-ar/seen-ar/heh-ar/meem-ar  /waw-ar/meem-ar/alef-ar  /yeh-ar/sheen-ar/ain-ar/reh-ar/waw-ar/noon-ar  /parenright-ar/nine-ar/parenleft-ar  /feh-ar/yeh-ar  /qaf-ar/lam-ar/waw-ar/beh-ar/heh-ar/meem-ar  /meem-ar/reh-ar/dad-ar  /feh-ar/zain-ar/alef-ar/dal-ar/heh-ar/meem-ar  /alef-ar/lam-ar/lam-ar/heh-ar  /meem-ar/reh-ar/dad-ar/alef-ar  /sadLamAlefMaksuraabove-ar  /waw-ar/lam-ar/heh-ar/meem-ar  /ain-ar/thal-ar/alef-ar/beh-ar  /alefHamzaabove-ar/lam-ar/yeh-ar/meem-ar  /beh-ar/meem-ar/alef-ar  /kaf-ar/alef-ar/noon-ar/waw-ar/alef-ar  /yeh-ar/kaf-ar/thal-ar/beh-ar/waw-ar/noon-ar  /parenright-ar/one-ar/zero-ar/parenleft-ar  /waw-ar/alefHamzabelow-ar/thal-ar/alef-ar  /qaf-ar/yeh-ar/lam-ar  /lam-ar/heh-ar/meem-ar  /lam-ar/alef-ar  /teh-ar/feh-ar/seen-ar/dal-ar/waw-ar/alef-ar  /feh-ar/yeh-ar  /alef-ar/lam-ar/alefHamzaabove-ar/reh-ar/dad-ar  /qaf-ar/alef-ar/lam-ar/waw-ar/alef-ar  /alefHamzabelow-ar/noon-ar/meem-ar/alef-ar  /noon-ar/hah-ar/noon-ar  /meem-ar/sad-ar/lam-ar/hah-ar/waw-ar/noon-ar  /parenright-ar/one-ar/one-ar/parenleft-ar  /alefHamzaabove-ar/lam-ar/alef-ar  /alefHamzabelow-ar/noon-ar/heh-ar/meem-ar  /heh-ar/meem-ar  /alef-ar/lam-ar/meem-ar/feh-ar/seen-ar/dal-ar/waw-ar/noon-ar  /waw-ar/lam-ar/kaf-ar/noon-ar  /lam-ar/alef-ar  /yeh-ar/sheen-ar/ain-ar/reh-ar/waw-ar/noon-ar  /parenright-ar/one-ar/two-ar/parenleft-ar  /waw-ar/alefHamzabelow-ar/thal-ar/alef-ar  /qaf-ar/yeh-ar/lam-ar  /lam-ar/heh-ar/meem-ar  /alefMadda-ar/meem-ar/noon-ar/waw-ar/alef-ar  /kaf-ar/meem-ar/alef-ar  /alefMadda-ar/meem-ar/noon-ar  /alef-ar/lam-ar/noon-ar/alef-ar/seen-ar  /qaf-ar/alef-ar/lam-ar/waw-ar/alef-ar  /alefHamzaabove-ar/noon-ar/wawHamzaabove-ar/meem-ar/noon-ar  /kaf-ar/meem-ar/alef-ar  /alefMadda-ar/meem-ar/noon-ar  /alef-ar/lam-ar/seen-ar/feh-ar/heh-ar/alef-ar/hamza-ar  /qafLamAlefMaksuraabove-ar  /alefHamzaabove-ar/lam-ar/alef-ar  /alefHamzabelow-ar/noon-ar/heh-ar/meem-ar  /heh-ar/meem-ar  /alef-ar/lam-ar/seen-ar/feh-ar/heh-ar/alef-ar/hamza-ar  /waw-ar/lam-ar/kaf-ar/noon-ar  /lam-ar/alef-ar  /yeh-ar/ain-ar/lam-ar/meem-ar/waw-ar/noon-ar  /parenright-ar/one-ar/three-ar/parenleft-ar  /waw-ar/alefHamzabelow-ar/thal-ar/alef-ar  /lam-ar/qaf-ar/waw-ar/alef-ar  /alef-ar/lam-ar/thal-ar/yeh-ar/noon-ar  /alefMadda-ar/meem-ar/noon-ar/waw-ar/alef-ar  /qaf-ar/alef-ar/lam-ar/waw-ar/alef-ar  /alefMadda-ar/meem-ar/noon-ar/alef-ar  /waw-ar/alefHamzabelow-ar/thal-ar/alef-ar  /khah-ar/lam-ar/waw-ar/alef-ar  /alefHamzabelow-ar/lam-ar/alefMaksura-ar  /sheen-ar/yeh-ar/alef-ar/tah-ar/yeh-ar/noon-ar/heh-ar/meem-ar  /qaf-ar/alef-ar/lam-ar/waw-ar/alef-ar  /alefHamzabelow-ar/noon-ar/alef-ar  /meem-ar/ain-ar/kaf-ar/meem-ar  /alefHamzabelow-ar/noon-ar/meem-ar/alef-ar  /noon-ar/hah-ar/noon-ar  /meem-ar/seen-ar/teh-ar/heh-ar/zain-ar/yehHamzaabove-ar/waw-ar/noon-ar  /parenright-ar/one-ar/four-ar/parenleft-ar  /alef-ar/lam-ar/lam-ar/heh-ar  /yeh-ar/seen-ar/teh-ar/heh-ar/zain-ar/yehHamzaabove-ar  /beh-ar/heh-ar/meem-ar  /waw-ar/yeh-ar/meem-ar/dal-ar/heh-ar/meem-ar  /feh-ar/yeh-ar  /tah-ar/ghain-ar/yeh-ar/alef-ar/noon-ar/heh-ar/meem-ar  /yeh-ar/ain-ar/meem-ar/heh-ar/waw-ar/noon-ar  /parenright-ar/one-ar/five-ar/parenleft-ar  /alefHamzaabove-ar/waw-ar/lam-ar/yehHamzaabove-ar/kaf-ar  /alef-ar/lam-ar/thal-ar/yeh-ar/noon-ar  /alef-ar/sheen-ar/teh-ar/reh-ar/waw-ar/alef-ar  /alef-ar/lam-ar/dad-ar/lam-ar/alef-ar/lam-ar/tehMarbuta-ar  /beh-ar/alef-ar/lam-ar/heh-ar/dal-ar/alefMaksura-ar  /feh-ar/meem-ar/alef-ar  /reh-ar/beh-ar/hah-ar/teh-ar  /teh-ar/jeem-ar/alef-ar/reh-ar/teh-ar/heh-ar/meem-ar  /waw-ar/meem-ar/alef-ar  /kaf-ar/alef-ar/noon-ar/waw-ar/alef-ar  /meem-ar/heh-ar/teh-ar/dal-ar/yeh-ar/noon-ar  /parenright-ar/one-ar/six-ar/parenleft-ar \012/meem-ar/theh-ar/lam-ar/heh-ar/meem-ar  /kaf-ar/meem-ar/theh-ar/lam-ar  /alef-ar/lam-ar/thal-ar/yeh-ar  /alef-ar/seen-ar/teh-ar/waw-ar/qaf-ar/dal-ar  /noon-ar/alef-ar/reh-ar/alef-ar  /feh-ar/lam-ar/meem-ar/alef-ar  /alefHamzaabove-ar/dad-ar/alef-ar/hamza-ar/teh-ar  /meem-ar/alef-ar  /hah-ar/waw-ar/lam-ar/heh-ar  /thal-ar/heh-ar/beh-ar  /alef-ar/lam-ar/lam-ar/heh-ar  /beh-ar/noon-ar/waw-ar/reh-ar/heh-ar/meem-ar  /waw-ar/teh-ar/reh-ar/kaf-ar/heh-ar/meem-ar  /feh-ar/yeh-ar  /zah-ar/lam-ar/meem-ar/alef-ar/teh-ar  /lam-ar/alef-ar  /yeh-ar/beh-ar/sad-ar/reh-ar/waw-ar/noon-ar  /parenright-ar/one-ar/seven-ar/parenleft-ar  /sad-ar/meem-ar  /beh-ar/kaf-ar/meem-ar  /ain-ar/meem-ar/yeh-ar  /feh-ar/heh-ar/meem-ar  /lam-ar/alef-ar  /yeh-ar/reh-ar/jeem-ar/ain-ar/waw-ar/noon-ar  /parenright-ar/one-ar/eight-ar/parenleft-ar  /alefHamzaabove-ar/waw-ar  /kaf-ar/sad-ar/yeh-ar/beh-ar  /meem-ar/noon-ar  /alef-ar/lam-ar/seen-ar/meem-ar/alef-ar/hamza-ar  /feh-ar/yeh-ar/heh-ar  /zah-ar/lam-ar/meem-ar/alef-ar/teh-ar  /waw-ar/reh-ar/ain-ar/dal-ar  /waw-ar/beh-ar/reh-ar/qaf-ar  /yeh-ar/jeem-ar/ain-ar/lam-ar/waw-ar/noon-ar  /alefHamzaabove-ar/sad-ar/alef-ar/beh-ar/ain-ar/heh-ar/meem-ar  /feh-ar/yeh-ar  /alefMadda-ar/thal-ar/alef-ar/noon-ar/heh-ar/meem-ar  /meem-ar/noon-ar  /alef-ar/lam-ar/sad-ar/waw-ar/alef-ar/ain-ar/qaf-ar  /hah-ar/thal-ar/reh-ar  /alef-ar/lam-ar/meem-ar/waw-ar/teh-ar   /waw-ar/alef-ar/lam-ar/lam-ar/heh-ar  /meem-ar/hah-ar/yeh-ar/tah-ar  /beh-ar/alef-ar/lam-ar/kaf-ar/alef-ar/feh-ar/reh-ar/yeh-ar/noon-ar  /parenright-ar/one-ar/nine-ar/parenleft-ar  /yeh-ar/kaf-ar/alef-ar/dal-ar  /alef-ar/lam-ar/beh-ar/reh-ar/qaf-ar  /yeh-ar/khah-ar/tah-ar/feh-ar  /alefHamzaabove-ar/beh-ar/sad-ar/alef-ar/reh-ar/heh-ar/meem-ar  /sadLamAlefMaksuraabove-ar  /kaf-ar/lam-ar/meem-ar/alef-ar  /alefHamzaabove-ar/dad-ar/alef-ar/hamza-ar  /lam-ar/heh-ar/meem-ar  /meem-ar/sheen-ar/waw-ar/alef-ar  /feh-ar/yeh-ar/heh-ar  /waw-ar/alefHamzabelow-ar/thal-ar/alef-ar  /alefHamzaabove-ar/zah-ar/lam-ar/meem-ar  /ain-ar/lam-ar/yeh-ar/heh-ar/meem-ar  /qaf-ar/alef-ar/meem-ar/waw-ar/alef-ar   /waw-ar/lam-ar/waw-ar  /sheen-ar/alef-ar/hamza-ar  /alef-ar/lam-ar/lam-ar/heh-ar  /lam-ar/thal-ar/heh-ar/beh-ar  /beh-ar/seen-ar/meem-ar/ain-ar/heh-ar/meem-ar  /waw-ar/alefHamzaabove-ar/beh-ar/sad-ar/alef-ar/reh-ar/heh-ar/meem-ar   /alefHamzabelow-ar/noon-ar  /alef-ar/lam-ar/lam-ar/heh-ar  /ain-ar/lam-ar/alefMaksura-ar  /kaf-ar/lam-ar  /sheen-ar/yeh-ar/hamza-ar  /qaf-ar/dal-ar/yeh-ar/reh-ar  /parenright-ar/two-ar/zero-ar/parenleft-ar  /yeh-ar/alef-ar  /alefHamzaabove-ar/yeh-ar/heh-ar/alef-ar  /alef-ar/lam-ar/noon-ar/alef-ar/seen-ar  /alef-ar/ain-ar/beh-ar/dal-ar/waw-ar/alef-ar  /reh-ar/beh-ar/kaf-ar/meem-ar  /alef-ar/lam-ar/thal-ar/yeh-ar  /khah-ar/lam-ar/qaf-ar/kaf-ar/meem-ar  /waw-ar/alef-ar/lam-ar/thal-ar/yeh-ar/noon-ar  /meem-ar/noon-ar  /qaf-ar/beh-ar/lam-ar/kaf-ar/meem-ar  /lam-ar/ain-ar/lam-ar/kaf-ar/meem-ar  /teh-ar/teh-ar/qaf-ar/waw-ar/noon-ar  /parenright-ar/two-ar/one-ar/parenleft-ar  /alef-ar/lam-ar/thal-ar/yeh-ar  /jeem-ar/ain-ar/lam-ar  /lam-ar/kaf-ar/meem-ar  /alef-ar/lam-ar/alefHamzaabove-ar/reh-ar/dad-ar  /feh-ar/reh-ar/alef-ar/sheen-ar/alef-ar  /waw-ar/alef-ar/lam-ar/seen-ar/meem-ar/alef-ar/hamza-ar  /beh-ar/noon-ar/alef-ar/hamza-ar  /waw-ar/alefHamzaabove-ar/noon-ar/zain-ar/lam-ar  /meem-ar/noon-ar  /alef-ar/lam-ar/seen-ar/meem-ar/alef-ar/hamza-ar  /meem-ar/alef-ar/hamza-ar  /feh-ar/alefHamzaabove-ar/khah-ar/reh-ar/jeem-ar  /beh-ar/heh-ar  /meem-ar/noon-ar  /alef-ar/lam-ar/theh-ar/meem-ar/reh-ar/alef-ar/teh-ar  /reh-ar/zain-ar/qaf-ar/alef-ar  /lam-ar/kaf-ar/meem-ar  /sadLamAlefMaksuraabove-ar  /feh-ar/lam-ar/alef-ar  /teh-ar/jeem-ar/ain-ar/lam-ar/waw-ar/alef-ar  /lam-ar/lam-ar/heh-ar  /alefHamzaabove-ar/noon-ar/dal-ar/alef-ar/dal-ar/alef-ar  /waw-ar/alefHamzaabove-ar/noon-ar/teh-ar/meem-ar  /teh-ar/ain-ar/lam-ar/meem-ar/waw-ar/noon-ar  /parenright-ar/two-ar/two-ar/parenleft-ar  /waw-ar/alefHamzabelow-ar/noon-ar  /kaf-ar/noon-ar/teh-ar/meem-ar  /feh-ar/yeh-ar  /reh-ar/yeh-ar/beh-ar  /meem-ar/meem-ar/alef-ar  /noon-ar/zain-ar/lam-ar/noon-ar/alef-ar  /ain-ar/lam-ar/alefMaksura-ar  /ain-ar/beh-ar/dal-ar/noon-ar/alef-ar  /feh-ar/alefHamzaabove-ar/gaf-ar/theh-ar/waw-ar/alef-ar  /beh-ar/seen-ar/waw-ar/reh-ar/tehMarbuta-ar  /meem-ar/noon-ar  /meem-ar/theh-ar/lam-ar/heh-ar  /waw-ar/alef-ar/dal-ar/ain-ar/waw-ar/alef-ar  /sheen-ar/heh-ar/dal-ar/alef-ar/hamza-ar/kaf-ar/meem-ar  /meem-ar/noon-ar  /dal-ar/waw-ar/noon-ar  /alef-ar/lam-ar/lam-ar/heh-ar  /alefHamzabelow-ar/noon-ar  /kaf-ar/noon-ar/teh-ar/meem-ar  /sad-ar/alef-ar/dal-ar/qaf-ar/yeh-ar/noon-ar  /parenright-ar/two-ar/three-ar/parenleft-ar  /feh-ar/alefHamzabelow-ar/noon-ar  /lam-ar/meem-ar  /teh-ar/feh-ar/ain-ar/lam-ar/waw-ar/alef-ar  /waw-ar/lam-ar/noon-ar  /teh-ar/feh-ar/ain-ar/lam-ar/waw-ar/alef-ar  /feh-ar/alef-ar/teh-ar/qaf-ar/waw-ar/alef-ar  /alef-ar/lam-ar/noon-ar/alef-ar/reh-ar  /alef-ar/lam-ar/teh-ar/yeh-ar  /waw-ar/qaf-ar/waw-ar/dal-ar/heh-ar/alef-ar  /alef-ar/lam-ar/noon-ar/alef-ar/seen-ar  /waw-ar/alef-ar/lam-ar/hah-ar/jeem-ar/alef-ar/reh-ar/tehMarbuta-ar  /sadLamAlefMaksuraabove-ar  /alefHamzaabove-ar/ain-ar/dal-ar/teh-ar  /lam-ar/lam-ar/kaf-ar/alef-ar/feh-ar/reh-ar/yeh-ar/noon-ar  /parenright-ar/two-ar/four-ar/parenleft-ar"
-);
 classes = (
 {
 automatic = 1;
@@ -4753,7 +4749,7 @@ unicode = 062F;
 },
 {
 glyphname = "dal-ar.isol";
-lastChange = "2016-03-28 02:42:38 +0000";
+lastChange = "2016-04-12 16:53:03 +0000";
 layers = (
 {
 components = (
@@ -4763,7 +4759,7 @@ name = "dal-ar";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1153;
+width = 1129;
 },
 {
 components = (
@@ -4980,7 +4976,7 @@ unicode = 0630;
 },
 {
 glyphname = "thal-ar.isol";
-lastChange = "2016-03-28 02:42:24 +0000";
+lastChange = "2016-04-12 16:53:03 +0000";
 layers = (
 {
 components = (
@@ -4990,7 +4986,7 @@ name = "thal-ar";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1153;
+width = 1129;
 },
 {
 components = (
@@ -5008,6 +5004,7 @@ unicode = FEAB;
 },
 {
 glyphname = "thal-ar.isol.001";
+lastChange = "2016-04-12 16:53:03 +0000";
 layers = (
 {
 components = (
@@ -5017,7 +5014,7 @@ name = "thal-ar";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1153;
+width = 1129;
 },
 {
 components = (
@@ -5069,7 +5066,7 @@ unicode = FEAC;
 },
 {
 glyphname = "ddal-ar";
-lastChange = "2016-03-28 02:41:49 +0000";
+lastChange = "2016-04-12 16:53:03 +0000";
 layers = (
 {
 components = (
@@ -5078,12 +5075,12 @@ name = "dal-ar";
 },
 {
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 390, -585}";
+transform = "{1, 0, 0, 1, 367, -585}";
 }
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1153;
+width = 1129;
 },
 {
 components = (
@@ -5105,7 +5102,7 @@ unicode = 0688;
 },
 {
 glyphname = "ddal-ar.isol";
-lastChange = "2016-03-28 02:42:07 +0000";
+lastChange = "2016-04-12 16:53:03 +0000";
 layers = (
 {
 components = (
@@ -5115,7 +5112,7 @@ name = "ddal-ar";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1153;
+width = 1129;
 },
 {
 components = (
@@ -5133,7 +5130,7 @@ unicode = FB88;
 },
 {
 glyphname = "ddal-ar.fina";
-lastChange = "2016-03-27 02:05:37 +0000";
+lastChange = "2016-04-12 16:53:03 +0000";
 layers = (
 {
 components = (
@@ -5142,12 +5139,12 @@ name = "dal-ar.fina";
 },
 {
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 648, -545}";
+transform = "{1, 0, 0, 1, 625, -545}";
 }
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1312;
+width = 1289;
 },
 {
 components = (
@@ -5168,7 +5165,7 @@ unicode = FB89;
 },
 {
 glyphname = "dalRing-ar";
-lastChange = "2016-03-28 02:41:28 +0000";
+lastChange = "2016-04-12 16:53:03 +0000";
 layers = (
 {
 components = (
@@ -5182,7 +5179,7 @@ transform = "{1, 0, 0, 1, 680, -1055}";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1153;
+width = 1129;
 },
 {
 anchors = (
@@ -5210,7 +5207,7 @@ unicode = 0689;
 },
 {
 glyphname = "dalRing-ar.fina";
-lastChange = "2016-03-27 02:05:37 +0000";
+lastChange = "2016-04-12 16:53:03 +0000";
 layers = (
 {
 components = (
@@ -5224,7 +5221,7 @@ transform = "{1, 0, 0, 1, 676, -1049}";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1312;
+width = 1289;
 },
 {
 anchors = (
@@ -5251,7 +5248,7 @@ width = 1330;
 },
 {
 glyphname = "dalRing-ar.isol";
-lastChange = "2016-03-27 02:05:37 +0000";
+lastChange = "2016-04-12 16:53:03 +0000";
 layers = (
 {
 components = (
@@ -5261,7 +5258,7 @@ name = "dalRing-ar";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1153;
+width = 1129;
 },
 {
 components = (
@@ -5277,7 +5274,7 @@ width = 1182;
 },
 {
 glyphname = "dul-ar";
-lastChange = "2016-03-28 02:43:09 +0000";
+lastChange = "2016-04-12 16:53:03 +0000";
 layers = (
 {
 anchors = (
@@ -5292,12 +5289,12 @@ name = "dal-ar";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 361, 517}";
+transform = "{1, 0, 0, 1, 338, 517}";
 }
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1153;
+width = 1129;
 },
 {
 anchors = (
@@ -5325,7 +5322,7 @@ unicode = 068E;
 },
 {
 glyphname = "dul-ar.isol";
-lastChange = "2016-03-28 02:43:25 +0000";
+lastChange = "2016-04-12 16:53:03 +0000";
 layers = (
 {
 components = (
@@ -5335,7 +5332,7 @@ name = "dul-ar";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1153;
+width = 1129;
 },
 {
 components = (
@@ -5353,7 +5350,7 @@ unicode = FB86;
 },
 {
 glyphname = "dul-ar.fina";
-lastChange = "2016-03-27 02:05:37 +0000";
+lastChange = "2016-04-12 16:53:04 +0000";
 layers = (
 {
 anchors = (
@@ -5368,12 +5365,12 @@ name = "dal-ar.fina";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 619, 557}";
+transform = "{1, 0, 0, 1, 596, 557}";
 }
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1312;
+width = 1289;
 },
 {
 anchors = (
@@ -5400,7 +5397,7 @@ unicode = FB87;
 },
 {
 glyphname = "dalVinvertedabove-ar";
-lastChange = "2016-03-28 02:43:35 +0000";
+lastChange = "2016-04-12 16:53:04 +0000";
 layers = (
 {
 components = (
@@ -5409,12 +5406,12 @@ name = "dal-ar";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 391, -14}";
+transform = "{1, 0, 0, 1, 368, -14}";
 }
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1153;
+width = 1129;
 },
 {
 components = (
@@ -5436,7 +5433,7 @@ unicode = 06EE;
 },
 {
 glyphname = "dalVinvertedabove-ar.fina";
-lastChange = "2016-03-27 02:05:37 +0000";
+lastChange = "2016-04-12 16:53:04 +0000";
 layers = (
 {
 components = (
@@ -5445,12 +5442,12 @@ name = "dal-ar.fina";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 649, 26}";
+transform = "{1, 0, 0, 1, 626, 26}";
 }
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1312;
+width = 1289;
 },
 {
 components = (
@@ -5626,7 +5623,7 @@ y = "-463";
 },
 {
 glyphname = "reh-ar.isol";
-lastChange = "2016-03-27 03:00:52 +0000";
+lastChange = "2016-04-12 16:53:03 +0000";
 layers = (
 {
 components = (
@@ -5636,7 +5633,7 @@ name = "reh-ar";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 913;
+width = 918;
 },
 {
 components = (
@@ -5842,7 +5839,7 @@ unicode = 0632;
 },
 {
 glyphname = "zain-ar.isol";
-lastChange = "2016-03-27 03:00:52 +0000";
+lastChange = "2016-04-12 16:53:03 +0000";
 layers = (
 {
 components = (
@@ -5852,7 +5849,7 @@ name = "zain-ar";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 913;
+width = 918;
 },
 {
 components = (
@@ -5908,7 +5905,7 @@ unicode = FEB0;
 },
 {
 glyphname = "rreh-ar";
-lastChange = "2016-03-27 03:00:52 +0000";
+lastChange = "2016-04-12 16:53:04 +0000";
 layers = (
 {
 components = (
@@ -5917,12 +5914,12 @@ name = "reh-ar";
 },
 {
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 326, -767}";
+transform = "{1, 0, 0, 1, 331, -767}";
 }
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 913;
+width = 918;
 },
 {
 components = (
@@ -5945,7 +5942,7 @@ unicode = 0691;
 },
 {
 glyphname = "rreh-ar.isol";
-lastChange = "2016-03-27 03:00:52 +0000";
+lastChange = "2016-04-12 16:53:03 +0000";
 layers = (
 {
 components = (
@@ -5955,7 +5952,7 @@ name = "rreh-ar";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 913;
+width = 918;
 },
 {
 components = (
@@ -5974,7 +5971,7 @@ unicode = FB8C;
 },
 {
 glyphname = "rreh-ar.fina";
-lastChange = "2016-03-27 03:00:52 +0000";
+lastChange = "2016-04-12 16:53:04 +0000";
 layers = (
 {
 components = (
@@ -5983,12 +5980,12 @@ name = "reh-ar.fina";
 },
 {
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 412, -886}";
+transform = "{1, 0, 0, 1, 371, -886}";
 }
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1160;
+width = 1119;
 },
 {
 components = (
@@ -6011,7 +6008,7 @@ unicode = FB8D;
 },
 {
 glyphname = "rehRing-ar";
-lastChange = "2016-03-27 03:00:52 +0000";
+lastChange = "2016-04-12 16:53:03 +0000";
 layers = (
 {
 components = (
@@ -6025,7 +6022,7 @@ transform = "{1, 0, 0, 1, 499, -1342}";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 913;
+width = 918;
 },
 {
 anchors = (
@@ -6055,7 +6052,7 @@ unicode = 0693;
 },
 {
 glyphname = "rehRing-ar.fina";
-lastChange = "2016-03-27 03:00:52 +0000";
+lastChange = "2016-04-12 16:53:03 +0000";
 layers = (
 {
 components = (
@@ -6069,7 +6066,7 @@ transform = "{1, 0, 0, 1, 535, -1367}";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1160;
+width = 1119;
 },
 {
 anchors = (
@@ -6098,7 +6095,7 @@ rightKerningGroup = r;
 },
 {
 glyphname = "rehRing-ar.isol";
-lastChange = "2016-03-27 03:00:52 +0000";
+lastChange = "2016-04-12 16:53:03 +0000";
 layers = (
 {
 components = (
@@ -6108,7 +6105,7 @@ name = "rehRing-ar";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 913;
+width = 918;
 },
 {
 components = (
@@ -6126,7 +6123,7 @@ rightKerningGroup = r;
 },
 {
 glyphname = "rehVbelow-ar";
-lastChange = "2016-03-27 03:00:52 +0000";
+lastChange = "2016-04-12 16:53:04 +0000";
 layers = (
 {
 components = (
@@ -6135,12 +6132,12 @@ name = "reh-ar";
 },
 {
 name = "vbelow-ar";
-transform = "{1, 0, 0, 1, 64, -1038}";
+transform = "{1, 0, 0, 1, 69, -1038}";
 }
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 913;
+width = 918;
 },
 {
 components = (
@@ -16105,7 +16102,7 @@ unicode = FEE2;
 },
 {
 glyphname = "meem-ar.medi";
-lastChange = "2016-03-15 13:37:57 +0000";
+lastChange = "2016-04-12 17:41:20 +0000";
 layers = (
 {
 anchors = (
@@ -16266,10 +16263,10 @@ nodes = (
 "689 660 OFFCURVE",
 "691 658 OFFCURVE",
 "696 648 CURVE SMOOTH",
-"913 175 LINE SMOOTH",
-"914 172 OFFCURVE",
-"914 170 OFFCURVE",
-"909 171 CURVE SMOOTH"
+"911 179 LINE SMOOTH",
+"912 176 OFFCURVE",
+"910 171 OFFCURVE",
+"905 172 CURVE SMOOTH"
 );
 }
 );
@@ -17210,7 +17207,7 @@ unicode = 0647;
 },
 {
 glyphname = "heh-ar.isol";
-lastChange = "2016-03-27 02:14:35 +0000";
+lastChange = "2016-04-12 16:53:04 +0000";
 layers = (
 {
 components = (
@@ -17220,7 +17217,7 @@ name = "heh-ar";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1037;
+width = 999;
 },
 {
 components = (
@@ -17864,7 +17861,7 @@ unicode = FEEB;
 },
 {
 glyphname = "hehHamzaabove-ar";
-lastChange = "2016-03-27 02:14:35 +0000";
+lastChange = "2016-04-12 16:53:04 +0000";
 layers = (
 {
 components = (
@@ -17878,7 +17875,7 @@ transform = "{1, 0, 0, 1, 134, 525}";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1037;
+width = 999;
 },
 {
 components = (
@@ -17900,7 +17897,7 @@ unicode = 06C0;
 },
 {
 glyphname = "hehHamzaabove-ar.isol";
-lastChange = "2016-03-27 02:14:35 +0000";
+lastChange = "2016-04-12 16:53:04 +0000";
 layers = (
 {
 components = (
@@ -17910,7 +17907,7 @@ name = "hehHamzaabove-ar";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1037;
+width = 999;
 },
 {
 components = (
@@ -17963,7 +17960,7 @@ unicode = FBA5;
 },
 {
 glyphname = "hehgoal-ar";
-lastChange = "2016-03-27 02:14:35 +0000";
+lastChange = "2016-04-12 16:53:04 +0000";
 layers = (
 {
 components = (
@@ -17973,7 +17970,7 @@ name = "heh-ar";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1037;
+width = 999;
 },
 {
 components = (
@@ -17991,7 +17988,7 @@ unicode = 06C1;
 },
 {
 glyphname = "hehgoal-ar.isol";
-lastChange = "2016-03-27 02:14:35 +0000";
+lastChange = "2016-04-12 16:53:04 +0000";
 layers = (
 {
 components = (
@@ -18001,7 +17998,7 @@ name = "hehgoal-ar";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1037;
+width = 999;
 },
 {
 components = (
@@ -18346,7 +18343,7 @@ unicode = FBA8;
 },
 {
 glyphname = "hehgoalHamzaabove-ar";
-lastChange = "2016-03-27 02:14:35 +0000";
+lastChange = "2016-04-12 16:53:04 +0000";
 layers = (
 {
 components = (
@@ -18360,7 +18357,7 @@ transform = "{1, 0, 0, 1, 134, 525}";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1037;
+width = 999;
 },
 {
 components = (
@@ -18451,7 +18448,7 @@ leftKerningGroup = k;
 },
 {
 glyphname = "hehgoalHamzaabove-ar.isol";
-lastChange = "2016-03-27 02:14:35 +0000";
+lastChange = "2016-04-12 16:53:04 +0000";
 layers = (
 {
 components = (
@@ -18461,7 +18458,7 @@ name = "hehgoalHamzaabove-ar";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1037;
+width = 999;
 },
 {
 components = (
@@ -19284,7 +19281,7 @@ unicode = 0629;
 },
 {
 glyphname = "tehMarbuta-ar.isol";
-lastChange = "2016-03-27 02:14:35 +0000";
+lastChange = "2016-04-12 16:53:04 +0000";
 layers = (
 {
 components = (
@@ -19294,7 +19291,7 @@ name = "tehMarbuta-ar";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1037;
+width = 999;
 },
 {
 components = (
@@ -19359,7 +19356,7 @@ unicode = FE94;
 },
 {
 glyphname = "tehMarbutagoal-ar";
-lastChange = "2016-03-27 02:14:35 +0000";
+lastChange = "2016-04-12 16:53:04 +0000";
 layers = (
 {
 anchors = (
@@ -19379,7 +19376,7 @@ transform = "{1, 0, 0, 1, 148, 192}";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1037;
+width = 999;
 },
 {
 anchors = (
@@ -19407,7 +19404,7 @@ unicode = 06C3;
 },
 {
 glyphname = "tehMarbutagoal-ar.isol";
-lastChange = "2016-03-27 02:14:35 +0000";
+lastChange = "2016-04-12 16:53:04 +0000";
 layers = (
 {
 components = (
@@ -19417,7 +19414,7 @@ name = "tehMarbutagoal-ar";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1037;
+width = 999;
 },
 {
 components = (
@@ -22664,7 +22661,7 @@ unicode = FBB1;
 },
 {
 glyphname = "ae-ar";
-lastChange = "2016-03-27 02:14:35 +0000";
+lastChange = "2016-04-12 16:53:04 +0000";
 layers = (
 {
 components = (
@@ -22674,7 +22671,7 @@ name = "heh-ar";
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
 name = SemiLight;
-width = 1037;
+width = 999;
 },
 {
 components = (
@@ -31798,321 +31795,6 @@ width = 0;
 unicode = FEFF;
 },
 {
-glyphname = whiteStar.circled;
-lastChange = "2016-03-12 23:44:09 +0000";
-layers = (
-{
-layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
-name = SemiLight;
-paths = (
-{
-closed = 1;
-nodes = (
-"698 118 OFFCURVE",
-"866 283 OFFCURVE",
-"866 484 CURVE SMOOTH",
-"866 685 OFFCURVE",
-"698 852 OFFCURVE",
-"490 852 CURVE SMOOTH",
-"282 852 OFFCURVE",
-"115 685 OFFCURVE",
-"115 484 CURVE SMOOTH",
-"115 283 OFFCURVE",
-"282 118 OFFCURVE",
-"490 118 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"308 229 LINE",
-"383 437 LINE",
-"189 557 LINE",
-"198 582 LINE",
-"427 575 LINE",
-"480 788 LINE",
-"507 788 LINE",
-"572 575 LINE",
-"790 585 LINE",
-"798 557 LINE",
-"614 438 LINE",
-"692 240 LINE",
-"670 221 LINE",
-"498 352 LINE",
-"329 213 LINE"
-);
-}
-);
-width = 981;
-},
-{
-layerId = "00FED3EE-B3F5-49E6-B91A-35FC52169726";
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"718 132 OFFCURVE",
-"891 301 OFFCURVE",
-"891 508 CURVE SMOOTH",
-"891 716 OFFCURVE",
-"717 886 OFFCURVE",
-"505 886 CURVE SMOOTH",
-"293 886 OFFCURVE",
-"120 716 OFFCURVE",
-"120 508 CURVE SMOOTH",
-"120 301 OFFCURVE",
-"293 132 OFFCURVE",
-"505 132 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"326 244 LINE",
-"405 462 LINE",
-"201 588 LINE",
-"206 599 LINE",
-"447 592 LINE",
-"503 816 LINE",
-"515 816 LINE",
-"584 592 LINE",
-"812 603 LINE",
-"816 588 LINE",
-"622 463 LINE",
-"704 254 LINE",
-"694 245 LINE",
-"513 382 LINE",
-"336 236 LINE"
-);
-}
-);
-width = 1011;
-}
-);
-unicode = 272A;
-},
-{
-glyphname = bar;
-lastChange = "2016-03-12 21:27:55 +0000";
-layers = (
-{
-layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
-name = SemiLight;
-paths = (
-{
-closed = 1;
-nodes = (
-"263 -543 LINE",
-"263 1542 LINE",
-"138 1542 LINE",
-"138 -543 LINE"
-);
-}
-);
-width = 401;
-},
-{
-layerId = "00FED3EE-B3F5-49E6-B91A-35FC52169726";
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"285 -543 LINE",
-"285 1562 LINE",
-"140 1562 LINE",
-"140 -543 LINE"
-);
-}
-);
-width = 425;
-}
-);
-unicode = 007C;
-},
-{
-glyphname = at;
-lastChange = "2016-03-15 17:13:32 +0000";
-layers = (
-{
-layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
-name = SemiLight;
-paths = (
-{
-closed = 1;
-nodes = (
-"903 76 OFFCURVE",
-"995 92 OFFCURVE",
-"1078 130 CURVE",
-"1047 214 LINE",
-"979 185 OFFCURVE",
-"897 168 OFFCURVE",
-"797 168 CURVE SMOOTH",
-"476 168 OFFCURVE",
-"263 329 OFFCURVE",
-"263 643 CURVE SMOOTH",
-"263 944 OFFCURVE",
-"475 1174 OFFCURVE",
-"779 1174 CURVE SMOOTH",
-"864 1174 OFFCURVE",
-"941 1157 OFFCURVE",
-"1010 1120 CURVE SMOOTH",
-"1150 1050 OFFCURVE",
-"1221 922 OFFCURVE",
-"1221 784 CURVE SMOOTH",
-"1221 667 OFFCURVE",
-"1162 545 OFFCURVE",
-"1068 480 CURVE SMOOTH",
-"1033 455 OFFCURVE",
-"1005 443 OFFCURVE",
-"982 443 CURVE SMOOTH",
-"958 443 OFFCURVE",
-"940 462 OFFCURVE",
-"940 483 CURVE SMOOTH",
-"940 490 OFFCURVE",
-"945 522 OFFCURVE",
-"958 580 CURVE SMOOTH",
-"1047 994 LINE",
-"940 1011 LINE",
-"915 899 LINE",
-"868 975 OFFCURVE",
-"800 1012 OFFCURVE",
-"728 1012 CURVE SMOOTH",
-"682 1012 OFFCURVE",
-"634 995 OFFCURVE",
-"583 963 CURVE SMOOTH",
-"352 812 OFFCURVE",
-"346 378 OFFCURVE",
-"606 343 CURVE SMOOTH",
-"680 331 OFFCURVE",
-"762 361 OFFCURVE",
-"834 443 CURVE",
-"837 402 OFFCURVE",
-"875 339 OFFCURVE",
-"941 339 CURVE SMOOTH",
-"1119 339 OFFCURVE",
-"1312 543 OFFCURVE",
-"1312 783 CURVE SMOOTH",
-"1312 951 OFFCURVE",
-"1224 1119 OFFCURVE",
-"1059 1203 CURVE SMOOTH",
-"979 1244 OFFCURVE",
-"887 1265 OFFCURVE",
-"784 1265 CURVE SMOOTH",
-"652 1265 OFFCURVE",
-"542 1235 OFFCURVE",
-"448 1175 CURVE SMOOTH",
-"263 1057 OFFCURVE",
-"173 835 OFFCURVE",
-"173 633 CURVE SMOOTH",
-"173 274 OFFCURVE",
-"422 76 OFFCURVE",
-"798 76 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"565 826 OFFCURVE",
-"646 921 OFFCURVE",
-"736 921 CURVE SMOOTH",
-"815 921 OFFCURVE",
-"891 853 OFFCURVE",
-"891 744 CURVE SMOOTH",
-"891 337 OFFCURVE",
-"412 319 OFFCURVE",
-"530 718 CURVE SMOOTH"
-);
-}
-);
-width = 1450;
-},
-{
-layerId = "00FED3EE-B3F5-49E6-B91A-35FC52169726";
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"889 -95 OFFCURVE",
-"984 -76 OFFCURVE",
-"1068 -36 CURVE",
-"1030 66 LINE",
-"957 33 OFFCURVE",
-"871 17 OFFCURVE",
-"774 17 CURVE SMOOTH",
-"442 17 OFFCURVE",
-"250 188 OFFCURVE",
-"250 482 CURVE SMOOTH",
-"250 783 OFFCURVE",
-"463 1003 OFFCURVE",
-"756 1003 CURVE SMOOTH",
-"989 1003 OFFCURVE",
-"1188 855 OFFCURVE",
-"1188 623 CURVE SMOOTH",
-"1188 491 OFFCURVE",
-"1073 292 OFFCURVE",
-"959 292 CURVE SMOOTH",
-"912 292 OFFCURVE",
-"928 343 OFFCURVE",
-"945 417 CURVE SMOOTH",
-"1036 841 LINE",
-"909 861 LINE",
-"887 763 LINE",
-"841 826 OFFCURVE",
-"777 861 OFFCURVE",
-"705 861 CURVE SMOOTH",
-"522 861 OFFCURVE",
-"379 655 OFFCURVE",
-"379 455 CURVE SMOOTH",
-"379 296 OFFCURVE",
-"465 169 OFFCURVE",
-"614 169 CURVE SMOOTH",
-"680 169 OFFCURVE",
-"747 201 OFFCURVE",
-"805 260 CURVE",
-"818 209 OFFCURVE",
-"866 168 OFFCURVE",
-"918 168 CURVE SMOOTH",
-"1112 168 OFFCURVE",
-"1299 389 OFFCURVE",
-"1299 622 CURVE SMOOTH",
-"1299 914 OFFCURVE",
-"1069 1114 OFFCURVE",
-"761 1114 CURVE SMOOTH",
-"391 1114 OFFCURVE",
-"140 842 OFFCURVE",
-"140 472 CURVE SMOOTH",
-"140 119 OFFCURVE",
-"381 -95 OFFCURVE",
-"775 -95 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"593 750 OFFCURVE",
-"713 750 CURVE SMOOTH",
-"794 750 OFFCURVE",
-"858 678 OFFCURVE",
-"858 583 CURVE SMOOTH",
-"858 381 OFFCURVE",
-"737 277 OFFCURVE",
-"636 277 CURVE SMOOTH",
-"562 277 OFFCURVE",
-"499 331 OFFCURVE",
-"499 441 CURVE SMOOTH",
-"499 578 OFFCURVE"
-);
-}
-);
-width = 1479;
-}
-);
-unicode = 0040;
-},
-{
 glyphname = "afghani-ar";
 lastChange = "2016-03-12 21:26:49 +0000";
 layers = (
@@ -33279,6 +32961,321 @@ width = 1091;
 }
 );
 unicode = 25CC;
+},
+{
+glyphname = whiteStar.circled;
+lastChange = "2016-03-12 23:44:09 +0000";
+layers = (
+{
+layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
+name = SemiLight;
+paths = (
+{
+closed = 1;
+nodes = (
+"698 118 OFFCURVE",
+"866 283 OFFCURVE",
+"866 484 CURVE SMOOTH",
+"866 685 OFFCURVE",
+"698 852 OFFCURVE",
+"490 852 CURVE SMOOTH",
+"282 852 OFFCURVE",
+"115 685 OFFCURVE",
+"115 484 CURVE SMOOTH",
+"115 283 OFFCURVE",
+"282 118 OFFCURVE",
+"490 118 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"308 229 LINE",
+"383 437 LINE",
+"189 557 LINE",
+"198 582 LINE",
+"427 575 LINE",
+"480 788 LINE",
+"507 788 LINE",
+"572 575 LINE",
+"790 585 LINE",
+"798 557 LINE",
+"614 438 LINE",
+"692 240 LINE",
+"670 221 LINE",
+"498 352 LINE",
+"329 213 LINE"
+);
+}
+);
+width = 981;
+},
+{
+layerId = "00FED3EE-B3F5-49E6-B91A-35FC52169726";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"718 132 OFFCURVE",
+"891 301 OFFCURVE",
+"891 508 CURVE SMOOTH",
+"891 716 OFFCURVE",
+"717 886 OFFCURVE",
+"505 886 CURVE SMOOTH",
+"293 886 OFFCURVE",
+"120 716 OFFCURVE",
+"120 508 CURVE SMOOTH",
+"120 301 OFFCURVE",
+"293 132 OFFCURVE",
+"505 132 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"326 244 LINE",
+"405 462 LINE",
+"201 588 LINE",
+"206 599 LINE",
+"447 592 LINE",
+"503 816 LINE",
+"515 816 LINE",
+"584 592 LINE",
+"812 603 LINE",
+"816 588 LINE",
+"622 463 LINE",
+"704 254 LINE",
+"694 245 LINE",
+"513 382 LINE",
+"336 236 LINE"
+);
+}
+);
+width = 1011;
+}
+);
+unicode = 272A;
+},
+{
+glyphname = bar;
+lastChange = "2016-03-12 21:27:55 +0000";
+layers = (
+{
+layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
+name = SemiLight;
+paths = (
+{
+closed = 1;
+nodes = (
+"263 -543 LINE",
+"263 1542 LINE",
+"138 1542 LINE",
+"138 -543 LINE"
+);
+}
+);
+width = 401;
+},
+{
+layerId = "00FED3EE-B3F5-49E6-B91A-35FC52169726";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"285 -543 LINE",
+"285 1562 LINE",
+"140 1562 LINE",
+"140 -543 LINE"
+);
+}
+);
+width = 425;
+}
+);
+unicode = 007C;
+},
+{
+glyphname = at;
+lastChange = "2016-03-15 17:13:32 +0000";
+layers = (
+{
+layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
+name = SemiLight;
+paths = (
+{
+closed = 1;
+nodes = (
+"903 76 OFFCURVE",
+"995 92 OFFCURVE",
+"1078 130 CURVE",
+"1047 214 LINE",
+"979 185 OFFCURVE",
+"897 168 OFFCURVE",
+"797 168 CURVE SMOOTH",
+"476 168 OFFCURVE",
+"263 329 OFFCURVE",
+"263 643 CURVE SMOOTH",
+"263 944 OFFCURVE",
+"475 1174 OFFCURVE",
+"779 1174 CURVE SMOOTH",
+"864 1174 OFFCURVE",
+"941 1157 OFFCURVE",
+"1010 1120 CURVE SMOOTH",
+"1150 1050 OFFCURVE",
+"1221 922 OFFCURVE",
+"1221 784 CURVE SMOOTH",
+"1221 667 OFFCURVE",
+"1162 545 OFFCURVE",
+"1068 480 CURVE SMOOTH",
+"1033 455 OFFCURVE",
+"1005 443 OFFCURVE",
+"982 443 CURVE SMOOTH",
+"958 443 OFFCURVE",
+"940 462 OFFCURVE",
+"940 483 CURVE SMOOTH",
+"940 490 OFFCURVE",
+"945 522 OFFCURVE",
+"958 580 CURVE SMOOTH",
+"1047 994 LINE",
+"940 1011 LINE",
+"915 899 LINE",
+"868 975 OFFCURVE",
+"800 1012 OFFCURVE",
+"728 1012 CURVE SMOOTH",
+"682 1012 OFFCURVE",
+"634 995 OFFCURVE",
+"583 963 CURVE SMOOTH",
+"352 812 OFFCURVE",
+"346 378 OFFCURVE",
+"606 343 CURVE SMOOTH",
+"680 331 OFFCURVE",
+"762 361 OFFCURVE",
+"834 443 CURVE",
+"837 402 OFFCURVE",
+"875 339 OFFCURVE",
+"941 339 CURVE SMOOTH",
+"1119 339 OFFCURVE",
+"1312 543 OFFCURVE",
+"1312 783 CURVE SMOOTH",
+"1312 951 OFFCURVE",
+"1224 1119 OFFCURVE",
+"1059 1203 CURVE SMOOTH",
+"979 1244 OFFCURVE",
+"887 1265 OFFCURVE",
+"784 1265 CURVE SMOOTH",
+"652 1265 OFFCURVE",
+"542 1235 OFFCURVE",
+"448 1175 CURVE SMOOTH",
+"263 1057 OFFCURVE",
+"173 835 OFFCURVE",
+"173 633 CURVE SMOOTH",
+"173 274 OFFCURVE",
+"422 76 OFFCURVE",
+"798 76 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"565 826 OFFCURVE",
+"646 921 OFFCURVE",
+"736 921 CURVE SMOOTH",
+"815 921 OFFCURVE",
+"891 853 OFFCURVE",
+"891 744 CURVE SMOOTH",
+"891 337 OFFCURVE",
+"412 319 OFFCURVE",
+"530 718 CURVE SMOOTH"
+);
+}
+);
+width = 1450;
+},
+{
+layerId = "00FED3EE-B3F5-49E6-B91A-35FC52169726";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"889 -95 OFFCURVE",
+"984 -76 OFFCURVE",
+"1068 -36 CURVE",
+"1030 66 LINE",
+"957 33 OFFCURVE",
+"871 17 OFFCURVE",
+"774 17 CURVE SMOOTH",
+"442 17 OFFCURVE",
+"250 188 OFFCURVE",
+"250 482 CURVE SMOOTH",
+"250 783 OFFCURVE",
+"463 1003 OFFCURVE",
+"756 1003 CURVE SMOOTH",
+"989 1003 OFFCURVE",
+"1188 855 OFFCURVE",
+"1188 623 CURVE SMOOTH",
+"1188 491 OFFCURVE",
+"1073 292 OFFCURVE",
+"959 292 CURVE SMOOTH",
+"912 292 OFFCURVE",
+"928 343 OFFCURVE",
+"945 417 CURVE SMOOTH",
+"1036 841 LINE",
+"909 861 LINE",
+"887 763 LINE",
+"841 826 OFFCURVE",
+"777 861 OFFCURVE",
+"705 861 CURVE SMOOTH",
+"522 861 OFFCURVE",
+"379 655 OFFCURVE",
+"379 455 CURVE SMOOTH",
+"379 296 OFFCURVE",
+"465 169 OFFCURVE",
+"614 169 CURVE SMOOTH",
+"680 169 OFFCURVE",
+"747 201 OFFCURVE",
+"805 260 CURVE",
+"818 209 OFFCURVE",
+"866 168 OFFCURVE",
+"918 168 CURVE SMOOTH",
+"1112 168 OFFCURVE",
+"1299 389 OFFCURVE",
+"1299 622 CURVE SMOOTH",
+"1299 914 OFFCURVE",
+"1069 1114 OFFCURVE",
+"761 1114 CURVE SMOOTH",
+"391 1114 OFFCURVE",
+"140 842 OFFCURVE",
+"140 472 CURVE SMOOTH",
+"140 119 OFFCURVE",
+"381 -95 OFFCURVE",
+"775 -95 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"593 750 OFFCURVE",
+"713 750 CURVE SMOOTH",
+"794 750 OFFCURVE",
+"858 678 OFFCURVE",
+"858 583 CURVE SMOOTH",
+"858 381 OFFCURVE",
+"737 277 OFFCURVE",
+"636 277 CURVE SMOOTH",
+"562 277 OFFCURVE",
+"499 331 OFFCURVE",
+"499 441 CURVE SMOOTH",
+"499 578 OFFCURVE"
+);
+}
+);
+width = 1479;
+}
+);
+unicode = 0040;
 },
 {
 glyphname = degree;
@@ -38130,51 +38127,46 @@ name = Regular;
 kerning = {
 "93A312F7-B931-4485-B08E-C367313EB5E7" = {
 "@MMK_L_a" = {
-"@MMK_R_k" = 200;
 "@MMK_R_a" = 300;
+"@MMK_R_k" = 200;
+};
+"@MMK_L_ab" = {
+"@MMK_R_ab" = 140;
 };
 "@MMK_L_r" = {
 "@MMK_R_a" = -200;
+"@MMK_R_ab" = 60;
+"@MMK_R_ain" = 200;
 "@MMK_R_all" = -200;
 "@MMK_R_k" = -200;
 "@MMK_R_r" = -60;
-"@MMK_R_ab" = 60;
 "@MMK_R_w" = -60;
-"@MMK_R_ain" = 200;
 };
 "@MMK_L_w" = {
 "@MMK_R_ab" = 160;
 "@MMK_R_ain" = 200;
 };
-"@MMK_L_ab" = {
-"@MMK_R_ab" = 140;
-};
 };
 "00FED3EE-B3F5-49E6-B91A-35FC52169726" = {
 "@MMK_L_a" = {
-"@MMK_R_a" = 120;
-"@MMK_R_r" = -220;
+"@MMK_R_a" = 300;
+"@MMK_R_k" = 200;
 };
 "@MMK_L_ab" = {
-"@MMK_R_ab" = 120;
-"@MMK_R_r" = 120;
+"@MMK_R_ab" = 140;
 };
 "@MMK_L_r" = {
-"@MMK_R_a" = -220;
-"@MMK_R_r" = -220;
+"@MMK_R_a" = -200;
+"@MMK_R_ab" = 60;
+"@MMK_R_ain" = 200;
+"@MMK_R_all" = -200;
+"@MMK_R_k" = -200;
+"@MMK_R_r" = -60;
+"@MMK_R_w" = -60;
 };
-"@MMK_L_rr" = {
-"@MMK_R_r" = 120;
-};
-"alef-ar" = {
-"@MMK_R_a" = 120;
-"@MMK_R_r" = -220;
-};
-"gaf-ar.init" = {
-"@MMK_R_r" = -220;
-};
-"keheh-ar.init" = {
-"@MMK_R_r" = -220;
+"@MMK_L_w" = {
+"@MMK_R_ab" = 160;
+"@MMK_R_ain" = 200;
 };
 };
 };
