@@ -15,7 +15,7 @@
 	<key>license</key>
 	<string>OFL V1.1</string>
 	<key>openTypeHeadCreated</key>
-	<string>2016/03/19 23:04:19</string>
+	<string>2016/04/13 01:53:14</string>
 	<key>openTypeHheaAscender</key>
 	<integer>1318</integer>
 	<key>openTypeHheaDescender</key>
@@ -67,7 +67,7 @@
 	<key>versionMajor</key>
 	<integer>0</integer>
 	<key>versionMinor</key>
-	<integer>200</integer>
+	<integer>300</integer>
 	<key>xHeight</key>
 	<integer>0</integer>
 </dict>
