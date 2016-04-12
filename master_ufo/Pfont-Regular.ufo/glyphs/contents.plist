@@ -810,6 +810,8 @@
 	<string>thal-ar.fina.glif</string>
 	<key>thal-ar.isol</key>
 	<string>thal-ar.isol.glif</string>
+	<key>thal-ar.isol.001</key>
+	<string>thal-ar.isol.001.glif</string>
 	<key>theh-ar</key>
 	<string>theh-ar.glif</string>
 	<key>theh-ar.fina</key>
