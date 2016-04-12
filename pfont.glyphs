@@ -33,7 +33,7 @@ name = license;
 value = "OFL V1.1";
 }
 );
-date = "2016-03-19 19:34:19 +0000";
+date = "2016-04-12 21:23:14 +0000";
 designer = "Damoon Khanjanzadeh";
 familyName = "Pfont";
 featurePrefixes = (
@@ -38202,5 +38202,5 @@ manufacturer = pfont;
 manufacturerURL = "http://pfont.ir/";
 unitsPerEm = 2048;
 versionMajor = 0;
-versionMinor = 200;
+versionMinor = 300;
 }
