@@ -3,12 +3,12 @@
 classes = (
 {
 automatic = 1;
-code = "dotlessbeh-ar hamza-ar highhamza-ar hamza-ar.isol alef-ar alef-ar.isol alef-ar.fina alef-ar.short alef-ar.fina.short alefHamzaabove-ar alefHamzaabove-ar.isol alefHamzaabove-ar.fina alefHamzabelow-ar alefHamzabelow-ar.isol alefHamzabelow-ar.fina alefMadda-ar alefMadda-ar.isol alefMadda-ar.fina alefWasla-ar alefWasla-ar.isol alefWasla-ar.fina dotlessbeh-ar.fina dotlessbeh-ar.medi dotlessbeh-ar.init beh-ar beh-ar.isol beh-ar.fina beh-ar.medi beh-ar.init peh-ar peh-ar.isol peh-ar.fina peh-ar.medi peh-ar.init alefMaksura-ar.medi alefMaksura-ar.init teh-ar teh-ar.isol teh-ar.fina teh-ar.medi teh-ar.init tehRing-ar tehRing-ar.isol tehRing-ar.fina tehRing-ar.medi tehRing-ar.init theh-ar theh-ar.isol theh-ar.fina theh-ar.medi theh-ar.init tteh-ar tteh-ar.isol tteh-ar.fina tteh-ar.medi tteh-ar.init jeem-ar jeem-ar.isol jeem-ar.fina jeem-ar.medi jeem-ar.init tcheh-ar tcheh-ar.isol tcheh-ar.fina tcheh-ar.medi tcheh-ar.init hah-ar hah-ar.isol hah-ar.fina hah-ar.medi hah-ar.init hahHamzaabove-ar hahHamzaabove-ar.isol hahHamzaabove-ar.fina hahHamzaabove-ar.medi hahHamzaabove-ar.init hahThreedotsabove-ar hahThreedotsabove-ar.isol hahThreedotsabove-ar.fina hahThreedotsabove-ar.medi hahThreedotsabove-ar.init khah-ar khah-ar.isol khah-ar.fina khah-ar.medi khah-ar.init dal-ar dal-ar.isol dal-ar.fina thal-ar thal-ar.isol thal-ar.fina ddal-ar ddal-ar.isol ddal-ar.fina dalRing-ar dalRing-ar.isol dalRing-ar.fina dul-ar dul-ar.isol dul-ar.fina dalVinvertedabove-ar dalVinvertedabove-ar.isol dalVinvertedabove-ar.fina reh-ar reh-ar.isol reh-ar.fina zain-ar zain-ar.isol zain-ar.fina rreh-ar rreh-ar.isol rreh-ar.fina rehRing-ar rehRing-ar.isol rehRing-ar.fina rehVbelow-ar rehVbelow-ar.isol rehVbelow-ar.fina rehDotbelowdotabove-ar rehDotbelowdotabove-ar.isol rehDotbelowdotabove-ar.fina jeh-ar jeh-ar.isol jeh-ar.fina seen-ar seen-ar.isol seen-ar.fina seen-ar.medi seen-ar.init seenDotbelowDotabove-ar seenDotbelowDotabove-ar.isol seenDotbelowDotabove-ar.fina seenDotbelowDotabove-ar.medi seenDotbelowDotabove-ar.init sheen-ar sheen-ar.isol sheen-ar.fina sheen-ar.medi sheen-ar.init sad-ar sad-ar.isol sad-ar.fina sad-ar.medi sad-ar.init dad-ar dad-ar.isol dad-ar.fina dad-ar.medi dad-ar.init tah-ar tah-ar.isol tah-ar.fina tah-ar.medi tah-ar.init zah-ar zah-ar.isol zah-ar.fina zah-ar.medi zah-ar.init ain-ar ain-ar.isol ain-ar.fina ain-ar.medi ain-ar.init ghain-ar ghain-ar.isol ghain-ar.fina ghain-ar.medi ghain-ar.init feh-ar feh-ar.isol feh-ar.fina feh-ar.medi feh-ar.init veh-ar veh-ar.isol veh-ar.fina veh-ar.medi veh-ar.init dotlessfeh-ar dotlessfeh-ar.fina dotlessfeh-ar.medi dotlessfeh-ar.init dotlessqaf-ar dotlessqaf-ar.fina qaf-ar qaf-ar.isol qaf-ar.fina qaf-ar.medi qaf-ar.init dotlesskaf-ar dotlesskaf-ar.fina kaf-ar kaf-ar.isol kaf-ar.fina kaf-ar.medi kaf-ar.init keheh-ar keheh-ar.isol keheh-ar.fina keheh-ar.medi keheh-ar.init gaf-ar gaf-ar.isol gaf-ar.fina gaf-ar.medi gaf-ar.init kafRing-ar kafRing-ar.isol kafRing-ar.fina kafRing-ar.medi kafRing-ar.init ng-ar ng-ar.isol ng-ar.fina ng-ar.medi ng-ar.init lam-ar lam-ar.isol lam-ar.fina lam-ar.medi lam-ar.init lamVabove-ar lamVabove-ar.isol lamVabove-ar.fina lamVabove-ar.medi lamVabove-ar.init meem-ar meem-ar.isol meem-ar.fina meem-ar.medi meem-ar.init noon-ar noon-ar.isol noon-ar.fina noon-ar.medi noon-ar.init noonghunna-ar noonghunna-ar.fina noonRing-ar noonRing-ar.isol noonRing-ar.fina noonRing-ar.medi noonRing-ar.init heh-ar heh-ar.isol heh-ar.fina heh-ar.medi heh-ar.init hehHamzaabove-ar hehHamzaabove-ar.isol hehHamzaabove-ar.fina hehgoal-ar hehgoal-ar.isol hehgoal-ar.fina hehgoal-ar.medi hehgoal-ar.init hehgoalHamzaabove-ar hehgoalHamzaabove-ar.isol hehgoalHamzaabove-ar.fina hehgoalHamzaabove-ar.medi hehgoalHamzaabove-ar.init hehDoachashmee-ar hehDoachashmee-ar.isol hehDoachashmee-ar.fina hehDoachashmee-ar.medi hehDoachashmee-ar.init tehMarbuta-ar tehMarbuta-ar.isol tehMarbuta-ar.fina tehMarbutagoal-ar tehMarbutagoal-ar.isol tehMarbutagoal-ar.fina waw-ar waw-ar.isol waw-ar.fina wawring-ar wawring-ar.isol wawring-ar.fina wawTwodots-ar wawTwodots-ar.isol wawTwodots-ar.fina wawHamzaabove-ar wawHamzaabove-ar.isol wawHamzaabove-ar.fina oe-ar oe-ar.isol oe-ar.fina u-ar u-ar.isol u-ar.fina yu-ar yu-ar.isol yu-ar.fina ve-ar ve-ar.isol ve-ar.fina alefMaksura-ar alefMaksura-ar.isol alefMaksura-ar.fina yeh-ar yeh-ar.isol yeh-ar.fina yeh-ar.medi yeh-ar.init yehHamzaabove-ar yehHamzaabove-ar.isol yehHamzaabove-ar.fina yehHamzaabove-ar.medi yehHamzaabove-ar.init yehVabove-ar yehVabove-ar.isol yehVabove-ar.fina yehVabove-ar.medi yehVabove-ar.init yeh-farsi yeh-farsi.isol yeh-farsi.fina yeh-farsi.medi yeh-farsi.init yehTail-ar yehTail-ar.isol yehTail-ar.fina e-ar e-ar.isol e-ar.fina e-ar.medi e-ar.init yehbarree-ar yehbarree-ar.isol yehbarree-ar.fina yehbarree-ar.fina.001 yehbarreeHamzaabove-ar yehbarreeHamzaabove-ar.isol yehbarreeHamzaabove-ar.fina ae-ar ae-ar.isol ae-ar.fina kashida-ar lam_alef-ar lam_alef-ar.fina lam_alefHamzaabove-ar lam_alefHamzaabove-ar.fina lam_alefHamzabelow-ar lam_alefHamzabelow-ar.fina lam_alefMadda-ar lam_alefMadda-ar.fina lam_alefWasla-ar lam_alefWasla-ar.fina beh_alef-ar beh_alef-ar.isol peh_alef-ar peh_alef-ar.isol yeh_alef-ar yeh_alef-ar.isol yeh-farsi_alef-ar yeh-farsi_alef-ar.isol allah-ar";
+code = "hamza-ar highhamza-ar hamza-ar.isol alef-ar alef-ar.isol alef-ar.fina alef-ar.short alef-ar.fina.short alefHamzaabove-ar alefHamzaabove-ar.isol alefHamzaabove-ar.fina alefHamzabelow-ar alefHamzabelow-ar.isol alefHamzabelow-ar.fina alefMadda-ar alefMadda-ar.isol alefMadda-ar.fina alefWasla-ar alefWasla-ar.isol alefWasla-ar.fina behDotless-ar behDotless-ar.fina behDotless-ar.medi behDotless-ar.init beh-ar beh-ar.isol beh-ar.fina beh-ar.medi beh-ar.init peh-ar peh-ar.isol peh-ar.fina peh-ar.medi peh-ar.init alefMaksura-ar.medi alefMaksura-ar.init teh-ar teh-ar.isol teh-ar.fina teh-ar.medi teh-ar.init tehRing-ar tehRing-ar.isol tehRing-ar.fina tehRing-ar.medi tehRing-ar.init theh-ar theh-ar.isol theh-ar.fina theh-ar.medi theh-ar.init tteh-ar tteh-ar.isol tteh-ar.fina tteh-ar.medi tteh-ar.init jeem-ar jeem-ar.isol jeem-ar.fina jeem-ar.medi jeem-ar.init tcheh-ar tcheh-ar.isol tcheh-ar.fina tcheh-ar.medi tcheh-ar.init hah-ar hah-ar.isol hah-ar.fina hah-ar.medi hah-ar.init hahHamzaabove-ar hahHamzaabove-ar.isol hahHamzaabove-ar.fina hahHamzaabove-ar.medi hahHamzaabove-ar.init hahThreedotsabove-ar hahThreedotsabove-ar.isol hahThreedotsabove-ar.fina hahThreedotsabove-ar.medi hahThreedotsabove-ar.init khah-ar khah-ar.isol khah-ar.fina khah-ar.medi khah-ar.init dal-ar dal-ar.isol dal-ar.fina thal-ar thal-ar.isol thal-ar.fina ddal-ar ddal-ar.isol ddal-ar.fina dalRing-ar dalRing-ar.isol dalRing-ar.fina dul-ar dul-ar.isol dul-ar.fina dalVinvertedabove-ar dalVinvertedabove-ar.isol dalVinvertedabove-ar.fina reh-ar reh-ar.isol reh-ar.fina zain-ar zain-ar.isol zain-ar.fina rreh-ar rreh-ar.isol rreh-ar.fina rehRing-ar rehRing-ar.isol rehRing-ar.fina rehVbelow-ar rehVbelow-ar.isol rehVbelow-ar.fina rehDotbelowdotabove-ar rehDotbelowdotabove-ar.isol rehDotbelowdotabove-ar.fina jeh-ar jeh-ar.isol jeh-ar.fina seen-ar seen-ar.isol seen-ar.fina seen-ar.medi seen-ar.init seenDotbelowDotabove-ar seenDotbelowDotabove-ar.isol seenDotbelowDotabove-ar.fina seenDotbelowDotabove-ar.medi seenDotbelowDotabove-ar.init sheen-ar sheen-ar.isol sheen-ar.fina sheen-ar.medi sheen-ar.init sad-ar sad-ar.isol sad-ar.fina sad-ar.medi sad-ar.init dad-ar dad-ar.isol dad-ar.fina dad-ar.medi dad-ar.init tah-ar tah-ar.isol tah-ar.fina tah-ar.medi tah-ar.init zah-ar zah-ar.isol zah-ar.fina zah-ar.medi zah-ar.init ain-ar ain-ar.isol ain-ar.fina ain-ar.medi ain-ar.init ghain-ar ghain-ar.isol ghain-ar.fina ghain-ar.medi ghain-ar.init feh-ar feh-ar.isol feh-ar.fina feh-ar.medi feh-ar.init veh-ar veh-ar.isol veh-ar.fina veh-ar.medi veh-ar.init fehDotless-ar fehDotless-ar.fina fehDotless-ar.medi fehDotless-ar.init qafDotless-ar qafDotless-ar.fina qaf-ar qaf-ar.isol qaf-ar.fina qaf-ar.medi qaf-ar.init dotlesskaf-ar dotlesskaf-ar.fina kaf-ar kaf-ar.isol kaf-ar.fina kaf-ar.medi kaf-ar.init keheh-ar keheh-ar.isol keheh-ar.fina keheh-ar.medi keheh-ar.init gaf-ar gaf-ar.isol gaf-ar.fina gaf-ar.medi gaf-ar.init kafRing-ar kafRing-ar.isol kafRing-ar.fina kafRing-ar.medi kafRing-ar.init ng-ar ng-ar.isol ng-ar.fina ng-ar.medi ng-ar.init lam-ar lam-ar.isol lam-ar.fina lam-ar.medi lam-ar.init lamVabove-ar lamVabove-ar.isol lamVabove-ar.fina lamVabove-ar.medi lamVabove-ar.init meem-ar meem-ar.isol meem-ar.fina meem-ar.medi meem-ar.init noon-ar noon-ar.isol noon-ar.fina noon-ar.medi noon-ar.init noonghunna-ar noonghunna-ar.fina noonRing-ar noonRing-ar.isol noonRing-ar.fina noonRing-ar.medi noonRing-ar.init heh-ar heh-ar.isol heh-ar.fina heh-ar.medi heh-ar.init hehHamzaabove-ar hehHamzaabove-ar.isol hehHamzaabove-ar.fina hehgoal-ar hehgoal-ar.isol hehgoal-ar.fina hehgoal-ar.medi hehgoal-ar.init hehgoalHamzaabove-ar hehgoalHamzaabove-ar.isol hehgoalHamzaabove-ar.fina hehgoalHamzaabove-ar.medi hehgoalHamzaabove-ar.init hehDoachashmee-ar hehDoachashmee-ar.isol hehDoachashmee-ar.fina hehDoachashmee-ar.medi hehDoachashmee-ar.init tehMarbuta-ar tehMarbuta-ar.isol tehMarbuta-ar.fina tehMarbutagoal-ar tehMarbutagoal-ar.isol tehMarbutagoal-ar.fina waw-ar waw-ar.isol waw-ar.fina wawring-ar wawring-ar.isol wawring-ar.fina wawTwodots-ar wawTwodots-ar.isol wawTwodots-ar.fina wawHamzaabove-ar wawHamzaabove-ar.isol wawHamzaabove-ar.fina oe-ar oe-ar.isol oe-ar.fina u-ar u-ar.isol u-ar.fina yu-ar yu-ar.isol yu-ar.fina ve-ar ve-ar.isol ve-ar.fina alefMaksura-ar alefMaksura-ar.isol alefMaksura-ar.fina yeh-ar yeh-ar.isol yeh-ar.fina yeh-ar.medi yeh-ar.init yehHamzaabove-ar yehHamzaabove-ar.isol yehHamzaabove-ar.fina yehHamzaabove-ar.medi yehHamzaabove-ar.init yehVabove-ar yehVabove-ar.isol yehVabove-ar.fina yehVabove-ar.medi yehVabove-ar.init yeh-farsi yeh-farsi.isol yeh-farsi.fina yeh-farsi.medi yeh-farsi.init yehTail-ar yehTail-ar.isol yehTail-ar.fina e-ar e-ar.isol e-ar.fina e-ar.medi e-ar.init yehbarree-ar yehbarree-ar.isol yehbarree-ar.fina yehbarree-ar.fina.001 yehbarreeHamzaabove-ar yehbarreeHamzaabove-ar.isol yehbarreeHamzaabove-ar.fina ae-ar ae-ar.isol ae-ar.fina kashida-ar lam_alef-ar lam_alef-ar.fina lam_alefHamzaabove-ar lam_alefHamzaabove-ar.fina lam_alefHamzabelow-ar lam_alefHamzabelow-ar.fina lam_alefMadda-ar lam_alefMadda-ar.fina lam_alefWasla-ar lam_alefWasla-ar.fina beh_alef-ar beh_alef-ar.isol peh_alef-ar peh_alef-ar.isol yeh_alef-ar yeh_alef-ar.isol yeh-farsi_alef-ar yeh-farsi_alef-ar.isol allah-ar";
 name = AllLetters;
 },
 {
 automatic = 1;
-code = "dotlessbeh-ar hamza-ar highhamza-ar hamza-ar.isol alef-ar alef-ar.isol alef-ar.fina alef-ar.short alef-ar.fina.short alefHamzaabove-ar alefHamzaabove-ar.isol alefHamzaabove-ar.fina alefHamzabelow-ar alefHamzabelow-ar.isol alefHamzabelow-ar.fina alefMadda-ar alefMadda-ar.isol alefMadda-ar.fina alefWasla-ar alefWasla-ar.isol alefWasla-ar.fina dotlessbeh-ar.fina dotlessbeh-ar.medi dotlessbeh-ar.init beh-ar beh-ar.isol beh-ar.fina beh-ar.medi beh-ar.init peh-ar peh-ar.isol peh-ar.fina peh-ar.medi peh-ar.init alefMaksura-ar.medi alefMaksura-ar.init teh-ar teh-ar.isol teh-ar.fina teh-ar.medi teh-ar.init tehRing-ar tehRing-ar.isol tehRing-ar.fina tehRing-ar.medi tehRing-ar.init theh-ar theh-ar.isol theh-ar.fina theh-ar.medi theh-ar.init tteh-ar tteh-ar.isol tteh-ar.fina tteh-ar.medi tteh-ar.init jeem-ar jeem-ar.isol jeem-ar.fina jeem-ar.medi jeem-ar.init tcheh-ar tcheh-ar.isol tcheh-ar.fina tcheh-ar.medi tcheh-ar.init hah-ar hah-ar.isol hah-ar.fina hah-ar.medi hah-ar.init hahHamzaabove-ar hahHamzaabove-ar.isol hahHamzaabove-ar.fina hahHamzaabove-ar.medi hahHamzaabove-ar.init hahThreedotsabove-ar hahThreedotsabove-ar.isol hahThreedotsabove-ar.fina hahThreedotsabove-ar.medi hahThreedotsabove-ar.init khah-ar khah-ar.isol khah-ar.fina khah-ar.medi khah-ar.init dal-ar dal-ar.isol dal-ar.fina thal-ar thal-ar.isol thal-ar.fina ddal-ar ddal-ar.isol ddal-ar.fina dalRing-ar dalRing-ar.isol dalRing-ar.fina dul-ar dul-ar.isol dul-ar.fina dalVinvertedabove-ar dalVinvertedabove-ar.isol dalVinvertedabove-ar.fina reh-ar reh-ar.isol reh-ar.fina zain-ar zain-ar.isol zain-ar.fina rreh-ar rreh-ar.isol rreh-ar.fina rehRing-ar rehRing-ar.isol rehRing-ar.fina rehVbelow-ar rehVbelow-ar.isol rehVbelow-ar.fina rehDotbelowdotabove-ar rehDotbelowdotabove-ar.isol rehDotbelowdotabove-ar.fina jeh-ar jeh-ar.isol jeh-ar.fina seen-ar seen-ar.isol seen-ar.fina seen-ar.medi seen-ar.init seenDotbelowDotabove-ar seenDotbelowDotabove-ar.isol seenDotbelowDotabove-ar.fina seenDotbelowDotabove-ar.medi seenDotbelowDotabove-ar.init sheen-ar sheen-ar.isol sheen-ar.fina sheen-ar.medi sheen-ar.init sad-ar sad-ar.isol sad-ar.fina sad-ar.medi sad-ar.init dad-ar dad-ar.isol dad-ar.fina dad-ar.medi dad-ar.init tah-ar tah-ar.isol tah-ar.fina tah-ar.medi tah-ar.init zah-ar zah-ar.isol zah-ar.fina zah-ar.medi zah-ar.init ain-ar ain-ar.isol ain-ar.fina ain-ar.medi ain-ar.init ghain-ar ghain-ar.isol ghain-ar.fina ghain-ar.medi ghain-ar.init feh-ar feh-ar.isol feh-ar.fina feh-ar.medi feh-ar.init veh-ar veh-ar.isol veh-ar.fina veh-ar.medi veh-ar.init dotlessfeh-ar dotlessfeh-ar.fina dotlessfeh-ar.medi dotlessfeh-ar.init dotlessqaf-ar dotlessqaf-ar.fina qaf-ar qaf-ar.isol qaf-ar.fina qaf-ar.medi qaf-ar.init dotlesskaf-ar dotlesskaf-ar.fina kaf-ar kaf-ar.isol kaf-ar.fina kaf-ar.medi kaf-ar.init keheh-ar keheh-ar.isol keheh-ar.fina keheh-ar.medi keheh-ar.init gaf-ar gaf-ar.isol gaf-ar.fina gaf-ar.medi gaf-ar.init kafRing-ar kafRing-ar.isol kafRing-ar.fina kafRing-ar.medi kafRing-ar.init ng-ar ng-ar.isol ng-ar.fina ng-ar.medi ng-ar.init lam-ar lam-ar.isol lam-ar.fina lam-ar.medi lam-ar.init lamVabove-ar lamVabove-ar.isol lamVabove-ar.fina lamVabove-ar.medi lamVabove-ar.init meem-ar meem-ar.isol meem-ar.fina meem-ar.medi meem-ar.init noon-ar noon-ar.isol noon-ar.fina noon-ar.medi noon-ar.init noonghunna-ar noonghunna-ar.fina noonRing-ar noonRing-ar.isol noonRing-ar.fina noonRing-ar.medi noonRing-ar.init heh-ar heh-ar.isol heh-ar.fina heh-ar.medi heh-ar.init hehHamzaabove-ar hehHamzaabove-ar.isol hehHamzaabove-ar.fina hehgoal-ar hehgoal-ar.isol hehgoal-ar.fina hehgoal-ar.medi hehgoal-ar.init hehgoalHamzaabove-ar hehgoalHamzaabove-ar.isol hehgoalHamzaabove-ar.fina hehgoalHamzaabove-ar.medi hehgoalHamzaabove-ar.init hehDoachashmee-ar hehDoachashmee-ar.isol hehDoachashmee-ar.fina hehDoachashmee-ar.medi hehDoachashmee-ar.init tehMarbuta-ar tehMarbuta-ar.isol tehMarbuta-ar.fina tehMarbutagoal-ar tehMarbutagoal-ar.isol tehMarbutagoal-ar.fina waw-ar waw-ar.isol waw-ar.fina wawring-ar wawring-ar.isol wawring-ar.fina wawTwodots-ar wawTwodots-ar.isol wawTwodots-ar.fina wawHamzaabove-ar wawHamzaabove-ar.isol wawHamzaabove-ar.fina oe-ar oe-ar.isol oe-ar.fina u-ar u-ar.isol u-ar.fina yu-ar yu-ar.isol yu-ar.fina ve-ar ve-ar.isol ve-ar.fina alefMaksura-ar alefMaksura-ar.isol alefMaksura-ar.fina yeh-ar yeh-ar.isol yeh-ar.fina yeh-ar.medi yeh-ar.init yehHamzaabove-ar yehHamzaabove-ar.isol yehHamzaabove-ar.fina yehHamzaabove-ar.medi yehHamzaabove-ar.init yehVabove-ar yehVabove-ar.isol yehVabove-ar.fina yehVabove-ar.medi yehVabove-ar.init yeh-farsi yeh-farsi.isol yeh-farsi.fina yeh-farsi.medi yeh-farsi.init yehTail-ar yehTail-ar.isol yehTail-ar.fina e-ar e-ar.isol e-ar.fina e-ar.medi e-ar.init yehbarree-ar yehbarree-ar.isol yehbarree-ar.fina yehbarree-ar.fina.001 yehbarreeHamzaabove-ar yehbarreeHamzaabove-ar.isol yehbarreeHamzaabove-ar.fina ae-ar ae-ar.isol ae-ar.fina kashida-ar lam_alef-ar lam_alef-ar.fina lam_alefHamzaabove-ar lam_alefHamzaabove-ar.fina lam_alefHamzabelow-ar lam_alefHamzabelow-ar.fina lam_alefMadda-ar lam_alefMadda-ar.fina lam_alefWasla-ar lam_alefWasla-ar.fina beh_alef-ar beh_alef-ar.isol peh_alef-ar peh_alef-ar.isol yeh_alef-ar yeh_alef-ar.isol yeh-farsi_alef-ar yeh-farsi_alef-ar.isol allah-ar decimalseparator-ar thousandseparator-ar zero-ar one-ar two-ar three-ar four-ar five-ar six-ar seven-ar eight-ar nine-ar zero-persian one-persian two-persian three-persian four-persian four-persian.urdu five-persian six-persian six-persian.urdu seven-persian seven-persian.urdu eight-persian nine-persian asterisk backslash bullet colon comma ellipsis exclam numbersign period quotedbl quotesingle semicolon slash underscore braceleft braceright bracketleft bracketright parenleft parenright hyphen hyphentwo guillemetleft guillemetright asteriskArt-ar fullstop-ar comma-ar semicolon-ar question-ar asterisk-ar endofayah-ar parenleft-ar parenright-ar space nbspace zerowidthspace lefttorightmark righttoleftmark zerowidthjoiner zerowidthnonjoiner CR lefttorightembedding lefttorightoverride popdirectionalformatting righttoleftembedding righttoleftoverride zeroWidthNoBreakSpace afghani-ar rial plus minus multiply divide equal greater less asciitilde dottedCircle whiteStar.circled at degree bar asciicircum lowringmod sajdah-ar percent-ar perthousand-ar pertenthousand-ar caron tahabove-ar alefLamYehabove-ar dotabove-ar dotbelow-ar dotcenter-ar twodotsverticalabove-ar twodotsverticalbelow-ar twodotshorizontalabove-ar twodotshorizontalbelow-ar threedotsdownabove-ar threedotsdownbelow-ar threedotsdowncenter-ar threedotsupabove-ar threedotsupbelow-ar fourdotsabove-ar fourdotsbelow-ar ringbelow-ar wasla-ar ringcenter-ar alefabove-ar alefbelow-ar hamzaabove-ar hamzabelow-ar hamzacenter-ar hamzaaboveDamma-ar hamzaaboveDammatan-ar hamzaaboveFatha-ar hamzaaboveFathatan-ar hamzaaboveSukun-ar hamzabelowKasra-ar hamzabelowKasratan-ar fathatan-ar dammatan-ar kasratan-ar fatha-ar damma-ar kasra-ar shadda-ar sukun-ar madda-ar shaddaAlefabove-ar shaddaDamma-ar shaddaDammatan-ar shaddaFatha-ar shaddaFathatan-ar shaddaKasra-ar shaddaKasratan-ar noonghunnaabove-ar vabove-ar vbelow-ar vinvertedabove-ar sadLamAlefMaksuraabove-ar qafLamAlefMaksuraabove-ar dotlessbeh2-ar.init kafche-ar";
+code = "hamza-ar highhamza-ar hamza-ar.isol alef-ar alef-ar.isol alef-ar.fina alef-ar.short alef-ar.fina.short alefHamzaabove-ar alefHamzaabove-ar.isol alefHamzaabove-ar.fina alefHamzabelow-ar alefHamzabelow-ar.isol alefHamzabelow-ar.fina alefMadda-ar alefMadda-ar.isol alefMadda-ar.fina alefWasla-ar alefWasla-ar.isol alefWasla-ar.fina behDotless-ar behDotless-ar.fina behDotless-ar.medi behDotless-ar.init beh-ar beh-ar.isol beh-ar.fina beh-ar.medi beh-ar.init peh-ar peh-ar.isol peh-ar.fina peh-ar.medi peh-ar.init alefMaksura-ar.medi alefMaksura-ar.init teh-ar teh-ar.isol teh-ar.fina teh-ar.medi teh-ar.init tehRing-ar tehRing-ar.isol tehRing-ar.fina tehRing-ar.medi tehRing-ar.init theh-ar theh-ar.isol theh-ar.fina theh-ar.medi theh-ar.init tteh-ar tteh-ar.isol tteh-ar.fina tteh-ar.medi tteh-ar.init jeem-ar jeem-ar.isol jeem-ar.fina jeem-ar.medi jeem-ar.init tcheh-ar tcheh-ar.isol tcheh-ar.fina tcheh-ar.medi tcheh-ar.init hah-ar hah-ar.isol hah-ar.fina hah-ar.medi hah-ar.init hahHamzaabove-ar hahHamzaabove-ar.isol hahHamzaabove-ar.fina hahHamzaabove-ar.medi hahHamzaabove-ar.init hahThreedotsabove-ar hahThreedotsabove-ar.isol hahThreedotsabove-ar.fina hahThreedotsabove-ar.medi hahThreedotsabove-ar.init khah-ar khah-ar.isol khah-ar.fina khah-ar.medi khah-ar.init dal-ar dal-ar.isol dal-ar.fina thal-ar thal-ar.isol thal-ar.fina ddal-ar ddal-ar.isol ddal-ar.fina dalRing-ar dalRing-ar.isol dalRing-ar.fina dul-ar dul-ar.isol dul-ar.fina dalVinvertedabove-ar dalVinvertedabove-ar.isol dalVinvertedabove-ar.fina reh-ar reh-ar.isol reh-ar.fina zain-ar zain-ar.isol zain-ar.fina rreh-ar rreh-ar.isol rreh-ar.fina rehRing-ar rehRing-ar.isol rehRing-ar.fina rehVbelow-ar rehVbelow-ar.isol rehVbelow-ar.fina rehDotbelowdotabove-ar rehDotbelowdotabove-ar.isol rehDotbelowdotabove-ar.fina jeh-ar jeh-ar.isol jeh-ar.fina seen-ar seen-ar.isol seen-ar.fina seen-ar.medi seen-ar.init seenDotbelowDotabove-ar seenDotbelowDotabove-ar.isol seenDotbelowDotabove-ar.fina seenDotbelowDotabove-ar.medi seenDotbelowDotabove-ar.init sheen-ar sheen-ar.isol sheen-ar.fina sheen-ar.medi sheen-ar.init sad-ar sad-ar.isol sad-ar.fina sad-ar.medi sad-ar.init dad-ar dad-ar.isol dad-ar.fina dad-ar.medi dad-ar.init tah-ar tah-ar.isol tah-ar.fina tah-ar.medi tah-ar.init zah-ar zah-ar.isol zah-ar.fina zah-ar.medi zah-ar.init ain-ar ain-ar.isol ain-ar.fina ain-ar.medi ain-ar.init ghain-ar ghain-ar.isol ghain-ar.fina ghain-ar.medi ghain-ar.init feh-ar feh-ar.isol feh-ar.fina feh-ar.medi feh-ar.init veh-ar veh-ar.isol veh-ar.fina veh-ar.medi veh-ar.init fehDotless-ar fehDotless-ar.fina fehDotless-ar.medi fehDotless-ar.init qafDotless-ar qafDotless-ar.fina qaf-ar qaf-ar.isol qaf-ar.fina qaf-ar.medi qaf-ar.init dotlesskaf-ar dotlesskaf-ar.fina kaf-ar kaf-ar.isol kaf-ar.fina kaf-ar.medi kaf-ar.init keheh-ar keheh-ar.isol keheh-ar.fina keheh-ar.medi keheh-ar.init gaf-ar gaf-ar.isol gaf-ar.fina gaf-ar.medi gaf-ar.init kafRing-ar kafRing-ar.isol kafRing-ar.fina kafRing-ar.medi kafRing-ar.init ng-ar ng-ar.isol ng-ar.fina ng-ar.medi ng-ar.init lam-ar lam-ar.isol lam-ar.fina lam-ar.medi lam-ar.init lamVabove-ar lamVabove-ar.isol lamVabove-ar.fina lamVabove-ar.medi lamVabove-ar.init meem-ar meem-ar.isol meem-ar.fina meem-ar.medi meem-ar.init noon-ar noon-ar.isol noon-ar.fina noon-ar.medi noon-ar.init noonghunna-ar noonghunna-ar.fina noonRing-ar noonRing-ar.isol noonRing-ar.fina noonRing-ar.medi noonRing-ar.init heh-ar heh-ar.isol heh-ar.fina heh-ar.medi heh-ar.init hehHamzaabove-ar hehHamzaabove-ar.isol hehHamzaabove-ar.fina hehgoal-ar hehgoal-ar.isol hehgoal-ar.fina hehgoal-ar.medi hehgoal-ar.init hehgoalHamzaabove-ar hehgoalHamzaabove-ar.isol hehgoalHamzaabove-ar.fina hehgoalHamzaabove-ar.medi hehgoalHamzaabove-ar.init hehDoachashmee-ar hehDoachashmee-ar.isol hehDoachashmee-ar.fina hehDoachashmee-ar.medi hehDoachashmee-ar.init tehMarbuta-ar tehMarbuta-ar.isol tehMarbuta-ar.fina tehMarbutagoal-ar tehMarbutagoal-ar.isol tehMarbutagoal-ar.fina waw-ar waw-ar.isol waw-ar.fina wawring-ar wawring-ar.isol wawring-ar.fina wawTwodots-ar wawTwodots-ar.isol wawTwodots-ar.fina wawHamzaabove-ar wawHamzaabove-ar.isol wawHamzaabove-ar.fina oe-ar oe-ar.isol oe-ar.fina u-ar u-ar.isol u-ar.fina yu-ar yu-ar.isol yu-ar.fina ve-ar ve-ar.isol ve-ar.fina alefMaksura-ar alefMaksura-ar.isol alefMaksura-ar.fina yeh-ar yeh-ar.isol yeh-ar.fina yeh-ar.medi yeh-ar.init yehHamzaabove-ar yehHamzaabove-ar.isol yehHamzaabove-ar.fina yehHamzaabove-ar.medi yehHamzaabove-ar.init yehVabove-ar yehVabove-ar.isol yehVabove-ar.fina yehVabove-ar.medi yehVabove-ar.init yeh-farsi yeh-farsi.isol yeh-farsi.fina yeh-farsi.medi yeh-farsi.init yehTail-ar yehTail-ar.isol yehTail-ar.fina e-ar e-ar.isol e-ar.fina e-ar.medi e-ar.init yehbarree-ar yehbarree-ar.isol yehbarree-ar.fina yehbarree-ar.fina.001 yehbarreeHamzaabove-ar yehbarreeHamzaabove-ar.isol yehbarreeHamzaabove-ar.fina ae-ar ae-ar.isol ae-ar.fina kashida-ar lam_alef-ar lam_alef-ar.fina lam_alefHamzaabove-ar lam_alefHamzaabove-ar.fina lam_alefHamzabelow-ar lam_alefHamzabelow-ar.fina lam_alefMadda-ar lam_alefMadda-ar.fina lam_alefWasla-ar lam_alefWasla-ar.fina beh_alef-ar beh_alef-ar.isol peh_alef-ar peh_alef-ar.isol yeh_alef-ar yeh_alef-ar.isol yeh-farsi_alef-ar yeh-farsi_alef-ar.isol allah-ar decimalseparator-ar thousandseparator-ar zero-ar one-ar two-ar three-ar four-ar five-ar six-ar seven-ar eight-ar nine-ar zero-persian one-persian two-persian three-persian four-persian four-persian.urdu five-persian six-persian six-persian.urdu seven-persian seven-persian.urdu eight-persian nine-persian asterisk backslash bullet colon comma ellipsis exclam numbersign period quotedbl quotesingle semicolon slash underscore braceleft braceright bracketleft bracketright parenleft parenright hyphen hyphentwo guillemetleft guillemetright asteriskArt-ar fullstop-ar comma-ar semicolon-ar question-ar asterisk-ar endofayah-ar parenleft-ar parenright-ar space nbspace zerowidthspace lefttorightmark righttoleftmark zerowidthjoiner zerowidthnonjoiner CR lefttorightembedding lefttorightoverride popdirectionalformatting righttoleftembedding righttoleftoverride zeroWidthNoBreakSpace afghani-ar rial plus minus multiply divide equal greater less asciitilde dottedCircle whiteStar.circled at degree bar asciicircum lowringmod sajdah-ar percent-ar perthousand-ar pertenthousand-ar caron tahabove-ar alefLamYehabove-ar dotabove-ar dotbelow-ar dotcenter-ar twodotsverticalabove-ar twodotsverticalbelow-ar twodotshorizontalabove-ar twodotshorizontalbelow-ar threedotsdownabove-ar threedotsdownbelow-ar threedotsdowncenter-ar threedotsupabove-ar threedotsupbelow-ar fourdotsabove-ar fourdotsbelow-ar ringbelow-ar wasla-ar ringcenter-ar alefabove-ar alefbelow-ar hamzaabove-ar hamzabelow-ar hamzacenter-ar hamzaaboveDamma-ar hamzaaboveDammatan-ar hamzaaboveFatha-ar hamzaaboveFathatan-ar hamzaaboveSukun-ar hamzabelowKasra-ar hamzabelowKasratan-ar fathatan-ar dammatan-ar kasratan-ar fatha-ar damma-ar kasra-ar shadda-ar sukun-ar madda-ar shaddaAlefabove-ar shaddaDamma-ar shaddaDammatan-ar shaddaFatha-ar shaddaFathatan-ar shaddaKasra-ar shaddaKasratan-ar noonghunnaabove-ar vabove-ar vbelow-ar vinvertedabove-ar sadLamAlefMaksuraabove-ar qafLamAlefMaksuraabove-ar dotlessbeh2-ar.init kafche-ar";
 name = All;
 },
 {
@@ -63,17 +63,17 @@ name = isol;
 },
 {
 automatic = 1;
-code = "sub dotlessbeh-ar by dotlessbeh-ar.init;\012sub beh-ar by beh-ar.init;\012sub peh-ar by peh-ar.init;\012sub alefMaksura-ar by alefMaksura-ar.init;\012sub teh-ar by teh-ar.init;\012sub tehRing-ar by tehRing-ar.init;\012sub theh-ar by theh-ar.init;\012sub tteh-ar by tteh-ar.init;\012sub jeem-ar by jeem-ar.init;\012sub tcheh-ar by tcheh-ar.init;\012sub hah-ar by hah-ar.init;\012sub hahHamzaabove-ar by hahHamzaabove-ar.init;\012sub hahThreedotsabove-ar by hahThreedotsabove-ar.init;\012sub khah-ar by khah-ar.init;\012sub seen-ar by seen-ar.init;\012sub seenDotbelowDotabove-ar by seenDotbelowDotabove-ar.init;\012sub sheen-ar by sheen-ar.init;\012sub sad-ar by sad-ar.init;\012sub dad-ar by dad-ar.init;\012sub tah-ar by tah-ar.init;\012sub zah-ar by zah-ar.init;\012sub ain-ar by ain-ar.init;\012sub ghain-ar by ghain-ar.init;\012sub feh-ar by feh-ar.init;\012sub veh-ar by veh-ar.init;\012sub dotlessfeh-ar by dotlessfeh-ar.init;\012sub qaf-ar by qaf-ar.init;\012sub kaf-ar by kaf-ar.init;\012sub keheh-ar by keheh-ar.init;\012sub gaf-ar by gaf-ar.init;\012sub kafRing-ar by kafRing-ar.init;\012sub ng-ar by ng-ar.init;\012sub lam-ar by lam-ar.init;\012sub lamVabove-ar by lamVabove-ar.init;\012sub meem-ar by meem-ar.init;\012sub noon-ar by noon-ar.init;\012sub noonRing-ar by noonRing-ar.init;\012sub heh-ar by heh-ar.init;\012sub hehgoal-ar by hehgoal-ar.init;\012sub hehgoalHamzaabove-ar by hehgoalHamzaabove-ar.init;\012sub hehDoachashmee-ar by hehDoachashmee-ar.init;\012sub yeh-ar by yeh-ar.init;\012sub yehHamzaabove-ar by yehHamzaabove-ar.init;\012sub yehVabove-ar by yehVabove-ar.init;\012sub yeh-farsi by yeh-farsi.init;\012sub e-ar by e-ar.init;\012";
+code = "sub behDotless-ar by behDotless-ar.init;\012sub beh-ar by beh-ar.init;\012sub peh-ar by peh-ar.init;\012sub alefMaksura-ar by alefMaksura-ar.init;\012sub teh-ar by teh-ar.init;\012sub tehRing-ar by tehRing-ar.init;\012sub theh-ar by theh-ar.init;\012sub tteh-ar by tteh-ar.init;\012sub jeem-ar by jeem-ar.init;\012sub tcheh-ar by tcheh-ar.init;\012sub hah-ar by hah-ar.init;\012sub hahHamzaabove-ar by hahHamzaabove-ar.init;\012sub hahThreedotsabove-ar by hahThreedotsabove-ar.init;\012sub khah-ar by khah-ar.init;\012sub seen-ar by seen-ar.init;\012sub seenDotbelowDotabove-ar by seenDotbelowDotabove-ar.init;\012sub sheen-ar by sheen-ar.init;\012sub sad-ar by sad-ar.init;\012sub dad-ar by dad-ar.init;\012sub tah-ar by tah-ar.init;\012sub zah-ar by zah-ar.init;\012sub ain-ar by ain-ar.init;\012sub ghain-ar by ghain-ar.init;\012sub feh-ar by feh-ar.init;\012sub veh-ar by veh-ar.init;\012sub fehDotless-ar by fehDotless-ar.init;\012sub qaf-ar by qaf-ar.init;\012sub kaf-ar by kaf-ar.init;\012sub keheh-ar by keheh-ar.init;\012sub gaf-ar by gaf-ar.init;\012sub kafRing-ar by kafRing-ar.init;\012sub ng-ar by ng-ar.init;\012sub lam-ar by lam-ar.init;\012sub lamVabove-ar by lamVabove-ar.init;\012sub meem-ar by meem-ar.init;\012sub noon-ar by noon-ar.init;\012sub noonRing-ar by noonRing-ar.init;\012sub heh-ar by heh-ar.init;\012sub hehgoal-ar by hehgoal-ar.init;\012sub hehgoalHamzaabove-ar by hehgoalHamzaabove-ar.init;\012sub hehDoachashmee-ar by hehDoachashmee-ar.init;\012sub yeh-ar by yeh-ar.init;\012sub yehHamzaabove-ar by yehHamzaabove-ar.init;\012sub yehVabove-ar by yehVabove-ar.init;\012sub yeh-farsi by yeh-farsi.init;\012sub e-ar by e-ar.init;\012";
 name = init;
 },
 {
 automatic = 1;
-code = "sub dotlessbeh-ar by dotlessbeh-ar.medi;\012sub beh-ar by beh-ar.medi;\012sub peh-ar by peh-ar.medi;\012sub alefMaksura-ar by alefMaksura-ar.medi;\012sub teh-ar by teh-ar.medi;\012sub tehRing-ar by tehRing-ar.medi;\012sub theh-ar by theh-ar.medi;\012sub tteh-ar by tteh-ar.medi;\012sub jeem-ar by jeem-ar.medi;\012sub tcheh-ar by tcheh-ar.medi;\012sub hah-ar by hah-ar.medi;\012sub hahHamzaabove-ar by hahHamzaabove-ar.medi;\012sub hahThreedotsabove-ar by hahThreedotsabove-ar.medi;\012sub khah-ar by khah-ar.medi;\012sub seen-ar by seen-ar.medi;\012sub seenDotbelowDotabove-ar by seenDotbelowDotabove-ar.medi;\012sub sheen-ar by sheen-ar.medi;\012sub sad-ar by sad-ar.medi;\012sub dad-ar by dad-ar.medi;\012sub tah-ar by tah-ar.medi;\012sub zah-ar by zah-ar.medi;\012sub ain-ar by ain-ar.medi;\012sub ghain-ar by ghain-ar.medi;\012sub feh-ar by feh-ar.medi;\012sub veh-ar by veh-ar.medi;\012sub dotlessfeh-ar by dotlessfeh-ar.medi;\012sub qaf-ar by qaf-ar.medi;\012sub kaf-ar by kaf-ar.medi;\012sub keheh-ar by keheh-ar.medi;\012sub gaf-ar by gaf-ar.medi;\012sub kafRing-ar by kafRing-ar.medi;\012sub ng-ar by ng-ar.medi;\012sub lam-ar by lam-ar.medi;\012sub lamVabove-ar by lamVabove-ar.medi;\012sub meem-ar by meem-ar.medi;\012sub noon-ar by noon-ar.medi;\012sub noonRing-ar by noonRing-ar.medi;\012sub heh-ar by heh-ar.medi;\012sub hehgoal-ar by hehgoal-ar.medi;\012sub hehgoalHamzaabove-ar by hehgoalHamzaabove-ar.medi;\012sub hehDoachashmee-ar by hehDoachashmee-ar.medi;\012sub yeh-ar by yeh-ar.medi;\012sub yehHamzaabove-ar by yehHamzaabove-ar.medi;\012sub yehVabove-ar by yehVabove-ar.medi;\012sub yeh-farsi by yeh-farsi.medi;\012sub e-ar by e-ar.medi;\012";
+code = "sub behDotless-ar by behDotless-ar.medi;\012sub beh-ar by beh-ar.medi;\012sub peh-ar by peh-ar.medi;\012sub alefMaksura-ar by alefMaksura-ar.medi;\012sub teh-ar by teh-ar.medi;\012sub tehRing-ar by tehRing-ar.medi;\012sub theh-ar by theh-ar.medi;\012sub tteh-ar by tteh-ar.medi;\012sub jeem-ar by jeem-ar.medi;\012sub tcheh-ar by tcheh-ar.medi;\012sub hah-ar by hah-ar.medi;\012sub hahHamzaabove-ar by hahHamzaabove-ar.medi;\012sub hahThreedotsabove-ar by hahThreedotsabove-ar.medi;\012sub khah-ar by khah-ar.medi;\012sub seen-ar by seen-ar.medi;\012sub seenDotbelowDotabove-ar by seenDotbelowDotabove-ar.medi;\012sub sheen-ar by sheen-ar.medi;\012sub sad-ar by sad-ar.medi;\012sub dad-ar by dad-ar.medi;\012sub tah-ar by tah-ar.medi;\012sub zah-ar by zah-ar.medi;\012sub ain-ar by ain-ar.medi;\012sub ghain-ar by ghain-ar.medi;\012sub feh-ar by feh-ar.medi;\012sub veh-ar by veh-ar.medi;\012sub fehDotless-ar by fehDotless-ar.medi;\012sub qaf-ar by qaf-ar.medi;\012sub kaf-ar by kaf-ar.medi;\012sub keheh-ar by keheh-ar.medi;\012sub gaf-ar by gaf-ar.medi;\012sub kafRing-ar by kafRing-ar.medi;\012sub ng-ar by ng-ar.medi;\012sub lam-ar by lam-ar.medi;\012sub lamVabove-ar by lamVabove-ar.medi;\012sub meem-ar by meem-ar.medi;\012sub noon-ar by noon-ar.medi;\012sub noonRing-ar by noonRing-ar.medi;\012sub heh-ar by heh-ar.medi;\012sub hehgoal-ar by hehgoal-ar.medi;\012sub hehgoalHamzaabove-ar by hehgoalHamzaabove-ar.medi;\012sub hehDoachashmee-ar by hehDoachashmee-ar.medi;\012sub yeh-ar by yeh-ar.medi;\012sub yehHamzaabove-ar by yehHamzaabove-ar.medi;\012sub yehVabove-ar by yehVabove-ar.medi;\012sub yeh-farsi by yeh-farsi.medi;\012sub e-ar by e-ar.medi;\012";
 name = medi;
 },
 {
 automatic = 1;
-code = "sub alef-ar by alef-ar.fina;\012sub alefHamzaabove-ar by alefHamzaabove-ar.fina;\012sub alefHamzabelow-ar by alefHamzabelow-ar.fina;\012sub alefMadda-ar by alefMadda-ar.fina;\012sub alefWasla-ar by alefWasla-ar.fina;\012sub dotlessbeh-ar by dotlessbeh-ar.fina;\012sub beh-ar by beh-ar.fina;\012sub peh-ar by peh-ar.fina;\012sub teh-ar by teh-ar.fina;\012sub tehRing-ar by tehRing-ar.fina;\012sub theh-ar by theh-ar.fina;\012sub tteh-ar by tteh-ar.fina;\012sub jeem-ar by jeem-ar.fina;\012sub tcheh-ar by tcheh-ar.fina;\012sub hah-ar by hah-ar.fina;\012sub hahHamzaabove-ar by hahHamzaabove-ar.fina;\012sub hahThreedotsabove-ar by hahThreedotsabove-ar.fina;\012sub khah-ar by khah-ar.fina;\012sub dal-ar by dal-ar.fina;\012sub thal-ar by thal-ar.fina;\012sub ddal-ar by ddal-ar.fina;\012sub dalRing-ar by dalRing-ar.fina;\012sub dul-ar by dul-ar.fina;\012sub dalVinvertedabove-ar by dalVinvertedabove-ar.fina;\012sub reh-ar by reh-ar.fina;\012sub zain-ar by zain-ar.fina;\012sub rreh-ar by rreh-ar.fina;\012sub rehRing-ar by rehRing-ar.fina;\012sub rehVbelow-ar by rehVbelow-ar.fina;\012sub rehDotbelowdotabove-ar by rehDotbelowdotabove-ar.fina;\012sub jeh-ar by jeh-ar.fina;\012sub seen-ar by seen-ar.fina;\012sub seenDotbelowDotabove-ar by seenDotbelowDotabove-ar.fina;\012sub sheen-ar by sheen-ar.fina;\012sub sad-ar by sad-ar.fina;\012sub dad-ar by dad-ar.fina;\012sub tah-ar by tah-ar.fina;\012sub zah-ar by zah-ar.fina;\012sub ain-ar by ain-ar.fina;\012sub ghain-ar by ghain-ar.fina;\012sub feh-ar by feh-ar.fina;\012sub veh-ar by veh-ar.fina;\012sub dotlessfeh-ar by dotlessfeh-ar.fina;\012sub dotlessqaf-ar by dotlessqaf-ar.fina;\012sub qaf-ar by qaf-ar.fina;\012sub dotlesskaf-ar by dotlesskaf-ar.fina;\012sub kaf-ar by kaf-ar.fina;\012sub keheh-ar by keheh-ar.fina;\012sub gaf-ar by gaf-ar.fina;\012sub kafRing-ar by kafRing-ar.fina;\012sub ng-ar by ng-ar.fina;\012sub lam-ar by lam-ar.fina;\012sub lamVabove-ar by lamVabove-ar.fina;\012sub meem-ar by meem-ar.fina;\012sub noon-ar by noon-ar.fina;\012sub noonghunna-ar by noonghunna-ar.fina;\012sub noonRing-ar by noonRing-ar.fina;\012sub heh-ar by heh-ar.fina;\012sub hehHamzaabove-ar by hehHamzaabove-ar.fina;\012sub hehgoal-ar by hehgoal-ar.fina;\012sub hehgoalHamzaabove-ar by hehgoalHamzaabove-ar.fina;\012sub hehDoachashmee-ar by hehDoachashmee-ar.fina;\012sub tehMarbuta-ar by tehMarbuta-ar.fina;\012sub tehMarbutagoal-ar by tehMarbutagoal-ar.fina;\012sub waw-ar by waw-ar.fina;\012sub wawring-ar by wawring-ar.fina;\012sub wawTwodots-ar by wawTwodots-ar.fina;\012sub wawHamzaabove-ar by wawHamzaabove-ar.fina;\012sub oe-ar by oe-ar.fina;\012sub u-ar by u-ar.fina;\012sub yu-ar by yu-ar.fina;\012sub ve-ar by ve-ar.fina;\012sub alefMaksura-ar by alefMaksura-ar.fina;\012sub yeh-ar by yeh-ar.fina;\012sub yehHamzaabove-ar by yehHamzaabove-ar.fina;\012sub yehVabove-ar by yehVabove-ar.fina;\012sub yeh-farsi by yeh-farsi.fina;\012sub yehTail-ar by yehTail-ar.fina;\012sub e-ar by e-ar.fina;\012sub yehbarree-ar by yehbarree-ar.fina;\012sub yehbarreeHamzaabove-ar by yehbarreeHamzaabove-ar.fina;\012sub ae-ar by ae-ar.fina;\012sub lam_alef-ar by lam_alef-ar.fina;\012sub lam_alefHamzaabove-ar by lam_alefHamzaabove-ar.fina;\012sub lam_alefHamzabelow-ar by lam_alefHamzabelow-ar.fina;\012sub lam_alefMadda-ar by lam_alefMadda-ar.fina;\012sub lam_alefWasla-ar by lam_alefWasla-ar.fina;\012";
+code = "sub alef-ar by alef-ar.fina;\012sub alefHamzaabove-ar by alefHamzaabove-ar.fina;\012sub alefHamzabelow-ar by alefHamzabelow-ar.fina;\012sub alefMadda-ar by alefMadda-ar.fina;\012sub alefWasla-ar by alefWasla-ar.fina;\012sub behDotless-ar by behDotless-ar.fina;\012sub beh-ar by beh-ar.fina;\012sub peh-ar by peh-ar.fina;\012sub teh-ar by teh-ar.fina;\012sub tehRing-ar by tehRing-ar.fina;\012sub theh-ar by theh-ar.fina;\012sub tteh-ar by tteh-ar.fina;\012sub jeem-ar by jeem-ar.fina;\012sub tcheh-ar by tcheh-ar.fina;\012sub hah-ar by hah-ar.fina;\012sub hahHamzaabove-ar by hahHamzaabove-ar.fina;\012sub hahThreedotsabove-ar by hahThreedotsabove-ar.fina;\012sub khah-ar by khah-ar.fina;\012sub dal-ar by dal-ar.fina;\012sub thal-ar by thal-ar.fina;\012sub ddal-ar by ddal-ar.fina;\012sub dalRing-ar by dalRing-ar.fina;\012sub dul-ar by dul-ar.fina;\012sub dalVinvertedabove-ar by dalVinvertedabove-ar.fina;\012sub reh-ar by reh-ar.fina;\012sub zain-ar by zain-ar.fina;\012sub rreh-ar by rreh-ar.fina;\012sub rehRing-ar by rehRing-ar.fina;\012sub rehVbelow-ar by rehVbelow-ar.fina;\012sub rehDotbelowdotabove-ar by rehDotbelowdotabove-ar.fina;\012sub jeh-ar by jeh-ar.fina;\012sub seen-ar by seen-ar.fina;\012sub seenDotbelowDotabove-ar by seenDotbelowDotabove-ar.fina;\012sub sheen-ar by sheen-ar.fina;\012sub sad-ar by sad-ar.fina;\012sub dad-ar by dad-ar.fina;\012sub tah-ar by tah-ar.fina;\012sub zah-ar by zah-ar.fina;\012sub ain-ar by ain-ar.fina;\012sub ghain-ar by ghain-ar.fina;\012sub feh-ar by feh-ar.fina;\012sub veh-ar by veh-ar.fina;\012sub fehDotless-ar by fehDotless-ar.fina;\012sub qafDotless-ar by qafDotless-ar.fina;\012sub qaf-ar by qaf-ar.fina;\012sub dotlesskaf-ar by dotlesskaf-ar.fina;\012sub kaf-ar by kaf-ar.fina;\012sub keheh-ar by keheh-ar.fina;\012sub gaf-ar by gaf-ar.fina;\012sub kafRing-ar by kafRing-ar.fina;\012sub ng-ar by ng-ar.fina;\012sub lam-ar by lam-ar.fina;\012sub lamVabove-ar by lamVabove-ar.fina;\012sub meem-ar by meem-ar.fina;\012sub noon-ar by noon-ar.fina;\012sub noonghunna-ar by noonghunna-ar.fina;\012sub noonRing-ar by noonRing-ar.fina;\012sub heh-ar by heh-ar.fina;\012sub hehHamzaabove-ar by hehHamzaabove-ar.fina;\012sub hehgoal-ar by hehgoal-ar.fina;\012sub hehgoalHamzaabove-ar by hehgoalHamzaabove-ar.fina;\012sub hehDoachashmee-ar by hehDoachashmee-ar.fina;\012sub tehMarbuta-ar by tehMarbuta-ar.fina;\012sub tehMarbutagoal-ar by tehMarbutagoal-ar.fina;\012sub waw-ar by waw-ar.fina;\012sub wawring-ar by wawring-ar.fina;\012sub wawTwodots-ar by wawTwodots-ar.fina;\012sub wawHamzaabove-ar by wawHamzaabove-ar.fina;\012sub oe-ar by oe-ar.fina;\012sub u-ar by u-ar.fina;\012sub yu-ar by yu-ar.fina;\012sub ve-ar by ve-ar.fina;\012sub alefMaksura-ar by alefMaksura-ar.fina;\012sub yeh-ar by yeh-ar.fina;\012sub yehHamzaabove-ar by yehHamzaabove-ar.fina;\012sub yehVabove-ar by yehVabove-ar.fina;\012sub yeh-farsi by yeh-farsi.fina;\012sub yehTail-ar by yehTail-ar.fina;\012sub e-ar by e-ar.fina;\012sub yehbarree-ar by yehbarree-ar.fina;\012sub yehbarreeHamzaabove-ar by yehbarreeHamzaabove-ar.fina;\012sub ae-ar by ae-ar.fina;\012sub lam_alef-ar by lam_alef-ar.fina;\012sub lam_alefHamzaabove-ar by lam_alefHamzaabove-ar.fina;\012sub lam_alefHamzabelow-ar by lam_alefHamzabelow-ar.fina;\012sub lam_alefMadda-ar by lam_alefMadda-ar.fina;\012sub lam_alefWasla-ar by lam_alefWasla-ar.fina;\012";
 name = fina;
 },
 {
@@ -201,153 +201,6 @@ xHeight = 0;
 }
 );
 glyphs = (
-{
-glyphname = "dotlessbeh-ar";
-lastChange = "2016-05-29 19:47:41 +0000";
-layers = (
-{
-anchors = (
-{
-name = bottom;
-position = "{889, -227}";
-},
-{
-name = top;
-position = "{836, 861}";
-}
-);
-layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
-paths = (
-{
-closed = 1;
-nodes = (
-"798 -56 OFFCURVE",
-"967 -44 OFFCURVE",
-"1141 -13 CURVE SMOOTH",
-"1443 35 OFFCURVE",
-"1686 126 OFFCURVE",
-"1686 412 CURVE SMOOTH",
-"1686 504 OFFCURVE",
-"1616 788 OFFCURVE",
-"1574 964 CURVE SMOOTH",
-"1571 976 OFFCURVE",
-"1561 977 OFFCURVE",
-"1551 968 CURVE SMOOTH",
-"1448 864 LINE SMOOTH",
-"1442 857 OFFCURVE",
-"1440 850 OFFCURVE",
-"1442 841 CURVE SMOOTH",
-"1570 292 LINE SMOOTH",
-"1572 282 OFFCURVE",
-"1570 275 OFFCURVE",
-"1559 270 CURVE SMOOTH",
-"1418 208 OFFCURVE",
-"1068 126 OFFCURVE",
-"750 132 CURVE SMOOTH",
-"480 137 OFFCURVE",
-"256 212 OFFCURVE",
-"279 443 CURVE SMOOTH",
-"293 587 LINE SMOOTH",
-"294 597 OFFCURVE",
-"289 604 OFFCURVE",
-"278 605 CURVE SMOOTH",
-"215 611 LINE SMOOTH",
-"205 612 OFFCURVE",
-"197 605 OFFCURVE",
-"195 595 CURVE SMOOTH",
-"178 443 LINE SMOOTH",
-"138 94 OFFCURVE",
-"301 -43 OFFCURVE",
-"666 -53 CURVE SMOOTH"
-);
-}
-);
-width = 1824;
-},
-{
-anchors = (
-{
-name = bottom;
-position = "{867, -247}";
-},
-{
-name = ring;
-position = "{308, -151}";
-},
-{
-name = top;
-position = "{854, 871}";
-}
-);
-layerId = "00FED3EE-B3F5-49E6-B91A-35FC52169726";
-paths = (
-{
-closed = 1;
-nodes = (
-"381 -54 OFFCURVE",
-"724 -54 CURVE SMOOTH",
-"849 -54 OFFCURVE",
-"1003 -37 OFFCURVE",
-"1161 -13 CURVE SMOOTH",
-"1464 35 OFFCURVE",
-"1714 129 OFFCURVE",
-"1714 422 CURVE SMOOTH",
-"1714 515 OFFCURVE",
-"1644 800 OFFCURVE",
-"1602 976 CURVE SMOOTH",
-"1599 988 OFFCURVE",
-"1591 994 OFFCURVE",
-"1581 994 CURVE SMOOTH",
-"1575 994 OFFCURVE",
-"1568 991 OFFCURVE",
-"1562 985 CURVE SMOOTH",
-"1458 881 LINE SMOOTH",
-"1452 875 OFFCURVE",
-"1449 867 OFFCURVE",
-"1449 859 CURVE",
-"1578 300 LINE",
-"1580 293 OFFCURVE",
-"1579 292 OFFCURVE",
-"1573 289 CURVE SMOOTH",
-"1438 230 OFFCURVE",
-"1109 152 OFFCURVE",
-"801 152 CURVE SMOOTH",
-"538 152 OFFCURVE",
-"305 211 OFFCURVE",
-"305 422 CURVE SMOOTH",
-"305 441 OFFCURVE",
-"306 456 OFFCURVE",
-"321 596 CURVE SMOOTH",
-"323 612 OFFCURVE",
-"313 623 OFFCURVE",
-"297 625 CURVE SMOOTH",
-"234 631 LINE SMOOTH",
-"219 632 OFFCURVE",
-"205 622 OFFCURVE",
-"203 607 CURVE SMOOTH",
-"184 442 OFFCURVE",
-"180 401 OFFCURVE",
-"180 357 CURVE SMOOTH",
-"180 52 OFFCURVE"
-);
-}
-);
-width = 1854;
-}
-);
-leftKerningGroup = all;
-unicode = 066E;
-userData = {
-com.typemytype.robofont.guides = (
-{
-angle = 0;
-isGlobal = 0;
-x = 383;
-y = 1092;
-}
-);
-};
-},
 {
 glyphname = "hamza-ar";
 lastChange = "2016-05-29 19:47:54 +0000";
@@ -1355,8 +1208,155 @@ rightKerningGroup = a;
 unicode = FB51;
 },
 {
-glyphname = "dotlessbeh-ar.fina";
-lastChange = "2016-05-29 19:48:54 +0000";
+glyphname = "behDotless-ar";
+lastChange = "2016-05-29 19:47:41 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{889, -227}";
+},
+{
+name = top;
+position = "{836, 861}";
+}
+);
+layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
+paths = (
+{
+closed = 1;
+nodes = (
+"798 -56 OFFCURVE",
+"967 -44 OFFCURVE",
+"1141 -13 CURVE SMOOTH",
+"1443 35 OFFCURVE",
+"1686 126 OFFCURVE",
+"1686 412 CURVE SMOOTH",
+"1686 504 OFFCURVE",
+"1616 788 OFFCURVE",
+"1574 964 CURVE SMOOTH",
+"1571 976 OFFCURVE",
+"1561 977 OFFCURVE",
+"1551 968 CURVE SMOOTH",
+"1448 864 LINE SMOOTH",
+"1442 857 OFFCURVE",
+"1440 850 OFFCURVE",
+"1442 841 CURVE SMOOTH",
+"1570 292 LINE SMOOTH",
+"1572 282 OFFCURVE",
+"1570 275 OFFCURVE",
+"1559 270 CURVE SMOOTH",
+"1418 208 OFFCURVE",
+"1068 126 OFFCURVE",
+"750 132 CURVE SMOOTH",
+"480 137 OFFCURVE",
+"256 212 OFFCURVE",
+"279 443 CURVE SMOOTH",
+"293 587 LINE SMOOTH",
+"294 597 OFFCURVE",
+"289 604 OFFCURVE",
+"278 605 CURVE SMOOTH",
+"215 611 LINE SMOOTH",
+"205 612 OFFCURVE",
+"197 605 OFFCURVE",
+"195 595 CURVE SMOOTH",
+"178 443 LINE SMOOTH",
+"138 94 OFFCURVE",
+"301 -43 OFFCURVE",
+"666 -53 CURVE SMOOTH"
+);
+}
+);
+width = 1824;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{867, -247}";
+},
+{
+name = ring;
+position = "{308, -151}";
+},
+{
+name = top;
+position = "{854, 871}";
+}
+);
+layerId = "00FED3EE-B3F5-49E6-B91A-35FC52169726";
+paths = (
+{
+closed = 1;
+nodes = (
+"381 -54 OFFCURVE",
+"724 -54 CURVE SMOOTH",
+"849 -54 OFFCURVE",
+"1003 -37 OFFCURVE",
+"1161 -13 CURVE SMOOTH",
+"1464 35 OFFCURVE",
+"1714 129 OFFCURVE",
+"1714 422 CURVE SMOOTH",
+"1714 515 OFFCURVE",
+"1644 800 OFFCURVE",
+"1602 976 CURVE SMOOTH",
+"1599 988 OFFCURVE",
+"1591 994 OFFCURVE",
+"1581 994 CURVE SMOOTH",
+"1575 994 OFFCURVE",
+"1568 991 OFFCURVE",
+"1562 985 CURVE SMOOTH",
+"1458 881 LINE SMOOTH",
+"1452 875 OFFCURVE",
+"1449 867 OFFCURVE",
+"1449 859 CURVE",
+"1578 300 LINE",
+"1580 293 OFFCURVE",
+"1579 292 OFFCURVE",
+"1573 289 CURVE SMOOTH",
+"1438 230 OFFCURVE",
+"1109 152 OFFCURVE",
+"801 152 CURVE SMOOTH",
+"538 152 OFFCURVE",
+"305 211 OFFCURVE",
+"305 422 CURVE SMOOTH",
+"305 441 OFFCURVE",
+"306 456 OFFCURVE",
+"321 596 CURVE SMOOTH",
+"323 612 OFFCURVE",
+"313 623 OFFCURVE",
+"297 625 CURVE SMOOTH",
+"234 631 LINE SMOOTH",
+"219 632 OFFCURVE",
+"205 622 OFFCURVE",
+"203 607 CURVE SMOOTH",
+"184 442 OFFCURVE",
+"180 401 OFFCURVE",
+"180 357 CURVE SMOOTH",
+"180 52 OFFCURVE"
+);
+}
+);
+width = 1854;
+}
+);
+leftKerningGroup = all;
+unicode = 066E;
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+x = 383;
+y = 1092;
+}
+);
+};
+},
+{
+glyphname = "behDotless-ar.fina";
+lastChange = "2016-05-29 20:18:31 +0000";
 layers = (
 {
 anchors = (
@@ -1508,8 +1508,8 @@ width = 2013;
 );
 },
 {
-glyphname = "dotlessbeh-ar.medi";
-lastChange = "2016-05-29 17:49:04 +0000";
+glyphname = "behDotless-ar.medi";
+lastChange = "2016-05-29 20:18:44 +0000";
 layers = (
 {
 anchors = (
@@ -1643,8 +1643,8 @@ width = 914;
 );
 },
 {
-glyphname = "dotlessbeh-ar.init";
-lastChange = "2016-05-29 17:48:32 +0000";
+glyphname = "behDotless-ar.init";
+lastChange = "2016-05-29 20:18:55 +0000";
 layers = (
 {
 anchors = (
@@ -1750,12 +1750,12 @@ leftKerningGroup = all;
 },
 {
 glyphname = "beh-ar";
-lastChange = "2016-05-29 19:48:59 +0000";
+lastChange = "2016-05-29 20:18:39 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessbeh-ar";
+name = "behDotless-ar";
 },
 {
 name = "dotbelow-ar";
@@ -1768,7 +1768,7 @@ width = 1824;
 {
 components = (
 {
-name = "dotlessbeh-ar";
+name = "behDotless-ar";
 },
 {
 name = "dotbelow-ar";
@@ -1810,12 +1810,12 @@ unicode = FE8F;
 },
 {
 glyphname = "beh-ar.fina";
-lastChange = "2016-03-12 19:57:10 +0000";
+lastChange = "2016-05-29 20:18:39 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessbeh-ar.fina";
+name = "behDotless-ar.fina";
 },
 {
 name = "dotbelow-ar";
@@ -1828,7 +1828,7 @@ width = 1994;
 {
 components = (
 {
-name = "dotlessbeh-ar.fina";
+name = "behDotless-ar.fina";
 },
 {
 name = "dotbelow-ar";
@@ -1843,12 +1843,12 @@ unicode = FE90;
 },
 {
 glyphname = "beh-ar.medi";
-lastChange = "2016-03-12 19:57:10 +0000";
+lastChange = "2016-05-29 20:18:53 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 },
 {
 name = "dotbelow-ar";
@@ -1861,7 +1861,7 @@ width = 913;
 {
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 },
 {
 name = "dotbelow-ar";
@@ -1876,12 +1876,12 @@ unicode = FE92;
 },
 {
 glyphname = "beh-ar.init";
-lastChange = "2016-03-27 23:49:29 +0000";
+lastChange = "2016-05-29 20:19:04 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 },
 {
 name = "dotbelow-ar";
@@ -1894,7 +1894,7 @@ width = 746;
 {
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 },
 {
 name = "dotbelow-ar";
@@ -1909,12 +1909,12 @@ unicode = FE91;
 },
 {
 glyphname = "peh-ar";
-lastChange = "2016-05-29 19:49:01 +0000";
+lastChange = "2016-05-29 20:18:39 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessbeh-ar";
+name = "behDotless-ar";
 },
 {
 name = "threedotsdownbelow-ar";
@@ -1927,7 +1927,7 @@ width = 1824;
 {
 components = (
 {
-name = "dotlessbeh-ar";
+name = "behDotless-ar";
 },
 {
 name = "threedotsdownbelow-ar";
@@ -1969,7 +1969,7 @@ unicode = FB56;
 },
 {
 glyphname = "peh-ar.fina";
-lastChange = "2016-05-29 19:49:16 +0000";
+lastChange = "2016-05-29 20:18:39 +0000";
 layers = (
 {
 anchors = (
@@ -1980,7 +1980,7 @@ position = "{836, 861}";
 );
 components = (
 {
-name = "dotlessbeh-ar.fina";
+name = "behDotless-ar.fina";
 },
 {
 name = "threedotsdownbelow-ar";
@@ -1999,7 +1999,7 @@ position = "{877, 780}";
 );
 components = (
 {
-name = "dotlessbeh-ar.fina";
+name = "behDotless-ar.fina";
 },
 {
 name = "threedotsdownbelow-ar";
@@ -2014,7 +2014,7 @@ unicode = FB57;
 },
 {
 glyphname = "peh-ar.medi";
-lastChange = "2016-05-29 19:49:11 +0000";
+lastChange = "2016-05-29 20:18:53 +0000";
 layers = (
 {
 anchors = (
@@ -2025,7 +2025,7 @@ position = "{529, 790}";
 );
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 },
 {
 name = "threedotsdownbelow-ar";
@@ -2044,7 +2044,7 @@ position = "{527, 830}";
 );
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 },
 {
 name = "threedotsdownbelow-ar";
@@ -2136,12 +2136,12 @@ unicode = FB58;
 },
 {
 glyphname = "alefMaksura-ar.medi";
-lastChange = "2016-03-12 19:57:24 +0000";
+lastChange = "2016-05-29 20:18:53 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 }
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
@@ -2150,7 +2150,7 @@ width = 913;
 {
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 }
 );
 layerId = "00FED3EE-B3F5-49E6-B91A-35FC52169726";
@@ -2161,12 +2161,12 @@ unicode = FBE9;
 },
 {
 glyphname = "alefMaksura-ar.init";
-lastChange = "2016-03-27 02:14:10 +0000";
+lastChange = "2016-05-29 20:19:04 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 }
 );
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
@@ -2175,7 +2175,7 @@ width = 746;
 {
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 }
 );
 layerId = "00FED3EE-B3F5-49E6-B91A-35FC52169726";
@@ -2187,12 +2187,12 @@ unicode = FBE8;
 },
 {
 glyphname = "teh-ar";
-lastChange = "2016-03-27 02:14:10 +0000";
+lastChange = "2016-05-29 20:18:39 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessbeh-ar";
+name = "behDotless-ar";
 },
 {
 name = "twodotshorizontalabove-ar";
@@ -2205,7 +2205,7 @@ width = 1824;
 {
 components = (
 {
-name = "dotlessbeh-ar";
+name = "behDotless-ar";
 },
 {
 name = "twodotshorizontalabove-ar";
@@ -2247,7 +2247,7 @@ unicode = FE95;
 },
 {
 glyphname = "teh-ar.fina";
-lastChange = "2016-05-29 19:49:29 +0000";
+lastChange = "2016-05-29 20:18:39 +0000";
 layers = (
 {
 anchors = (
@@ -2258,7 +2258,7 @@ position = "{889, -227}";
 );
 components = (
 {
-name = "dotlessbeh-ar.fina";
+name = "behDotless-ar.fina";
 },
 {
 name = "twodotshorizontalabove-ar";
@@ -2277,7 +2277,7 @@ position = "{797, -260}";
 );
 components = (
 {
-name = "dotlessbeh-ar.fina";
+name = "behDotless-ar.fina";
 },
 {
 name = "twodotshorizontalabove-ar";
@@ -2292,7 +2292,7 @@ unicode = FE96;
 },
 {
 glyphname = "teh-ar.medi";
-lastChange = "2016-05-29 19:49:33 +0000";
+lastChange = "2016-05-29 20:18:53 +0000";
 layers = (
 {
 anchors = (
@@ -2303,7 +2303,7 @@ position = "{370, -178}";
 );
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 },
 {
 name = "twodotshorizontalabove-ar";
@@ -2322,7 +2322,7 @@ position = "{347, -190}";
 );
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 },
 {
 name = "twodotshorizontalabove-ar";
@@ -2337,7 +2337,7 @@ unicode = FE98;
 },
 {
 glyphname = "teh-ar.init";
-lastChange = "2016-05-29 19:49:38 +0000";
+lastChange = "2016-05-29 20:19:04 +0000";
 layers = (
 {
 anchors = (
@@ -2352,7 +2352,7 @@ position = "{240, 1478}";
 );
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 },
 {
 alignment = -1;
@@ -2372,7 +2372,7 @@ position = "{369, -200}";
 );
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 },
 {
 alignment = -1;
@@ -2590,7 +2590,7 @@ width = 758;
 },
 {
 glyphname = "theh-ar";
-lastChange = "2016-05-29 19:50:08 +0000";
+lastChange = "2016-05-29 20:18:39 +0000";
 layers = (
 {
 anchors = (
@@ -2601,7 +2601,7 @@ position = "{889, -227}";
 );
 components = (
 {
-name = "dotlessbeh-ar";
+name = "behDotless-ar";
 },
 {
 name = "threedotsupabove-ar";
@@ -2620,7 +2620,7 @@ position = "{817, -250}";
 );
 components = (
 {
-name = "dotlessbeh-ar";
+name = "behDotless-ar";
 },
 {
 name = "threedotsupabove-ar";
@@ -2662,7 +2662,7 @@ unicode = FE99;
 },
 {
 glyphname = "theh-ar.fina";
-lastChange = "2016-05-29 19:50:13 +0000";
+lastChange = "2016-05-29 20:18:39 +0000";
 layers = (
 {
 anchors = (
@@ -2673,7 +2673,7 @@ position = "{889, -227}";
 );
 components = (
 {
-name = "dotlessbeh-ar.fina";
+name = "behDotless-ar.fina";
 },
 {
 name = "threedotsupabove-ar";
@@ -2692,7 +2692,7 @@ position = "{837, -250}";
 );
 components = (
 {
-name = "dotlessbeh-ar.fina";
+name = "behDotless-ar.fina";
 },
 {
 name = "threedotsupabove-ar";
@@ -2707,7 +2707,7 @@ unicode = FE9A;
 },
 {
 glyphname = "theh-ar.medi";
-lastChange = "2016-05-29 19:50:16 +0000";
+lastChange = "2016-05-29 20:18:53 +0000";
 layers = (
 {
 anchors = (
@@ -2718,7 +2718,7 @@ position = "{370, -178}";
 );
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 },
 {
 name = "threedotsupabove-ar";
@@ -2737,7 +2737,7 @@ position = "{267, -190}";
 );
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 },
 {
 name = "threedotsupabove-ar";
@@ -2752,7 +2752,7 @@ unicode = FE9C;
 },
 {
 glyphname = "theh-ar.init";
-lastChange = "2016-05-29 19:50:21 +0000";
+lastChange = "2016-05-29 20:19:04 +0000";
 layers = (
 {
 anchors = (
@@ -2763,7 +2763,7 @@ position = "{292, -179}";
 );
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 },
 {
 name = "threedotsupabove-ar";
@@ -2782,7 +2782,7 @@ position = "{349, -190}";
 );
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 },
 {
 name = "threedotsupabove-ar";
@@ -2798,12 +2798,12 @@ unicode = FE9B;
 },
 {
 glyphname = "tteh-ar";
-lastChange = "2016-03-27 02:14:10 +0000";
+lastChange = "2016-05-29 20:18:39 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessbeh-ar";
+name = "behDotless-ar";
 },
 {
 name = "tahabove-ar";
@@ -2816,7 +2816,7 @@ width = 1824;
 {
 components = (
 {
-name = "dotlessbeh-ar";
+name = "behDotless-ar";
 },
 {
 name = "tahabove-ar";
@@ -2858,12 +2858,12 @@ unicode = FB66;
 },
 {
 glyphname = "tteh-ar.fina";
-lastChange = "2016-03-12 20:00:12 +0000";
+lastChange = "2016-05-29 20:18:39 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessbeh-ar.fina";
+name = "behDotless-ar.fina";
 },
 {
 name = "tahabove-ar";
@@ -2876,7 +2876,7 @@ width = 1994;
 {
 components = (
 {
-name = "dotlessbeh-ar.fina";
+name = "behDotless-ar.fina";
 },
 {
 name = "tahabove-ar";
@@ -2891,12 +2891,12 @@ unicode = FB67;
 },
 {
 glyphname = "tteh-ar.medi";
-lastChange = "2016-03-12 20:00:12 +0000";
+lastChange = "2016-05-29 20:18:53 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 },
 {
 name = "tahabove-ar";
@@ -2909,7 +2909,7 @@ width = 913;
 {
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 },
 {
 name = "tahabove-ar";
@@ -2924,12 +2924,12 @@ unicode = FB69;
 },
 {
 glyphname = "tteh-ar.init";
-lastChange = "2016-03-27 02:14:10 +0000";
+lastChange = "2016-05-29 20:19:04 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 },
 {
 name = "tahabove-ar";
@@ -2942,7 +2942,7 @@ width = 746;
 {
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 },
 {
 name = "tahabove-ar";
@@ -10683,12 +10683,12 @@ unicode = FECF;
 },
 {
 glyphname = "feh-ar";
-lastChange = "2016-03-27 02:14:10 +0000";
+lastChange = "2016-05-29 20:19:33 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessfeh-ar";
+name = "fehDotless-ar";
 },
 {
 name = "dotabove-ar";
@@ -10701,7 +10701,7 @@ width = 1846;
 {
 components = (
 {
-name = "dotlessfeh-ar";
+name = "fehDotless-ar";
 },
 {
 name = "dotabove-ar";
@@ -10743,12 +10743,12 @@ unicode = FED1;
 },
 {
 glyphname = "feh-ar.fina";
-lastChange = "2016-03-12 20:29:02 +0000";
+lastChange = "2016-05-29 20:19:45 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessfeh-ar.fina";
+name = "fehDotless-ar.fina";
 },
 {
 name = "dotabove-ar";
@@ -10761,7 +10761,7 @@ width = 2077;
 {
 components = (
 {
-name = "dotlessfeh-ar.fina";
+name = "fehDotless-ar.fina";
 },
 {
 name = "dotabove-ar";
@@ -10776,12 +10776,12 @@ unicode = FED2;
 },
 {
 glyphname = "feh-ar.medi";
-lastChange = "2016-03-12 20:29:02 +0000";
+lastChange = "2016-05-29 20:20:03 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessfeh-ar.medi";
+name = "fehDotless-ar.medi";
 },
 {
 name = "dotabove-ar";
@@ -10794,7 +10794,7 @@ width = 1043;
 {
 components = (
 {
-name = "dotlessfeh-ar.medi";
+name = "fehDotless-ar.medi";
 },
 {
 name = "dotabove-ar";
@@ -10809,12 +10809,12 @@ unicode = FED4;
 },
 {
 glyphname = "feh-ar.init";
-lastChange = "2016-03-27 02:14:10 +0000";
+lastChange = "2016-05-29 20:20:15 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessfeh-ar.init";
+name = "fehDotless-ar.init";
 },
 {
 name = "dotabove-ar";
@@ -10827,7 +10827,7 @@ width = 995;
 {
 components = (
 {
-name = "dotlessfeh-ar.init";
+name = "fehDotless-ar.init";
 },
 {
 name = "dotabove-ar";
@@ -10843,7 +10843,7 @@ unicode = FED3;
 },
 {
 glyphname = "veh-ar";
-lastChange = "2016-05-29 19:53:14 +0000";
+lastChange = "2016-05-29 20:19:33 +0000";
 layers = (
 {
 anchors = (
@@ -10854,7 +10854,7 @@ position = "{848, -216}";
 );
 components = (
 {
-name = "dotlessfeh-ar";
+name = "fehDotless-ar";
 },
 {
 name = "threedotsupabove-ar";
@@ -10873,7 +10873,7 @@ position = "{840, -250}";
 );
 components = (
 {
-name = "dotlessfeh-ar";
+name = "fehDotless-ar";
 },
 {
 name = "threedotsupabove-ar";
@@ -10915,7 +10915,7 @@ unicode = FB6A;
 },
 {
 glyphname = "veh-ar.fina";
-lastChange = "2016-05-29 19:53:19 +0000";
+lastChange = "2016-05-29 20:19:45 +0000";
 layers = (
 {
 anchors = (
@@ -10926,7 +10926,7 @@ position = "{848, -230}";
 );
 components = (
 {
-name = "dotlessfeh-ar.fina";
+name = "fehDotless-ar.fina";
 },
 {
 name = "threedotsupabove-ar";
@@ -10945,7 +10945,7 @@ position = "{868, -250}";
 );
 components = (
 {
-name = "dotlessfeh-ar.fina";
+name = "fehDotless-ar.fina";
 },
 {
 name = "threedotsupabove-ar";
@@ -10960,7 +10960,7 @@ unicode = FB6B;
 },
 {
 glyphname = "veh-ar.medi";
-lastChange = "2016-05-29 19:53:22 +0000";
+lastChange = "2016-05-29 20:20:03 +0000";
 layers = (
 {
 anchors = (
@@ -10971,7 +10971,7 @@ position = "{491, -174}";
 );
 components = (
 {
-name = "dotlessfeh-ar.medi";
+name = "fehDotless-ar.medi";
 },
 {
 name = "threedotsupabove-ar";
@@ -10990,7 +10990,7 @@ position = "{372, -190}";
 );
 components = (
 {
-name = "dotlessfeh-ar.medi";
+name = "fehDotless-ar.medi";
 },
 {
 name = "threedotsupabove-ar";
@@ -11005,7 +11005,7 @@ unicode = FB6D;
 },
 {
 glyphname = "veh-ar.init";
-lastChange = "2016-05-29 19:53:25 +0000";
+lastChange = "2016-05-29 20:20:15 +0000";
 layers = (
 {
 anchors = (
@@ -11016,7 +11016,7 @@ position = "{399, -173}";
 );
 components = (
 {
-name = "dotlessfeh-ar.init";
+name = "fehDotless-ar.init";
 },
 {
 name = "threedotsupabove-ar";
@@ -11035,7 +11035,7 @@ position = "{403, -200}";
 );
 components = (
 {
-name = "dotlessfeh-ar.init";
+name = "fehDotless-ar.init";
 },
 {
 name = "threedotsupabove-ar";
@@ -11050,8 +11050,8 @@ leftKerningGroup = all;
 unicode = FB6C;
 },
 {
-glyphname = "dotlessfeh-ar";
-lastChange = "2016-03-27 02:14:10 +0000";
+glyphname = "fehDotless-ar";
+lastChange = "2016-05-29 20:19:25 +0000";
 layers = (
 {
 anchors = (
@@ -11215,8 +11215,8 @@ leftKerningGroup = all;
 unicode = 06A1;
 },
 {
-glyphname = "dotlessfeh-ar.fina";
-lastChange = "2016-03-15 09:02:02 +0000";
+glyphname = "fehDotless-ar.fina";
+lastChange = "2016-05-29 20:19:36 +0000";
 layers = (
 {
 anchors = (
@@ -11410,8 +11410,8 @@ width = 2096;
 );
 },
 {
-glyphname = "dotlessfeh-ar.medi";
-lastChange = "2016-03-15 09:02:25 +0000";
+glyphname = "fehDotless-ar.medi";
+lastChange = "2016-05-29 20:19:55 +0000";
 layers = (
 {
 anchors = (
@@ -11578,8 +11578,8 @@ width = 1044;
 );
 },
 {
-glyphname = "dotlessfeh-ar.init";
-lastChange = "2016-03-27 02:14:10 +0000";
+glyphname = "fehDotless-ar.init";
+lastChange = "2016-05-29 20:20:07 +0000";
 layers = (
 {
 anchors = (
@@ -11727,91 +11727,12 @@ width = 1006;
 leftKerningGroup = all;
 },
 {
-glyphname = "dotlessqaf-ar";
-lastChange = "2016-03-15 09:05:25 +0000";
+glyphname = "qafDotless-ar";
+lastChange = "2016-05-29 20:16:37 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{766, -702}";
-},
-{
-name = top;
-position = "{1025, 993}";
-}
-);
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
-paths = (
-{
-closed = 1;
-nodes = (
-"814 -529 OFFCURVE",
-"1295 -466 OFFCURVE",
-"1429 -269 CURVE SMOOTH",
-"1483 -191 OFFCURVE",
-"1488 -83 OFFCURVE",
-"1493 57 CURVE SMOOTH",
-"1503 386 OFFCURVE",
-"1340 802 OFFCURVE",
-"1109 802 CURVE SMOOTH",
-"877 802 OFFCURVE",
-"742 471 OFFCURVE",
-"742 235 CURVE SMOOTH",
-"742 -125 OFFCURVE",
-"1134 -83 OFFCURVE",
-"1343 24 CURVE SMOOTH",
-"1355 30 OFFCURVE",
-"1364 25 OFFCURVE",
-"1363 12 CURVE SMOOTH",
-"1354 -190 LINE SMOOTH",
-"1354 -199 OFFCURVE",
-"1348 -205 OFFCURVE",
-"1339 -208 CURVE SMOOTH",
-"1273 -232 OFFCURVE",
-"986 -328 OFFCURVE",
-"641 -328 CURVE SMOOTH",
-"436 -328 OFFCURVE",
-"283 -233 OFFCURVE",
-"294 -8 CURVE SMOOTH",
-"296 14 OFFCURVE",
-"299 37 OFFCURVE",
-"343 275 CURVE SMOOTH",
-"345 286 OFFCURVE",
-"339 294 OFFCURVE",
-"329 297 CURVE SMOOTH",
-"251 313 LINE SMOOTH",
-"240 315 OFFCURVE",
-"232 309 OFFCURVE",
-"230 299 CURVE SMOOTH",
-"187 40 LINE SMOOTH",
-"129 -252 OFFCURVE",
-"245 -529 OFFCURVE",
-"613 -529 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"1175 131 OFFCURVE",
-"1012 116 OFFCURVE",
-"877 177 CURVE SMOOTH",
-"868 181 OFFCURVE",
-"866 187 OFFCURVE",
-"865 197 CURVE SMOOTH",
-"854 370 OFFCURVE",
-"919 611 OFFCURVE",
-"1068 611 CURVE SMOOTH",
-"1199 611 OFFCURVE",
-"1336 396 OFFCURVE",
-"1354 189 CURVE SMOOTH",
-"1355 178 OFFCURVE",
-"1349 171 OFFCURVE",
-"1339 169 CURVE SMOOTH"
-);
-}
-);
-width = 1631;
+width = 600;
 },
 {
 anchors = (
@@ -11908,8 +11829,8 @@ width = 1660;
 unicode = 066F;
 },
 {
-glyphname = "dotlessqaf-ar.fina";
-lastChange = "2016-05-29 19:46:59 +0000";
+glyphname = "qafDotless-ar.fina";
+lastChange = "2016-05-29 20:17:46 +0000";
 layers = (
 {
 anchors = (
@@ -12166,7 +12087,7 @@ unicode = FED5;
 },
 {
 glyphname = "qaf-ar.fina";
-lastChange = "2016-05-29 19:53:36 +0000";
+lastChange = "2016-05-29 20:17:55 +0000";
 layers = (
 {
 anchors = (
@@ -12177,7 +12098,7 @@ position = "{766, -702}";
 );
 components = (
 {
-name = "dotlessqaf-ar.fina";
+name = "qafDotless-ar.fina";
 },
 {
 name = "twodotshorizontalabove-ar";
@@ -12196,7 +12117,7 @@ position = "{740, -730}";
 );
 components = (
 {
-name = "dotlessqaf-ar.fina";
+name = "qafDotless-ar.fina";
 },
 {
 name = "twodotshorizontalabove-ar";
@@ -12211,7 +12132,7 @@ unicode = FED6;
 },
 {
 glyphname = "qaf-ar.medi";
-lastChange = "2016-05-29 19:53:43 +0000";
+lastChange = "2016-05-29 20:20:03 +0000";
 layers = (
 {
 anchors = (
@@ -12222,7 +12143,7 @@ position = "{491, -174}";
 );
 components = (
 {
-name = "dotlessfeh-ar.medi";
+name = "fehDotless-ar.medi";
 },
 {
 name = "twodotshorizontalabove-ar";
@@ -12241,7 +12162,7 @@ position = "{422, -200}";
 );
 components = (
 {
-name = "dotlessfeh-ar.medi";
+name = "fehDotless-ar.medi";
 },
 {
 name = "twodotshorizontalabove-ar";
@@ -12256,7 +12177,7 @@ unicode = FED8;
 },
 {
 glyphname = "qaf-ar.init";
-lastChange = "2016-05-29 19:53:54 +0000";
+lastChange = "2016-05-29 20:20:15 +0000";
 layers = (
 {
 anchors = (
@@ -12267,7 +12188,7 @@ position = "{399, -173}";
 );
 components = (
 {
-name = "dotlessfeh-ar.init";
+name = "fehDotless-ar.init";
 },
 {
 name = "twodotshorizontalabove-ar";
@@ -12286,7 +12207,7 @@ position = "{443, -210}";
 );
 components = (
 {
-name = "dotlessfeh-ar.init";
+name = "fehDotless-ar.init";
 },
 {
 name = "twodotshorizontalabove-ar";
@@ -16106,12 +16027,12 @@ unicode = FEE6;
 },
 {
 glyphname = "noon-ar.medi";
-lastChange = "2016-03-12 20:51:57 +0000";
+lastChange = "2016-05-29 20:18:53 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 },
 {
 name = "dotabove-ar";
@@ -16124,7 +16045,7 @@ width = 913;
 {
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 },
 {
 name = "dotabove-ar";
@@ -16139,12 +16060,12 @@ unicode = FEE8;
 },
 {
 glyphname = "noon-ar.init";
-lastChange = "2016-03-27 02:14:35 +0000";
+lastChange = "2016-05-29 20:19:04 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 },
 {
 name = "dotabove-ar";
@@ -16157,7 +16078,7 @@ width = 746;
 {
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 },
 {
 name = "dotabove-ar";
@@ -17862,7 +17783,7 @@ unicode = FBA9;
 },
 {
 glyphname = "hehgoal-ar.init";
-lastChange = "2016-05-29 19:58:29 +0000";
+lastChange = "2016-05-29 20:19:04 +0000";
 layers = (
 {
 anchors = (
@@ -17873,7 +17794,7 @@ position = "{253, -813}";
 );
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 },
 {
 name = "comma-ar";
@@ -17892,7 +17813,7 @@ position = "{249, -850}";
 );
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 },
 {
 name = "comma-ar";
@@ -20504,7 +20425,7 @@ unicode = FEF2;
 },
 {
 glyphname = "yeh-ar.medi";
-lastChange = "2016-05-29 20:03:01 +0000";
+lastChange = "2016-05-29 20:18:53 +0000";
 layers = (
 {
 anchors = (
@@ -20515,7 +20436,7 @@ position = "{529, 790}";
 );
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 },
 {
 name = "twodotshorizontalbelow-ar";
@@ -20534,7 +20455,7 @@ position = "{528, 830}";
 );
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 },
 {
 name = "twodotshorizontalbelow-ar";
@@ -20549,7 +20470,7 @@ unicode = FEF4;
 },
 {
 glyphname = "yeh-ar.init";
-lastChange = "2016-05-29 20:03:18 +0000";
+lastChange = "2016-05-29 20:19:04 +0000";
 layers = (
 {
 anchors = (
@@ -20560,7 +20481,7 @@ position = "{415, 1128}";
 );
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 },
 {
 name = "twodotshorizontalbelow-ar";
@@ -20685,12 +20606,12 @@ unicode = FE8A;
 },
 {
 glyphname = "yehHamzaabove-ar.medi";
-lastChange = "2016-05-29 18:11:05 +0000";
+lastChange = "2016-05-29 20:18:53 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 },
 {
 name = "hamzaabove-ar";
@@ -20703,7 +20624,7 @@ width = 913;
 {
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 },
 {
 name = "hamzaabove-ar";
@@ -20718,12 +20639,12 @@ unicode = FE8C;
 },
 {
 glyphname = "yehHamzaabove-ar.init";
-lastChange = "2016-05-29 18:11:07 +0000";
+lastChange = "2016-05-29 20:19:04 +0000";
 layers = (
 {
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 },
 {
 name = "hamzaabove-ar";
@@ -20736,7 +20657,7 @@ width = 746;
 {
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 },
 {
 name = "hamzaabove-ar";
@@ -21527,7 +21448,7 @@ unicode = FBE5;
 },
 {
 glyphname = "e-ar.medi";
-lastChange = "2016-05-29 20:04:42 +0000";
+lastChange = "2016-05-29 20:18:53 +0000";
 layers = (
 {
 anchors = (
@@ -21538,7 +21459,7 @@ position = "{529, 790}";
 );
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 },
 {
 name = "twodotsverticalbelow-ar";
@@ -21557,7 +21478,7 @@ position = "{506, 840}";
 );
 components = (
 {
-name = "dotlessbeh-ar.medi";
+name = "behDotless-ar.medi";
 },
 {
 name = "twodotsverticalbelow-ar";
@@ -21572,7 +21493,7 @@ unicode = FBE7;
 },
 {
 glyphname = "e-ar.init";
-lastChange = "2016-05-29 20:04:53 +0000";
+lastChange = "2016-05-29 20:19:04 +0000";
 layers = (
 {
 anchors = (
@@ -21583,7 +21504,7 @@ position = "{415, 1128}";
 );
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 },
 {
 name = "twodotsverticalbelow-ar";
@@ -21602,7 +21523,7 @@ position = "{449, 1140}";
 );
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 },
 {
 name = "twodotsverticalbelow-ar";
@@ -23040,7 +22961,7 @@ com.schriftgestaltung.Glyphs.rightMetricsKey = "alefWasla-ar.fina";
 },
 {
 glyphname = "beh_alef-ar";
-lastChange = "2016-05-29 18:25:46 +0000";
+lastChange = "2016-05-29 20:19:04 +0000";
 layers = (
 {
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
@@ -23049,7 +22970,7 @@ width = 600;
 {
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 transform = "{1, 0, 0, 1, 683, 0}";
 },
 {
@@ -23087,7 +23008,7 @@ width = 1441;
 },
 {
 glyphname = "peh_alef-ar";
-lastChange = "2016-05-29 18:26:40 +0000";
+lastChange = "2016-05-29 20:19:04 +0000";
 layers = (
 {
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
@@ -23096,7 +23017,7 @@ width = 600;
 {
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 transform = "{1, 0, 0, 1, 683, 0}";
 },
 {
@@ -23134,7 +23055,7 @@ width = 600;
 },
 {
 glyphname = "yeh_alef-ar";
-lastChange = "2016-05-29 18:27:24 +0000";
+lastChange = "2016-05-29 20:19:04 +0000";
 layers = (
 {
 layerId = "93A312F7-B931-4485-B08E-C367313EB5E7";
@@ -23143,7 +23064,7 @@ width = 600;
 {
 components = (
 {
-name = "dotlessbeh-ar.init";
+name = "behDotless-ar.init";
 transform = "{1, 0, 0, 1, 683, 0}";
 },
 {
