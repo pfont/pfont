@@ -12017,7 +12017,7 @@ width = 1680;
 },
 {
 glyphname = "qaf-ar";
-lastChange = "2016-05-29 19:53:32 +0000";
+lastChange = "2016-05-29 20:29:29 +0000";
 layers = (
 {
 anchors = (
@@ -12047,7 +12047,7 @@ position = "{700, -730}";
 );
 components = (
 {
-name = "dotlessqaf-ar";
+name = "qafDotless-ar";
 },
 {
 name = "twodotshorizontalabove-ar";
