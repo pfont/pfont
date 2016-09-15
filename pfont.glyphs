@@ -30,7 +30,7 @@ name = license;
 value = "OFL V1.1";
 }
 );
-date = "2016-04-12 21:23:14 +0000";
+date = "2016-09-12 18:03:12 +0000";
 designer = "Damoon Khanjanzadeh";
 familyName = Pfont;
 featurePrefixes = (
@@ -1751,7 +1751,7 @@ y = 1176;
 },
 {
 glyphname = "alefHamzaabove-ar";
-lastChange = "2016-09-06 18:37:08 +0000";
+lastChange = "2016-09-12 18:00:46 +0000";
 layers = (
 {
 components = (
@@ -1812,7 +1812,7 @@ name = "alef-ar.short";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, -2, 858}";
+transform = "{1, 0, 0, 1, -2, 808}";
 }
 );
 layerId = "EAE1A523-EADE-4FB1-A034-E66E80F3AE4F";
@@ -1879,7 +1879,7 @@ unicode = FE83;
 },
 {
 glyphname = "alefHamzaabove-ar.fina";
-lastChange = "2016-09-06 18:37:08 +0000";
+lastChange = "2016-09-12 18:00:46 +0000";
 layers = (
 {
 components = (
@@ -1940,7 +1940,7 @@ name = "alef-ar.fina.short";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, -3, 864}";
+transform = "{1, 0, 0, 1, -3, 814}";
 }
 );
 layerId = "EAE1A523-EADE-4FB1-A034-E66E80F3AE4F";
@@ -8785,7 +8785,7 @@ unicode = FEA3;
 },
 {
 glyphname = "hahHamzaabove-ar";
-lastChange = "2016-09-06 19:19:18 +0000";
+lastChange = "2016-09-12 18:01:18 +0000";
 layers = (
 {
 components = (
@@ -8846,7 +8846,7 @@ name = "hah-ar";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 173, 450}";
+transform = "{1, 0, 0, 1, 173, 400}";
 }
 );
 layerId = "EAE1A523-EADE-4FB1-A034-E66E80F3AE4F";
@@ -8908,7 +8908,7 @@ width = 1465;
 },
 {
 glyphname = "hahHamzaabove-ar.fina";
-lastChange = "2016-09-06 19:21:08 +0000";
+lastChange = "2016-09-12 18:17:08 +0000";
 layers = (
 {
 components = (
@@ -8969,7 +8969,7 @@ name = "hah-ar.fina";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 170, 465}";
+transform = "{1, 0, 0, 1, 170, 415}";
 }
 );
 layerId = "EAE1A523-EADE-4FB1-A034-E66E80F3AE4F";
@@ -8979,7 +8979,7 @@ width = 1315;
 },
 {
 glyphname = "hahHamzaabove-ar.medi";
-lastChange = "2016-09-06 19:19:18 +0000";
+lastChange = "2016-09-12 18:17:08 +0000";
 layers = (
 {
 components = (
@@ -9040,7 +9040,7 @@ name = "hah-ar.medi";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 189, 386}";
+transform = "{1, 0, 0, 1, 189, 336}";
 }
 );
 layerId = "EAE1A523-EADE-4FB1-A034-E66E80F3AE4F";
@@ -9050,7 +9050,7 @@ width = 1574;
 },
 {
 glyphname = "hahHamzaabove-ar.init";
-lastChange = "2016-09-06 19:21:18 +0000";
+lastChange = "2016-09-12 18:17:08 +0000";
 layers = (
 {
 components = (
@@ -9111,7 +9111,7 @@ name = "hah-ar.init";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 187, 386}";
+transform = "{1, 0, 0, 1, 187, 336}";
 }
 );
 layerId = "EAE1A523-EADE-4FB1-A034-E66E80F3AE4F";
@@ -81514,5 +81514,5 @@ manufacturer = pfont;
 manufacturerURL = "http://pfont.ir/";
 unitsPerEm = 2048;
 versionMajor = 0;
-versionMinor = 300;
+versionMinor = 400;
 }
