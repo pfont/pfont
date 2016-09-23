@@ -5,4 +5,10 @@
     <component base="yeh-ar.init"/>
     <component base="vabove-ar" xOffset="187" yOffset="88"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 20:35:36 +0000</string>
+    </dict>
+  </lib>
 </glyph>

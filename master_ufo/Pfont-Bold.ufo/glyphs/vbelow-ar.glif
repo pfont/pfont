@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vbelow-ar" format="1">
+  <advance width="0"/>
+  <outline>
+    <component base="vabove-ar" yOffset="-1550"/>
+    <contour>
+      <point x="247" y="-332" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="247" y="-926" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 18:13:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

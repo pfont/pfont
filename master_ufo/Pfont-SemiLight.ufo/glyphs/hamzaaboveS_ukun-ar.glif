@@ -5,4 +5,10 @@
     <component base="hamzaabove-ar" xOffset="-115" yOffset="106" xScale="0.985" yScale="0.985" xyScale="-0.174" yxScale="0.174"/>
     <component base="sukun-ar" xOffset="99" yOffset="324"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 18:32:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

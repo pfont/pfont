@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven-ar" format="1">
+  <advance width="1286"/>
+  <unicode hex="0667"/>
+  <outline>
+    <contour>
+      <point x="826" y="17" type="line"/>
+      <point x="912" y="357"/>
+      <point x="1018" y="769"/>
+      <point x="1166" y="1137" type="curve"/>
+      <point x="976" y="1328" type="line"/>
+      <point x="862" y="1087"/>
+      <point x="774" y="774"/>
+      <point x="708" y="503" type="curve"/>
+      <point x="624" y="805"/>
+      <point x="454" y="1129"/>
+      <point x="336" y="1301" type="curve"/>
+      <point x="120" y="1072" type="line"/>
+      <point x="433" y="645"/>
+      <point x="498" y="415"/>
+      <point x="593" y="-36" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 18:05:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

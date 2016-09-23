@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcheh-ar.init" format="1">
+  <advance width="1642"/>
+  <unicode hex="FB7C"/>
+  <outline>
+    <component base="hah-ar.init"/>
+    <component base="threedotsdownbelow-ar" xOffset="326" yOffset="-62"/>
+    <contour>
+      <point x="518" y="1080" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:39:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>

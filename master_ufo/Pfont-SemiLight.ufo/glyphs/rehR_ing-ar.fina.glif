@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rehRing-ar.fina" format="1">
-  <advance width="1160"/>
+  <advance width="1119"/>
   <outline>
     <component base="reh-ar.fina"/>
-    <component base="ringbelow-ar" xOffset="535" yOffset="-1367"/>
+    <component base="ringbelow-ar" xOffset="161" yOffset="-1734"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-02 19:10:25 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -4,4 +4,10 @@
   <outline>
     <component base="wawring-ar"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:24:46 +0000</string>
+    </dict>
+  </lib>
 </glyph>

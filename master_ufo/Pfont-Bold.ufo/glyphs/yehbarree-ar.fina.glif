@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehbarree-ar.fina" format="1">
+  <advance width="1030"/>
+  <unicode hex="FBAF"/>
+  <outline>
+    <contour>
+      <point x="491" y="-220" type="line" smooth="yes"/>
+      <point x="420" y="-220"/>
+      <point x="384" y="-207"/>
+      <point x="384" y="-192" type="curve" smooth="yes"/>
+      <point x="384" y="-101"/>
+      <point x="578" y="0"/>
+      <point x="755" y="0" type="curve" smooth="yes"/>
+      <point x="1060" y="0" type="line"/>
+      <point x="1103" y="39"/>
+      <point x="1125" y="86"/>
+      <point x="1125" y="137" type="curve" smooth="yes"/>
+      <point x="1125" y="188"/>
+      <point x="1103" y="233"/>
+      <point x="1060" y="273" type="curve"/>
+      <point x="774" y="273" type="line" smooth="yes"/>
+      <point x="468" y="273"/>
+      <point x="173" y="0"/>
+      <point x="173" y="-285" type="curve" smooth="yes"/>
+      <point x="173" y="-416"/>
+      <point x="270" y="-487"/>
+      <point x="443" y="-487" type="curve" smooth="yes"/>
+      <point x="1760" y="-487" type="line"/>
+      <point x="1759" y="-315"/>
+      <point x="1773" y="-221"/>
+      <point x="1600" y="-221" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="798" y="483" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="742" y="-694" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:25:38 +0000</string>
+    </dict>
+  </lib>
+</glyph>

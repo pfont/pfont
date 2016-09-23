@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one-ar" format="1">
+  <advance width="616"/>
+  <unicode hex="0661"/>
+  <outline>
+    <contour>
+      <point x="496" y="0" type="line"/>
+      <point x="496" y="549"/>
+      <point x="475" y="875"/>
+      <point x="309" y="1207" type="curve"/>
+      <point x="120" y="1009" type="line"/>
+      <point x="336" y="648"/>
+      <point x="331" y="241"/>
+      <point x="331" y="-22" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 18:04:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

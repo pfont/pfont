@@ -5,4 +5,10 @@
     <component base="alefMaksura-ar.fina"/>
     <component base="vabove-ar" xOffset="445" yOffset="-569"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:25:13 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -5,4 +5,10 @@
     <component base="hehgoal-ar.init"/>
     <component base="hamzaabove-ar" xOffset="130" yOffset="587"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-10 19:00:01 +0000</string>
+    </dict>
+  </lib>
 </glyph>

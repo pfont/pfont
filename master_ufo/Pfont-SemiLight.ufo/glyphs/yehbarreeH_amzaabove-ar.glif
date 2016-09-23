@@ -6,4 +6,10 @@
     <component base="yehbarree-ar"/>
     <component base="hamzaabove-ar" xOffset="558" yOffset="472"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:25:42 +0000</string>
+    </dict>
+  </lib>
 </glyph>

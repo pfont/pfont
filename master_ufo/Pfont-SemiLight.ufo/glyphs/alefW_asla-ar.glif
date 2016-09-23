@@ -6,4 +6,10 @@
     <component base="alef-ar.short"/>
     <component base="wasla-ar" xOffset="-112" yOffset="91"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:10:27 +0000</string>
+    </dict>
+  </lib>
 </glyph>

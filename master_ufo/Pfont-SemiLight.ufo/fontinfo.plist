@@ -15,7 +15,7 @@
 	<key>license</key>
 	<string>OFL V1.1</string>
 	<key>openTypeHeadCreated</key>
-	<string>2016/03/19 23:04:19</string>
+	<string>2016/09/12 22:33:12</string>
 	<key>openTypeHheaAscender</key>
 	<integer>2200</integer>
 	<key>openTypeHheaDescender</key>
@@ -45,6 +45,8 @@
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
+	<key>postscriptFontName</key>
+	<string>Pfont-SemiLight</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
@@ -59,7 +61,7 @@
 	<key>versionMajor</key>
 	<integer>0</integer>
 	<key>versionMinor</key>
-	<integer>200</integer>
+	<integer>400</integer>
 	<key>xHeight</key>
 	<integer>0</integer>
 </dict>

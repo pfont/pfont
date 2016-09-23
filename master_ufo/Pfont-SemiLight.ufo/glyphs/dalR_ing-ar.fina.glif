@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dalRing-ar.fina" format="1">
-  <advance width="1312"/>
+  <advance width="1289"/>
   <outline>
     <component base="dal-ar.fina"/>
-    <component base="ringbelow-ar" xOffset="676" yOffset="-1049"/>
+    <component base="ringbelow-ar" xOffset="359" yOffset="-1314"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:11:46 +0000</string>
+    </dict>
+  </lib>
 </glyph>

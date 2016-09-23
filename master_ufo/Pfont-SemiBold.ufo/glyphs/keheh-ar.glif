@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="keheh-ar" format="1">
+  <advance width="1724"/>
+  <unicode hex="06A9"/>
+  <outline>
+    <contour>
+      <point x="198" y="603" type="line"/>
+      <point x="180" y="449"/>
+      <point x="180" y="426"/>
+      <point x="180" y="380" type="curve" smooth="yes"/>
+      <point x="180" y="92"/>
+      <point x="351" y="-34"/>
+      <point x="733" y="-34" type="curve" smooth="yes"/>
+      <point x="1061" y="-34"/>
+      <point x="1356" y="53"/>
+      <point x="1489" y="112" type="curve"/>
+      <point x="1529" y="127"/>
+      <point x="1575" y="309"/>
+      <point x="1575" y="369" type="curve" smooth="yes"/>
+      <point x="1575" y="587"/>
+      <point x="1345" y="870"/>
+      <point x="1087" y="1053" type="curve"/>
+      <point x="1653" y="1231" type="line"/>
+      <point x="1681" y="1460" type="line"/>
+      <point x="1034" y="1243" type="line"/>
+      <point x="915" y="905" type="line"/>
+      <point x="1166" y="743"/>
+      <point x="1387" y="523"/>
+      <point x="1440" y="297" type="curve"/>
+      <point x="1329" y="253"/>
+      <point x="1087" y="189"/>
+      <point x="793" y="189" type="curve" smooth="yes"/>
+      <point x="496" y="189"/>
+      <point x="339" y="275"/>
+      <point x="339" y="439" type="curve" smooth="yes"/>
+      <point x="339" y="448"/>
+      <point x="337" y="467"/>
+      <point x="352" y="589" type="curve"/>
+    </contour>
+    <contour>
+      <point x="603" y="987" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="733" y="-234" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1572" y="1011" type="move" name="ring"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:21:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

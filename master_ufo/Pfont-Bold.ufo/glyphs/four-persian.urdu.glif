@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four-persian.urdu" format="1">
+  <advance width="1250"/>
+  <outline>
+    <contour>
+      <point x="1033" y="1437" type="line"/>
+      <point x="937" y="1379"/>
+      <point x="847" y="1313"/>
+      <point x="775" y="1194" type="curve"/>
+      <point x="692" y="1316"/>
+      <point x="564" y="1416"/>
+      <point x="445" y="1416" type="curve" smooth="yes"/>
+      <point x="251" y="1416"/>
+      <point x="120" y="1157"/>
+      <point x="120" y="971" type="curve" smooth="yes"/>
+      <point x="120" y="848"/>
+      <point x="164" y="736"/>
+      <point x="208" y="636" type="curve" smooth="yes"/>
+      <point x="523" y="-79" type="line"/>
+      <point x="709" y="175" type="line"/>
+      <point x="404" y="861" type="line" smooth="yes"/>
+      <point x="326" y="1037"/>
+      <point x="314" y="1171"/>
+      <point x="374" y="1171" type="curve" smooth="yes"/>
+      <point x="480" y="1171"/>
+      <point x="573" y="1053"/>
+      <point x="637" y="833" type="curve"/>
+      <point x="811" y="878" type="line"/>
+      <point x="873" y="1040"/>
+      <point x="991" y="1163"/>
+      <point x="1130" y="1231" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 18:06:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

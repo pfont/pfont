@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rreh-ar.fina" format="1">
-  <advance width="1160"/>
+  <advance width="1119"/>
   <unicode hex="FB8D"/>
   <outline>
     <component base="reh-ar.fina"/>
-    <component base="tahabove-ar" xOffset="412" yOffset="-886"/>
+    <component base="tahabove-ar" xOffset="371" yOffset="-886"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 19:26:06 +0000</string>
+    </dict>
+  </lib>
 </glyph>

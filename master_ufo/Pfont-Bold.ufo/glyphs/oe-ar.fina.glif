@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe-ar.fina" format="1">
+  <advance width="1130"/>
+  <unicode hex="FBDA"/>
+  <outline>
+    <component base="waw-ar.fina"/>
+    <component base="vabove-ar" xOffset="343" yOffset="280"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:24:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

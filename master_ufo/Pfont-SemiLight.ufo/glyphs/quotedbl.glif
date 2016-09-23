@@ -6,4 +6,10 @@
     <component base="quotesingle" xOffset="265"/>
     <component base="quotesingle"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 18:08:25 +0000</string>
+    </dict>
+  </lib>
 </glyph>

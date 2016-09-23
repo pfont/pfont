@@ -3,10 +3,27 @@
   <advance width="666"/>
   <unicode hex="FE82"/>
   <outline>
-    <component base="madda-ar" xOffset="-98" yOffset="479"/>
+    <component base="madda-ar" xOffset="-84" yOffset="480"/>
     <component base="alef-ar.fina.short"/>
     <contour>
-      <point x="283" y="1940" type="move" name="top"/>
+      <point x="303" y="1921" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 18:40:30 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>madda-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

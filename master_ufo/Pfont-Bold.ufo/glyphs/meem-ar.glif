@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="meem-ar" format="1">
+  <advance width="1302"/>
+  <unicode hex="0645"/>
+  <outline>
+    <contour>
+      <point x="204" y="-624" type="line"/>
+      <point x="465" y="-523" type="line"/>
+      <point x="397" y="67" type="line"/>
+      <point x="523" y="106"/>
+      <point x="677" y="126"/>
+      <point x="849" y="126" type="curve" smooth="yes"/>
+      <point x="917" y="126"/>
+      <point x="986" y="122"/>
+      <point x="1060" y="115" type="curve"/>
+      <point x="1167" y="447" type="line"/>
+      <point x="1107" y="703"/>
+      <point x="872" y="932"/>
+      <point x="671" y="932" type="curve" smooth="yes"/>
+      <point x="407" y="932"/>
+      <point x="332" y="646"/>
+      <point x="331" y="470" type="curve" smooth="yes"/>
+      <point x="330" y="302" type="line"/>
+      <point x="225" y="231"/>
+      <point x="173" y="113"/>
+      <point x="173" y="-52" type="curve" smooth="yes"/>
+      <point x="173" y="-54" type="line"/>
+    </contour>
+    <contour>
+      <point x="536" y="544"/>
+      <point x="609" y="642"/>
+      <point x="651" y="642" type="curve" smooth="yes"/>
+      <point x="742" y="642"/>
+      <point x="873" y="528"/>
+      <point x="938" y="394" type="curve"/>
+      <point x="781" y="402"/>
+      <point x="711" y="398"/>
+      <point x="556" y="373" type="curve"/>
+      <point x="522" y="472" type="line"/>
+    </contour>
+    <contour>
+      <point x="673" y="1142" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="346" y="-813" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:22:20 +0000</string>
+    </dict>
+  </lib>
+</glyph>

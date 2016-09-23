@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="feh-ar.init" format="1">
+  <advance width="1011"/>
+  <unicode hex="FED3"/>
+  <outline>
+    <component base="fehDotless-ar.init"/>
+    <component base="dotabove-ar" xOffset="270" yOffset="676"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:39:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

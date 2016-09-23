@@ -5,4 +5,10 @@
     <component base="lam-ar.medi"/>
     <component base="vabove-ar" xOffset="83" yOffset="682"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 20:27:39 +0000</string>
+    </dict>
+  </lib>
 </glyph>

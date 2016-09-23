@@ -100,6 +100,14 @@
 	<string>beh-ar.isol.glif</string>
 	<key>beh-ar.medi</key>
 	<string>beh-ar.medi.glif</string>
+	<key>behDotless-ar</key>
+	<string>behD_otless-ar.glif</string>
+	<key>behDotless-ar.fina</key>
+	<string>behD_otless-ar.fina.glif</string>
+	<key>behDotless-ar.init</key>
+	<string>behD_otless-ar.init.glif</string>
+	<key>behDotless-ar.medi</key>
+	<string>behD_otless-ar.medi.glif</string>
 	<key>beh_alef-ar</key>
 	<string>beh_alef-ar.glif</string>
 	<key>beh_alef-ar.isol</key>
@@ -172,32 +180,12 @@
 	<string>dotbelow-ar.glif</string>
 	<key>dotcenter-ar</key>
 	<string>dotcenter-ar.glif</string>
-	<key>dotlessbeh-ar</key>
-	<string>dotlessbeh-ar.glif</string>
-	<key>dotlessbeh-ar.fina</key>
-	<string>dotlessbeh-ar.fina.glif</string>
-	<key>dotlessbeh-ar.init</key>
-	<string>dotlessbeh-ar.init.glif</string>
-	<key>dotlessbeh-ar.medi</key>
-	<string>dotlessbeh-ar.medi.glif</string>
 	<key>dotlessbeh2-ar.init</key>
 	<string>dotlessbeh2-ar.init.glif</string>
-	<key>dotlessfeh-ar</key>
-	<string>dotlessfeh-ar.glif</string>
-	<key>dotlessfeh-ar.fina</key>
-	<string>dotlessfeh-ar.fina.glif</string>
-	<key>dotlessfeh-ar.init</key>
-	<string>dotlessfeh-ar.init.glif</string>
-	<key>dotlessfeh-ar.medi</key>
-	<string>dotlessfeh-ar.medi.glif</string>
 	<key>dotlesskaf-ar</key>
 	<string>dotlesskaf-ar.glif</string>
 	<key>dotlesskaf-ar.fina</key>
 	<string>dotlesskaf-ar.fina.glif</string>
-	<key>dotlessqaf-ar</key>
-	<string>dotlessqaf-ar.glif</string>
-	<key>dotlessqaf-ar.fina</key>
-	<string>dotlessqaf-ar.fina.glif</string>
 	<key>dottedCircle</key>
 	<string>dottedC_ircle.glif</string>
 	<key>dul-ar</key>
@@ -242,6 +230,14 @@
 	<string>feh-ar.isol.glif</string>
 	<key>feh-ar.medi</key>
 	<string>feh-ar.medi.glif</string>
+	<key>fehDotless-ar</key>
+	<string>fehD_otless-ar.glif</string>
+	<key>fehDotless-ar.fina</key>
+	<string>fehD_otless-ar.fina.glif</string>
+	<key>fehDotless-ar.init</key>
+	<string>fehD_otless-ar.init.glif</string>
+	<key>fehDotless-ar.medi</key>
+	<string>fehD_otless-ar.medi.glif</string>
 	<key>five-ar</key>
 	<string>five-ar.glif</string>
 	<key>five-persian</key>
@@ -618,6 +614,10 @@
 	<string>qaf-ar.isol.glif</string>
 	<key>qaf-ar.medi</key>
 	<string>qaf-ar.medi.glif</string>
+	<key>qafDotless-ar</key>
+	<string>qafD_otless-ar.glif</string>
+	<key>qafDotless-ar.fina</key>
+	<string>qafD_otless-ar.fina.glif</string>
 	<key>qafLamAlefMaksuraabove-ar</key>
 	<string>qafL_amA_lefM_aksuraabove-ar.glif</string>
 	<key>question-ar</key>

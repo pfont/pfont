@@ -4,4 +4,10 @@
   <unicode hex="202B"/>
   <outline>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-29 17:01:33 +0000</string>
+    </dict>
+  </lib>
 </glyph>

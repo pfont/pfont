@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="decimalseparator-ar" format="1">
+  <advance width="765"/>
+  <unicode hex="066B"/>
+  <outline>
+    <contour>
+      <point x="233" y="-380" type="line"/>
+      <point x="645" y="696" type="line"/>
+      <point x="535" y="714" type="line"/>
+      <point x="120" y="-363" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 18:04:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -3,10 +3,16 @@
   <advance width="995"/>
   <unicode hex="FED7"/>
   <outline>
-    <component base="dotlessfeh-ar.init"/>
+    <component base="fehDotless-ar.init"/>
     <component base="twodotshorizontalabove-ar" xOffset="147" yOffset="406"/>
     <contour>
       <point x="399" y="-173" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:19:41 +0000</string>
+    </dict>
+  </lib>
 </glyph>

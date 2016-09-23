@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero-persian" format="1">
+  <advance width="877"/>
+  <unicode hex="06F0"/>
+  <outline>
+    <component base="zero-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 18:05:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

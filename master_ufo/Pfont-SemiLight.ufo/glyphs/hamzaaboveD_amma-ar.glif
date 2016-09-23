@@ -5,4 +5,10 @@
     <component base="hamzaabove-ar" xOffset="3"/>
     <component base="damma-ar" xOffset="107" yOffset="489"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 18:33:15 +0000</string>
+    </dict>
+  </lib>
 </glyph>

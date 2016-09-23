@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefMaksura-ar.fina" format="1">
+  <advance width="1637"/>
+  <unicode hex="FEF0"/>
+  <outline>
+    <contour>
+      <point x="1092" y="273" type="line"/>
+      <point x="944" y="-44" type="line"/>
+      <point x="1263" y="-169" type="line"/>
+      <point x="1064" y="-271"/>
+      <point x="888" y="-320"/>
+      <point x="718" y="-320" type="curve" smooth="yes"/>
+      <point x="507" y="-320"/>
+      <point x="403" y="-229"/>
+      <point x="403" y="-44" type="curve" smooth="yes"/>
+      <point x="403" y="44"/>
+      <point x="414" y="75"/>
+      <point x="488" y="362" type="curve"/>
+      <point x="279" y="409" type="line"/>
+      <point x="192" y="79"/>
+      <point x="173" y="15"/>
+      <point x="173" y="-124" type="curve" smooth="yes"/>
+      <point x="173" y="-437"/>
+      <point x="357" y="-612"/>
+      <point x="685" y="-612" type="curve" smooth="yes"/>
+      <point x="840" y="-612"/>
+      <point x="1125" y="-541"/>
+      <point x="1312" y="-423" type="curve" smooth="yes"/>
+      <point x="1445" y="-339"/>
+      <point x="1503" y="-251"/>
+      <point x="1503" y="-132" type="curve" smooth="yes"/>
+      <point x="1503" y="-88"/>
+      <point x="1467" y="-39"/>
+      <point x="1408" y="3" type="curve"/>
+      <point x="1576" y="0" type="line"/>
+      <point x="1667" y="0" type="line"/>
+      <point x="1710" y="39"/>
+      <point x="1732" y="86"/>
+      <point x="1732" y="137" type="curve" smooth="yes"/>
+      <point x="1732" y="188"/>
+      <point x="1710" y="233"/>
+      <point x="1667" y="273" type="curve"/>
+    </contour>
+    <contour>
+      <point x="928" y="563" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="695" y="-812" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:25:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

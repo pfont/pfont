@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noonghunna-ar.fina" format="1">
+  <advance width="1675"/>
+  <unicode hex="FB9F"/>
+  <outline>
+    <contour>
+      <point x="1617" y="273" type="line" smooth="yes"/>
+      <point x="1446" y="273"/>
+      <point x="1387" y="307"/>
+      <point x="1376" y="406" type="curve" smooth="yes"/>
+      <point x="1355" y="594" type="line"/>
+      <point x="1105" y="454" type="line"/>
+      <point x="1192" y="-107" type="line"/>
+      <point x="981" y="-188"/>
+      <point x="841" y="-216"/>
+      <point x="657" y="-216" type="curve" smooth="yes"/>
+      <point x="482" y="-216"/>
+      <point x="398" y="-147"/>
+      <point x="398" y="-4" type="curve" smooth="yes"/>
+      <point x="398" y="48"/>
+      <point x="404" y="75"/>
+      <point x="442" y="255" type="curve"/>
+      <point x="229" y="292" type="line"/>
+      <point x="183" y="55"/>
+      <point x="173" y="16"/>
+      <point x="173" y="-77" type="curve" smooth="yes"/>
+      <point x="173" y="-355"/>
+      <point x="338" y="-510"/>
+      <point x="631" y="-510" type="curve" smooth="yes"/>
+      <point x="855" y="-510"/>
+      <point x="1245" y="-402"/>
+      <point x="1370" y="-240" type="curve" smooth="yes"/>
+      <point x="1426" y="-167"/>
+      <point x="1427" y="-86"/>
+      <point x="1417" y="29" type="curve"/>
+      <point x="1463" y="8"/>
+      <point x="1523" y="0"/>
+      <point x="1617" y="0" type="curve" smooth="yes"/>
+      <point x="1705" y="0" type="line"/>
+      <point x="1748" y="39"/>
+      <point x="1770" y="86"/>
+      <point x="1770" y="137" type="curve" smooth="yes"/>
+      <point x="1770" y="188"/>
+      <point x="1748" y="233"/>
+      <point x="1705" y="273" type="curve"/>
+    </contour>
+    <contour>
+      <point x="732" y="495" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="648" y="-715" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="463" y="-680" type="move" name="ring"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:23:04 +0000</string>
+    </dict>
+  </lib>
+</glyph>

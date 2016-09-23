@@ -10,6 +10,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:26:49 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>lam-ar.init</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

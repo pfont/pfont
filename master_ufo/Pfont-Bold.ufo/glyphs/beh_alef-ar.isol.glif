@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="beh_alef-ar.isol" format="1">
+  <advance width="1490"/>
+  <outline>
+    <component base="beh_alef-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:26:58 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fullstop-ar" format="1">
+  <advance width="721"/>
+  <unicode hex="06D4"/>
+  <outline>
+    <contour>
+      <point x="579" y="293" type="line"/>
+      <point x="601" y="483" type="line"/>
+      <point x="142" y="483" type="line"/>
+      <point x="120" y="293" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 17:48:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

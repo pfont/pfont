@@ -6,4 +6,10 @@
     <component base="alef-ar.fina"/>
     <component base="hamzabelow-ar" xOffset="204" yOffset="-1363"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:10:24 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rehDotbelowdotabove-ar.isol" format="1">
-  <advance width="913"/>
+  <advance width="918"/>
   <outline>
     <component base="rehDotbelowdotabove-ar"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:12:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

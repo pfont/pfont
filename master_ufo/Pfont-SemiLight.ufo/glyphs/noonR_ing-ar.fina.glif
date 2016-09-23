@@ -3,6 +3,12 @@
   <advance width="1666"/>
   <outline>
     <component base="noon-ar.fina"/>
-    <component base="ringbelow-ar" xOffset="179" yOffset="-1502"/>
+    <component base="ringbelow-ar" xOffset="604" yOffset="-1788"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:23:07 +0000</string>
+    </dict>
+  </lib>
 </glyph>

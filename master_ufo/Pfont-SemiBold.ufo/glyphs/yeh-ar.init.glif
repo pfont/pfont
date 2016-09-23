@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yeh-ar.init" format="1">
+  <advance width="842"/>
+  <unicode hex="FEF3"/>
+  <outline>
+    <component base="dotlessbeh2-ar.init"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="-17" yOffset="-23"/>
+    <contour>
+      <point x="525" y="1079" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 20:35:32 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dotlessbeh2-ar.init</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

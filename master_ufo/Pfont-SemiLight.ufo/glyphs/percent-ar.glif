@@ -16,4 +16,10 @@
     <component base="period" xOffset="527" yOffset="107" xScale="0.803" yScale="0.803"/>
     <component base="period" xOffset="23" yOffset="906" xScale="0.803" yScale="0.803"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 17:51:19 +0000</string>
+    </dict>
+  </lib>
 </glyph>

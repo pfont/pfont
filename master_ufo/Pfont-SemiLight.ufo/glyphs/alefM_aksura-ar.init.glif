@@ -3,6 +3,12 @@
   <advance width="746"/>
   <unicode hex="FBE8"/>
   <outline>
-    <component base="dotlessbeh-ar.init"/>
+    <component base="behDotless-ar.init"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:10:54 +0000</string>
+    </dict>
+  </lib>
 </glyph>

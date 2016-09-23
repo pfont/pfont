@@ -6,4 +6,10 @@
     <component base="noonghunna-ar"/>
     <component base="dotabove-ar" xOffset="555" yOffset="-368"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:39:47 +0000</string>
+    </dict>
+  </lib>
 </glyph>

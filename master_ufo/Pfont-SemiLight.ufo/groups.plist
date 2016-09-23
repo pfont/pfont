@@ -4,52 +4,97 @@
 <dict>
 	<key>@MMK_L_a</key>
 	<array>
-		<string>alef-ar</string>
-		<string>alef-ar.isol</string>
-		<string>alef-ar.short</string>
 		<string>alefHamzaabove-ar</string>
 		<string>alefHamzaabove-ar.isol</string>
+		<string>alefHamzaabove-ar.fina</string>
 		<string>alefMadda-ar</string>
 		<string>alefMadda-ar.isol</string>
+		<string>alefMadda-ar.fina</string>
 		<string>alefWasla-ar</string>
 		<string>alefWasla-ar.isol</string>
 		<string>alefWasla-ar.fina</string>
-		<string>kaf-ar.init</string>
-		<string>keheh-ar</string>
-		<string>keheh-ar.isol</string>
-		<string>keheh-ar.init</string>
-		<string>gaf-ar</string>
-		<string>gaf-ar.isol</string>
-		<string>gaf-ar.init</string>
-		<string>kafRing-ar</string>
-		<string>kafRing-ar.init</string>
-		<string>kafRing-ar.isol</string>
-		<string>ng-ar.init</string>
-		<string>lam-ar</string>
-		<string>lam-ar.isol</string>
-		<string>lamVabove-ar</string>
-		<string>lamVabove-ar.init</string>
-		<string>lamVabove-ar.isol</string>
-		<string>hehgoalHamzaabove-ar.init</string>
-		<string>yehHamzaabove-ar.init</string>
-		<string>yehVabove-ar.init</string>
-		<string>allah-ar</string>
 	</array>
 	<key>@MMK_L_ab</key>
 	<array>
 		<string>alefHamzabelow-ar</string>
 		<string>alefHamzabelow-ar.isol</string>
-		<string>ain-ar</string>
-		<string>ain-ar.isol</string>
-		<string>ghain-ar</string>
-		<string>ghain-ar.isol</string>
 	</array>
 	<key>@MMK_L_r</key>
 	<array>
-		<string>dotlessbeh-ar</string>
+		<string>reh-ar</string>
+		<string>reh-ar.isol</string>
+		<string>reh-ar.fina</string>
+		<string>zain-ar</string>
+		<string>zain-ar.isol</string>
+		<string>zain-ar.fina</string>
+		<string>rreh-ar</string>
+		<string>rreh-ar.isol</string>
+		<string>rreh-ar.fina</string>
+		<string>rehRing-ar</string>
+		<string>rehRing-ar.isol</string>
+		<string>rehRing-ar.fina</string>
+		<string>rehVbelow-ar</string>
+		<string>rehVbelow-ar.isol</string>
+		<string>rehVbelow-ar.fina</string>
+		<string>rehDotbelowdotabove-ar</string>
+		<string>rehDotbelowdotabove-ar.isol</string>
+		<string>rehDotbelowdotabove-ar.fina</string>
+		<string>jeh-ar</string>
+		<string>jeh-ar.isol</string>
+		<string>jeh-ar.fina</string>
+	</array>
+	<key>@MMK_L_w</key>
+	<array>
+		<string>waw-ar</string>
+		<string>waw-ar.isol</string>
+		<string>waw-ar.fina</string>
+	</array>
+	<key>@MMK_R_a</key>
+	<array>
+		<string>alef-ar</string>
+		<string>alef-ar.isol</string>
+		<string>alef-ar.short</string>
+		<string>alefHamzaabove-ar</string>
+		<string>alefHamzaabove-ar.isol</string>
+		<string>alefHamzaabove-ar.fina</string>
+		<string>alefMadda-ar</string>
+		<string>alefMadda-ar.isol</string>
+		<string>alefMadda-ar.fina</string>
+		<string>alefWasla-ar</string>
+		<string>alefWasla-ar.isol</string>
+		<string>alefWasla-ar.fina</string>
+	</array>
+	<key>@MMK_R_ab</key>
+	<array>
+		<string>alefHamzabelow-ar</string>
+		<string>alefHamzabelow-ar.isol</string>
+		<string>hehgoal-ar.init</string>
+		<string>wawring-ar</string>
+		<string>wawring-ar.isol</string>
+		<string>wawTwodots-ar</string>
+		<string>wawTwodots-ar.isol</string>
+		<string>wawHamzaabove-ar</string>
+		<string>wawHamzaabove-ar.isol</string>
+		<string>oe-ar</string>
+		<string>oe-ar.isol</string>
+		<string>u-ar</string>
+		<string>u-ar.isol</string>
+		<string>yu-ar</string>
+		<string>yu-ar.isol</string>
+		<string>ve-ar</string>
+		<string>ve-ar.isol</string>
+	</array>
+	<key>@MMK_R_ain</key>
+	<array>
+		<string>ain-ar</string>
+		<string>ghain-ar</string>
+	</array>
+	<key>@MMK_R_all</key>
+	<array>
 		<string>hamza-ar</string>
 		<string>hamza-ar.isol</string>
-		<string>dotlessbeh-ar.init</string>
+		<string>behDotless-ar</string>
+		<string>behDotless-ar.init</string>
 		<string>beh-ar</string>
 		<string>beh-ar.isol</string>
 		<string>peh-ar</string>
@@ -62,7 +107,6 @@
 		<string>tehRing-ar.isol</string>
 		<string>theh-ar</string>
 		<string>theh-ar.isol</string>
-		<string>theh-ar.init</string>
 		<string>tteh-ar</string>
 		<string>tteh-ar.isol</string>
 		<string>tteh-ar.init</string>
@@ -85,6 +129,9 @@
 		<string>seen-ar</string>
 		<string>seen-ar.isol</string>
 		<string>seen-ar.init</string>
+		<string>seenDotbelowDotabove-ar</string>
+		<string>seenDotbelowDotabove-ar.isol</string>
+		<string>seenDotbelowDotabove-ar.init</string>
 		<string>sheen-ar</string>
 		<string>sheen-ar.isol</string>
 		<string>sheen-ar.init</string>
@@ -108,19 +155,20 @@
 		<string>veh-ar</string>
 		<string>veh-ar.isol</string>
 		<string>veh-ar.init</string>
-		<string>dotlessfeh-ar</string>
-		<string>dotlessfeh-ar.init</string>
+		<string>fehDotless-ar</string>
+		<string>fehDotless-ar.init</string>
 		<string>qaf-ar.init</string>
-		<string>dotlesskaf-ar</string>
 		<string>kaf-ar</string>
 		<string>kaf-ar.isol</string>
 		<string>ng-ar</string>
 		<string>ng-ar.isol</string>
 		<string>lam-ar.init</string>
+		<string>lamVabove-ar.init</string>
 		<string>meem-ar</string>
 		<string>meem-ar.isol</string>
 		<string>meem-ar.init</string>
 		<string>noon-ar.init</string>
+		<string>noonRing-ar.init</string>
 		<string>heh-ar</string>
 		<string>heh-ar.isol</string>
 		<string>heh-ar.init</string>
@@ -141,49 +189,27 @@
 		<string>ae-ar.isol</string>
 		<string>lam_alef-ar</string>
 		<string>lam_alefHamzaabove-ar</string>
+		<string>lam_alefHamzabelow-ar</string>
 		<string>lam_alefMadda-ar</string>
 		<string>lam_alefWasla-ar</string>
 	</array>
-	<key>@MMK_R_a</key>
+	<key>@MMK_R_k</key>
 	<array>
-		<string>alefHamzaabove-ar</string>
-		<string>alefHamzaabove-ar.isol</string>
-		<string>alefHamzaabove-ar.fina</string>
-		<string>alefMadda-ar</string>
-		<string>alefMadda-ar.isol</string>
-		<string>alefMadda-ar.fina</string>
-		<string>alefWasla-ar</string>
-		<string>alefWasla-ar.isol</string>
-		<string>alefWasla-ar.fina</string>
-	</array>
-	<key>@MMK_R_ab</key>
-	<array>
-		<string>alefHamzabelow-ar</string>
-		<string>alefHamzabelow-ar.isol</string>
-		<string>waw-ar</string>
-		<string>waw-ar.isol</string>
-		<string>waw-ar.fina</string>
-		<string>wawring-ar</string>
-		<string>wawring-ar.fina</string>
-		<string>wawring-ar.isol</string>
-		<string>wawTwodots-ar</string>
-		<string>wawTwodots-ar.fina</string>
-		<string>wawTwodots-ar.isol</string>
-		<string>wawHamzaabove-ar</string>
-		<string>wawHamzaabove-ar.isol</string>
-		<string>wawHamzaabove-ar.fina</string>
-		<string>oe-ar</string>
-		<string>oe-ar.isol</string>
-		<string>oe-ar.fina</string>
-		<string>u-ar</string>
-		<string>u-ar.isol</string>
-		<string>u-ar.fina</string>
-		<string>yu-ar</string>
-		<string>yu-ar.isol</string>
-		<string>yu-ar.fina</string>
-		<string>ve-ar</string>
-		<string>ve-ar.isol</string>
-		<string>ve-ar.fina</string>
+		<string>theh-ar.init</string>
+		<string>kaf-ar.init</string>
+		<string>keheh-ar</string>
+		<string>keheh-ar.isol</string>
+		<string>keheh-ar.init</string>
+		<string>gaf-ar</string>
+		<string>gaf-ar.isol</string>
+		<string>gaf-ar.init</string>
+		<string>kafRing-ar</string>
+		<string>kafRing-ar.isol</string>
+		<string>kafRing-ar.init</string>
+		<string>ng-ar.init</string>
+		<string>hehgoalHamzaabove-ar.init</string>
+		<string>yehHamzaabove-ar.init</string>
+		<string>yehVabove-ar.init</string>
 	</array>
 	<key>@MMK_R_r</key>
 	<array>
@@ -197,14 +223,22 @@
 		<string>rreh-ar.isol</string>
 		<string>rreh-ar.fina</string>
 		<string>rehRing-ar</string>
-		<string>rehRing-ar.fina</string>
 		<string>rehRing-ar.isol</string>
+		<string>rehRing-ar.fina</string>
 		<string>rehVbelow-ar</string>
-		<string>rehVbelow-ar.fina</string>
 		<string>rehVbelow-ar.isol</string>
+		<string>rehVbelow-ar.fina</string>
+		<string>rehDotbelowdotabove-ar</string>
+		<string>rehDotbelowdotabove-ar.isol</string>
+		<string>rehDotbelowdotabove-ar.fina</string>
 		<string>jeh-ar</string>
 		<string>jeh-ar.isol</string>
 		<string>jeh-ar.fina</string>
+	</array>
+	<key>@MMK_R_w</key>
+	<array>
+		<string>waw-ar</string>
+		<string>waw-ar.isol</string>
 	</array>
 </dict>
 </plist>

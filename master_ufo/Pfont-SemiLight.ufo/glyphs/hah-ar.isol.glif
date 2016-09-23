@@ -5,4 +5,10 @@
   <outline>
     <component base="hah-ar"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:11:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>

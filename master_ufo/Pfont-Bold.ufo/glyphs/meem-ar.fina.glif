@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="meem-ar.fina" format="1">
+  <advance width="1492"/>
+  <unicode hex="FEE2"/>
+  <outline>
+    <contour>
+      <point x="1418" y="273" type="line" smooth="yes"/>
+      <point x="1287" y="273"/>
+      <point x="1225" y="344"/>
+      <point x="988" y="771" type="curve"/>
+      <point x="469" y="684"/>
+      <point x="172" y="468"/>
+      <point x="173" y="173" type="curve"/>
+      <point x="233" y="-628" type="line"/>
+      <point x="494" y="-548" type="line"/>
+      <point x="397" y="270" type="line"/>
+      <point x="485" y="326" type="line"/>
+      <point x="502" y="17"/>
+      <point x="688" y="-218"/>
+      <point x="940" y="-237" type="curve"/>
+      <point x="1175" y="95" type="line"/>
+      <point x="1248" y="28"/>
+      <point x="1335" y="0"/>
+      <point x="1462" y="0" type="curve" smooth="yes"/>
+      <point x="1522" y="0" type="line"/>
+      <point x="1565" y="39"/>
+      <point x="1587" y="86"/>
+      <point x="1587" y="137" type="curve" smooth="yes"/>
+      <point x="1587" y="188"/>
+      <point x="1565" y="233"/>
+      <point x="1522" y="273" type="curve"/>
+    </contour>
+    <contour>
+      <point x="774" y="97"/>
+      <point x="691" y="232"/>
+      <point x="689" y="400" type="curve"/>
+      <point x="753" y="424"/>
+      <point x="815" y="441"/>
+      <point x="878" y="452" type="curve"/>
+      <point x="926" y="360"/>
+      <point x="968" y="294"/>
+      <point x="1007" y="246" type="curve"/>
+      <point x="905" y="41" type="line"/>
+    </contour>
+    <contour>
+      <point x="941" y="977" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="376" y="-816" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:22:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

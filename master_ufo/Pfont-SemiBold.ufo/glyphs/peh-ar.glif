@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peh-ar" format="1">
+  <advance width="1832"/>
+  <unicode hex="067E"/>
+  <outline>
+    <component base="behDotless-ar"/>
+    <component base="threedotsdownbelow-ar" xOffset="578" yOffset="-118"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:10:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

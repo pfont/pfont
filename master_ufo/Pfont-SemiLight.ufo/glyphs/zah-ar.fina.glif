@@ -6,4 +6,10 @@
     <component base="tah-ar.fina"/>
     <component base="dotabove-ar" xOffset="1073" yOffset="228"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:17:04 +0000</string>
+    </dict>
+  </lib>
 </glyph>

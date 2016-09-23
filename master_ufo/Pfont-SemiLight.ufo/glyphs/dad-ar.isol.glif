@@ -5,4 +5,10 @@
   <outline>
     <component base="dad-ar"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:16:17 +0000</string>
+    </dict>
+  </lib>
 </glyph>

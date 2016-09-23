@@ -5,4 +5,10 @@
     <component base="shadda-ar"/>
     <component base="kasratan-ar" xOffset="57" yOffset="1311"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 18:13:05 +0000</string>
+    </dict>
+  </lib>
 </glyph>

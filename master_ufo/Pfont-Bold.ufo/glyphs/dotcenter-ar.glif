@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotcenter-ar" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="208" y="431" type="line"/>
+      <point x="370" y="639" type="line"/>
+      <point x="163" y="802" type="line"/>
+      <point x="0" y="594" type="line"/>
+    </contour>
+    <contour>
+      <point x="188" y="612" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 17:51:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

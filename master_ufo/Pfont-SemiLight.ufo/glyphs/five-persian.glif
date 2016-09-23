@@ -59,4 +59,10 @@
       <point x="679" y="162" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 18:06:40 +0000</string>
+    </dict>
+  </lib>
 </glyph>

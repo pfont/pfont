@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alef-ar" format="1">
+  <advance width="553"/>
+  <unicode hex="0627"/>
+  <outline>
+    <contour>
+      <point x="413" y="0" type="line"/>
+      <point x="405" y="1447" type="line"/>
+      <point x="180" y="1381" type="line"/>
+      <point x="236" y="-27" type="line"/>
+    </contour>
+    <contour>
+      <point x="302" y="1656" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="325" y="-229" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:09:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

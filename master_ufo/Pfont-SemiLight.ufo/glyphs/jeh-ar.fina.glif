@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jeh-ar.fina" format="1">
-  <advance width="1160"/>
+  <advance width="1119"/>
   <unicode hex="FB8B"/>
   <outline>
     <component base="reh-ar.fina"/>
-    <component base="threedotsupabove-ar" xOffset="383" yOffset="216"/>
+    <component base="threedotsupabove-ar" xOffset="342" yOffset="216"/>
     <contour>
       <point x="334" y="-650" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 19:54:32 +0000</string>
+    </dict>
+  </lib>
 </glyph>

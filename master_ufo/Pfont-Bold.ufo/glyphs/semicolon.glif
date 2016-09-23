@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="582"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="190" y="341" type="line"/>
+      <point x="242" y="311"/>
+      <point x="291" y="266"/>
+      <point x="291" y="228" type="curve" smooth="yes"/>
+      <point x="291" y="198"/>
+      <point x="278" y="160"/>
+      <point x="252" y="115" type="curve" smooth="yes"/>
+      <point x="190" y="5" type="line"/>
+      <point x="313" y="-55" type="line"/>
+      <point x="364" y="43" type="line" smooth="yes"/>
+      <point x="407" y="126"/>
+      <point x="462" y="227"/>
+      <point x="462" y="323" type="curve" smooth="yes"/>
+      <point x="462" y="405"/>
+      <point x="392" y="489"/>
+      <point x="311" y="538" type="curve"/>
+    </contour>
+    <component base="period" xOffset="25" yOffset="837" xScale="0.795" yScale="0.795"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 18:08:52 +0000</string>
+    </dict>
+  </lib>
+</glyph>

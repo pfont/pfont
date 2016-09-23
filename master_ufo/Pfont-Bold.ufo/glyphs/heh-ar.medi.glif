@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heh-ar.medi" format="1">
+  <advance width="935"/>
+  <unicode hex="FEEC"/>
+  <outline>
+    <contour>
+      <point x="875" y="273" type="line" smooth="yes"/>
+      <point x="814" y="273"/>
+      <point x="767" y="270"/>
+      <point x="714" y="263" type="curve"/>
+      <point x="791" y="352"/>
+      <point x="817" y="432"/>
+      <point x="819" y="572" type="curve" smooth="yes"/>
+      <point x="825" y="912" type="line"/>
+      <point x="549" y="1026" type="line"/>
+      <point x="331" y="839"/>
+      <point x="186" y="591"/>
+      <point x="107" y="273" type="curve"/>
+      <point x="-30" y="273" type="line" smooth="yes"/>
+      <point x="-102" y="273"/>
+      <point x="-160" y="212"/>
+      <point x="-160" y="137" type="curve" smooth="yes"/>
+      <point x="-160" y="61"/>
+      <point x="-102" y="0"/>
+      <point x="-30" y="0" type="curve" smooth="yes"/>
+      <point x="98" y="0" type="line"/>
+      <point x="143" y="-373"/>
+      <point x="360" y="-545"/>
+      <point x="778" y="-540" type="curve"/>
+      <point x="885" y="-287"/>
+      <point x="887" y="-110"/>
+      <point x="781" y="0" type="curve"/>
+      <point x="965" y="0" type="line"/>
+      <point x="1008" y="39"/>
+      <point x="1030" y="86"/>
+      <point x="1030" y="137" type="curve" smooth="yes"/>
+      <point x="1030" y="188"/>
+      <point x="1008" y="233"/>
+      <point x="965" y="273" type="curve"/>
+    </contour>
+    <contour>
+      <point x="578" y="396" type="line"/>
+      <point x="356" y="271" type="line"/>
+      <point x="395" y="432"/>
+      <point x="476" y="589"/>
+      <point x="576" y="699" type="curve"/>
+    </contour>
+    <contour>
+      <point x="520" y="4"/>
+      <point x="620" y="-86"/>
+      <point x="671" y="-265" type="curve"/>
+      <point x="492" y="-252"/>
+      <point x="378" y="-149"/>
+      <point x="353" y="21" type="curve"/>
+    </contour>
+    <contour>
+      <point x="587" y="1233" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="663" y="-750" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 20:30:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

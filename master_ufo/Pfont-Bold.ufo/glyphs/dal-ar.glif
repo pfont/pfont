@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dal-ar" format="1">
+  <advance width="1225"/>
+  <unicode hex="062F"/>
+  <outline>
+    <contour>
+      <point x="628" y="-38"/>
+      <point x="904" y="10"/>
+      <point x="997" y="76" type="curve" smooth="yes"/>
+      <point x="1059" y="120"/>
+      <point x="1090" y="194"/>
+      <point x="1090" y="296" type="curve" smooth="yes"/>
+      <point x="1090" y="504"/>
+      <point x="991" y="622"/>
+      <point x="725" y="1046" type="curve"/>
+      <point x="548" y="821" type="line"/>
+      <point x="775" y="481"/>
+      <point x="844" y="354"/>
+      <point x="869" y="281" type="curve"/>
+      <point x="796" y="252"/>
+      <point x="685" y="232"/>
+      <point x="513" y="231" type="curve" smooth="yes"/>
+      <point x="392" y="230"/>
+      <point x="390" y="238"/>
+      <point x="382" y="392" type="curve"/>
+      <point x="179" y="390" type="line"/>
+      <point x="178" y="351"/>
+      <point x="173" y="308"/>
+      <point x="173" y="267" type="curve" smooth="yes"/>
+      <point x="173" y="59"/>
+      <point x="274" y="-38"/>
+      <point x="490" y="-38" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="723" y="1254" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="517" y="-237" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="770" y="-194" type="move" name="ring"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:11:37 +0000</string>
+    </dict>
+  </lib>
+</glyph>

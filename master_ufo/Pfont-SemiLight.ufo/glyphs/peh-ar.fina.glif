@@ -3,10 +3,16 @@
   <advance width="1994"/>
   <unicode hex="FB57"/>
   <outline>
-    <component base="dotlessbeh-ar.fina"/>
+    <component base="behDotless-ar.fina"/>
     <component base="threedotsdownbelow-ar" xOffset="624" yOffset="-87"/>
     <contour>
       <point x="836" y="861" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:10:52 +0000</string>
+    </dict>
+  </lib>
 </glyph>

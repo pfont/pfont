@@ -53,6 +53,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:19:56 +0000</string>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
@@ -61,7 +63,7 @@
           <key>isGlobal</key>
           <integer>0</integer>
           <key>x</key>
-          <integer>-180</integer>
+          <string>-180</string>
           <key>y</key>
           <integer>1345</integer>
         </dict>

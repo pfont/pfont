@@ -88,4 +88,10 @@
       <point x="500" y="513" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 17:46:09 +0000</string>
+    </dict>
+  </lib>
 </glyph>

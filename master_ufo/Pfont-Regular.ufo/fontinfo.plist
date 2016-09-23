@@ -15,7 +15,7 @@
 	<key>license</key>
 	<string>OFL V1.1</string>
 	<key>openTypeHeadCreated</key>
-	<string>2016/04/13 01:53:14</string>
+	<string>2016/09/12 22:33:12</string>
 	<key>openTypeHheaAscender</key>
 	<integer>1318</integer>
 	<key>openTypeHheaDescender</key>
@@ -31,7 +31,7 @@
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Pfont</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>SemiLight</string>
+	<string>Regular</string>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>1318</integer>
 	<key>openTypeOS2TypoDescender</key>
@@ -49,6 +49,8 @@
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
+	<key>postscriptFontName</key>
+	<string>Pfont-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
@@ -56,18 +58,16 @@
 	<integer>-720</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>100</integer>
-	<key>styleMapFamilyName</key>
-	<string>Pfont SemiLight</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>SemiLight</string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>versionMajor</key>
 	<integer>0</integer>
 	<key>versionMinor</key>
-	<integer>300</integer>
+	<integer>400</integer>
 	<key>xHeight</key>
 	<integer>0</integer>
 </dict>

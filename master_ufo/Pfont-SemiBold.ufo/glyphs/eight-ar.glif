@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight-ar" format="1">
+  <advance width="1201"/>
+  <unicode hex="0668"/>
+  <outline>
+    <contour>
+      <point x="273" y="-33" type="line"/>
+      <point x="388" y="220"/>
+      <point x="478" y="526"/>
+      <point x="531" y="780" type="curve"/>
+      <point x="607" y="504"/>
+      <point x="775" y="154"/>
+      <point x="900" y="-32" type="curve"/>
+      <point x="1081" y="158" type="line"/>
+      <point x="874" y="470"/>
+      <point x="740" y="747"/>
+      <point x="623" y="1254" type="curve"/>
+      <point x="439" y="1170" type="line"/>
+      <point x="410" y="856"/>
+      <point x="289" y="456"/>
+      <point x="120" y="120" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 18:05:25 +0000</string>
+    </dict>
+  </lib>
+</glyph>

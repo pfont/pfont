@@ -3,7 +3,13 @@
   <advance width="1994"/>
   <unicode hex="FE90"/>
   <outline>
-    <component base="dotlessbeh-ar.fina"/>
+    <component base="behDotless-ar.fina"/>
     <component base="dotbelow-ar" xOffset="754" yOffset="-67"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:10:50 +0000</string>
+    </dict>
+  </lib>
 </glyph>

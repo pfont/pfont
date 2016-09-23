@@ -3,9 +3,15 @@
   <advance width="913"/>
   <outline>
     <component base="noon-ar.medi"/>
-    <component base="ringbelow-ar" xOffset="206" yOffset="-992"/>
+    <component base="ringbelow-ar" xOffset="238" yOffset="-1262"/>
     <contour>
       <point x="361" y="-363" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 20:29:23 +0000</string>
+    </dict>
+  </lib>
 </glyph>

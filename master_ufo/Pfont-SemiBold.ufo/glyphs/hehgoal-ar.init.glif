@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hehgoal-ar.init" format="1">
+  <advance width="753"/>
+  <unicode hex="FBA8"/>
+  <outline>
+    <component base="behDotless-ar.init"/>
+    <component base="comma-ar" xOffset="-12" yOffset="-734"/>
+    <contour>
+      <point x="249" y="-980" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 20:31:56 +0000</string>
+    </dict>
+  </lib>
+</glyph>

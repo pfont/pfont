@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sheen-ar.init" format="1">
+  <advance width="1828"/>
+  <unicode hex="FEB7"/>
+  <outline>
+    <component base="seen-ar.init"/>
+    <component base="threedotsupabove-ar" xOffset="705" yOffset="293"/>
+    <contour>
+      <point x="1106" y="-210" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-10 18:54:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>

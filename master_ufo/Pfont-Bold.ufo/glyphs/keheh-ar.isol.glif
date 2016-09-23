@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="keheh-ar.isol" format="1">
+  <advance width="1753"/>
+  <unicode hex="FB8E"/>
+  <outline>
+    <component base="keheh-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:21:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

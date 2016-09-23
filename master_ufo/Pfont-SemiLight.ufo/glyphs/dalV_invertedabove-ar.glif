@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dalVinvertedabove-ar" format="1">
-  <advance width="1153"/>
+  <advance width="1129"/>
   <unicode hex="06EE"/>
   <outline>
     <component base="dal-ar"/>
-    <component base="vinvertedabove-ar" xOffset="391" yOffset="-14"/>
+    <component base="vinvertedabove-ar" xOffset="368" yOffset="-14"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:11:47 +0000</string>
+    </dict>
+  </lib>
 </glyph>

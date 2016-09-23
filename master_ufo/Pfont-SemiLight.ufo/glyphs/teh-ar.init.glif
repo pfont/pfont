@@ -3,7 +3,7 @@
   <advance width="746"/>
   <unicode hex="FE97"/>
   <outline>
-    <component base="dotlessbeh-ar.init"/>
+    <component base="behDotless-ar.init"/>
     <component base="twodotshorizontalabove-ar" xOffset="48" yOffset="230"/>
     <contour>
       <point x="240" y="1478" type="move" name="top"/>
@@ -12,4 +12,21 @@
       <point x="292" y="-179" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-20 09:10:55 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodotshorizontalabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

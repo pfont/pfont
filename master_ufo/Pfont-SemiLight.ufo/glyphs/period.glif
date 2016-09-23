@@ -24,4 +24,10 @@
       <point x="306" y="-64" type="line" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 18:08:15 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five-ar" format="1">
+  <advance width="972"/>
+  <unicode hex="0665"/>
+  <outline>
+    <contour>
+      <point x="672" y="114"/>
+      <point x="852" y="326"/>
+      <point x="852" y="643" type="curve" smooth="yes"/>
+      <point x="852" y="856"/>
+      <point x="650" y="1089"/>
+      <point x="467" y="1089" type="curve" smooth="yes"/>
+      <point x="247" y="1089"/>
+      <point x="120" y="689"/>
+      <point x="120" y="470" type="curve" smooth="yes"/>
+      <point x="120" y="229"/>
+      <point x="210" y="114"/>
+      <point x="402" y="114" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="332" y="365"/>
+      <point x="270" y="419"/>
+      <point x="270" y="519" type="curve" smooth="yes"/>
+      <point x="270" y="598"/>
+      <point x="295" y="822"/>
+      <point x="418" y="822" type="curve" smooth="yes"/>
+      <point x="523" y="822"/>
+      <point x="700" y="681"/>
+      <point x="700" y="541" type="curve" smooth="yes"/>
+      <point x="700" y="469"/>
+      <point x="552" y="365"/>
+      <point x="447" y="365" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 18:05:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>

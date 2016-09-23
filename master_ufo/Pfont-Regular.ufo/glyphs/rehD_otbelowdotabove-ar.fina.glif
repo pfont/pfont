@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rehDotbelowdotabove-ar.fina" format="1">
-  <advance width="1161"/>
+  <advance width="1125"/>
   <outline>
     <component base="reh-ar.fina"/>
-    <component base="dotcenter-ar" xOffset="664" yOffset="-1154"/>
-    <component base="dotcenter-ar" xOffset="107" yOffset="-606"/>
+    <component base="dotcenter-ar" xOffset="634" yOffset="-1134"/>
+    <component base="dotcenter-ar" xOffset="126" yOffset="-549"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-06 19:53:08 +0000</string>
+    </dict>
+  </lib>
 </glyph>
