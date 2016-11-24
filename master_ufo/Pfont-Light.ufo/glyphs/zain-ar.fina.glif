@@ -4,12 +4,12 @@
   <unicode hex="FEB0"/>
   <outline>
     <component base="reh-ar.fina"/>
-    <component base="dotabove-ar" xOffset="458" yOffset="150"/>
+    <component base="dotabove-ar" xOffset="490" yOffset="133"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 19:25:38 +0000</string>
+      <string>2016-11-24 18:04:19 +0000</string>
     </dict>
   </lib>
 </glyph>

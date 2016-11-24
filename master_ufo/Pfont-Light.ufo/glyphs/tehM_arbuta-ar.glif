@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tehMarbuta-ar" format="1">
-  <advance width="1026"/>
+  <advance width="1020"/>
   <unicode hex="0629"/>
   <outline>
     <component base="heh-ar"/>
-    <component base="twodotshorizontalabove-ar" xOffset="90" yOffset="250"/>
+    <component base="twodotshorizontalabove-ar" xOffset="96" yOffset="237"/>
     <contour>
       <point x="454" y="-230" type="move" name="bottom"/>
     </contour>
@@ -12,7 +12,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:24:10 +0000</string>
+      <string>2016-11-24 18:32:59 +0000</string>
     </dict>
   </lib>
 </glyph>

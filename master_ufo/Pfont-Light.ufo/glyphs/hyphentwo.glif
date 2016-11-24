@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphentwo" format="1">
-  <advance width="883"/>
+  <advance width="865"/>
   <unicode hex="2010"/>
   <outline>
     <contour>
-      <point x="737" y="407" type="line" smooth="yes"/>
-      <point x="752" y="407"/>
-      <point x="763" y="419"/>
-      <point x="763" y="434" type="curve" smooth="yes"/>
-      <point x="763" y="544" type="line" smooth="yes"/>
-      <point x="763" y="560"/>
-      <point x="752" y="570"/>
-      <point x="737" y="570" type="curve" smooth="yes"/>
-      <point x="146" y="570" type="line" smooth="yes"/>
-      <point x="132" y="570"/>
-      <point x="120" y="559"/>
-      <point x="120" y="544" type="curve" smooth="yes"/>
-      <point x="120" y="434" type="line" smooth="yes"/>
-      <point x="120" y="419"/>
-      <point x="131" y="407"/>
-      <point x="146" y="407" type="curve" smooth="yes"/>
+      <point x="728" y="408" type="line" smooth="yes"/>
+      <point x="738" y="408"/>
+      <point x="745" y="413"/>
+      <point x="745" y="420" type="curve" smooth="yes"/>
+      <point x="745" y="530" type="line" smooth="yes"/>
+      <point x="745" y="537"/>
+      <point x="739" y="541"/>
+      <point x="728" y="541" type="curve" smooth="yes"/>
+      <point x="137" y="541" type="line" smooth="yes"/>
+      <point x="128" y="541"/>
+      <point x="120" y="536"/>
+      <point x="120" y="530" type="curve" smooth="yes"/>
+      <point x="120" y="420" type="line" smooth="yes"/>
+      <point x="120" y="413"/>
+      <point x="127" y="408"/>
+      <point x="137" y="408" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 17:47:38 +0000</string>
+      <string>2016-11-24 17:32:26 +0000</string>
     </dict>
   </lib>
 </glyph>

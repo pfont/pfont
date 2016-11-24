@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hehgoal-ar.isol" format="1">
-  <advance width="1026"/>
+  <advance width="1020"/>
   <unicode hex="FBA6"/>
   <outline>
     <component base="hehgoal-ar"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:23:50 +0000</string>
+      <string>2016-11-24 16:54:09 +0000</string>
     </dict>
   </lib>
 </glyph>

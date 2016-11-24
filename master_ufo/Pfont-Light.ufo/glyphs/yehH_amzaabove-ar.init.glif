@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehHamzaabove-ar.init" format="1">
-  <advance width="728"/>
+  <advance width="724"/>
   <unicode hex="FE8B"/>
   <outline>
     <component base="behDotless-ar.init"/>
-    <component base="hamzaabove-ar" xOffset="126" yOffset="431"/>
+    <component base="hamzaabove-ar" xOffset="164" yOffset="406"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:25:12 +0000</string>
+      <string>2016-11-24 18:36:00 +0000</string>
     </dict>
   </lib>
 </glyph>

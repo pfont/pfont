@@ -4,7 +4,7 @@
   <unicode hex="FB7D"/>
   <outline>
     <component base="hah-ar.medi"/>
-    <component base="threedotsdownbelow-ar" xOffset="318" yOffset="-24"/>
+    <component base="threedotsdownbelow-ar" xOffset="468" yOffset="126"/>
     <contour>
       <point x="496" y="1014" type="move" name="top"/>
     </contour>
@@ -12,7 +12,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 19:36:13 +0000</string>
+      <string>2016-11-24 19:16:22 +0000</string>
     </dict>
   </lib>
 </glyph>

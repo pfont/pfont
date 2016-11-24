@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="qaf-ar.isol" format="1">
-  <advance width="1594"/>
+  <advance width="1589"/>
   <unicode hex="FED5"/>
   <outline>
     <component base="qaf-ar"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:19:39 +0000</string>
+      <string>2016-11-24 16:45:22 +0000</string>
     </dict>
   </lib>
 </glyph>

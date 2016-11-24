@@ -4,15 +4,15 @@
   <unicode hex="FEF4"/>
   <outline>
     <component base="behDotless-ar.medi"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="18" yOffset="-20"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="42" yOffset="5"/>
     <contour>
-      <point x="508" y="810" type="move" name="top"/>
+      <point x="508" y="770" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-10 18:52:56 +0000</string>
+      <string>2016-11-24 18:35:53 +0000</string>
     </dict>
   </lib>
 </glyph>

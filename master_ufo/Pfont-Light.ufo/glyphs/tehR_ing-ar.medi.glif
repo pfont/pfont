@@ -3,15 +3,15 @@
   <advance width="878"/>
   <outline>
     <component base="teh-ar.medi"/>
-    <component base="ringbelow-ar" xOffset="213" yOffset="418"/>
+    <component base="ringbelow-ar" xOffset="216" yOffset="444"/>
     <contour>
-      <point x="137" y="-510" type="move" name="bottom"/>
+      <point x="187" y="-470" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 19:02:36 +0000</string>
+      <string>2016-11-24 17:53:27 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

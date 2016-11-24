@@ -3,12 +3,12 @@
   <advance width="0"/>
   <outline>
     <component base="shadda-ar"/>
-    <component base="kasratan-ar" xOffset="57" yOffset="872"/>
+    <component base="kasratan-ar" xOffset="57" yOffset="882"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 18:13:05 +0000</string>
+      <string>2016-11-24 16:30:02 +0000</string>
     </dict>
   </lib>
 </glyph>

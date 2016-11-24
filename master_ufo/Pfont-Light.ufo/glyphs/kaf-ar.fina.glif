@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kaf-ar.fina" format="1">
-  <advance width="1629"/>
+  <advance width="1627"/>
   <unicode hex="FEDA"/>
   <outline>
     <component base="dotlesskaf-ar.fina"/>
@@ -9,7 +9,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:20:18 +0000</string>
+      <string>2016-11-24 16:52:01 +0000</string>
     </dict>
   </lib>
 </glyph>

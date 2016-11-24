@@ -3,13 +3,13 @@
   <advance width="1955"/>
   <outline>
     <component base="seen-ar.medi"/>
-    <component base="dotabove-ar" xOffset="802" yOffset="139"/>
-    <component base="dotbelow-ar" xOffset="930" yOffset="-41"/>
+    <component base="dotabove-ar" xOffset="833" yOffset="68"/>
+    <component base="dotbelow-ar" xOffset="942" yOffset="10"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-10 18:54:07 +0000</string>
+      <string>2016-11-24 18:09:36 +0000</string>
     </dict>
   </lib>
 </glyph>

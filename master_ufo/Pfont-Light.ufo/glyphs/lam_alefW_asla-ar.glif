@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lam_alefWasla-ar" format="1">
-  <advance width="1227"/>
+  <advance width="1221"/>
   <outline>
     <component base="lam_alef-ar"/>
-    <component base="wasla-ar" xOffset="-113" yOffset="573"/>
+    <component base="wasla-ar" xOffset="-85" yOffset="523"/>
     <contour>
-      <point x="348" y="2070" type="move" name="top_2"/>
+      <point x="376" y="1990" type="move" name="top_2"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:26:38 +0000</string>
+      <string>2016-11-24 18:45:04 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>lam-ar.init</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

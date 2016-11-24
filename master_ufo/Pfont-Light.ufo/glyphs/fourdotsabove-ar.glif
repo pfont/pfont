@@ -8,16 +8,16 @@
     <component base="dotcenter-ar" xOffset="313" yOffset="299" xScale="0.772" yScale="0.772"/>
     <component base="dotcenter-ar" xOffset="293" yOffset="603" xScale="0.772" yScale="0.772"/>
     <contour>
-      <point x="285" y="1405" type="move" name="top"/>
+      <point x="270" y="1389" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="305" y="624" type="move" name="_top"/>
+      <point x="290" y="607" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 18:11:18 +0000</string>
+      <string>2016-11-24 16:21:04 +0000</string>
     </dict>
   </lib>
 </glyph>

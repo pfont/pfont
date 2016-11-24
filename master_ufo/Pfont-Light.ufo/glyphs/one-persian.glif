@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one-persian" format="1">
-  <advance width="583"/>
+  <advance width="570"/>
   <unicode hex="06F1"/>
   <outline>
     <component base="one-ar"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 18:06:08 +0000</string>
+      <string>2016-11-24 17:23:59 +0000</string>
     </dict>
   </lib>
 </glyph>

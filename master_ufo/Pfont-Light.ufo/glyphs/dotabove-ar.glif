@@ -3,18 +3,18 @@
   <advance width="0"/>
   <unicode hex="FBB2"/>
   <outline>
-    <component base="dotcenter-ar" yOffset="297"/>
+    <component base="dotcenter-ar" yOffset="283"/>
     <contour>
-      <point x="167" y="1288" type="move" name="top"/>
+      <point x="151" y="1240" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="190" y="728" type="move" name="_top"/>
+      <point x="179" y="714" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 18:13:48 +0000</string>
+      <string>2016-11-24 16:13:57 +0000</string>
     </dict>
   </lib>
 </glyph>

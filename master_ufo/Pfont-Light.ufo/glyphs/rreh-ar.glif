@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rreh-ar" format="1">
-  <advance width="889"/>
+  <advance width="885"/>
   <unicode hex="0691"/>
   <outline>
     <component base="reh-ar"/>
-    <component base="tahabove-ar" xOffset="328" yOffset="99"/>
+    <component base="tahabove-ar" xOffset="359" yOffset="60"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:11:57 +0000</string>
+      <string>2016-11-24 18:04:21 +0000</string>
     </dict>
   </lib>
 </glyph>

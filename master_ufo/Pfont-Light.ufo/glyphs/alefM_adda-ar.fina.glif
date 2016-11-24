@@ -3,16 +3,16 @@
   <advance width="656"/>
   <unicode hex="FE82"/>
   <outline>
-    <component base="madda-ar" xOffset="-84" yOffset="480"/>
+    <component base="madda-ar" xOffset="-84" yOffset="440"/>
     <component base="alef-ar.fina.short"/>
     <contour>
-      <point x="303" y="1921" type="move" name="top"/>
+      <point x="253" y="1821" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 18:40:30 +0000</string>
+      <string>2016-11-24 17:50:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

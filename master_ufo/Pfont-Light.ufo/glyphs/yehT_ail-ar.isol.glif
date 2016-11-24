@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehTail-ar.isol" format="1">
-  <advance width="2007"/>
+  <advance width="2003"/>
   <outline>
     <component base="yehTail-ar"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:25:21 +0000</string>
+      <string>2016-11-24 17:01:03 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tteh-ar.fina" format="1">
-  <advance width="1933"/>
+  <advance width="1931"/>
   <unicode hex="FB67"/>
   <outline>
     <component base="behDotless-ar.fina"/>
-    <component base="tahabove-ar" xOffset="555" yOffset="36"/>
+    <component base="tahabove-ar" xOffset="572" yOffset="-13"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:10:59 +0000</string>
+      <string>2016-11-24 17:54:24 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="meem-ar.init" format="1">
-  <advance width="1191"/>
+  <advance width="1207"/>
   <unicode hex="FEE3"/>
   <outline>
     <contour>
+      <point x="514" y="794"/>
+      <point x="409" y="515"/>
+      <point x="286" y="329" type="curve" smooth="yes"/>
+      <point x="195" y="192"/>
+      <point x="145" y="161"/>
+      <point x="20" y="161" type="curve" smooth="yes"/>
+      <point x="-20" y="161" type="line" smooth="yes"/>
+      <point x="-71" y="161"/>
+      <point x="-105" y="129"/>
+      <point x="-105" y="81" type="curve" smooth="yes"/>
+      <point x="-105" y="33"/>
+      <point x="-71" y="0"/>
+      <point x="-20" y="0" type="curve" smooth="yes"/>
       <point x="44" y="0" type="line" smooth="yes"/>
-      <point x="133" y="0"/>
-      <point x="225" y="62"/>
-      <point x="338" y="203" type="curve"/>
-      <point x="396" y="144"/>
-      <point x="415" y="123"/>
-      <point x="709" y="31" type="curve" smooth="yes"/>
-      <point x="761" y="14"/>
-      <point x="805" y="1"/>
-      <point x="848" y="1" type="curve" smooth="yes"/>
-      <point x="961" y="1"/>
-      <point x="1056" y="116"/>
-      <point x="1056" y="243" type="curve" smooth="yes"/>
-      <point x="1056" y="466"/>
-      <point x="911" y="824"/>
-      <point x="721" y="824" type="curve" smooth="yes"/>
-      <point x="489" y="824"/>
-      <point x="382" y="539"/>
-      <point x="258" y="352" type="curve" smooth="yes"/>
-      <point x="170" y="221"/>
-      <point x="122" y="191"/>
-      <point x="0" y="191" type="curve" smooth="yes"/>
-      <point x="-19" y="191" type="line" smooth="yes"/>
-      <point x="-83" y="191"/>
-      <point x="-113" y="143"/>
-      <point x="-113" y="96" type="curve" smooth="yes"/>
-      <point x="-113" y="48"/>
-      <point x="-83" y="0"/>
-      <point x="-19" y="0" type="curve" smooth="yes"/>
+      <point x="153" y="0"/>
+      <point x="246" y="54"/>
+      <point x="357" y="206" type="curve"/>
+      <point x="420" y="143"/>
+      <point x="427" y="128"/>
+      <point x="732" y="30" type="curve" smooth="yes"/>
+      <point x="782" y="14"/>
+      <point x="825" y="1"/>
+      <point x="868" y="1" type="curve" smooth="yes"/>
+      <point x="974" y="1"/>
+      <point x="1067" y="107"/>
+      <point x="1067" y="228" type="curve" smooth="yes"/>
+      <point x="1067" y="447"/>
+      <point x="926" y="794"/>
+      <point x="741" y="794" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="415" y="334" type="line"/>
-      <point x="409" y="337"/>
-      <point x="410" y="338"/>
-      <point x="412" y="342" type="curve" smooth="yes"/>
-      <point x="459" y="429"/>
-      <point x="545" y="612"/>
-      <point x="675" y="612" type="curve" smooth="yes"/>
-      <point x="795" y="612"/>
-      <point x="852" y="379"/>
-      <point x="897" y="184" type="curve" smooth="yes"/>
-      <point x="899" y="177"/>
-      <point x="891" y="167"/>
-      <point x="883" y="167" type="curve"/>
+      <point x="427" y="311" type="line" smooth="yes"/>
+      <point x="417" y="315"/>
+      <point x="419" y="323"/>
+      <point x="424" y="334" type="curve"/>
+      <point x="472" y="423"/>
+      <point x="561" y="612"/>
+      <point x="695" y="612" type="curve" smooth="yes"/>
+      <point x="821" y="612"/>
+      <point x="890" y="366"/>
+      <point x="927" y="170" type="curve" smooth="yes"/>
+      <point x="930" y="154"/>
+      <point x="917" y="131"/>
+      <point x="899" y="138" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="721" y="1019" type="move" name="top"/>
+      <point x="741" y="994" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="654" y="-193" type="move" name="bottom"/>
+      <point x="684" y="-188" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:22:30 +0000</string>
+      <string>2016-11-24 18:27:32 +0000</string>
     </dict>
   </lib>
 </glyph>

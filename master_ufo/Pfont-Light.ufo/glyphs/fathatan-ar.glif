@@ -6,7 +6,7 @@
     <component base="fatha-ar" yOffset="16"/>
     <component base="fatha-ar" yOffset="-239"/>
     <contour>
-      <point x="258" y="1404" type="move" name="top"/>
+      <point x="258" y="1374" type="move" name="top"/>
     </contour>
     <contour>
       <point x="258" y="717" type="move" name="_top"/>
@@ -15,7 +15,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 18:32:15 +0000</string>
+      <string>2016-11-24 16:30:19 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

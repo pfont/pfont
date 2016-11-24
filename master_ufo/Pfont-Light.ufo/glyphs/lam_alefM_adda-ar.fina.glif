@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lam_alefMadda-ar.fina" format="1">
-  <advance width="1364"/>
+  <advance width="1362"/>
   <unicode hex="FEF6"/>
   <outline>
     <component base="lam_alef-ar.fina"/>
-    <component base="madda-ar" xOffset="-20" yOffset="337"/>
+    <component base="madda-ar" xOffset="-30" yOffset="347"/>
     <contour>
-      <point x="360" y="1779" type="move" name="top_1"/>
+      <point x="320" y="1729" type="move" name="top_1"/>
     </contour>
     <contour>
-      <point x="994" y="1649" type="move" name="top_2"/>
+      <point x="995" y="1619" type="move" name="top_2"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 20:39:32 +0000</string>
+      <string>2016-11-24 18:44:47 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>lam_alef-ar.fina</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

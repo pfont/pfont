@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lamVabove-ar.fina" format="1">
-  <advance width="1540"/>
+  <advance width="1535"/>
   <outline>
     <component base="lam-ar.fina"/>
-    <component base="vabove-ar" xOffset="435" yOffset="-187"/>
+    <component base="vabove-ar" xOffset="443" yOffset="-208"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:22:15 +0000</string>
+      <string>2016-11-24 16:52:39 +0000</string>
     </dict>
   </lib>
 </glyph>

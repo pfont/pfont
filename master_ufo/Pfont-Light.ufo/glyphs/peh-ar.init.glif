@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="peh-ar.init" format="1">
-  <advance width="817"/>
+  <advance width="813"/>
   <unicode hex="FB58"/>
   <outline>
     <component base="dotlessbeh2-ar.init"/>
-    <component base="threedotsdownbelow-ar" xOffset="-3" yOffset="-62"/>
+    <component base="threedotsdownbelow-ar" xOffset="-43" yOffset="-9"/>
     <contour>
-      <point x="509" y="1110" type="move" name="top"/>
+      <point x="509" y="1060" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 18:50:02 +0000</string>
+      <string>2016-11-24 18:48:29 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

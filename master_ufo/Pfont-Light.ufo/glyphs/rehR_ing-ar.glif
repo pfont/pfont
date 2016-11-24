@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rehRing-ar" format="1">
-  <advance width="889"/>
+  <advance width="885"/>
   <unicode hex="0693"/>
   <outline>
     <component base="reh-ar"/>
-    <component base="ringbelow-ar" xOffset="437" yOffset="54"/>
+    <component base="ringbelow-ar" xOffset="408" yOffset="53"/>
     <contour>
       <point x="263" y="-840" type="move" name="bottom"/>
     </contour>
@@ -12,7 +12,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:11:58 +0000</string>
+      <string>2016-11-24 18:04:34 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

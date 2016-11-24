@@ -3,12 +3,12 @@
   <advance width="1070"/>
   <outline>
     <component base="waw-ar.fina"/>
-    <component base="ringcenter-ar" xOffset="-16" yOffset="-383"/>
+    <component base="ringcenter-ar" xOffset="37" yOffset="-409"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 20:34:08 +0000</string>
+      <string>2016-11-11 20:56:57 +0000</string>
     </dict>
   </lib>
 </glyph>

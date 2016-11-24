@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hahHamzaabove-ar.isol" format="1">
-  <advance width="1408"/>
+  <advance width="1404"/>
   <outline>
     <component base="hahHamzaabove-ar"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:11:24 +0000</string>
+      <string>2016-11-24 16:38:24 +0000</string>
     </dict>
   </lib>
 </glyph>

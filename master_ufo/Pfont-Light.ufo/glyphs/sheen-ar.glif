@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sheen-ar" format="1">
-  <advance width="2571"/>
+  <advance width="2565"/>
   <unicode hex="0634"/>
   <outline>
     <component base="seen-ar"/>
@@ -12,7 +12,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:13:37 +0000</string>
+      <string>2016-11-24 18:09:42 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

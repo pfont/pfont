@@ -5,16 +5,16 @@
   <outline>
     <component base="twodotsverticalabove-ar" yOffset="-1306"/>
     <contour>
-      <point x="137" y="-31" type="move" name="_bottom"/>
+      <point x="130" y="-54" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="158" y="-869" type="move" name="bottom"/>
+      <point x="151" y="-869" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 18:15:44 +0000</string>
+      <string>2016-11-24 16:15:01 +0000</string>
     </dict>
   </lib>
 </glyph>

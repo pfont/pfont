@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sheen-ar.init" format="1">
-  <advance width="1779"/>
+  <advance width="1774"/>
   <unicode hex="FEB7"/>
   <outline>
     <component base="seen-ar.init"/>
-    <component base="threedotsupabove-ar" xOffset="676" yOffset="257"/>
+    <component base="threedotsupabove-ar" xOffset="688" yOffset="162"/>
     <contour>
-      <point x="1106" y="-210" type="move" name="bottom"/>
+      <point x="1106" y="-190" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-10 18:54:44 +0000</string>
+      <string>2016-11-24 18:10:01 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -3,12 +3,12 @@
   <advance width="0"/>
   <outline>
     <component base="hamzaabove-ar" xOffset="-115" yOffset="-684" xScale="0.985" yScale="0.985" xyScale="-0.174" yxScale="0.174"/>
-    <component base="sukun-ar" xOffset="99" yOffset="14"/>
+    <component base="sukun-ar" xOffset="79" yOffset="-16"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 18:32:58 +0000</string>
+      <string>2016-11-24 16:28:38 +0000</string>
     </dict>
   </lib>
 </glyph>

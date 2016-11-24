@@ -4,15 +4,15 @@
   <unicode hex="FBDF"/>
   <outline>
     <component base="waw-ar.fina"/>
-    <component base="threedotsupabove-ar" xOffset="232" yOffset="378"/>
+    <component base="threedotsupabove-ar" xOffset="247" yOffset="371"/>
     <contour>
-      <point x="379" y="-675" type="move" name="bottom"/>
+      <point x="409" y="-675" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:24:56 +0000</string>
+      <string>2016-11-24 18:35:01 +0000</string>
     </dict>
   </lib>
 </glyph>

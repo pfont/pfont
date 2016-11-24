@@ -4,16 +4,16 @@
   <outline>
     <component base="ringcenter-ar" yOffset="-800"/>
     <contour>
-      <point x="132" y="-533" type="move" name="_ring"/>
+      <point x="141" y="-373" type="move" name="_ring"/>
     </contour>
     <contour>
-      <point x="142" y="-912" type="move" name="bottom"/>
+      <point x="102" y="-912" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 18:11:30 +0000</string>
+      <string>2016-11-24 16:22:30 +0000</string>
     </dict>
   </lib>
 </glyph>

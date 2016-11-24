@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="veh-ar.isol" format="1">
-  <advance width="1803"/>
+  <advance width="1797"/>
   <unicode hex="FB6A"/>
   <outline>
     <component base="veh-ar"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:39:47 +0000</string>
+      <string>2016-11-24 17:12:21 +0000</string>
     </dict>
   </lib>
 </glyph>

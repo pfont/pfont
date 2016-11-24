@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tah-ar.isol" format="1">
-  <advance width="1758"/>
+  <advance width="1751"/>
   <unicode hex="FEC1"/>
   <outline>
     <component base="tah-ar"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:16:50 +0000</string>
+      <string>2016-11-24 16:42:48 +0000</string>
     </dict>
   </lib>
 </glyph>

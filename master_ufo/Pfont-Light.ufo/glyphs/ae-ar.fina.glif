@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ae-ar.fina" format="1">
-  <advance width="1103"/>
+  <advance width="1101"/>
   <outline>
     <component base="heh-ar.fina"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:25:45 +0000</string>
+      <string>2016-11-24 17:10:22 +0000</string>
     </dict>
   </lib>
 </glyph>

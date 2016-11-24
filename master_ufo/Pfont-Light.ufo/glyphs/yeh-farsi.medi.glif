@@ -5,13 +5,13 @@
   <outline>
     <component base="yeh-ar.medi"/>
     <contour>
-      <point x="517" y="820" type="move" name="top"/>
+      <point x="517" y="780" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 20:35:45 +0000</string>
+      <string>2016-11-24 18:36:15 +0000</string>
     </dict>
   </lib>
 </glyph>

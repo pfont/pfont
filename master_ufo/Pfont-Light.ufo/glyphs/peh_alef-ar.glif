@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="peh_alef-ar" format="1">
-  <advance width="1384"/>
+  <advance width="1378"/>
   <outline>
-    <component base="behDotless-ar.init" xOffset="656"/>
+    <component base="behDotless-ar.init" xOffset="654"/>
     <component base="alef-ar.fina"/>
-    <component base="threedotsdownbelow-ar" xOffset="518" yOffset="-46"/>
+    <component base="threedotsdownbelow-ar" xOffset="398" yOffset="-16"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:27:02 +0000</string>
+      <string>2016-11-24 18:45:42 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

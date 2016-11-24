@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven-persian" format="1">
-  <advance width="1196"/>
+  <advance width="1178"/>
   <unicode hex="06F7"/>
   <outline>
     <component base="seven-ar"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 18:06:55 +0000</string>
+      <string>2016-11-24 17:26:17 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>seven-ar</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="theh-ar.init" format="1">
-  <advance width="728"/>
+  <advance width="724"/>
   <unicode hex="FE9B"/>
   <outline>
     <component base="behDotless-ar.init"/>
-    <component base="threedotsupabove-ar" xOffset="97" yOffset="482"/>
+    <component base="threedotsupabove-ar" xOffset="128" yOffset="467"/>
     <contour>
       <point x="349" y="-180" type="move" name="bottom"/>
     </contour>
@@ -12,7 +12,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:10:58 +0000</string>
+      <string>2016-11-24 17:54:21 +0000</string>
     </dict>
   </lib>
 </glyph>

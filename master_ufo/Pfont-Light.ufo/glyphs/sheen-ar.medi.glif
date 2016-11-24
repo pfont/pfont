@@ -4,7 +4,7 @@
   <unicode hex="FEB8"/>
   <outline>
     <component base="seen-ar.medi"/>
-    <component base="threedotsupabove-ar" xOffset="681" yOffset="237"/>
+    <component base="threedotsupabove-ar" xOffset="712" yOffset="172"/>
     <contour>
       <point x="1098" y="-200" type="move" name="bottom"/>
     </contour>
@@ -12,7 +12,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-10 18:54:44 +0000</string>
+      <string>2016-11-24 18:09:55 +0000</string>
     </dict>
   </lib>
 </glyph>

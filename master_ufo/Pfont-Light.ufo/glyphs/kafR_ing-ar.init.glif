@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kafRing-ar.init" format="1">
-  <advance width="824"/>
+  <advance width="820"/>
   <outline>
     <component base="kaf-ar.init"/>
-    <component base="ringcenter-ar" xOffset="553" yOffset="756"/>
+    <component base="ringcenter-ar" xOffset="602" yOffset="786"/>
     <contour>
       <point x="330" y="-190" type="move" name="bottom"/>
     </contour>
@@ -11,7 +11,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:21:54 +0000</string>
+      <string>2016-11-24 18:24:15 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hehDoachashmee-ar.isol" format="1">
-  <advance width="1347"/>
+  <advance width="1341"/>
   <unicode hex="FBAA"/>
   <outline>
     <component base="hehDoachashmee-ar"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:24:04 +0000</string>
+      <string>2016-11-24 16:54:28 +0000</string>
     </dict>
   </lib>
 </glyph>

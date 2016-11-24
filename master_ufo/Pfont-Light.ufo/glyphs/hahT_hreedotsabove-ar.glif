@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hahThreedotsabove-ar" format="1">
-  <advance width="1408"/>
+  <advance width="1404"/>
   <unicode hex="0685"/>
   <outline>
     <component base="hah-ar"/>
-    <component base="threedotsupabove-ar" xOffset="144" yOffset="418"/>
+    <component base="threedotsupabove-ar" xOffset="147" yOffset="410"/>
     <contour>
-      <point x="756" y="-901" type="move" name="bottom"/>
+      <point x="756" y="-891" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:11:25 +0000</string>
+      <string>2016-11-24 17:59:10 +0000</string>
     </dict>
   </lib>
 </glyph>

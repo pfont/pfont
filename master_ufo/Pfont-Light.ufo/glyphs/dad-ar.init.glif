@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dad-ar.init" format="1">
-  <advance width="1731"/>
+  <advance width="1727"/>
   <unicode hex="FEBF"/>
   <outline>
     <component base="sad-ar.init"/>
-    <component base="dotabove-ar" xOffset="980" yOffset="256"/>
+    <component base="dotabove-ar" xOffset="981" yOffset="233"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:16:41 +0000</string>
+      <string>2016-11-24 18:11:42 +0000</string>
     </dict>
   </lib>
 </glyph>

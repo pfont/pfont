@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="noonRing-ar.init" format="1">
-  <advance width="728"/>
+  <advance width="724"/>
   <outline>
     <component base="noon-ar.init"/>
-    <component base="ringbelow-ar" xOffset="409" yOffset="513"/>
+    <component base="ringbelow-ar" xOffset="390" yOffset="514"/>
     <contour>
-      <point x="259" y="-380" type="move" name="bottom"/>
+      <point x="249" y="-370" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:23:29 +0000</string>
+      <string>2016-11-24 18:29:10 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

@@ -4,12 +4,12 @@
   <unicode hex="FE86"/>
   <outline>
     <component base="waw-ar.fina"/>
-    <component base="hamzaabove-ar" xOffset="261" yOffset="327"/>
+    <component base="hamzaabove-ar" xOffset="283" yOffset="310"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:24:52 +0000</string>
+      <string>2016-11-24 18:34:41 +0000</string>
     </dict>
   </lib>
 </glyph>

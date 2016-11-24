@@ -7,11 +7,8 @@
       <point x="1638" y="406"/>
       <point x="1596" y="655"/>
       <point x="1557" y="817" type="curve" smooth="yes"/>
-      <point x="1554" y="828"/>
-      <point x="1546" y="835"/>
-      <point x="1537" y="835" type="curve" smooth="yes"/>
-      <point x="1531" y="835"/>
-      <point x="1524" y="832"/>
+      <point x="1552" y="837"/>
+      <point x="1532" y="840"/>
       <point x="1519" y="827" type="curve" smooth="yes"/>
       <point x="1420" y="726" type="line"/>
       <point x="1414" y="719"/>
@@ -24,11 +21,8 @@
       <point x="1468" y="193"/>
       <point x="1420" y="189"/>
       <point x="1374" y="189" type="curve" smooth="yes"/>
-      <point x="1280" y="189"/>
-      <point x="1193" y="206"/>
-      <point x="1107" y="240" type="curve"/>
-      <point x="1104" y="241"/>
-      <point x="1104" y="243"/>
+      <point x="1306" y="189"/>
+      <point x="1104" y="217"/>
       <point x="1104" y="246" type="curve"/>
       <point x="1143" y="573" type="line" smooth="yes"/>
       <point x="1145" y="588"/>
@@ -42,11 +36,8 @@
       <point x="969" y="235"/>
       <point x="898" y="192"/>
       <point x="728" y="192" type="curve" smooth="yes"/>
-      <point x="649" y="192"/>
-      <point x="544" y="203"/>
-      <point x="470" y="226" type="curve"/>
-      <point x="468" y="226"/>
-      <point x="468" y="228"/>
+      <point x="671" y="192"/>
+      <point x="468" y="209"/>
       <point x="468" y="230" type="curve"/>
       <point x="506" y="573" type="line" smooth="yes"/>
       <point x="508" y="588"/>
@@ -77,11 +68,8 @@
       <point x="849" y="1"/>
       <point x="964" y="36"/>
       <point x="1012" y="89" type="curve"/>
-      <point x="1096" y="38"/>
-      <point x="1210" y="4"/>
-      <point x="1306" y="0" type="curve" smooth="yes"/>
-      <point x="1320" y="-1"/>
-      <point x="1333" y="-1"/>
+      <point x="1109" y="30"/>
+      <point x="1231" y="-1"/>
       <point x="1346" y="-1" type="curve" smooth="yes"/>
       <point x="1572" y="-1"/>
       <point x="1649" y="81"/>
@@ -97,7 +85,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-10 18:54:28 +0000</string>
+      <string>2016-11-24 18:08:50 +0000</string>
     </dict>
   </lib>
 </glyph>

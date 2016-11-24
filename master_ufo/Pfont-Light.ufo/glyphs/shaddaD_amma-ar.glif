@@ -3,12 +3,12 @@
   <advance width="0"/>
   <outline>
     <component base="shadda-ar" yOffset="-800"/>
-    <component base="damma-ar" xOffset="121" yOffset="-19"/>
+    <component base="damma-ar" xOffset="134" yOffset="-79"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 18:12:49 +0000</string>
+      <string>2016-11-24 16:24:52 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dul-ar.fina" format="1">
-  <advance width="1277"/>
+  <advance width="1275"/>
   <unicode hex="FB87"/>
   <outline>
     <component base="dal-ar.fina"/>
-    <component base="threedotsupabove-ar" xOffset="550" yOffset="548"/>
+    <component base="threedotsupabove-ar" xOffset="577" yOffset="520"/>
     <contour>
-      <point x="555" y="-240" type="move" name="bottom"/>
+      <point x="535" y="-230" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:11:47 +0000</string>
+      <string>2016-11-24 18:03:10 +0000</string>
     </dict>
   </lib>
 </glyph>

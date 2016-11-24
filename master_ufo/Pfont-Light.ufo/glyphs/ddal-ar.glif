@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ddal-ar" format="1">
-  <advance width="1135"/>
+  <advance width="1129"/>
   <unicode hex="0688"/>
   <outline>
     <component base="dal-ar"/>
-    <component base="tahabove-ar" xOffset="358" yOffset="370"/>
+    <component base="tahabove-ar" xOffset="385" yOffset="340"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:11:44 +0000</string>
+      <string>2016-11-24 18:02:11 +0000</string>
     </dict>
   </lib>
 </glyph>

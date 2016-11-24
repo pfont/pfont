@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lam_alefHamzaabove-ar" format="1">
-  <advance width="1227"/>
+  <advance width="1221"/>
   <unicode hex="FEF7"/>
   <outline>
     <component base="lam_alef-ar"/>
-    <component base="hamzaabove-ar" xOffset="21" yOffset="824"/>
+    <component base="hamzaabove-ar" xOffset="21" yOffset="804"/>
     <contour>
-      <point x="280" y="2288" type="move" name="top_2"/>
+      <point x="250" y="2268" type="move" name="top_2"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:26:08 +0000</string>
+      <string>2016-11-24 18:43:45 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>lam_alef-ar</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

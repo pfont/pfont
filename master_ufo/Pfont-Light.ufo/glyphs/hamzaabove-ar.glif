@@ -5,16 +5,16 @@
   <outline>
     <component base="hamzacenter-ar" yOffset="631"/>
     <contour>
-      <point x="282" y="1518" type="move" name="top"/>
+      <point x="282" y="1538" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="282" y="681" type="move" name="_top"/>
+      <point x="264" y="671" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-10 18:59:13 +0000</string>
+      <string>2016-11-24 17:48:57 +0000</string>
     </dict>
   </lib>
 </glyph>

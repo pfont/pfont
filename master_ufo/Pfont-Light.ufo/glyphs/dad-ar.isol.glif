@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dad-ar.isol" format="1">
-  <advance width="2622"/>
+  <advance width="2616"/>
   <unicode hex="FEBD"/>
   <outline>
     <component base="dad-ar"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:16:17 +0000</string>
+      <string>2016-11-24 16:42:35 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehbarree-ar.fina" format="1">
-  <advance width="985"/>
+  <advance width="983"/>
   <unicode hex="FBAF"/>
   <outline>
     <contour>
-      <point x="504" y="191"/>
-      <point x="312" y="62"/>
-      <point x="220" y="-151" type="curve" smooth="yes"/>
-      <point x="189" y="-220"/>
-      <point x="173" y="-278"/>
-      <point x="173" y="-326" type="curve" smooth="yes"/>
-      <point x="173" y="-433"/>
-      <point x="248" y="-487"/>
-      <point x="398" y="-487" type="curve" smooth="yes"/>
-      <point x="1670" y="-487" type="line"/>
-      <point x="1670" y="-342"/>
-      <point x="1669" y="-303"/>
-      <point x="1555" y="-303" type="curve" smooth="yes"/>
-      <point x="446" y="-302" type="line" smooth="yes"/>
-      <point x="346" y="-302"/>
-      <point x="294" y="-278"/>
-      <point x="294" y="-233" type="curve" smooth="yes"/>
-      <point x="294" y="-226"/>
-      <point x="296" y="-217"/>
-      <point x="299" y="-207" type="curve" smooth="yes"/>
-      <point x="333" y="-119"/>
-      <point x="473" y="0"/>
-      <point x="710" y="0" type="curve" smooth="yes"/>
-      <point x="1004" y="0" type="line"/>
-      <point x="1031" y="32"/>
-      <point x="1043" y="63"/>
-      <point x="1043" y="96" type="curve" smooth="yes"/>
-      <point x="1043" y="128"/>
-      <point x="1031" y="159"/>
-      <point x="1004" y="191" type="curve"/>
-      <point x="729" y="191" type="line" smooth="yes"/>
+      <point x="444" y="-332" type="line" smooth="yes"/>
+      <point x="337" y="-332"/>
+      <point x="283" y="-304"/>
+      <point x="283" y="-248" type="curve" smooth="yes"/>
+      <point x="283" y="-239"/>
+      <point x="285" y="-229"/>
+      <point x="288" y="-218" type="curve" smooth="yes"/>
+      <point x="335" y="-96"/>
+      <point x="509" y="0"/>
+      <point x="708" y="0" type="curve" smooth="yes"/>
+      <point x="1003" y="0" type="line"/>
+      <point x="1025" y="28"/>
+      <point x="1035" y="53"/>
+      <point x="1035" y="81" type="curve" smooth="yes"/>
+      <point x="1035" y="109"/>
+      <point x="1025" y="133"/>
+      <point x="1003" y="161" type="curve"/>
+      <point x="727" y="161" type="line" smooth="yes"/>
+      <point x="505" y="161"/>
+      <point x="316" y="35"/>
+      <point x="226" y="-172" type="curve" smooth="yes"/>
+      <point x="195" y="-243"/>
+      <point x="180" y="-297"/>
+      <point x="180" y="-341" type="curve" smooth="yes"/>
+      <point x="180" y="-438"/>
+      <point x="252" y="-487"/>
+      <point x="396" y="-487" type="curve" smooth="yes"/>
+      <point x="1659" y="-487" type="line"/>
+      <point x="1659" y="-356"/>
+      <point x="1655" y="-333"/>
+      <point x="1553" y="-333" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="753" y="393" type="move" name="top"/>
+      <point x="751" y="362" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="697" y="-689" type="move" name="bottom"/>
+      <point x="695" y="-686" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:25:38 +0000</string>
+      <string>2016-11-24 18:38:58 +0000</string>
     </dict>
   </lib>
 </glyph>

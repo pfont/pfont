@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e-ar.fina" format="1">
-  <advance width="1577"/>
+  <advance width="1575"/>
   <unicode hex="FBE5"/>
   <outline>
     <component base="alefMaksura-ar.fina"/>
-    <component base="twodotsverticalbelow-ar" xOffset="513" yOffset="-787"/>
+    <component base="twodotsverticalbelow-ar" xOffset="509" yOffset="-759"/>
     <contour>
       <point x="871" y="580" type="move" name="top"/>
     </contour>
@@ -12,7 +12,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:25:27 +0000</string>
+      <string>2016-11-24 18:37:56 +0000</string>
     </dict>
   </lib>
 </glyph>

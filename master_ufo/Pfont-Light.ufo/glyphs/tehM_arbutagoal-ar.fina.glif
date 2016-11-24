@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tehMarbutagoal-ar.fina" format="1">
-  <advance width="1208"/>
+  <advance width="1206"/>
   <outline>
     <component base="hehgoal-ar.fina"/>
-    <component base="twodotshorizontalabove-ar" xOffset="306" yOffset="-224"/>
+    <component base="twodotshorizontalabove-ar" xOffset="328" yOffset="-238"/>
     <contour>
-      <point x="629" y="-200" type="move" name="bottom"/>
+      <point x="599" y="-200" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:24:12 +0000</string>
+      <string>2016-11-24 18:33:17 +0000</string>
     </dict>
   </lib>
 </glyph>

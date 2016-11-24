@@ -3,12 +3,12 @@
   <advance width="878"/>
   <outline>
     <component base="yeh-ar.medi"/>
-    <component base="vabove-ar" xOffset="266" yOffset="15"/>
+    <component base="vabove-ar" xOffset="279" yOffset="-31"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 20:35:36 +0000</string>
+      <string>2016-11-24 18:36:06 +0000</string>
     </dict>
   </lib>
 </glyph>

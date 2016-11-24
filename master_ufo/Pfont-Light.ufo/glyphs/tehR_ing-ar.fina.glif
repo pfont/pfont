@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tehRing-ar.fina" format="1">
-  <advance width="1933"/>
+  <advance width="1931"/>
   <outline>
     <component base="teh-ar.fina"/>
-    <component base="ringbelow-ar" xOffset="169" yOffset="391"/>
+    <component base="ringbelow-ar" xOffset="158" yOffset="430"/>
     <contour>
-      <point x="907" y="-240" type="move" name="bottom"/>
+      <point x="847" y="-250" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:10:56 +0000</string>
+      <string>2016-11-24 17:52:53 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

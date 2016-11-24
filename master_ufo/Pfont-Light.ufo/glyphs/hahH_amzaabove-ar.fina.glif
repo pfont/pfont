@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hahHamzaabove-ar.fina" format="1">
-  <advance width="1248"/>
+  <advance width="1246"/>
   <outline>
     <component base="hah-ar.fina"/>
-    <component base="hamzaabove-ar" xOffset="179" yOffset="368"/>
+    <component base="hamzaabove-ar" xOffset="185" yOffset="346"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:11:24 +0000</string>
+      <string>2016-11-24 17:58:22 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -3,15 +3,15 @@
   <advance width="1544"/>
   <outline>
     <component base="hah-ar.medi"/>
-    <component base="threedotsupabove-ar" xOffset="204" yOffset="347"/>
+    <component base="threedotsupabove-ar" xOffset="205" yOffset="341"/>
     <contour>
-      <point x="624" y="-190" type="move" name="bottom"/>
+      <point x="735" y="-20" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 19:21:58 +0000</string>
+      <string>2016-11-24 18:01:08 +0000</string>
     </dict>
   </lib>
 </glyph>

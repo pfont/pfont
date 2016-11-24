@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="whiteStar.circled" format="1">
-  <advance width="980"/>
+  <advance width="962"/>
   <unicode hex="272A"/>
   <outline>
     <contour>
-      <point x="694" y="127"/>
-      <point x="860" y="289"/>
-      <point x="860" y="488" type="curve" smooth="yes"/>
-      <point x="860" y="687"/>
-      <point x="693" y="851"/>
-      <point x="490" y="851" type="curve" smooth="yes"/>
-      <point x="286" y="851"/>
-      <point x="120" y="687"/>
-      <point x="120" y="488" type="curve" smooth="yes"/>
-      <point x="120" y="289"/>
-      <point x="286" y="127"/>
-      <point x="490" y="127" type="curve" smooth="yes"/>
+      <point x="680" y="128"/>
+      <point x="842" y="283"/>
+      <point x="842" y="474" type="curve" smooth="yes"/>
+      <point x="842" y="665"/>
+      <point x="679" y="822"/>
+      <point x="481" y="822" type="curve" smooth="yes"/>
+      <point x="283" y="822"/>
+      <point x="120" y="665"/>
+      <point x="120" y="474" type="curve" smooth="yes"/>
+      <point x="120" y="283"/>
+      <point x="282" y="128"/>
+      <point x="481" y="128" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="318" y="234" type="line"/>
-      <point x="394" y="444" type="line"/>
-      <point x="198" y="564" type="line"/>
-      <point x="203" y="575" type="line"/>
-      <point x="434" y="568" type="line"/>
-      <point x="488" y="783" type="line"/>
-      <point x="499" y="783" type="line"/>
-      <point x="566" y="568" type="line"/>
-      <point x="785" y="579" type="line"/>
-      <point x="788" y="564" type="line"/>
-      <point x="602" y="444" type="line"/>
-      <point x="681" y="244" type="line"/>
-      <point x="671" y="235" type="line"/>
-      <point x="497" y="367" type="line"/>
-      <point x="328" y="227" type="line"/>
+      <point x="296" y="213" type="line"/>
+      <point x="372" y="422" type="line"/>
+      <point x="175" y="543" type="line"/>
+      <point x="190" y="576" type="line"/>
+      <point x="419" y="569" type="line"/>
+      <point x="473" y="784" type="line"/>
+      <point x="495" y="784" type="line"/>
+      <point x="562" y="569" type="line"/>
+      <point x="782" y="580" type="line"/>
+      <point x="790" y="541" type="line"/>
+      <point x="606" y="423" type="line"/>
+      <point x="685" y="225" type="line"/>
+      <point x="662" y="205" type="line"/>
+      <point x="488" y="337" type="line"/>
+      <point x="319" y="197" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-06 17:55:27 +0000</string>
+      <string>2016-11-24 17:38:38 +0000</string>
     </dict>
   </lib>
 </glyph>

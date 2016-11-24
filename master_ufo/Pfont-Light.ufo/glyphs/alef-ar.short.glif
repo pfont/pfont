@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alef-ar.short" format="1">
-  <advance width="501"/>
+  <advance width="493"/>
   <outline>
     <component base="alef-ar" yScale="0.893"/>
     <contour>
-      <point x="269" y="1533" type="move" name="top"/>
+      <point x="269" y="1443" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="303" y="-226" type="move" name="bottom"/>
+      <point x="303" y="-216" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:10:02 +0000</string>
+      <string>2016-11-24 17:49:54 +0000</string>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>

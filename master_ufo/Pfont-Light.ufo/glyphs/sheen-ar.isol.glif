@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sheen-ar.isol" format="1">
-  <advance width="2571"/>
+  <advance width="2565"/>
   <unicode hex="FEB5"/>
   <outline>
     <component base="sheen-ar"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:13:38 +0000</string>
+      <string>2016-11-24 16:41:46 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcheh-ar" format="1">
-  <advance width="1408"/>
+  <advance width="1404"/>
   <unicode hex="0686"/>
   <outline>
     <component base="hah-ar"/>
-    <component base="threedotsdowncenter-ar" xOffset="542" yOffset="-548" xScale="0.945" yScale="0.945"/>
+    <component base="threedotsdowncenter-ar" xOffset="511" yOffset="-584" xScale="0.945" yScale="0.945"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:39:44 +0000</string>
+      <string>2016-11-24 18:15:47 +0000</string>
     </dict>
   </lib>
 </glyph>

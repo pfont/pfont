@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="qaf-ar" format="1">
-  <advance width="1594"/>
+  <advance width="1589"/>
   <unicode hex="0642"/>
   <outline>
     <component base="qafDotless-ar"/>
-    <component base="twodotshorizontalabove-ar" xOffset="748" yOffset="151"/>
+    <component base="twodotshorizontalabove-ar" xOffset="757" yOffset="137"/>
     <contour>
-      <point x="630" y="-710" type="move" name="bottom"/>
+      <point x="630" y="-708" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-09-20 09:19:39 +0000</string>
+      <string>2016-11-24 18:19:49 +0000</string>
     </dict>
   </lib>
 </glyph>
