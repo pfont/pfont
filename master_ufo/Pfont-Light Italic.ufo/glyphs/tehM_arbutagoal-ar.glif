@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tehMarbutagoal-ar" format="1">
+  <advance width="1019"/>
+  <unicode hex="06C3"/>
+  <outline>
+    <component base="heh-ar"/>
+    <component base="twodotshorizontalabove-ar" xOffset="154" yOffset="237"/>
+    <contour>
+      <point x="331" y="-230" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 18:55:26 +0000</string>
+    </dict>
+  </lib>
+</glyph>

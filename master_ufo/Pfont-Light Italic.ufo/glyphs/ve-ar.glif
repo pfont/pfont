@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ve-ar" format="1">
+  <advance width="1023"/>
+  <unicode hex="06CB"/>
+  <outline>
+    <component base="waw-ar"/>
+    <component base="threedotsupabove-ar" xOffset="397" yOffset="407"/>
+    <contour>
+      <point x="174" y="-671" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 19:02:37 +0000</string>
+    </dict>
+  </lib>
+</glyph>

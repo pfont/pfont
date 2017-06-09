@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threedotsupabove-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="FBB6"/>
+  <outline>
+    <component base="dotcenter-ar" xOffset="276" yOffset="497" xScale="0.844" yScale="0.844"/>
+    <component base="dotcenter-ar" xOffset="79" yOffset="245" xScale="0.844" yScale="0.844"/>
+    <component base="dotcenter-ar" xOffset="405" yOffset="266" xScale="0.844" yScale="0.844"/>
+    <contour>
+      <point x="673" y="1367" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="479" y="610" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 18:35:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

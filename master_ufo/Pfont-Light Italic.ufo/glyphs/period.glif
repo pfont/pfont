@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="1">
+  <advance width="589"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="290" y="-64"/>
+      <point x="298" y="-66"/>
+      <point x="303" y="-66" type="curve" smooth="yes"/>
+      <point x="313" y="-66"/>
+      <point x="324" y="-61"/>
+      <point x="334" y="-52" type="curve"/>
+      <point x="492" y="101" type="line" smooth="yes"/>
+      <point x="504" y="113"/>
+      <point x="507" y="118"/>
+      <point x="510" y="127" type="curve"/>
+      <point x="514" y="138"/>
+      <point x="507" y="146"/>
+      <point x="499" y="154" type="curve"/>
+      <point x="375" y="262" type="line" smooth="yes"/>
+      <point x="365" y="272"/>
+      <point x="345" y="271"/>
+      <point x="326" y="252" type="curve" smooth="yes"/>
+      <point x="155" y="82" type="line"/>
+      <point x="146" y="74"/>
+      <point x="142" y="68"/>
+      <point x="141" y="64" type="curve" smooth="yes"/>
+      <point x="139" y="58"/>
+      <point x="141" y="52"/>
+      <point x="151" y="44" type="curve" smooth="yes"/>
+      <point x="283" y="-60" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 17:46:04 +0000</string>
+    </dict>
+  </lib>
+</glyph>

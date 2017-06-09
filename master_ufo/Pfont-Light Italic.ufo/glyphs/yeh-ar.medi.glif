@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yeh-ar.medi" format="1">
+  <advance width="878"/>
+  <unicode hex="FEF4"/>
+  <outline>
+    <component base="behDotless-ar.medi"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="71" yOffset="5"/>
+    <contour>
+      <point x="778" y="770" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 19:03:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

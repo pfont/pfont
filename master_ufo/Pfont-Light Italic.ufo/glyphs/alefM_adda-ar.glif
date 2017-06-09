@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefMadda-ar" format="1">
+  <advance width="493"/>
+  <unicode hex="0622"/>
+  <outline>
+    <component base="alef-ar.short"/>
+    <component base="madda-ar" xOffset="154" yOffset="574"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 18:43:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

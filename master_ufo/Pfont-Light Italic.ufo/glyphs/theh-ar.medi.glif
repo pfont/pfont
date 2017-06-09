@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="theh-ar.medi" format="1">
+  <advance width="878"/>
+  <unicode hex="FE9C"/>
+  <outline>
+    <component base="behDotless-ar.medi"/>
+    <component base="threedotsupabove-ar" xOffset="283" yOffset="171"/>
+    <contour>
+      <point x="197" y="-170" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 18:46:56 +0000</string>
+    </dict>
+  </lib>
+</glyph>

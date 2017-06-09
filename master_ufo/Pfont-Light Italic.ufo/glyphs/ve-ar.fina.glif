@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ve-ar.fina" format="1">
+  <advance width="1070"/>
+  <unicode hex="FBDF"/>
+  <outline>
+    <component base="waw-ar.fina"/>
+    <component base="threedotsupabove-ar" xOffset="387" yOffset="371"/>
+    <contour>
+      <point x="152" y="-675" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 19:02:45 +0000</string>
+    </dict>
+  </lib>
+</glyph>

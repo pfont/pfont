@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yeh-ar.fina" format="1">
+  <advance width="1575"/>
+  <unicode hex="FEF2"/>
+  <outline>
+    <component base="alefMaksura-ar.fina"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="144" yOffset="-613"/>
+    <contour>
+      <point x="946" y="500" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 19:03:03 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tahabove-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="0615"/>
+  <outline>
+    <contour>
+      <point x="569" y="1228" type="line"/>
+      <point x="571" y="1233"/>
+      <point x="566" y="1238"/>
+      <point x="556" y="1238" type="curve"/>
+      <point x="496" y="1200" type="line"/>
+      <point x="466" y="1076" type="line" smooth="yes"/>
+      <point x="430" y="930"/>
+      <point x="430" y="930"/>
+      <point x="355" y="877" type="curve"/>
+      <point x="304" y="881" type="line" smooth="yes"/>
+      <point x="293" y="882"/>
+      <point x="283" y="876"/>
+      <point x="282" y="867" type="curve"/>
+      <point x="279" y="815"/>
+      <point x="284" y="812"/>
+      <point x="333" y="806" type="curve"/>
+      <point x="354" y="805"/>
+      <point x="379" y="804"/>
+      <point x="406" y="804" type="curve" smooth="yes"/>
+      <point x="598" y="804"/>
+      <point x="750" y="862"/>
+      <point x="777" y="944" type="curve" smooth="yes"/>
+      <point x="799" y="1011"/>
+      <point x="753" y="1074"/>
+      <point x="684" y="1074" type="curve" smooth="yes"/>
+      <point x="637" y="1074"/>
+      <point x="575" y="1047"/>
+      <point x="500" y="992" type="curve"/>
+    </contour>
+    <contour>
+      <point x="631" y="882"/>
+      <point x="520" y="864"/>
+      <point x="396" y="869" type="curve"/>
+      <point x="543" y="982"/>
+      <point x="589" y="1010"/>
+      <point x="640" y="1010" type="curve" smooth="yes"/>
+      <point x="690" y="1010"/>
+      <point x="724" y="976"/>
+      <point x="727" y="923" type="curve"/>
+    </contour>
+    <contour>
+      <point x="721" y="1462" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="517" y="804" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 17:40:44 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>x</key>
+          <integer>376</integer>
+          <key>y</key>
+          <integer>1523</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

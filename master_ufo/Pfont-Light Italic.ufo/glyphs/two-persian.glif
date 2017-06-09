@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two-persian" format="1">
+  <advance width="964"/>
+  <unicode hex="06F2"/>
+  <outline>
+    <component base="two-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 17:48:04 +0000</string>
+    </dict>
+  </lib>
+</glyph>

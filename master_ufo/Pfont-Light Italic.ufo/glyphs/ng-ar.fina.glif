@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ng-ar.fina" format="1">
+  <advance width="1627"/>
+  <unicode hex="FBD4"/>
+  <outline>
+    <component base="kaf-ar.fina"/>
+    <component base="threedotsupabove-ar" xOffset="522" yOffset="394"/>
+    <contour>
+      <point x="539" y="-230" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 19:15:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

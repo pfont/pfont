@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hamzaaboveFatha-ar" format="1">
+  <advance width="0"/>
+  <outline>
+    <component base="hamzaabove-ar" xOffset="-251" yOffset="-374" xScale="0.985" yScale="0.985" xyScale="-0.174" yxScale="0.174"/>
+    <component base="fatha-ar" xOffset="12" yOffset="38"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 18:31:53 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>hamzaabove-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fatha-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
