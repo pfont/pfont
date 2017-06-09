@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight-persian" format="1">
+  <advance width="1175"/>
+  <unicode hex="06F8"/>
+  <outline>
+    <component base="eight-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 17:48:16 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>eight-ar</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>eight-ar</string>
+    </dict>
+  </lib>
+</glyph>

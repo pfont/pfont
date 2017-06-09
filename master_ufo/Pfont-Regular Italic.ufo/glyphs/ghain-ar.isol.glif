@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghain-ar.isol" format="1">
+  <advance width="1289"/>
+  <unicode hex="FECD"/>
+  <outline>
+    <component base="ghain-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-30 18:06:04 +0000</string>
+    </dict>
+  </lib>
+</glyph>
