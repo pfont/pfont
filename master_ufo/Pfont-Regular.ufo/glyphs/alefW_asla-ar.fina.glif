@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alefWasla-ar.fina" format="1">
-  <advance width="666"/>
+  <advance width="656"/>
   <unicode hex="FB51"/>
   <outline>
     <component base="wasla-ar" xOffset="-64" yOffset="500"/>
@@ -12,7 +12,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-11-24 17:50:39 +0000</string>
+      <string>2017-05-30 19:08:18 +0000</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
