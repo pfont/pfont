@@ -27,57 +27,6 @@
 	<integer>500</integer>
 	<key>com.schriftgestaltung.widthValue</key>
 	<integer>5</integer>
-	<key>com.typemytype.robofont.guides</key>
-	<array>
-		<dict>
-			<key>isGlobal</key>
-			<true/>
-			<key>x</key>
-			<integer>-320</integer>
-			<key>y</key>
-			<integer>688</integer>
-		</dict>
-		<dict>
-			<key>isGlobal</key>
-			<true/>
-			<key>locked</key>
-			<true/>
-			<key>x</key>
-			<integer>80</integer>
-			<key>y</key>
-			<integer>276</integer>
-		</dict>
-		<dict>
-			<key>isGlobal</key>
-			<true/>
-			<key>x</key>
-			<integer>-50</integer>
-			<key>y</key>
-			<integer>1434</integer>
-		</dict>
-		<dict>
-			<key>isGlobal</key>
-			<true/>
-			<key>x</key>
-			<integer>-162</integer>
-			<key>y</key>
-			<integer>1546</integer>
-		</dict>
-		<dict>
-			<key>isGlobal</key>
-			<true/>
-			<key>locked</key>
-			<true/>
-			<key>x</key>
-			<integer>996</integer>
-			<key>y</key>
-			<integer>503</integer>
-		</dict>
-	</array>
-	<key>com.typemytype.robofont.layerOrder</key>
-	<array>
-		<string>background</string>
-	</array>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>hamza-ar</string>
@@ -456,14 +405,14 @@
 		<string>two-persian</string>
 		<string>three-persian</string>
 		<string>four-persian</string>
-		<string>four-persian.urdu</string>
 		<string>five-persian</string>
 		<string>six-persian</string>
-		<string>six-persian.urdu</string>
 		<string>seven-persian</string>
-		<string>seven-persian.urdu</string>
 		<string>eight-persian</string>
 		<string>nine-persian</string>
+		<string>four-persian.urdu</string>
+		<string>six-persian.urdu</string>
+		<string>seven-persian.urdu</string>
 		<string>asterisk</string>
 		<string>backslash</string>
 		<string>bullet</string>
