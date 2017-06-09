@@ -29,10 +29,6 @@
 	<integer>350</integer>
 	<key>com.schriftgestaltung.widthValue</key>
 	<integer>5</integer>
-	<key>com.typemytype.robofont.layerOrder</key>
-	<array>
-		<string>background</string>
-	</array>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>hamza-ar</string>
@@ -411,14 +407,14 @@
 		<string>two-persian</string>
 		<string>three-persian</string>
 		<string>four-persian</string>
-		<string>four-persian.urdu</string>
 		<string>five-persian</string>
 		<string>six-persian</string>
-		<string>six-persian.urdu</string>
 		<string>seven-persian</string>
-		<string>seven-persian.urdu</string>
 		<string>eight-persian</string>
 		<string>nine-persian</string>
+		<string>four-persian.urdu</string>
+		<string>six-persian.urdu</string>
+		<string>seven-persian.urdu</string>
 		<string>asterisk</string>
 		<string>backslash</string>
 		<string>bullet</string>
