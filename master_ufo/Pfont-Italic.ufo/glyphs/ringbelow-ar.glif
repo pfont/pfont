@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringbelow-ar" format="1">
+  <advance width="0"/>
+  <outline>
+    <component base="ringcenter-ar" xOffset="-259" yOffset="-800"/>
+    <contour>
+      <point x="-35" y="-533" type="move" name="_ring"/>
+    </contour>
+    <contour>
+      <point x="-147" y="-922" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 15:56:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>

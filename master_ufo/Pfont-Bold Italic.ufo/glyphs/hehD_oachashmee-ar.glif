@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hehDoachashmee-ar" format="1">
+  <advance width="1409"/>
+  <unicode hex="06BE"/>
+  <outline>
+    <contour>
+      <point x="440" y="811"/>
+      <point x="165" y="301"/>
+      <point x="413" y="137" type="curve"/>
+      <point x="142" y="-96" type="line"/>
+      <point x="320" y="-191"/>
+      <point x="383" y="-186"/>
+      <point x="523" y="-49" type="curve" smooth="yes"/>
+      <point x="673" y="99" type="line"/>
+      <point x="1179" y="-27" type="line"/>
+      <point x="1555" y="513"/>
+      <point x="1515" y="797"/>
+      <point x="1007" y="1184" type="curve"/>
+      <point x="874" y="974" type="line"/>
+    </contour>
+    <contour>
+      <point x="583" y="613"/>
+      <point x="727" y="723"/>
+      <point x="827" y="709" type="curve" smooth="yes"/>
+      <point x="869" y="703"/>
+      <point x="898" y="687"/>
+      <point x="913" y="658" type="curve"/>
+      <point x="649" y="362" type="line"/>
+      <point x="563" y="391"/>
+      <point x="526" y="439"/>
+      <point x="544" y="494" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1085" y="618" type="line"/>
+      <point x="1183" y="513"/>
+      <point x="1218" y="393"/>
+      <point x="1183" y="277" type="curve"/>
+      <point x="910" y="356" type="line"/>
+    </contour>
+    <contour>
+      <point x="1088" y="1400" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="603" y="-320" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:33:56 +0000</string>
+    </dict>
+  </lib>
+</glyph>

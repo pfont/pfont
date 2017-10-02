@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply" format="1">
+  <advance width="1234"/>
+  <unicode hex="00D7"/>
+  <outline>
+    <contour>
+      <point x="744" y="395" type="line"/>
+      <point x="988" y="-33" type="line"/>
+      <point x="1132" y="56" type="line"/>
+      <point x="873" y="502" type="line"/>
+      <point x="1375" y="918" type="line"/>
+      <point x="1298" y="1010" type="line"/>
+      <point x="812" y="610" type="line"/>
+      <point x="581" y="1010" type="line"/>
+      <point x="444" y="918" type="line"/>
+      <point x="682" y="502" type="line"/>
+      <point x="137" y="53" type="line"/>
+      <point x="227" y="-32" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:04:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

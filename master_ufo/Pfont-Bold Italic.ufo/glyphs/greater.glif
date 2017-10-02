@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater" format="1">
+  <advance width="1174"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="1189" y="414" type="line"/>
+      <point x="1238" y="565" type="line"/>
+      <point x="456" y="1033" type="line"/>
+      <point x="398" y="856" type="line"/>
+      <point x="1010" y="490" type="line"/>
+      <point x="160" y="122" type="line"/>
+      <point x="102" y="-55" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:04:45 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>x</key>
+          <string>-192</string>
+          <key>y</key>
+          <integer>1070</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>x</key>
+          <string>-196</string>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vinvertedabove-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="065B"/>
+  <outline>
+    <contour>
+      <point x="289" y="890" type="line"/>
+      <point x="419" y="829" type="line"/>
+      <point x="589" y="1044" type="line"/>
+      <point x="606" y="827" type="line"/>
+      <point x="765" y="847" type="line"/>
+      <point x="735" y="1223" type="line"/>
+      <point x="559" y="1223" type="line"/>
+    </contour>
+    <contour>
+      <point x="708" y="1424" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="512" y="821" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 15:43:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

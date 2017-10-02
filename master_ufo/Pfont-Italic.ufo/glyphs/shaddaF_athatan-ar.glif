@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shaddaFathatan-ar" format="1">
+  <advance width="0"/>
+  <outline>
+    <component base="shadda-ar" xOffset="-227" yOffset="-698"/>
+    <component base="fathatan-ar" xOffset="23" yOffset="29"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:00:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

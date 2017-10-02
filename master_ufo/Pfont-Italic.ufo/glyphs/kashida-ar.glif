@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kashida-ar" format="1">
+  <advance width="444"/>
+  <unicode hex="0640"/>
+  <outline>
+    <contour>
+      <point x="51" y="191" type="line" smooth="yes"/>
+      <point x="-13" y="191"/>
+      <point x="-58" y="143"/>
+      <point x="-73" y="96" type="curve" smooth="yes"/>
+      <point x="-88" y="49"/>
+      <point x="-73" y="0"/>
+      <point x="-9" y="0" type="curve" smooth="yes"/>
+      <point x="455" y="0" type="line"/>
+      <point x="492" y="32"/>
+      <point x="514" y="64"/>
+      <point x="524" y="96" type="curve" smooth="yes"/>
+      <point x="534" y="128"/>
+      <point x="532" y="159"/>
+      <point x="515" y="191" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:38:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

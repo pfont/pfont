@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afghani-ar" format="1">
+  <advance width="1241"/>
+  <unicode hex="060B"/>
+  <outline>
+    <component base="feh-ar.init" xOffset="277"/>
+    <component base="alefbelow-ar" xOffset="545" yOffset="66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:05:28 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>feh-ar.init</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

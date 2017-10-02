@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="1">
+  <advance width="792"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="804" y="406" type="line"/>
+      <point x="858" y="572" type="line"/>
+      <point x="306" y="572" type="line"/>
+      <point x="252" y="406" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:06:48 +0000</string>
+    </dict>
+  </lib>
+</glyph>

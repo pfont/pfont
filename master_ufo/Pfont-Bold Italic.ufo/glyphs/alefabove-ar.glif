@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefabove-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="0670"/>
+  <outline>
+    <contour>
+      <point x="437" y="838" type="line"/>
+      <point x="564" y="1234" type="line"/>
+      <point x="382" y="1176" type="line"/>
+      <point x="278" y="778" type="line"/>
+    </contour>
+    <contour>
+      <point x="545" y="1424" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="332" y="770" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 15:47:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

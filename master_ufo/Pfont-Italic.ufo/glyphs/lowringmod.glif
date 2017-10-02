@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lowringmod" format="1">
+  <advance width="763"/>
+  <unicode hex="02F3"/>
+  <outline>
+    <contour>
+      <point x="377" y="-462"/>
+      <point x="532" y="-345"/>
+      <point x="578" y="-199" type="curve" smooth="yes"/>
+      <point x="624" y="-55"/>
+      <point x="544" y="62"/>
+      <point x="400" y="62" type="curve" smooth="yes"/>
+      <point x="257" y="62"/>
+      <point x="101" y="-56"/>
+      <point x="55" y="-199" type="curve" smooth="yes"/>
+      <point x="9" y="-345"/>
+      <point x="88" y="-462"/>
+      <point x="232" y="-462" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="172" y="-366"/>
+      <point x="120" y="-292"/>
+      <point x="150" y="-198" type="curve" smooth="yes"/>
+      <point x="180" y="-106"/>
+      <point x="278" y="-32"/>
+      <point x="370" y="-32" type="curve" smooth="yes"/>
+      <point x="462" y="-32"/>
+      <point x="513" y="-107"/>
+      <point x="483" y="-198" type="curve" smooth="yes"/>
+      <point x="454" y="-291"/>
+      <point x="357" y="-366"/>
+      <point x="264" y="-366" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:03:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

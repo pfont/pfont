@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tahabove-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="0615"/>
+  <outline>
+    <contour>
+      <point x="589" y="1242" type="line"/>
+      <point x="592" y="1258"/>
+      <point x="583" y="1267"/>
+      <point x="570" y="1267" type="curve" smooth="yes"/>
+      <point x="565" y="1267"/>
+      <point x="560" y="1266"/>
+      <point x="554" y="1262" type="curve" smooth="yes"/>
+      <point x="511" y="1237" type="line" smooth="yes"/>
+      <point x="502" y="1231"/>
+      <point x="494" y="1223"/>
+      <point x="491" y="1214" type="curve"/>
+      <point x="437" y="1010" type="line"/>
+      <point x="421" y="961"/>
+      <point x="407" y="936"/>
+      <point x="371" y="906" type="curve"/>
+      <point x="322" y="910" type="line" smooth="yes"/>
+      <point x="306" y="911"/>
+      <point x="288" y="897"/>
+      <point x="286" y="879" type="curve" smooth="yes"/>
+      <point x="282" y="819"/>
+      <point x="287" y="811"/>
+      <point x="341" y="805" type="curve" smooth="yes"/>
+      <point x="363" y="804"/>
+      <point x="389" y="803"/>
+      <point x="416" y="803" type="curve" smooth="yes"/>
+      <point x="554" y="803"/>
+      <point x="760" y="839"/>
+      <point x="799" y="958" type="curve" smooth="yes"/>
+      <point x="820" y="1027"/>
+      <point x="780" y="1103"/>
+      <point x="700" y="1103" type="curve" smooth="yes"/>
+      <point x="656" y="1104"/>
+      <point x="600" y="1080"/>
+      <point x="527" y="1030" type="curve"/>
+    </contour>
+    <contour>
+      <point x="647" y="913"/>
+      <point x="550" y="896"/>
+      <point x="444" y="897" type="curve"/>
+      <point x="563" y="988"/>
+      <point x="603" y="1009"/>
+      <point x="647" y="1009" type="curve" smooth="yes"/>
+      <point x="701" y="1009"/>
+      <point x="722" y="971"/>
+      <point x="728" y="945" type="curve"/>
+    </contour>
+    <contour>
+      <point x="699" y="1466" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="525" y="800" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 15:50:32 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>x</key>
+          <integer>376</integer>
+          <key>y</key>
+          <integer>1523</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

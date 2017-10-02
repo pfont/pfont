@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefbelow-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="0656"/>
+  <outline>
+    <component base="alefabove-ar" xOffset="-489" yOffset="-1505"/>
+    <contour>
+      <point x="-3" y="-263" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="-209" y="-926" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 15:56:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

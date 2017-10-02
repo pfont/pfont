@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yehbarree-ar" format="1">
+  <advance width="1894"/>
+  <unicode hex="06D2"/>
+  <outline>
+    <contour>
+      <point x="1738" y="-65" type="line"/>
+      <point x="1794" y="110"/>
+      <point x="1839" y="212"/>
+      <point x="1668" y="212" type="curve" smooth="yes"/>
+      <point x="560" y="213" type="line" smooth="yes"/>
+      <point x="489" y="213"/>
+      <point x="460" y="225"/>
+      <point x="464" y="245" type="curve" smooth="yes"/>
+      <point x="479" y="331"/>
+      <point x="800" y="336"/>
+      <point x="1024" y="622" type="curve"/>
+      <point x="1163" y="539" type="line"/>
+      <point x="1344" y="782" type="line"/>
+      <point x="1305" y="828"/>
+      <point x="1243" y="901"/>
+      <point x="1163" y="906" type="curve" smooth="yes"/>
+      <point x="1030" y="914"/>
+      <point x="872" y="702"/>
+      <point x="731" y="634" type="curve" smooth="yes"/>
+      <point x="552" y="548"/>
+      <point x="446" y="490"/>
+      <point x="333" y="339" type="curve" smooth="yes"/>
+      <point x="273" y="258"/>
+      <point x="237" y="197"/>
+      <point x="220" y="145" type="curve" smooth="yes"/>
+      <point x="177" y="11"/>
+      <point x="250" y="-65"/>
+      <point x="421" y="-65" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1229" y="1114" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="840" y="-270" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:38:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>

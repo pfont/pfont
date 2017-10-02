@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hamzaaboveFathatan-ar" format="1">
+  <advance width="0"/>
+  <outline>
+    <component base="hamzaabove-ar" xOffset="-377" yOffset="-614" xScale="0.985" yScale="0.985" xyScale="-0.174" yxScale="0.174"/>
+    <component base="fathatan-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:02:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>

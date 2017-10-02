@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hehgoal-ar.fina" format="1">
+  <advance width="1207"/>
+  <unicode hex="FBA7"/>
+  <outline>
+    <contour>
+      <point x="1223" y="191" type="line" smooth="yes"/>
+      <point x="1107" y="191"/>
+      <point x="1038" y="239"/>
+      <point x="976" y="289" type="curve" smooth="yes"/>
+      <point x="906" y="348"/>
+      <point x="846" y="412"/>
+      <point x="778" y="412" type="curve" smooth="yes"/>
+      <point x="677" y="412"/>
+      <point x="516" y="280"/>
+      <point x="176" y="-12" type="curve"/>
+      <point x="170" y="-18"/>
+      <point x="164" y="-24"/>
+      <point x="163" y="-30" type="curve" smooth="yes"/>
+      <point x="161" y="-36"/>
+      <point x="162" y="-42"/>
+      <point x="166" y="-48" type="curve"/>
+      <point x="194" y="-80" type="line"/>
+      <point x="199" y="-84"/>
+      <point x="204" y="-86"/>
+      <point x="210" y="-86" type="curve" smooth="yes"/>
+      <point x="218" y="-86"/>
+      <point x="225" y="-83"/>
+      <point x="233" y="-76" type="curve" smooth="yes"/>
+      <point x="486" y="132"/>
+      <point x="639" y="245"/>
+      <point x="668" y="245" type="curve" smooth="yes"/>
+      <point x="747" y="245"/>
+      <point x="876" y="0"/>
+      <point x="1108" y="0" type="curve" smooth="yes"/>
+      <point x="1217" y="0" type="line"/>
+      <point x="1254" y="32"/>
+      <point x="1277" y="64"/>
+      <point x="1287" y="96" type="curve" smooth="yes"/>
+      <point x="1297" y="128"/>
+      <point x="1295" y="159"/>
+      <point x="1278" y="191" type="curve"/>
+    </contour>
+    <contour>
+      <point x="839" y="617" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="537" y="-199" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:33:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

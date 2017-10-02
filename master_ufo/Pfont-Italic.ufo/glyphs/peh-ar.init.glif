@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peh-ar.init" format="1">
+  <advance width="815"/>
+  <unicode hex="FB58"/>
+  <outline>
+    <component base="dotlessbeh2-ar.init"/>
+    <component base="threedotsdownbelow-ar" xOffset="-33" yOffset="-77"/>
+    <contour>
+      <point x="839" y="1130" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:41:26 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dotlessbeh2-ar.init</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

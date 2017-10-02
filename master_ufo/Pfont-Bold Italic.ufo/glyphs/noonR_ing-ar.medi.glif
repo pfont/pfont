@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noonRing-ar.medi" format="1">
+  <advance width="893"/>
+  <outline>
+    <component base="noon-ar.medi"/>
+    <component base="ringbelow-ar" xOffset="209" yOffset="367"/>
+    <contour>
+      <point x="-295" y="-550" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:32:44 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ringbelow-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

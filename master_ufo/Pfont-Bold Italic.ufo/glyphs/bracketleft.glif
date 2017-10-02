@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="1">
+  <advance width="587"/>
+  <unicode hex="005B"/>
+  <outline>
+    <contour>
+      <point x="293" y="-535" type="line"/>
+      <point x="337" y="-401" type="line"/>
+      <point x="166" y="-401" type="line"/>
+      <point x="744" y="1379" type="line"/>
+      <point x="915" y="1379" type="line"/>
+      <point x="959" y="1514" type="line"/>
+      <point x="656" y="1514" type="line" smooth="yes"/>
+      <point x="633" y="1514"/>
+      <point x="606" y="1495"/>
+      <point x="599" y="1474" type="curve" smooth="yes"/>
+      <point x="-41" y="-495" type="line" smooth="yes"/>
+      <point x="-48" y="-516"/>
+      <point x="-33" y="-535"/>
+      <point x="-10" y="-535" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:07:02 +0000</string>
+    </dict>
+  </lib>
+</glyph>

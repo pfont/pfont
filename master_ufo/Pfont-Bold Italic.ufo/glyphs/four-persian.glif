@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four-persian" format="1">
+  <advance width="1206"/>
+  <unicode hex="06F4"/>
+  <outline>
+    <contour>
+      <point x="696" y="911" type="line"/>
+      <point x="713" y="1219" type="line"/>
+      <point x="458" y="1041" type="line"/>
+      <point x="483" y="740"/>
+      <point x="490" y="457"/>
+      <point x="328" y="-29" type="curve"/>
+      <point x="553" y="0" type="line"/>
+      <point x="635" y="252"/>
+      <point x="690" y="440"/>
+      <point x="728" y="615" type="curve"/>
+      <point x="769" y="607"/>
+      <point x="818" y="602"/>
+      <point x="873" y="602" type="curve" smooth="yes"/>
+      <point x="974" y="602"/>
+      <point x="1170" y="628"/>
+      <point x="1288" y="657" type="curve"/>
+      <point x="1389" y="931" type="line"/>
+      <point x="1285" y="910"/>
+      <point x="1104" y="880"/>
+      <point x="997" y="882" type="curve" smooth="yes"/>
+      <point x="949" y="883" type="line"/>
+      <point x="979" y="1096" type="line"/>
+      <point x="1100" y="1116"/>
+      <point x="1194" y="1114"/>
+      <point x="1318" y="1090" type="curve"/>
+      <point x="1398" y="1334" type="line"/>
+      <point x="1350" y="1357"/>
+      <point x="1278" y="1370"/>
+      <point x="1203" y="1370" type="curve" smooth="yes"/>
+      <point x="958" y="1370"/>
+      <point x="804" y="1211"/>
+      <point x="722" y="913" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:10:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

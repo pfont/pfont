@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddal-ar.isol" format="1">
+  <advance width="1134"/>
+  <unicode hex="FB88"/>
+  <outline>
+    <component base="ddal-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-14 17:47:55 +0000</string>
+    </dict>
+  </lib>
+</glyph>

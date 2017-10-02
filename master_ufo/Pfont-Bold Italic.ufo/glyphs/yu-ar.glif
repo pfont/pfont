@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yu-ar" format="1">
+  <advance width="1117"/>
+  <unicode hex="06C8"/>
+  <outline>
+    <component base="waw-ar"/>
+    <component base="alefabove-ar" xOffset="626" yOffset="362"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:36:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six-ar" format="1">
+  <advance width="1104"/>
+  <unicode hex="0666"/>
+  <outline>
+    <contour>
+      <point x="1018" y="106" type="line"/>
+      <point x="998" y="339"/>
+      <point x="1020" y="538"/>
+      <point x="1087" y="746" type="curve" smooth="yes"/>
+      <point x="1119" y="843"/>
+      <point x="1147" y="941"/>
+      <point x="1204" y="1038" type="curve"/>
+      <point x="1177" y="1262" type="line"/>
+      <point x="944" y="1245"/>
+      <point x="751" y="1236"/>
+      <point x="560" y="1299" type="curve"/>
+      <point x="442" y="991" type="line"/>
+      <point x="521" y="946"/>
+      <point x="775" y="945"/>
+      <point x="958" y="960" type="curve"/>
+      <point x="892" y="809"/>
+      <point x="845" y="688"/>
+      <point x="809" y="578" type="curve" smooth="yes"/>
+      <point x="739" y="362"/>
+      <point x="696" y="153"/>
+      <point x="722" y="-62" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:10:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

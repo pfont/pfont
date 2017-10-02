@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wawTwodots-ar.fina" format="1">
+  <advance width="1129"/>
+  <outline>
+    <component base="waw-ar.fina"/>
+    <component base="twodotshorizontalabove-ar" xOffset="335" yOffset="283"/>
+    <contour>
+      <point x="53" y="-680" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:36:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e-ar.init" format="1">
+  <advance width="788"/>
+  <unicode hex="FBE6"/>
+  <outline>
+    <component base="behDotless-ar.init"/>
+    <component base="twodotsverticalbelow-ar" xOffset="99" yOffset="-203"/>
+    <contour>
+      <point x="815" y="1170" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:38:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>

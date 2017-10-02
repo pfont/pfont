@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero-ar" format="1">
+  <advance width="836"/>
+  <unicode hex="0660"/>
+  <outline>
+    <contour>
+      <point x="428" y="187"/>
+      <point x="454" y="176"/>
+      <point x="482" y="176" type="curve" smooth="yes"/>
+      <point x="509" y="176"/>
+      <point x="541" y="187"/>
+      <point x="570" y="210" type="curve" smooth="yes"/>
+      <point x="816" y="399" type="line" smooth="yes"/>
+      <point x="844" y="421"/>
+      <point x="862" y="448"/>
+      <point x="871" y="476" type="curve" smooth="yes"/>
+      <point x="880" y="504"/>
+      <point x="878" y="533"/>
+      <point x="863" y="555" type="curve" smooth="yes"/>
+      <point x="737" y="739" type="line" smooth="yes"/>
+      <point x="721" y="762"/>
+      <point x="697" y="773"/>
+      <point x="670" y="773" type="curve" smooth="yes"/>
+      <point x="642" y="773"/>
+      <point x="611" y="762"/>
+      <point x="582" y="740" type="curve" smooth="yes"/>
+      <point x="335" y="556" type="line" smooth="yes"/>
+      <point x="305" y="534"/>
+      <point x="283" y="505"/>
+      <point x="275" y="477" type="curve" smooth="yes"/>
+      <point x="266" y="449"/>
+      <point x="268" y="420"/>
+      <point x="284" y="398" type="curve" smooth="yes"/>
+      <point x="413" y="209" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="421" y="475" type="line"/>
+      <point x="622" y="624" type="line"/>
+      <point x="723" y="475" type="line"/>
+      <point x="526" y="323" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:10:47 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>x</key>
+          <string>-273</string>
+          <key>y</key>
+          <integer>474</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

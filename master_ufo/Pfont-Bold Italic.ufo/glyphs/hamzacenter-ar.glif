@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hamzacenter-ar" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="55" y="7" type="line"/>
+      <point x="152" y="51"/>
+      <point x="511" y="231"/>
+      <point x="615" y="282" type="curve"/>
+      <point x="611" y="434" type="line"/>
+      <point x="360" y="309" type="line"/>
+      <point x="271" y="446" type="line"/>
+      <point x="345" y="504"/>
+      <point x="420" y="529"/>
+      <point x="529" y="528" type="curve"/>
+      <point x="554" y="674" type="line"/>
+      <point x="540" y="676"/>
+      <point x="525" y="677"/>
+      <point x="509" y="677" type="curve" smooth="yes"/>
+      <point x="349" y="677"/>
+      <point x="184" y="566"/>
+      <point x="139" y="427" type="curve" smooth="yes"/>
+      <point x="110" y="340"/>
+      <point x="160" y="269"/>
+      <point x="197" y="220" type="curve"/>
+      <point x="78" y="151" type="line"/>
+    </contour>
+    <contour>
+      <point x="383" y="353" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 15:46:55 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three-ar" format="1">
+  <advance width="1330"/>
+  <unicode hex="0663"/>
+  <outline>
+    <contour>
+      <point x="552" y="0" type="line"/>
+      <point x="654" y="314"/>
+      <point x="705" y="441"/>
+      <point x="753" y="740" type="curve"/>
+      <point x="763" y="739"/>
+      <point x="773" y="739"/>
+      <point x="784" y="739" type="curve" smooth="yes"/>
+      <point x="868" y="739"/>
+      <point x="953" y="765"/>
+      <point x="1020" y="811" type="curve"/>
+      <point x="1064" y="785"/>
+      <point x="1112" y="771"/>
+      <point x="1162" y="771" type="curve" smooth="yes"/>
+      <point x="1337" y="771"/>
+      <point x="1513" y="920"/>
+      <point x="1573" y="1118" type="curve" smooth="yes"/>
+      <point x="1624" y="1283" type="line"/>
+      <point x="1425" y="1293" type="line"/>
+      <point x="1369" y="1111"/>
+      <point x="1325" y="1055"/>
+      <point x="1249" y="1055" type="curve" smooth="yes"/>
+      <point x="1231" y="1055"/>
+      <point x="1212" y="1058"/>
+      <point x="1190" y="1063" type="curve"/>
+      <point x="1266" y="1283" type="line"/>
+      <point x="1065" y="1284" type="line"/>
+      <point x="1002" y="1083"/>
+      <point x="970" y="1041"/>
+      <point x="887" y="1038" type="curve" smooth="yes"/>
+      <point x="771" y="1034"/>
+      <point x="776" y="1095"/>
+      <point x="764" y="1274" type="curve"/>
+      <point x="456" y="1034" type="line"/>
+      <point x="565" y="662"/>
+      <point x="413" y="237"/>
+      <point x="327" y="-29" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:10:40 +0000</string>
+    </dict>
+  </lib>
+</glyph>

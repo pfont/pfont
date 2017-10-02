@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rehDotbelowdotabove-ar.fina" format="1">
+  <advance width="1104"/>
+  <outline>
+    <component base="reh-ar.fina"/>
+    <component base="dotcenter-ar" xOffset="425" yOffset="-1075"/>
+    <component base="dotcenter-ar" xOffset="-24" yOffset="-499"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:20:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

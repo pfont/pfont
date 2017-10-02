@@ -1,0 +1,300 @@
+# automatic
+@AllLetters = [ hamza-ar highhamza-ar hamza-ar.isol alef-ar alef-ar.isol alef-ar.fina alef-ar.short alef-ar.fina.short alefHamzaabove-ar alefHamzaabove-ar.isol alefHamzaabove-ar.fina alefHamzabelow-ar alefHamzabelow-ar.isol alefHamzabelow-ar.fina alefMadda-ar alefMadda-ar.isol alefMadda-ar.fina alefWasla-ar alefWasla-ar.isol alefWasla-ar.fina behDotless-ar behDotless-ar.fina behDotless-ar.medi behDotless-ar.init beh-ar beh-ar.isol beh-ar.fina beh-ar.medi beh-ar.init peh-ar peh-ar.isol peh-ar.fina peh-ar.medi peh-ar.init alefMaksura-ar.medi alefMaksura-ar.init teh-ar teh-ar.isol teh-ar.fina teh-ar.medi teh-ar.init tehRing-ar tehRing-ar.isol tehRing-ar.fina tehRing-ar.medi tehRing-ar.init theh-ar theh-ar.isol theh-ar.fina theh-ar.medi theh-ar.init tteh-ar tteh-ar.isol tteh-ar.fina tteh-ar.medi tteh-ar.init jeem-ar jeem-ar.isol jeem-ar.fina jeem-ar.medi jeem-ar.init tcheh-ar tcheh-ar.isol tcheh-ar.fina tcheh-ar.medi tcheh-ar.init hah-ar hah-ar.isol hah-ar.fina hah-ar.medi hah-ar.init hahHamzaabove-ar hahHamzaabove-ar.isol hahHamzaabove-ar.fina hahHamzaabove-ar.medi hahHamzaabove-ar.init hahThreedotsabove-ar hahThreedotsabove-ar.isol hahThreedotsabove-ar.fina hahThreedotsabove-ar.medi hahThreedotsabove-ar.init khah-ar khah-ar.isol khah-ar.fina khah-ar.medi khah-ar.init dal-ar dal-ar.isol dal-ar.fina thal-ar thal-ar.isol thal-ar.fina ddal-ar ddal-ar.isol ddal-ar.fina dalRing-ar dalRing-ar.isol dalRing-ar.fina dul-ar dul-ar.isol dul-ar.fina dalVinvertedabove-ar dalVinvertedabove-ar.isol dalVinvertedabove-ar.fina reh-ar reh-ar.isol reh-ar.fina zain-ar zain-ar.isol zain-ar.fina rreh-ar rreh-ar.isol rreh-ar.fina rehRing-ar rehRing-ar.isol rehRing-ar.fina rehVbelow-ar rehVbelow-ar.isol rehVbelow-ar.fina rehDotbelowdotabove-ar rehDotbelowdotabove-ar.isol rehDotbelowdotabove-ar.fina jeh-ar jeh-ar.isol jeh-ar.fina seen-ar seen-ar.isol seen-ar.fina seen-ar.medi seen-ar.init seenDotbelowDotabove-ar seenDotbelowDotabove-ar.isol seenDotbelowDotabove-ar.fina seenDotbelowDotabove-ar.medi seenDotbelowDotabove-ar.init sheen-ar sheen-ar.isol sheen-ar.fina sheen-ar.medi sheen-ar.init sad-ar sad-ar.isol sad-ar.fina sad-ar.medi sad-ar.init dad-ar dad-ar.isol dad-ar.fina dad-ar.medi dad-ar.init tah-ar tah-ar.isol tah-ar.fina tah-ar.medi tah-ar.init zah-ar zah-ar.isol zah-ar.fina zah-ar.medi zah-ar.init ain-ar ain-ar.isol ain-ar.fina ain-ar.medi ain-ar.init ghain-ar ghain-ar.isol ghain-ar.fina ghain-ar.medi ghain-ar.init feh-ar feh-ar.isol feh-ar.fina feh-ar.medi feh-ar.init veh-ar veh-ar.isol veh-ar.fina veh-ar.medi veh-ar.init fehDotless-ar fehDotless-ar.fina fehDotless-ar.medi fehDotless-ar.init qafDotless-ar qafDotless-ar.fina qaf-ar qaf-ar.isol qaf-ar.fina qaf-ar.medi qaf-ar.init dotlesskaf-ar dotlesskaf-ar.fina kaf-ar kaf-ar.isol kaf-ar.fina kaf-ar.medi kaf-ar.init keheh-ar keheh-ar.isol keheh-ar.fina keheh-ar.medi keheh-ar.init gaf-ar gaf-ar.isol gaf-ar.fina gaf-ar.medi gaf-ar.init kafRing-ar kafRing-ar.isol kafRing-ar.fina kafRing-ar.medi kafRing-ar.init ng-ar ng-ar.isol ng-ar.fina ng-ar.medi ng-ar.init lam-ar lam-ar.isol lam-ar.fina lam-ar.medi lam-ar.init lamVabove-ar lamVabove-ar.isol lamVabove-ar.fina lamVabove-ar.medi lamVabove-ar.init meem-ar meem-ar.isol meem-ar.fina meem-ar.medi meem-ar.init noon-ar noon-ar.isol noon-ar.fina noon-ar.medi noon-ar.init noonghunna-ar noonghunna-ar.fina noonRing-ar noonRing-ar.isol noonRing-ar.fina noonRing-ar.medi noonRing-ar.init heh-ar heh-ar.isol heh-ar.fina heh-ar.medi heh-ar.init hehHamzaabove-ar hehHamzaabove-ar.isol hehHamzaabove-ar.fina hehgoal-ar hehgoal-ar.isol hehgoal-ar.fina hehgoal-ar.medi hehgoal-ar.init hehgoalHamzaabove-ar hehgoalHamzaabove-ar.isol hehgoalHamzaabove-ar.fina hehgoalHamzaabove-ar.medi hehgoalHamzaabove-ar.init hehDoachashmee-ar hehDoachashmee-ar.isol hehDoachashmee-ar.fina hehDoachashmee-ar.medi hehDoachashmee-ar.init tehMarbuta-ar tehMarbuta-ar.isol tehMarbuta-ar.fina tehMarbutagoal-ar tehMarbutagoal-ar.isol tehMarbutagoal-ar.fina waw-ar waw-ar.isol waw-ar.fina wawring-ar wawring-ar.isol wawring-ar.fina wawTwodots-ar wawTwodots-ar.isol wawTwodots-ar.fina wawHamzaabove-ar wawHamzaabove-ar.isol wawHamzaabove-ar.fina oe-ar oe-ar.isol oe-ar.fina u-ar u-ar.isol u-ar.fina yu-ar yu-ar.isol yu-ar.fina ve-ar ve-ar.isol ve-ar.fina alefMaksura-ar alefMaksura-ar.isol alefMaksura-ar.fina yeh-ar yeh-ar.isol yeh-ar.fina yeh-ar.medi yeh-ar.init yehHamzaabove-ar yehHamzaabove-ar.isol yehHamzaabove-ar.fina yehHamzaabove-ar.medi yehHamzaabove-ar.init yehVabove-ar yehVabove-ar.isol yehVabove-ar.fina yehVabove-ar.medi yehVabove-ar.init yeh-farsi yeh-farsi.isol yeh-farsi.fina yeh-farsi.medi yeh-farsi.init yehTail-ar yehTail-ar.isol yehTail-ar.fina e-ar e-ar.isol e-ar.fina e-ar.medi e-ar.init yehbarree-ar yehbarree-ar.isol yehbarree-ar.fina yehbarree-ar.fina.001 yehbarreeHamzaabove-ar yehbarreeHamzaabove-ar.isol yehbarreeHamzaabove-ar.fina ae-ar ae-ar.isol ae-ar.fina kashida-ar lam_alef-ar lam_alef-ar.fina lam_alefHamzaabove-ar lam_alefHamzaabove-ar.fina lam_alefHamzabelow-ar lam_alefHamzabelow-ar.fina lam_alefMadda-ar lam_alefMadda-ar.fina lam_alefWasla-ar lam_alefWasla-ar.fina beh_alef-ar beh_alef-ar.isol peh_alef-ar peh_alef-ar.isol yeh_alef-ar yeh_alef-ar.isol yeh-farsi_alef-ar yeh-farsi_alef-ar.isol allah-ar ];
+
+# automatic
+@All = [ hamza-ar highhamza-ar hamza-ar.isol alef-ar alef-ar.isol alef-ar.fina alef-ar.short alef-ar.fina.short alefHamzaabove-ar alefHamzaabove-ar.isol alefHamzaabove-ar.fina alefHamzabelow-ar alefHamzabelow-ar.isol alefHamzabelow-ar.fina alefMadda-ar alefMadda-ar.isol alefMadda-ar.fina alefWasla-ar alefWasla-ar.isol alefWasla-ar.fina behDotless-ar behDotless-ar.fina behDotless-ar.medi behDotless-ar.init beh-ar beh-ar.isol beh-ar.fina beh-ar.medi beh-ar.init peh-ar peh-ar.isol peh-ar.fina peh-ar.medi peh-ar.init alefMaksura-ar.medi alefMaksura-ar.init teh-ar teh-ar.isol teh-ar.fina teh-ar.medi teh-ar.init tehRing-ar tehRing-ar.isol tehRing-ar.fina tehRing-ar.medi tehRing-ar.init theh-ar theh-ar.isol theh-ar.fina theh-ar.medi theh-ar.init tteh-ar tteh-ar.isol tteh-ar.fina tteh-ar.medi tteh-ar.init jeem-ar jeem-ar.isol jeem-ar.fina jeem-ar.medi jeem-ar.init tcheh-ar tcheh-ar.isol tcheh-ar.fina tcheh-ar.medi tcheh-ar.init hah-ar hah-ar.isol hah-ar.fina hah-ar.medi hah-ar.init hahHamzaabove-ar hahHamzaabove-ar.isol hahHamzaabove-ar.fina hahHamzaabove-ar.medi hahHamzaabove-ar.init hahThreedotsabove-ar hahThreedotsabove-ar.isol hahThreedotsabove-ar.fina hahThreedotsabove-ar.medi hahThreedotsabove-ar.init khah-ar khah-ar.isol khah-ar.fina khah-ar.medi khah-ar.init dal-ar dal-ar.isol dal-ar.fina thal-ar thal-ar.isol thal-ar.fina ddal-ar ddal-ar.isol ddal-ar.fina dalRing-ar dalRing-ar.isol dalRing-ar.fina dul-ar dul-ar.isol dul-ar.fina dalVinvertedabove-ar dalVinvertedabove-ar.isol dalVinvertedabove-ar.fina reh-ar reh-ar.isol reh-ar.fina zain-ar zain-ar.isol zain-ar.fina rreh-ar rreh-ar.isol rreh-ar.fina rehRing-ar rehRing-ar.isol rehRing-ar.fina rehVbelow-ar rehVbelow-ar.isol rehVbelow-ar.fina rehDotbelowdotabove-ar rehDotbelowdotabove-ar.isol rehDotbelowdotabove-ar.fina jeh-ar jeh-ar.isol jeh-ar.fina seen-ar seen-ar.isol seen-ar.fina seen-ar.medi seen-ar.init seenDotbelowDotabove-ar seenDotbelowDotabove-ar.isol seenDotbelowDotabove-ar.fina seenDotbelowDotabove-ar.medi seenDotbelowDotabove-ar.init sheen-ar sheen-ar.isol sheen-ar.fina sheen-ar.medi sheen-ar.init sad-ar sad-ar.isol sad-ar.fina sad-ar.medi sad-ar.init dad-ar dad-ar.isol dad-ar.fina dad-ar.medi dad-ar.init tah-ar tah-ar.isol tah-ar.fina tah-ar.medi tah-ar.init zah-ar zah-ar.isol zah-ar.fina zah-ar.medi zah-ar.init ain-ar ain-ar.isol ain-ar.fina ain-ar.medi ain-ar.init ghain-ar ghain-ar.isol ghain-ar.fina ghain-ar.medi ghain-ar.init feh-ar feh-ar.isol feh-ar.fina feh-ar.medi feh-ar.init veh-ar veh-ar.isol veh-ar.fina veh-ar.medi veh-ar.init fehDotless-ar fehDotless-ar.fina fehDotless-ar.medi fehDotless-ar.init qafDotless-ar qafDotless-ar.fina qaf-ar qaf-ar.isol qaf-ar.fina qaf-ar.medi qaf-ar.init dotlesskaf-ar dotlesskaf-ar.fina kaf-ar kaf-ar.isol kaf-ar.fina kaf-ar.medi kaf-ar.init keheh-ar keheh-ar.isol keheh-ar.fina keheh-ar.medi keheh-ar.init gaf-ar gaf-ar.isol gaf-ar.fina gaf-ar.medi gaf-ar.init kafRing-ar kafRing-ar.isol kafRing-ar.fina kafRing-ar.medi kafRing-ar.init ng-ar ng-ar.isol ng-ar.fina ng-ar.medi ng-ar.init lam-ar lam-ar.isol lam-ar.fina lam-ar.medi lam-ar.init lamVabove-ar lamVabove-ar.isol lamVabove-ar.fina lamVabove-ar.medi lamVabove-ar.init meem-ar meem-ar.isol meem-ar.fina meem-ar.medi meem-ar.init noon-ar noon-ar.isol noon-ar.fina noon-ar.medi noon-ar.init noonghunna-ar noonghunna-ar.fina noonRing-ar noonRing-ar.isol noonRing-ar.fina noonRing-ar.medi noonRing-ar.init heh-ar heh-ar.isol heh-ar.fina heh-ar.medi heh-ar.init hehHamzaabove-ar hehHamzaabove-ar.isol hehHamzaabove-ar.fina hehgoal-ar hehgoal-ar.isol hehgoal-ar.fina hehgoal-ar.medi hehgoal-ar.init hehgoalHamzaabove-ar hehgoalHamzaabove-ar.isol hehgoalHamzaabove-ar.fina hehgoalHamzaabove-ar.medi hehgoalHamzaabove-ar.init hehDoachashmee-ar hehDoachashmee-ar.isol hehDoachashmee-ar.fina hehDoachashmee-ar.medi hehDoachashmee-ar.init tehMarbuta-ar tehMarbuta-ar.isol tehMarbuta-ar.fina tehMarbutagoal-ar tehMarbutagoal-ar.isol tehMarbutagoal-ar.fina waw-ar waw-ar.isol waw-ar.fina wawring-ar wawring-ar.isol wawring-ar.fina wawTwodots-ar wawTwodots-ar.isol wawTwodots-ar.fina wawHamzaabove-ar wawHamzaabove-ar.isol wawHamzaabove-ar.fina oe-ar oe-ar.isol oe-ar.fina u-ar u-ar.isol u-ar.fina yu-ar yu-ar.isol yu-ar.fina ve-ar ve-ar.isol ve-ar.fina alefMaksura-ar alefMaksura-ar.isol alefMaksura-ar.fina yeh-ar yeh-ar.isol yeh-ar.fina yeh-ar.medi yeh-ar.init yehHamzaabove-ar yehHamzaabove-ar.isol yehHamzaabove-ar.fina yehHamzaabove-ar.medi yehHamzaabove-ar.init yehVabove-ar yehVabove-ar.isol yehVabove-ar.fina yehVabove-ar.medi yehVabove-ar.init yeh-farsi yeh-farsi.isol yeh-farsi.fina yeh-farsi.medi yeh-farsi.init yehTail-ar yehTail-ar.isol yehTail-ar.fina e-ar e-ar.isol e-ar.fina e-ar.medi e-ar.init yehbarree-ar yehbarree-ar.isol yehbarree-ar.fina yehbarree-ar.fina.001 yehbarreeHamzaabove-ar yehbarreeHamzaabove-ar.isol yehbarreeHamzaabove-ar.fina ae-ar ae-ar.isol ae-ar.fina kashida-ar lam_alef-ar lam_alef-ar.fina lam_alefHamzaabove-ar lam_alefHamzaabove-ar.fina lam_alefHamzabelow-ar lam_alefHamzabelow-ar.fina lam_alefMadda-ar lam_alefMadda-ar.fina lam_alefWasla-ar lam_alefWasla-ar.fina beh_alef-ar beh_alef-ar.isol peh_alef-ar peh_alef-ar.isol yeh_alef-ar yeh_alef-ar.isol yeh-farsi_alef-ar yeh-farsi_alef-ar.isol allah-ar decimalseparator-ar thousandseparator-ar zero-ar one-ar two-ar three-ar four-ar five-ar six-ar seven-ar eight-ar nine-ar zero-persian one-persian two-persian three-persian four-persian five-persian six-persian seven-persian eight-persian nine-persian four-persian.urdu six-persian.urdu seven-persian.urdu asterisk backslash bullet colon comma ellipsis exclam numbersign period quotedbl quotesingle semicolon slash underscore braceleft braceright bracketleft bracketright parenleft parenright hyphen hyphentwo guillemetleft guillemetright asteriskArt-ar fullstop-ar comma-ar semicolon-ar question-ar asterisk-ar endofayah-ar parenleft-ar parenright-ar space nbspace zerowidthspace lefttorightmark righttoleftmark zerowidthjoiner zerowidthnonjoiner CR lefttorightembedding lefttorightoverride popdirectionalformatting righttoleftembedding righttoleftoverride zeroWidthNoBreakSpace afghani-ar rial plus minus multiply divide equal greater less asciitilde dottedCircle whiteStar.circled at degree bar asciicircum lowringmod sajdah-ar percent-ar perthousand-ar pertenthousand-ar caron tahabove-ar alefLamYehabove-ar dotabove-ar dotbelow-ar dotcenter-ar twodotsverticalabove-ar twodotsverticalbelow-ar twodotshorizontalabove-ar twodotshorizontalbelow-ar threedotsdownabove-ar threedotsdownbelow-ar threedotsdowncenter-ar threedotsupabove-ar threedotsupbelow-ar fourdotsabove-ar fourdotsbelow-ar ringbelow-ar wasla-ar ringcenter-ar alefabove-ar alefbelow-ar hamzaabove-ar hamzabelow-ar hamzacenter-ar hamzaaboveDamma-ar hamzaaboveDammatan-ar hamzaaboveFatha-ar hamzaaboveFathatan-ar hamzaaboveSukun-ar hamzabelowKasra-ar hamzabelowKasratan-ar fathatan-ar dammatan-ar kasratan-ar fatha-ar damma-ar kasra-ar shadda-ar sukun-ar madda-ar shaddaAlefabove-ar shaddaDamma-ar shaddaDammatan-ar shaddaFatha-ar shaddaFathatan-ar shaddaKasra-ar shaddaKasratan-ar noonghunnaabove-ar vabove-ar vbelow-ar vinvertedabove-ar sadLamAlefMaksuraabove-ar qafLamAlefMaksuraabove-ar dotlessbeh2-ar.init kafche-ar ];
+
+# automatic
+@ArabicLetters = [ alef-ar alef-ar.fina alefHamzaabove-ar alefHamzaabove-ar.fina alefHamzabelow-ar alefHamzabelow-ar.fina alefMadda-ar alefMadda-ar.fina alefMaksura-ar alefWasla-ar alefWasla-ar.fina dal-ar dal-ar.fina ddal-ar hehgoalHamzaabove-ar jeh-ar lam_alef-ar lam_alef-ar.fina lam_alefHamzaabove-ar lam_alefHamzaabove-ar.fina lam_alefHamzabelow-ar lam_alefHamzabelow-ar.fina lam_alefMadda-ar lam_alefMadda-ar.fina lam_alefWasla-ar lam_alefWasla-ar.fina noonghunna-ar noonghunna-ar.fina reh-ar reh-ar.fina rreh-ar tehMarbuta-ar tehMarbutagoal-ar thal-ar thal-ar.fina waw-ar waw-ar.fina wawHamzaabove-ar wawHamzaabove-ar.fina zain-ar zain-ar.fina ];
+
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem arab dflt;
+languagesystem arab URD;
+
+feature aalt {
+# automatic
+feature ccmp;
+feature locl;
+feature isol;
+feature init;
+feature medi;
+feature fina;
+feature rlig;
+} aalt;
+
+feature ccmp {
+# automatic
+lookup ccmp_arab_1 {
+	script arab;
+	sub hamzaabove-ar damma-ar by hamzaaboveDamma-ar;
+	sub damma-ar hamzaabove-ar by hamzaaboveDamma-ar;
+	sub hamzaabove-ar dammatan-ar by hamzaaboveDammatan-ar;
+	sub dammatan-ar hamzaabove-ar by hamzaaboveDammatan-ar;
+	sub hamzaabove-ar fatha-ar by hamzaaboveFatha-ar;
+	sub fatha-ar hamzaabove-ar by hamzaaboveFatha-ar;
+	sub hamzaabove-ar fathatan-ar by hamzaaboveFathatan-ar;
+	sub fathatan-ar hamzaabove-ar by hamzaaboveFathatan-ar;
+	sub hamzaabove-ar sukun-ar by hamzaaboveSukun-ar;
+	sub sukun-ar hamzaabove-ar by hamzaaboveSukun-ar;
+	sub hamzabelow-ar kasra-ar by hamzabelowKasra-ar;
+	sub kasra-ar hamzabelow-ar by hamzabelowKasra-ar;
+	sub hamzabelow-ar kasratan-ar by hamzabelowKasratan-ar;
+	sub kasratan-ar hamzabelow-ar by hamzabelowKasratan-ar;
+	sub shadda-ar alefabove-ar by shaddaAlefabove-ar;
+	sub alefabove-ar shadda-ar by shaddaAlefabove-ar;
+	sub shadda-ar damma-ar by shaddaDamma-ar;
+	sub damma-ar shadda-ar by shaddaDamma-ar;
+	sub shadda-ar dammatan-ar by shaddaDammatan-ar;
+	sub dammatan-ar shadda-ar by shaddaDammatan-ar;
+	sub shadda-ar fatha-ar by shaddaFatha-ar;
+	sub fatha-ar shadda-ar by shaddaFatha-ar;
+	sub shadda-ar fathatan-ar by shaddaFathatan-ar;
+	sub fathatan-ar shadda-ar by shaddaFathatan-ar;
+	sub shadda-ar kasra-ar by shaddaKasra-ar;
+	sub kasra-ar shadda-ar by shaddaKasra-ar;
+	sub shadda-ar kasratan-ar by shaddaKasratan-ar;
+	sub kasratan-ar shadda-ar by shaddaKasratan-ar;
+} ccmp_arab_1;
+} ccmp;
+
+feature locl {
+# automatic
+script arab;
+language URD;
+sub four-persian by four-persian.urdu;
+sub six-persian by six-ar;
+sub seven-persian by seven-persian.urdu;
+} locl;
+
+feature isol {
+# automatic
+lookupflag IgnoreMarks RightToLeft;
+ignore sub @ArabicLetters heh-ar';
+sub heh-ar' by heh-ar.isol;
+} isol;
+
+feature init {
+# automatic
+sub behDotless-ar by behDotless-ar.init;
+sub beh-ar by beh-ar.init;
+sub peh-ar by peh-ar.init;
+sub alefMaksura-ar by alefMaksura-ar.init;
+sub teh-ar by teh-ar.init;
+sub tehRing-ar by tehRing-ar.init;
+sub theh-ar by theh-ar.init;
+sub tteh-ar by tteh-ar.init;
+sub jeem-ar by jeem-ar.init;
+sub tcheh-ar by tcheh-ar.init;
+sub hah-ar by hah-ar.init;
+sub hahHamzaabove-ar by hahHamzaabove-ar.init;
+sub hahThreedotsabove-ar by hahThreedotsabove-ar.init;
+sub khah-ar by khah-ar.init;
+sub seen-ar by seen-ar.init;
+sub seenDotbelowDotabove-ar by seenDotbelowDotabove-ar.init;
+sub sheen-ar by sheen-ar.init;
+sub sad-ar by sad-ar.init;
+sub dad-ar by dad-ar.init;
+sub tah-ar by tah-ar.init;
+sub zah-ar by zah-ar.init;
+sub ain-ar by ain-ar.init;
+sub ghain-ar by ghain-ar.init;
+sub feh-ar by feh-ar.init;
+sub veh-ar by veh-ar.init;
+sub fehDotless-ar by fehDotless-ar.init;
+sub qaf-ar by qaf-ar.init;
+sub kaf-ar by kaf-ar.init;
+sub keheh-ar by keheh-ar.init;
+sub gaf-ar by gaf-ar.init;
+sub kafRing-ar by kafRing-ar.init;
+sub ng-ar by ng-ar.init;
+sub lam-ar by lam-ar.init;
+sub lamVabove-ar by lamVabove-ar.init;
+sub meem-ar by meem-ar.init;
+sub noon-ar by noon-ar.init;
+sub noonRing-ar by noonRing-ar.init;
+sub heh-ar by heh-ar.init;
+sub hehgoal-ar by hehgoal-ar.init;
+sub hehgoalHamzaabove-ar by hehgoalHamzaabove-ar.init;
+sub hehDoachashmee-ar by hehDoachashmee-ar.init;
+sub yeh-ar by yeh-ar.init;
+sub yehHamzaabove-ar by yehHamzaabove-ar.init;
+sub yehVabove-ar by yehVabove-ar.init;
+sub yeh-farsi by yeh-farsi.init;
+sub e-ar by e-ar.init;
+} init;
+
+feature medi {
+# automatic
+sub behDotless-ar by behDotless-ar.medi;
+sub beh-ar by beh-ar.medi;
+sub peh-ar by peh-ar.medi;
+sub alefMaksura-ar by alefMaksura-ar.medi;
+sub teh-ar by teh-ar.medi;
+sub tehRing-ar by tehRing-ar.medi;
+sub theh-ar by theh-ar.medi;
+sub tteh-ar by tteh-ar.medi;
+sub jeem-ar by jeem-ar.medi;
+sub tcheh-ar by tcheh-ar.medi;
+sub hah-ar by hah-ar.medi;
+sub hahHamzaabove-ar by hahHamzaabove-ar.medi;
+sub hahThreedotsabove-ar by hahThreedotsabove-ar.medi;
+sub khah-ar by khah-ar.medi;
+sub seen-ar by seen-ar.medi;
+sub seenDotbelowDotabove-ar by seenDotbelowDotabove-ar.medi;
+sub sheen-ar by sheen-ar.medi;
+sub sad-ar by sad-ar.medi;
+sub dad-ar by dad-ar.medi;
+sub tah-ar by tah-ar.medi;
+sub zah-ar by zah-ar.medi;
+sub ain-ar by ain-ar.medi;
+sub ghain-ar by ghain-ar.medi;
+sub feh-ar by feh-ar.medi;
+sub veh-ar by veh-ar.medi;
+sub fehDotless-ar by fehDotless-ar.medi;
+sub qaf-ar by qaf-ar.medi;
+sub kaf-ar by kaf-ar.medi;
+sub keheh-ar by keheh-ar.medi;
+sub gaf-ar by gaf-ar.medi;
+sub kafRing-ar by kafRing-ar.medi;
+sub ng-ar by ng-ar.medi;
+sub lam-ar by lam-ar.medi;
+sub lamVabove-ar by lamVabove-ar.medi;
+sub meem-ar by meem-ar.medi;
+sub noon-ar by noon-ar.medi;
+sub noonRing-ar by noonRing-ar.medi;
+sub heh-ar by heh-ar.medi;
+sub hehgoal-ar by hehgoal-ar.medi;
+sub hehgoalHamzaabove-ar by hehgoalHamzaabove-ar.medi;
+sub hehDoachashmee-ar by hehDoachashmee-ar.medi;
+sub yeh-ar by yeh-ar.medi;
+sub yehHamzaabove-ar by yehHamzaabove-ar.medi;
+sub yehVabove-ar by yehVabove-ar.medi;
+sub yeh-farsi by yeh-farsi.medi;
+sub e-ar by e-ar.medi;
+} medi;
+
+feature fina {
+# automatic
+sub alef-ar by alef-ar.fina;
+sub alefHamzaabove-ar by alefHamzaabove-ar.fina;
+sub alefHamzabelow-ar by alefHamzabelow-ar.fina;
+sub alefMadda-ar by alefMadda-ar.fina;
+sub alefWasla-ar by alefWasla-ar.fina;
+sub behDotless-ar by behDotless-ar.fina;
+sub beh-ar by beh-ar.fina;
+sub peh-ar by peh-ar.fina;
+sub teh-ar by teh-ar.fina;
+sub tehRing-ar by tehRing-ar.fina;
+sub theh-ar by theh-ar.fina;
+sub tteh-ar by tteh-ar.fina;
+sub jeem-ar by jeem-ar.fina;
+sub tcheh-ar by tcheh-ar.fina;
+sub hah-ar by hah-ar.fina;
+sub hahHamzaabove-ar by hahHamzaabove-ar.fina;
+sub hahThreedotsabove-ar by hahThreedotsabove-ar.fina;
+sub khah-ar by khah-ar.fina;
+sub dal-ar by dal-ar.fina;
+sub thal-ar by thal-ar.fina;
+sub ddal-ar by ddal-ar.fina;
+sub dalRing-ar by dalRing-ar.fina;
+sub dul-ar by dul-ar.fina;
+sub dalVinvertedabove-ar by dalVinvertedabove-ar.fina;
+sub reh-ar by reh-ar.fina;
+sub zain-ar by zain-ar.fina;
+sub rreh-ar by rreh-ar.fina;
+sub rehRing-ar by rehRing-ar.fina;
+sub rehVbelow-ar by rehVbelow-ar.fina;
+sub rehDotbelowdotabove-ar by rehDotbelowdotabove-ar.fina;
+sub jeh-ar by jeh-ar.fina;
+sub seen-ar by seen-ar.fina;
+sub seenDotbelowDotabove-ar by seenDotbelowDotabove-ar.fina;
+sub sheen-ar by sheen-ar.fina;
+sub sad-ar by sad-ar.fina;
+sub dad-ar by dad-ar.fina;
+sub tah-ar by tah-ar.fina;
+sub zah-ar by zah-ar.fina;
+sub ain-ar by ain-ar.fina;
+sub ghain-ar by ghain-ar.fina;
+sub feh-ar by feh-ar.fina;
+sub veh-ar by veh-ar.fina;
+sub fehDotless-ar by fehDotless-ar.fina;
+sub qafDotless-ar by qafDotless-ar.fina;
+sub qaf-ar by qaf-ar.fina;
+sub dotlesskaf-ar by dotlesskaf-ar.fina;
+sub kaf-ar by kaf-ar.fina;
+sub keheh-ar by keheh-ar.fina;
+sub gaf-ar by gaf-ar.fina;
+sub kafRing-ar by kafRing-ar.fina;
+sub ng-ar by ng-ar.fina;
+sub lam-ar by lam-ar.fina;
+sub lamVabove-ar by lamVabove-ar.fina;
+sub meem-ar by meem-ar.fina;
+sub noon-ar by noon-ar.fina;
+sub noonghunna-ar by noonghunna-ar.fina;
+sub noonRing-ar by noonRing-ar.fina;
+sub heh-ar by heh-ar.fina;
+sub hehHamzaabove-ar by hehHamzaabove-ar.fina;
+sub hehgoal-ar by hehgoal-ar.fina;
+sub hehgoalHamzaabove-ar by hehgoalHamzaabove-ar.fina;
+sub hehDoachashmee-ar by hehDoachashmee-ar.fina;
+sub tehMarbuta-ar by tehMarbuta-ar.fina;
+sub tehMarbutagoal-ar by tehMarbutagoal-ar.fina;
+sub waw-ar by waw-ar.fina;
+sub wawring-ar by wawring-ar.fina;
+sub wawTwodots-ar by wawTwodots-ar.fina;
+sub wawHamzaabove-ar by wawHamzaabove-ar.fina;
+sub oe-ar by oe-ar.fina;
+sub u-ar by u-ar.fina;
+sub yu-ar by yu-ar.fina;
+sub ve-ar by ve-ar.fina;
+sub alefMaksura-ar by alefMaksura-ar.fina;
+sub yeh-ar by yeh-ar.fina;
+sub yehHamzaabove-ar by yehHamzaabove-ar.fina;
+sub yehVabove-ar by yehVabove-ar.fina;
+sub yeh-farsi by yeh-farsi.fina;
+sub yehTail-ar by yehTail-ar.fina;
+sub e-ar by e-ar.fina;
+sub yehbarree-ar by yehbarree-ar.fina;
+sub yehbarreeHamzaabove-ar by yehbarreeHamzaabove-ar.fina;
+sub ae-ar by ae-ar.fina;
+sub lam_alef-ar by lam_alef-ar.fina;
+sub lam_alefHamzaabove-ar by lam_alefHamzaabove-ar.fina;
+sub lam_alefHamzabelow-ar by lam_alefHamzabelow-ar.fina;
+sub lam_alefMadda-ar by lam_alefMadda-ar.fina;
+sub lam_alefWasla-ar by lam_alefWasla-ar.fina;
+} fina;
+
+feature rlig {
+# automatic
+lookupflag IgnoreMarks RightToLeft;
+sub alef-ar lam-ar.init lam-ar.medi heh-ar.fina by allah-ar;
+	sub lam-ar.init alef-ar.fina by lam_alef-ar;
+	sub lam-ar.medi alef-ar.fina by lam_alef-ar.fina;
+	sub lam-ar.init alefHamzaabove-ar.fina by lam_alefHamzaabove-ar;
+	sub lam-ar.medi alefHamzaabove-ar.fina by lam_alefHamzaabove-ar.fina;
+	sub lam-ar.init alefHamzabelow-ar.fina by lam_alefHamzabelow-ar;
+	sub lam-ar.medi alefHamzabelow-ar.fina by lam_alefHamzabelow-ar.fina;
+	sub lam-ar.init alefMadda-ar.fina by lam_alefMadda-ar;
+	sub lam-ar.medi alefMadda-ar.fina by lam_alefMadda-ar.fina;
+	sub lam-ar.init alefWasla-ar.fina by lam_alefWasla-ar;
+	sub lam-ar.medi alefWasla-ar.fina by lam_alefWasla-ar.fina;
+} rlig;
+
+feature dlig {
+# automatic
+lookup dlig_RTL {
+lookupflag IgnoreMarks RightToLeft;
+	sub beh-ar.init alef-ar.fina by beh_alef-ar;
+	sub beh-ar.isol alef-ar.isol by beh_alef-ar.isol;
+	sub peh-ar.init alef-ar.fina by peh_alef-ar;
+	sub peh-ar.isol alef-ar.isol by peh_alef-ar.isol;
+	sub yeh-ar.init alef-ar.fina by yeh_alef-ar;
+	sub yeh-ar.isol alef-ar.isol by yeh_alef-ar.isol;
+	sub yeh-farsi.init alef-ar.fina by yeh-farsi_alef-ar;
+	sub yeh-farsi.isol alef-ar.isol by yeh-farsi_alef-ar.isol;
+	sub alef-ar lam-ar.init lam-ar.medi heh-ar.fina by allah-ar;
+} dlig_RTL;
+} dlig;
+

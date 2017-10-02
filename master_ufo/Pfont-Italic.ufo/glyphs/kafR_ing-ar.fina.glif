@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kafRing-ar.fina" format="1">
+  <advance width="1824"/>
+  <outline>
+    <component base="keheh-ar.fina"/>
+    <component base="ringcenter-ar" xOffset="1727" yOffset="775"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:30:04 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ringcenter-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

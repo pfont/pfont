@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="keheh-ar.init" format="1">
+  <advance width="814"/>
+  <unicode hex="FB90"/>
+  <outline>
+    <component base="kaf-ar.init"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-14 17:47:55 +0000</string>
+    </dict>
+  </lib>
+</glyph>

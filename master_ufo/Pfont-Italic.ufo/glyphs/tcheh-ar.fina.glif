@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcheh-ar.fina" format="1">
+  <advance width="1250"/>
+  <unicode hex="FB7B"/>
+  <outline>
+    <component base="hah-ar.fina"/>
+    <component base="threedotsdowncenter-ar" xOffset="206" yOffset="-606" xScale="0.819" yScale="0.819"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-10-01 19:13:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

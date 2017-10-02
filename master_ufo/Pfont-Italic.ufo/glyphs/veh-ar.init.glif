@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="veh-ar.init" format="1">
+  <advance width="964"/>
+  <unicode hex="FB6C"/>
+  <outline>
+    <component base="fehDotless-ar.init"/>
+    <component base="threedotsupabove-ar" xOffset="380" yOffset="686"/>
+    <contour>
+      <point x="373" y="-200" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-10-01 19:13:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

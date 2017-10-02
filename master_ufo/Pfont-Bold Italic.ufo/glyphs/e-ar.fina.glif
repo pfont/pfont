@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e-ar.fina" format="1">
+  <advance width="1636"/>
+  <unicode hex="FBE5"/>
+  <outline>
+    <component base="alefMaksura-ar.fina"/>
+    <component base="twodotsverticalbelow-ar" xOffset="300" yOffset="-814"/>
+    <contour>
+      <point x="1231" y="580" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:38:05 +0000</string>
+    </dict>
+  </lib>
+</glyph>

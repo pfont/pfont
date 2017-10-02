@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="percent-ar" format="1">
+  <advance width="1296"/>
+  <unicode hex="066A"/>
+  <outline>
+    <contour>
+      <point x="1316" y="1107" type="line"/>
+      <point x="1293" y="1311" type="line"/>
+      <point x="239" y="78" type="line"/>
+      <point x="309" y="-72" type="line"/>
+    </contour>
+    <component base="period" xOffset="741" yOffset="103" xScale="0.803" yScale="0.803"/>
+    <component base="period" xOffset="337" yOffset="870" xScale="0.803" yScale="0.803"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:02:59 +0000</string>
+    </dict>
+  </lib>
+</glyph>

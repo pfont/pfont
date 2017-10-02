@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hehgoal-ar.medi" format="1">
+  <advance width="1222"/>
+  <unicode hex="FBA9"/>
+  <outline>
+    <contour>
+      <point x="1281" y="273" type="line" smooth="yes"/>
+      <point x="932" y="273"/>
+      <point x="735" y="195"/>
+      <point x="611" y="-5" type="curve"/>
+      <point x="621" y="79"/>
+      <point x="641" y="165"/>
+      <point x="670" y="255" type="curve" smooth="yes"/>
+      <point x="683" y="294"/>
+      <point x="697" y="329"/>
+      <point x="792" y="566" type="curve"/>
+      <point x="582" y="560" type="line"/>
+      <point x="510" y="396" type="line" smooth="yes"/>
+      <point x="454" y="269"/>
+      <point x="264" y="273"/>
+      <point x="138" y="273" type="curve" smooth="yes"/>
+      <point x="59" y="273" type="line" smooth="yes"/>
+      <point x="-13" y="273"/>
+      <point x="-91" y="212"/>
+      <point x="-115" y="137" type="curve" smooth="yes"/>
+      <point x="-140" y="61"/>
+      <point x="-102" y="0"/>
+      <point x="-30" y="0" type="curve" smooth="yes"/>
+      <point x="42" y="0" type="line" smooth="yes"/>
+      <point x="175" y="0"/>
+      <point x="291" y="25"/>
+      <point x="394" y="78" type="curve"/>
+      <point x="314" y="-232"/>
+      <point x="417" y="-509"/>
+      <point x="452" y="-618" type="curve"/>
+      <point x="771" y="-347" type="line"/>
+      <point x="751" y="-247"/>
+      <point x="737" y="-163"/>
+      <point x="756" y="-62" type="curve"/>
+      <point x="883" y="-16"/>
+      <point x="1000" y="0"/>
+      <point x="1192" y="0" type="curve" smooth="yes"/>
+      <point x="1252" y="0" type="line"/>
+      <point x="1308" y="39"/>
+      <point x="1345" y="86"/>
+      <point x="1362" y="137" type="curve" smooth="yes"/>
+      <point x="1379" y="188"/>
+      <point x="1371" y="233"/>
+      <point x="1341" y="273" type="curve"/>
+    </contour>
+    <contour>
+      <point x="754" y="773" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="406" y="-818" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:33:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

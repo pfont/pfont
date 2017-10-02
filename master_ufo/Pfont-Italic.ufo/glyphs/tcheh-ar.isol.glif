@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcheh-ar.isol" format="1">
+  <advance width="1410"/>
+  <unicode hex="FB7A"/>
+  <outline>
+    <component base="tcheh-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-14 17:47:55 +0000</string>
+    </dict>
+  </lib>
+</glyph>

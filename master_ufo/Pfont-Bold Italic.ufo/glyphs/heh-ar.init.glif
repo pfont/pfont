@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heh-ar.init" format="1">
+  <advance width="1447"/>
+  <unicode hex="FEEB"/>
+  <outline>
+    <contour>
+      <point x="1431" y="875"/>
+      <point x="1159" y="1122"/>
+      <point x="1022" y="1211" type="curve"/>
+      <point x="917" y="1021" type="line"/>
+      <point x="617" y="909"/>
+      <point x="348" y="565"/>
+      <point x="344" y="288" type="curve"/>
+      <point x="288" y="277"/>
+      <point x="224" y="273"/>
+      <point x="133" y="273" type="curve" smooth="yes"/>
+      <point x="59" y="273" type="line" smooth="yes"/>
+      <point x="-13" y="273"/>
+      <point x="-91" y="212"/>
+      <point x="-115" y="137" type="curve" smooth="yes"/>
+      <point x="-140" y="61"/>
+      <point x="-102" y="0"/>
+      <point x="-30" y="0" type="curve" smooth="yes"/>
+      <point x="44" y="0" type="line" smooth="yes"/>
+      <point x="220" y="0"/>
+      <point x="504" y="75"/>
+      <point x="665" y="164" type="curve"/>
+      <point x="1195" y="-12" type="line"/>
+      <point x="1404" y="281"/>
+      <point x="1503" y="456"/>
+      <point x="1470" y="646" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="446" y="372"/>
+      <point x="609" y="769"/>
+      <point x="858" y="769" type="curve" smooth="yes"/>
+      <point x="905" y="769"/>
+      <point x="953" y="738"/>
+      <point x="971" y="697" type="curve"/>
+      <point x="718" y="398" type="line"/>
+    </contour>
+    <contour>
+      <point x="1120" y="644" type="line"/>
+      <point x="1205" y="566"/>
+      <point x="1235" y="444"/>
+      <point x="1205" y="320" type="curve"/>
+      <point x="952" y="401" type="line"/>
+    </contour>
+    <contour>
+      <point x="1109" y="1407" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="521" y="-184" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:33:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

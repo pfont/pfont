@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fourdotsbelow-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="FBBB"/>
+  <outline>
+    <component base="fourdotsabove-ar" xOffset="-411" yOffset="-1265"/>
+    <contour>
+      <point x="281" y="-52" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="44" y="-862" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 15:55:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

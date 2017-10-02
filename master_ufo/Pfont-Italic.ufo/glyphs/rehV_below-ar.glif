@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rehVbelow-ar" format="1">
+  <advance width="885"/>
+  <unicode hex="0695"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="vbelow-ar" xOffset="-76" yOffset="-322"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:20:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>

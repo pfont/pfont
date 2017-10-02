@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ng-ar.isol" format="1">
+  <advance width="1466"/>
+  <unicode hex="FBD3"/>
+  <outline>
+    <component base="ng-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-14 17:47:55 +0000</string>
+    </dict>
+  </lib>
+</glyph>
